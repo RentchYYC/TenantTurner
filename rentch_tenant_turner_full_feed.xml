@@ -1,0 +1,442 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Listings>
+  <Listing>
+    <ID>721791</ID>
+    <Location>
+      <StreetAddress>1107 5th Street NE</StreetAddress>
+      <City>Calgary</City>
+      <State>AB</State>
+      <Zip>T2G 0Y8</Zip>
+      <DisplayAddress>Yes</DisplayAddress>
+    </Location>
+    <ListingDetails>
+      <Status>Active</Status>
+      <Price>2950</Price>
+      <ListingUrl>https://www.rentfaster.ca/properties/1107-5th-street-ne-calgary-721791</ListingUrl>
+      <ProviderListingId>721791</ProviderListingId>
+      <ApplicationUrl>https://rentch.as.me/Renfrew8</ApplicationUrl>
+    </ListingDetails>
+    <RentalDetails>
+      <Availability>2026-03-15</Availability>
+      <LeaseTerm>12 Months</LeaseTerm>
+      <DepositFees>2950</DepositFees>
+      <PetsAllowed>
+        <NoPets>No</NoPets>
+        <Cats>Yes</Cats>
+        <SmallDogs>Yes</SmallDogs>
+        <LargeDogs>Yes</LargeDogs>
+      </PetsAllowed>
+    </RentalDetails>
+    <BasicDetails>
+      <PropertyType>Townhouse</PropertyType>
+      <Title>Brand New 3 Bedroom Townhomes for Rent in Renfrew</Title>
+      <Description><![CDATA[Be the first to live in this brand new 3 bedroom townhome in Renfrew, just minutes from downtown Calgary. Top 2 floors, 3 bedrooms, 2.5 baths, 1500 sf. Open concept design with upscale kitchen, expansive island, high end stainless steel appliances, fireplace, dedicated upper laundry room with sink, and one garage parking spot available. Tenant is responsible for all utilities. Snow removal and yard care included.]]></Description>
+      <Bedrooms>3</Bedrooms>
+      <Bathrooms>2.5</Bathrooms>
+      <LivingArea>1500</LivingArea>
+    </BasicDetails>
+    <RichDetails>
+      <Appliances>
+        <Appliance>Refrigerator</Appliance>
+        <Appliance>Range/Oven</Appliance>
+        <Appliance>Dishwasher</Appliance>
+        <Appliance>Microwave</Appliance>
+        <Appliance>Washer</Appliance>
+        <Appliance>Dryer</Appliance>
+      </Appliances>
+      <ParkingTypes>
+        <ParkingType>Garage</ParkingType>
+      </ParkingTypes>
+      <Patio>No</Patio>
+      <Fireplace>Yes</Fireplace>
+      <Pool>No</Pool>
+    </RichDetails>
+  </Listing>
+  <Listing>
+    <ID>722646</ID>
+    <Location>
+      <StreetAddress>310 15 Avenue SW</StreetAddress>
+      <City>Calgary</City>
+      <State>AB</State>
+      <Zip>T2R 1S9</Zip>
+      <DisplayAddress>Yes</DisplayAddress>
+    </Location>
+    <ListingDetails>
+      <Status>Active</Status>
+      <Price>2200</Price>
+      <ListingUrl>https://www.rentfaster.ca/properties/310-15-avenue-southwest-calgary-722646</ListingUrl>
+      <ProviderListingId>722646</ProviderListingId>
+      <ApplicationUrl>https://rentch.as.me/broward</ApplicationUrl>
+    </ListingDetails>
+    <RentalDetails>
+      <Availability>2026-03-17</Availability>
+      <LeaseTerm>12 Months</LeaseTerm>
+      <DepositFees>2200</DepositFees>
+      <PetsAllowed>
+        <NoPets>No</NoPets>
+        <Cats>Yes</Cats>
+        <SmallDogs>Yes</SmallDogs>
+        <LargeDogs>Yes</LargeDogs>
+      </PetsAllowed>
+    </RentalDetails>
+    <BasicDetails>
+      <PropertyType>Condo</PropertyType>
+      <Title>Brand New 2 Bed 2 Bath in the Broward with Underground Parking</Title>
+      <Description><![CDATA[Brand new 2 bedroom, 2 bathroom suite in the Broward in Calgary's Beltline. Approximately 750 sf with quartz countertops, stainless steel appliances, in-suite laundry, air conditioning, and one underground parking stall included. Building amenities include rooftop terrace, BBQ area, putting green, bocce ball court, dog run, and fitness centre. Rent includes heat, water, and underground parking; tenant pays electricity and communications services.]]></Description>
+      <Bedrooms>2</Bedrooms>
+      <Bathrooms>2</Bathrooms>
+      <LivingArea>750</LivingArea>
+    </BasicDetails>
+    <RichDetails>
+      <Appliances>
+        <Appliance>Refrigerator</Appliance>
+        <Appliance>Dishwasher</Appliance>
+        <Appliance>Washer</Appliance>
+        <Appliance>Dryer</Appliance>
+      </Appliances>
+      <ParkingTypes>
+        <ParkingType>Underground</ParkingType>
+      </ParkingTypes>
+      <CoolingSystems>
+        <CoolingSystem>Air Conditioning</CoolingSystem>
+      </CoolingSystems>
+      <Patio>No</Patio>
+      <Fireplace>No</Fireplace>
+      <Pool>No</Pool>
+    </RichDetails>
+  </Listing>
+  <Listing>
+    <ID>717608</ID>
+    <Location>
+      <StreetAddress>140 Walcrest Boulevard Southeast</StreetAddress>
+      <City>Calgary</City>
+      <State>AB</State>
+      <Zip>T2X 0W6</Zip>
+      <DisplayAddress>Yes</DisplayAddress>
+    </Location>
+    <ListingDetails>
+      <Status>Active</Status>
+      <Price>2300</Price>
+      <ListingUrl>https://www.rentfaster.ca/properties/140-walcrest-boulevard-southeast-calgary-717608</ListingUrl>
+      <ProviderListingId>717608</ProviderListingId>
+      <ApplicationUrl>https://rentch.as.me/walcrest</ApplicationUrl>
+    </ListingDetails>
+    <RentalDetails>
+      <Availability>2026-04-01</Availability>
+      <LeaseTerm>12 Months</LeaseTerm>
+      <DepositFees>2300</DepositFees>
+      <PetsAllowed>
+        <NoPets>Yes</NoPets>
+        <Cats>No</Cats>
+        <SmallDogs>No</SmallDogs>
+        <LargeDogs>No</LargeDogs>
+      </PetsAllowed>
+    </RentalDetails>
+    <BasicDetails>
+      <PropertyType>Duplex</PropertyType>
+      <Title>Beautiful 3 Bedroom Home in Walden</Title>
+      <Description><![CDATA[Beautiful 1650 sf home in Walden, steps from Fish Creek Park. This 3 bed plus den, 2.5 bath home features a bright open floor plan with 9' ceilings, stainless steel appliances including gas stove, upper-floor laundry, fenced backyard with deck, window coverings, and one garage parking spot included. Utilities are not included and are calculated as 70% of actual usage. No pets.]]></Description>
+      <Bedrooms>3</Bedrooms>
+      <Bathrooms>2.5</Bathrooms>
+      <LivingArea>1650</LivingArea>
+    </BasicDetails>
+    <RichDetails>
+      <Appliances>
+        <Appliance>Refrigerator</Appliance>
+        <Appliance>Gas Range</Appliance>
+        <Appliance>Dishwasher</Appliance>
+        <Appliance>Microwave</Appliance>
+        <Appliance>Washer</Appliance>
+        <Appliance>Dryer</Appliance>
+      </Appliances>
+      <ParkingTypes>
+        <ParkingType>Garage</ParkingType>
+      </ParkingTypes>
+      <Patio>Yes</Patio>
+      <Fireplace>No</Fireplace>
+      <Pool>No</Pool>
+    </RichDetails>
+  </Listing>
+  <Listing>
+    <ID>702335</ID>
+    <Location>
+      <StreetAddress>716 25 Street Northwest</StreetAddress>
+      <City>Calgary</City>
+      <State>AB</State>
+      <Zip>T2N 5A7</Zip>
+      <DisplayAddress>Yes</DisplayAddress>
+    </Location>
+    <ListingDetails>
+      <Status>Active</Status>
+      <Price>2750</Price>
+      <ListingUrl>https://www.rentfaster.ca/properties/716-25-street-northwest-calgary-702335</ListingUrl>
+      <ProviderListingId>702335</ProviderListingId>
+      <ApplicationUrl>https://rentch.as.me/716Hillside</ApplicationUrl>
+    </ListingDetails>
+    <RentalDetails>
+      <Availability>2026-02-15</Availability>
+      <LeaseTerm>12 Months</LeaseTerm>
+      <DepositFees>2750</DepositFees>
+      <PetsAllowed>
+        <NoPets>No</NoPets>
+        <Cats>Yes</Cats>
+        <SmallDogs>Yes</SmallDogs>
+        <LargeDogs>Yes</LargeDogs>
+      </PetsAllowed>
+    </RentalDetails>
+    <BasicDetails>
+      <PropertyType>Townhouse</PropertyType>
+      <Title>Brand New 3 Bed 2.5 Bath Townhome in West Hillhurst</Title>
+      <Description><![CDATA[Brand new 3 bedroom, 2.5 bath townhome in West Hillhurst. Approximately 1550 sf on the top 2 floors with upscale kitchen, island, upper-level laundry, window coverings, air conditioning, and one garage parking stall included. Tenant is responsible for utilities. Current promotion on the listing advertises one additional month free rent for an April 1, 2026 move-in on a 12-month lease.]]></Description>
+      <Bedrooms>3</Bedrooms>
+      <Bathrooms>2.5</Bathrooms>
+      <LivingArea>1550</LivingArea>
+    </BasicDetails>
+    <RichDetails>
+      <Appliances>
+        <Appliance>Refrigerator</Appliance>
+        <Appliance>Range/Oven</Appliance>
+        <Appliance>Dishwasher</Appliance>
+        <Appliance>Microwave</Appliance>
+        <Appliance>Washer</Appliance>
+        <Appliance>Dryer</Appliance>
+      </Appliances>
+      <ParkingTypes>
+        <ParkingType>Garage</ParkingType>
+      </ParkingTypes>
+      <FloorCoverings>
+        <FloorCovering>Carpet</FloorCovering>
+        <FloorCovering>Luxury Vinyl Plank</FloorCovering>
+      </FloorCoverings>
+      <CoolingSystems>
+        <CoolingSystem>Air Conditioning</CoolingSystem>
+      </CoolingSystems>
+      <Patio>No</Patio>
+      <Fireplace>No</Fireplace>
+      <Pool>No</Pool>
+    </RichDetails>
+  </Listing>
+  <Listing>
+    <ID>708680</ID>
+    <Location>
+      <StreetAddress>710 25 Street Northwest</StreetAddress>
+      <UnitNumber>716B</UnitNumber>
+      <City>Calgary</City>
+      <State>AB</State>
+      <Zip>T2N 5A7</Zip>
+      <DisplayAddress>Yes</DisplayAddress>
+    </Location>
+    <ListingDetails>
+      <Status>Active</Status>
+      <Price>1400</Price>
+      <ListingUrl>https://www.rentfaster.ca/properties/710-25-street-northwest-calgary-708680</ListingUrl>
+      <ProviderListingId>708680</ProviderListingId>
+      <ApplicationUrl>https://rentch.as.me/Hillside</ApplicationUrl>
+    </ListingDetails>
+    <RentalDetails>
+      <Availability>2026-03-17</Availability>
+      <LeaseTerm>12 Months</LeaseTerm>
+      <DepositFees>1400</DepositFees>
+      <PetsAllowed>
+        <NoPets>No</NoPets>
+        <Cats>Yes</Cats>
+        <SmallDogs>Yes</SmallDogs>
+        <LargeDogs>Yes</LargeDogs>
+      </PetsAllowed>
+    </RentalDetails>
+    <BasicDetails>
+      <PropertyType>Basement</PropertyType>
+      <Title>Brand New 1 Bedroom Basement Suite in West Hillhurst</Title>
+      <Description><![CDATA[Brand new lower-level 1 bed, 1 bath basement suite in West Hillhurst. Approximately 700 sf with open concept layout, upscale kitchen, stainless steel appliances, and full-size in-suite laundry. Tenant is responsible for all utilities through independent meters. Current listing promotion advertises first month free on a qualifying April 1, 2026 start.]]></Description>
+      <Bedrooms>1</Bedrooms>
+      <Bathrooms>1</Bathrooms>
+      <LivingArea>700</LivingArea>
+    </BasicDetails>
+    <RichDetails>
+      <Appliances>
+        <Appliance>Refrigerator</Appliance>
+        <Appliance>Range/Oven</Appliance>
+        <Appliance>Washer</Appliance>
+        <Appliance>Dryer</Appliance>
+      </Appliances>
+      <ParkingTypes>
+        <ParkingType>Street</ParkingType>
+      </ParkingTypes>
+      <Patio>No</Patio>
+      <Fireplace>No</Fireplace>
+      <Pool>No</Pool>
+    </RichDetails>
+  </Listing>
+  <Listing>
+    <ID>647399</ID>
+    <Location>
+      <StreetAddress>8370 Broadcast Avenue Southwest</StreetAddress>
+      <UnitNumber>412 Mondrian</UnitNumber>
+      <City>Calgary</City>
+      <State>AB</State>
+      <Zip>T3H 6L3</Zip>
+      <DisplayAddress>Yes</DisplayAddress>
+    </Location>
+    <ListingDetails>
+      <Status>Active</Status>
+      <Price>2100</Price>
+      <ListingUrl>https://www.rentfaster.ca/properties/8370-broadcast-avenue-southwest-calgary-647399</ListingUrl>
+      <ProviderListingId>647399</ProviderListingId>
+      <ApplicationUrl>https://rentch.as.me/mondrian</ApplicationUrl>
+    </ListingDetails>
+    <RentalDetails>
+      <Availability>2026-04-01</Availability>
+      <LeaseTerm>12 Months</LeaseTerm>
+      <DepositFees>2100</DepositFees>
+      <PetsAllowed>
+        <NoPets>No</NoPets>
+        <Cats>Yes</Cats>
+        <SmallDogs>Yes</SmallDogs>
+        <LargeDogs>Yes</LargeDogs>
+      </PetsAllowed>
+    </RentalDetails>
+    <BasicDetails>
+      <PropertyType>Condo</PropertyType>
+      <Title>4th Floor 2 Bedroom 2 Bathroom Condo for Rent in Mondrian</Title>
+      <Description><![CDATA[Unit 412 in Mondrian at 8370 Broadcast Avenue SW. New 2 bedroom, 2 bathroom condo of approximately 775 sf with underground parking, 9-foot ceilings, quartz countertops, gas cooktop, private balcony, air conditioning, in-suite laundry, bike room, and party/games room. Rent includes heat, water, and underground parking; tenant pays electricity and communications services.]]></Description>
+      <Bedrooms>2</Bedrooms>
+      <Bathrooms>2</Bathrooms>
+      <LivingArea>775</LivingArea>
+    </BasicDetails>
+    <RichDetails>
+      <Appliances>
+        <Appliance>Refrigerator</Appliance>
+        <Appliance>Gas Cooktop</Appliance>
+        <Appliance>Dishwasher</Appliance>
+        <Appliance>Microwave</Appliance>
+        <Appliance>Washer</Appliance>
+        <Appliance>Dryer</Appliance>
+      </Appliances>
+      <ParkingTypes>
+        <ParkingType>Underground</ParkingType>
+      </ParkingTypes>
+      <FloorCoverings>
+        <FloorCovering>Luxury Vinyl Plank</FloorCovering>
+      </FloorCoverings>
+      <CoolingSystems>
+        <CoolingSystem>Air Conditioning</CoolingSystem>
+      </CoolingSystems>
+      <Patio>Yes</Patio>
+      <Fireplace>No</Fireplace>
+      <Pool>No</Pool>
+    </RichDetails>
+  </Listing>
+  <Listing>
+    <ID>720466</ID>
+    <Location>
+      <StreetAddress>66 6 Street Northeast</StreetAddress>
+      <City>Calgary</City>
+      <State>AB</State>
+      <Zip>T2E 3X9</Zip>
+      <DisplayAddress>Yes</DisplayAddress>
+    </Location>
+    <ListingDetails>
+      <Status>Active</Status>
+      <Price>2850</Price>
+      <ListingUrl>https://www.rentfaster.ca/properties/66-6-street-northeast-calgary-720466</ListingUrl>
+      <ProviderListingId>720466</ProviderListingId>
+      <ApplicationUrl>https://rentch.as.me/66Bridgeland</ApplicationUrl>
+    </ListingDetails>
+    <RentalDetails>
+      <Availability>2026-03-01</Availability>
+      <LeaseTerm>12 Months</LeaseTerm>
+      <DepositFees>2850</DepositFees>
+      <PetsAllowed>
+        <NoPets>No</NoPets>
+        <Cats>Yes</Cats>
+        <SmallDogs>Yes</SmallDogs>
+        <LargeDogs>Yes</LargeDogs>
+      </PetsAllowed>
+    </RentalDetails>
+    <BasicDetails>
+      <PropertyType>House</PropertyType>
+      <Title>Amazing Top 2 Floors of Bridgeland Century Home</Title>
+      <Description><![CDATA[Top 2 floors of a 1924 character brick house in Bridgeland, offered semi furnished as pictured. Approximately 1850 sf with 2 bedrooms plus loft/den, 2 full bathrooms, original hardwood, decorative fireplace, granite countertops, stainless steel appliances, balcony with downtown views, air conditioning, in-suite laundry, and one outdoor driveway parking stall included. Rent includes heat, water, electricity, and internet.]]></Description>
+      <Bedrooms>2</Bedrooms>
+      <Bathrooms>2</Bathrooms>
+      <LivingArea>1850</LivingArea>
+    </BasicDetails>
+    <RichDetails>
+      <Appliances>
+        <Appliance>Refrigerator</Appliance>
+        <Appliance>Range/Oven</Appliance>
+        <Appliance>Dishwasher</Appliance>
+        <Appliance>Washer</Appliance>
+        <Appliance>Dryer</Appliance>
+      </Appliances>
+      <ParkingTypes>
+        <ParkingType>Outdoor</ParkingType>
+      </ParkingTypes>
+      <FloorCoverings>
+        <FloorCovering>Hardwood</FloorCovering>
+      </FloorCoverings>
+      <CoolingSystems>
+        <CoolingSystem>Air Conditioning</CoolingSystem>
+      </CoolingSystems>
+      <Patio>Yes</Patio>
+      <Fireplace>Yes</Fireplace>
+      <Pool>No</Pool>
+    </RichDetails>
+  </Listing>
+  <Listing>
+    <ID>712108</ID>
+    <Location>
+      <StreetAddress>611 Edmonton Trail NE</StreetAddress>
+      <UnitNumber>101 Arcadia at Crescent</UnitNumber>
+      <City>Calgary</City>
+      <State>AB</State>
+      <Zip>T2E 3J3</Zip>
+      <DisplayAddress>Yes</DisplayAddress>
+    </Location>
+    <ListingDetails>
+      <Status>Active</Status>
+      <Price>2200</Price>
+      <ListingUrl>https://www.rentfaster.ca/properties/611-edmonton-trail-calgary-712108</ListingUrl>
+      <ProviderListingId>712108</ProviderListingId>
+      <ApplicationUrl>https://rentch.as.me/101Arcadia</ApplicationUrl>
+    </ListingDetails>
+    <RentalDetails>
+      <Availability>2026-04-01</Availability>
+      <LeaseTerm>12 Months</LeaseTerm>
+      <DepositFees>2200</DepositFees>
+      <PetsAllowed>
+        <NoPets>No</NoPets>
+        <Cats>Yes</Cats>
+        <SmallDogs>Yes</SmallDogs>
+        <LargeDogs>Yes</LargeDogs>
+      </PetsAllowed>
+    </RentalDetails>
+    <BasicDetails>
+      <PropertyType>Condo</PropertyType>
+      <Title>2 Bed 2 Bath Walk-In Level Condo in Crescent Heights</Title>
+      <Description><![CDATA[Beautifully maintained 2-bedroom, 2-bathroom condo in Crescent Heights. Approximately 950 sf with direct outside access, 9-foot ceilings, quartz countertops, balcony, air conditioning, in-suite laundry, and optional underground parking for $95 per month. Rent includes heat and water; tenant pays electricity and communications services.]]></Description>
+      <Bedrooms>2</Bedrooms>
+      <Bathrooms>2</Bathrooms>
+      <LivingArea>950</LivingArea>
+    </BasicDetails>
+    <RichDetails>
+      <Appliances>
+        <Appliance>Refrigerator</Appliance>
+        <Appliance>Range/Oven</Appliance>
+        <Appliance>Dishwasher</Appliance>
+        <Appliance>Microwave</Appliance>
+        <Appliance>Washer</Appliance>
+        <Appliance>Dryer</Appliance>
+      </Appliances>
+      <ParkingTypes>
+        <ParkingType>Underground</ParkingType>
+      </ParkingTypes>
+      <CoolingSystems>
+        <CoolingSystem>Air Conditioning</CoolingSystem>
+      </CoolingSystems>
+      <Patio>Yes</Patio>
+      <Fireplace>No</Fireplace>
+      <Pool>No</Pool>
+    </RichDetails>
+  </Listing>
+</Listings>
