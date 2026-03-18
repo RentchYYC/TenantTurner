@@ -265,6 +265,11 @@
       <Bathrooms>2</Bathrooms>
       <LivingArea>1850</LivingArea>
     </BasicDetails>
+    <Pictures>
+      <Picture>
+        <PictureUrl>https://images.squarespace-cdn.com/content/v1/5ebf6a810c6a1e34d4110d73/61a9e214-f9eb-44f6-916e-118230f1f7d1/66+Bridgeland+06_17_33+PM+Medium.jpeg</PictureUrl>
+        <Caption>66 6th Street NE</Caption>
+      </Picture>
     <RichDetails>
       <ParkingTypes>
         <ParkingType>Driveway</ParkingType>
