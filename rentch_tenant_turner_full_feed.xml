@@ -237,6 +237,7 @@
       <StreetAddress>66 6 Street Northeast</StreetAddress>
       <City>Calgary</City>
       <State>AB</State>
+      <Zip>T2E 3X9</Zip>
       <DisplayAddress>Yes</DisplayAddress>
     </Location>
     <ListingDetails>
@@ -281,6 +282,7 @@
       <StreetAddress>716 25 Street Northwest</StreetAddress>
       <City>Calgary</City>
       <State>AB</State>
+      <Zip>T2N 0X6</Zip>
       <DisplayAddress>Yes</DisplayAddress>
     </Location>
     <ListingDetails>
@@ -328,6 +330,7 @@
       <StreetAddress>78 Tuscany Summit Square Northwest</StreetAddress>
       <City>Calgary</City>
       <State>AB</State>
+      <Zip>T3L 0C1</Zip>
       <DisplayAddress>Yes</DisplayAddress>
     </Location>
     <ListingDetails>
@@ -376,6 +379,7 @@
       <StreetAddress>310 15 Avenue Southwest</StreetAddress>
       <City>Calgary</City>
       <State>AB</State>
+      <Zip>T2R 0P8</Zip>
       <DisplayAddress>Yes</DisplayAddress>
     </Location>
     <ListingDetails>
@@ -426,6 +430,7 @@
       <StreetAddress>1766 26th Ave SW</StreetAddress>
       <City>Calgary</City>
       <State>AB</State>
+      <Zip>T2T 1C8</Zip>
       <DisplayAddress>Yes</DisplayAddress>
     </Location>
     <ListingDetails>
@@ -473,6 +478,7 @@
       <StreetAddress>1107 5th Street NE</StreetAddress>
       <City>Calgary</City>
       <State>AB</State>
+      <Zip>T2E 0X6</Zip>
       <DisplayAddress>Yes</DisplayAddress>
     </Location>
     <ListingDetails>
