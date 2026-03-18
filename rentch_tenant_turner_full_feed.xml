@@ -1,393 +1,24 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <Listings>
-  <Listing>
-    <ID>717608</ID>
-    <Location>
-      <StreetAddress>140 Walcrest Boulevard Southeast</StreetAddress>
-      <City>Calgary</City>
-      <State>AB</State>
-      <Zip>T2X 0W6</Zip>
-      <DisplayAddress>Yes</DisplayAddress>
-    </Location>
-    <ListingDetails>
-      <Status>Active</Status>
-      <Price>2300</Price>
-      <ListingUrl>https://rentfaster.ca/rentsync/314644-1476646</ListingUrl>
-      <ProviderListingId>717608</ProviderListingId>
-    </ListingDetails>
-    <RentalDetails>
-      <Availability>2026-04-01</Availability>
-      <LeaseTerm>12 Months</LeaseTerm>
-      <DepositFees>2300</DepositFees>
-      <PetsAllowed>
-        <NoPets>Yes</NoPets>
-        <Cats>No</Cats>
-        <SmallDogs>No</SmallDogs>
-        <LargeDogs>No</LargeDogs>
-      </PetsAllowed>
-    </RentalDetails>
-    <BasicDetails>
-      <PropertyType>Duplex</PropertyType>
-      <Title>Beautiful 3 Bedroom Home in Walden</Title>
-      <Description><![CDATA[Beautiful 3 bedroom home in Walden. 1650 sq ft duplex with 2.5 baths, open-concept main floor, stainless steel appliances, in-suite laundry, fenced backyard with deck, and garage parking.]]></Description>
-      <Bedrooms>3</Bedrooms>
-      <Bathrooms>2.5</Bathrooms>
-      <LivingArea>1650</LivingArea>
-    </BasicDetails>
-    <RichDetails>
-      <ParkingTypes>
-        <ParkingType>Garage</ParkingType>
-      </ParkingTypes>
-      <Appliances>
-        <Appliance>Laundry - In Suite</Appliance>
-      </Appliances>
-      <CoolingSystems>
-        <CoolingSystem>None</CoolingSystem>
-      </CoolingSystems>
-      <Fireplace>No</Fireplace>
-      <UtilitiesIncluded>Not included</UtilitiesIncluded>
-    </RichDetails>
-  </Listing>
-  <Listing>
-    <ID>606567</ID>
-    <Location>
-      <StreetAddress>1736 13 Avenue Southwest</StreetAddress>
-      <City>Calgary</City>
-      <State>AB</State>
-      <Zip>T3C 0T9</Zip>
-      <DisplayAddress>Yes</DisplayAddress>
-    </Location>
-    <ListingDetails>
-      <Status>Active</Status>
-      <Price>1800</Price>
-      <ListingUrl>https://rentfaster.ca/rentsync/299623-1301781</ListingUrl>
-      <ProviderListingId>606567</ProviderListingId>
-    </ListingDetails>
-    <RentalDetails>
-      <Availability>2026-03-18</Availability>
-      <LeaseTerm>12 Months</LeaseTerm>
-      <DepositFees>1800</DepositFees>
-      <PetsAllowed>
-        <NoPets>No</NoPets>
-        <Cats>Yes</Cats>
-        <SmallDogs>Yes</SmallDogs>
-        <LargeDogs>No</LargeDogs>
-      </PetsAllowed>
-    </RentalDetails>
-    <BasicDetails>
-      <PropertyType>Condo</PropertyType>
-      <Title>Eloquently Furnished 1Bed 1Bath on Quiet Tree Lined 13th Ave SW</Title>
-      <Description><![CDATA[Fully furnished 1 bed, 1 bath condo in Sunalta on a quiet tree-lined street. In-suite laundry, dishwasher, microwave, hardwood and luxury vinyl plank flooring. Walking distance to Beltline, downtown, and Royal Sunalta Park.]]></Description>
-      <Bedrooms>1</Bedrooms>
-      <Bathrooms>1</Bathrooms>
-      <LivingArea>600</LivingArea>
-    </BasicDetails>
-    <RichDetails>
-      <Appliances>
-        <Appliance>Laundry - In Suite</Appliance>
-      </Appliances>
-      <CoolingSystems>
-        <CoolingSystem>None</CoolingSystem>
-      </CoolingSystems>
-      <Fireplace>No</Fireplace>
-      <UtilitiesIncluded>Heat | Water | Electricity | Internet</UtilitiesIncluded>
-    </RichDetails>
-  </Listing>
-  <Listing>
-    <ID>608505</ID>
-    <Location>
-      <StreetAddress>208 Shawnee Square SW</StreetAddress>
-      <City>Calgary</City>
-      <State>AB</State>
-      <Zip>T2Y 1E3</Zip>
-      <DisplayAddress>Yes</DisplayAddress>
-    </Location>
-    <ListingDetails>
-      <Status>Active</Status>
-      <Price>2200</Price>
-      <ListingUrl>https://rentfaster.ca/rentsync/300208-1306565</ListingUrl>
-      <ProviderListingId>608505</ProviderListingId>
-    </ListingDetails>
-    <RentalDetails>
-      <Availability>2026-04-01</Availability>
-      <LeaseTerm>12 Months</LeaseTerm>
-      <DepositFees>2200</DepositFees>
-      <PetsAllowed>
-        <NoPets>No</NoPets>
-        <Cats>Yes</Cats>
-        <SmallDogs>Yes</SmallDogs>
-        <LargeDogs>No</LargeDogs>
-      </PetsAllowed>
-    </RentalDetails>
-    <BasicDetails>
-      <PropertyType>Condo</PropertyType>
-      <Title>2 Storey Townhome with Tandem Parking in Shawnee</Title>
-      <Description><![CDATA[2-storey townhome in Shawnee Slopes with 2 bedrooms, 2.5 baths, and tandem indoor parking for 2 vehicles. Long-term rental with visitor parking available.]]></Description>
-      <Bedrooms>2</Bedrooms>
-      <Bathrooms>2.5</Bathrooms>
-      <LivingArea>1165</LivingArea>
-    </BasicDetails>
-    <RichDetails>
-      <ParkingTypes>
-        <ParkingType>Indoor</ParkingType>
-      </ParkingTypes>
-      <Fireplace>No</Fireplace>
-      <UtilitiesIncluded>Not included</UtilitiesIncluded>
-    </RichDetails>
-  </Listing>
-  <Listing>
-    <ID>609294</ID>
-    <Location>
-      <StreetAddress>838 19 Ave SW</StreetAddress>
-      <City>Calgary</City>
-      <State>AB</State>
-      <Zip>T2T 6H2</Zip>
-      <DisplayAddress>Yes</DisplayAddress>
-    </Location>
-    <ListingDetails>
-      <Status>Active</Status>
-      <Price>2850</Price>
-      <ListingUrl>https://rentfaster.ca/rentsync/297471-1282229</ListingUrl>
-      <ProviderListingId>609294</ProviderListingId>
-    </ListingDetails>
-    <RentalDetails>
-      <Availability>2026-03-18</Availability>
-      <LeaseTerm>12 Months</LeaseTerm>
-      <DepositFees>2850</DepositFees>
-      <PetsAllowed>
-        <NoPets>Yes</NoPets>
-        <Cats>No</Cats>
-        <SmallDogs>No</SmallDogs>
-        <LargeDogs>No</LargeDogs>
-      </PetsAllowed>
-    </RentalDetails>
-    <BasicDetails>
-      <PropertyType>Condo</PropertyType>
-      <Title>Spacious 3 Bedroom 2 Bathroom Renovated Unit</Title>
-      <Description><![CDATA[Renovated 3 bedroom, 2 bath condo in Lower Mount Royal. Includes underground parking, fireplace, balcony/patio, in-suite storage, and in-suite laundry.]]></Description>
-      <Bedrooms>3</Bedrooms>
-      <Bathrooms>2</Bathrooms>
-      <LivingArea>1300</LivingArea>
-    </BasicDetails>
-    <RichDetails>
-      <ParkingTypes>
-        <ParkingType>Underground</ParkingType>
-      </ParkingTypes>
-      <Appliances>
-        <Appliance>Laundry - In Suite</Appliance>
-      </Appliances>
-      <CoolingSystems>
-        <CoolingSystem>None</CoolingSystem>
-      </CoolingSystems>
-      <Fireplace>Yes</Fireplace>
-      <UtilitiesIncluded>Heat | Water</UtilitiesIncluded>
-    </RichDetails>
-  </Listing>
-  <Listing>
-    <ID>647399</ID>
-    <Location>
-      <StreetAddress>8370 Broadcast Avenue Southwest</StreetAddress>
-      <City>Calgary</City>
-      <State>AB</State>
-      <Zip>T3H 6L3</Zip>
-      <DisplayAddress>Yes</DisplayAddress>
-    </Location>
-    <ListingDetails>
-      <Status>Active</Status>
-      <Price>2100</Price>
-      <ListingUrl>https://rentfaster.ca/rentsync/304928-1376918</ListingUrl>
-      <ProviderListingId>647399</ProviderListingId>
-    </ListingDetails>
-    <RentalDetails>
-      <Availability>2026-04-01</Availability>
-      <LeaseTerm>12 Months</LeaseTerm>
-      <DepositFees>2100</DepositFees>
-      <PetsAllowed>
-        <NoPets>No</NoPets>
-        <Cats>Yes</Cats>
-        <SmallDogs>Yes</SmallDogs>
-        <LargeDogs>No</LargeDogs>
-      </PetsAllowed>
-    </RentalDetails>
-    <BasicDetails>
-      <PropertyType>Condo</PropertyType>
-      <Title>4th Floor 2 Bedroom 2 Bath Condo in West Springs</Title>
-      <Description><![CDATA[4th-floor 2 bedroom, 2 bath condo in West Springs. Features underground parking, in-suite laundry, balcony, storage lockers, bike room, and party/games room access.]]></Description>
-      <Bedrooms>2</Bedrooms>
-      <Bathrooms>2</Bathrooms>
-      <LivingArea>775</LivingArea>
-    </BasicDetails>
-    <RichDetails>
-      <ParkingTypes>
-        <ParkingType>Underground</ParkingType>
-      </ParkingTypes>
-      <Appliances>
-        <Appliance>Laundry - In Suite</Appliance>
-      </Appliances>
-      <CoolingSystems>
-        <CoolingSystem>None</CoolingSystem>
-      </CoolingSystems>
-      <Fireplace>No</Fireplace>
-      <UtilitiesIncluded>Heat | Water</UtilitiesIncluded>
-    </RichDetails>
-  </Listing>
-  <Listing>
-    <ID>720466</ID>
-    <Location>
-      <StreetAddress>66 6 Street Northeast</StreetAddress>
-      <City>Calgary</City>
-      <State>AB</State>
-      <DisplayAddress>Yes</DisplayAddress>
-    </Location>
-    <ListingDetails>
-      <Status>Active</Status>
-      <Price>2850</Price>
-      <ListingUrl>https://rentfaster.ca/rentsync/315032-1479160</ListingUrl>
-      <ProviderListingId>720466</ProviderListingId>
-    </ListingDetails>
-    <RentalDetails>
-      <Availability>2026-03-18</Availability>
-      <LeaseTerm>12 Months</LeaseTerm>
-      <DepositFees>2850</DepositFees>
-      <PetsAllowed>
-        <NoPets>No</NoPets>
-        <Cats>Yes</Cats>
-        <SmallDogs>Yes</SmallDogs>
-        <LargeDogs>No</LargeDogs>
-      </PetsAllowed>
-    </RentalDetails>
-    <BasicDetails>
-      <PropertyType>House</PropertyType>
-      <Title>Amazing Top 2 Floors of Home in Bridgeland</Title>
-      <Description><![CDATA[Top two floors of a home in Bridgeland with 2 bedrooms plus den and 2 baths. Semi-furnished 1850 sq ft home with driveway parking and utilities included.]]></Description>
-      <Bedrooms>2</Bedrooms>
-      <Bathrooms>2</Bathrooms>
-      <LivingArea>1850</LivingArea>
-    </BasicDetails>
-    <RichDetails>
-      <ParkingTypes>
-        <ParkingType>Driveway</ParkingType>
-      </ParkingTypes>
-      <CoolingSystems>
-        <CoolingSystem>None</CoolingSystem>
-      </CoolingSystems>
-      <Fireplace>No</Fireplace>
-      <UtilitiesIncluded>Heat | Water | Electricity | Internet</UtilitiesIncluded>
-    </RichDetails>
-  </Listing>
-  <Listing>
-    <ID>702335</ID>
-    <Location>
-      <StreetAddress>716 25 Street Northwest</StreetAddress>
-      <City>Calgary</City>
-      <State>AB</State>
-      <DisplayAddress>Yes</DisplayAddress>
-    </Location>
-    <ListingDetails>
-      <Status>Active</Status>
-      <Price>2750</Price>
-      <ListingUrl>https://rentfaster.ca/rentsync/312299-1457340</ListingUrl>
-      <ProviderListingId>702335</ProviderListingId>
-    </ListingDetails>
-    <RentalDetails>
-      <Availability>2026-03-18</Availability>
-      <LeaseTerm>12 Months</LeaseTerm>
-      <DepositFees>2750</DepositFees>
-      <PetsAllowed>
-        <NoPets>No</NoPets>
-        <Cats>Yes</Cats>
-        <SmallDogs>Yes</SmallDogs>
-        <LargeDogs>No</LargeDogs>
-      </PetsAllowed>
-    </RentalDetails>
-    <BasicDetails>
-      <PropertyType>Townhouse</PropertyType>
-      <Title>Brand New 3 Bed 2.5 Bath Townhouse in West Hillhurst</Title>
-      <Description><![CDATA[Brand new 3 bedroom, 2.5 bath townhouse in West Hillhurst. Includes garage parking, in-suite laundry, dishwasher, microwave, and luxury vinyl plank flooring.]]></Description>
-      <Bedrooms>3</Bedrooms>
-      <Bathrooms>2.5</Bathrooms>
-      <LivingArea>1550</LivingArea>
-    </BasicDetails>
-    <RichDetails>
-      <ParkingTypes>
-        <ParkingType>Garage</ParkingType>
-      </ParkingTypes>
-      <Appliances>
-        <Appliance>Laundry - In Suite</Appliance>
-      </Appliances>
-      <CoolingSystems>
-        <CoolingSystem>None</CoolingSystem>
-      </CoolingSystems>
-      <Fireplace>No</Fireplace>
-      <UtilitiesIncluded>Not included</UtilitiesIncluded>
-    </RichDetails>
-  </Listing>
-  <Listing>
-    <ID>705740</ID>
-    <Location>
-      <StreetAddress>78 Tuscany Summit Square Northwest</StreetAddress>
-      <City>Calgary</City>
-      <State>AB</State>
-      <DisplayAddress>Yes</DisplayAddress>
-    </Location>
-    <ListingDetails>
-      <Status>Active</Status>
-      <Price>2000</Price>
-      <ListingUrl>https://rentfaster.ca/rentsync/297493-1282258</ListingUrl>
-      <ProviderListingId>705740</ProviderListingId>
-    </ListingDetails>
-    <RentalDetails>
-      <Availability>2026-03-18</Availability>
-      <LeaseTerm>12 Months</LeaseTerm>
-      <DepositFees>2000</DepositFees>
-      <PetsAllowed>
-        <NoPets>Yes</NoPets>
-        <Cats>No</Cats>
-        <SmallDogs>No</SmallDogs>
-        <LargeDogs>No</LargeDogs>
-      </PetsAllowed>
-    </RentalDetails>
-    <BasicDetails>
-      <PropertyType>Condo</PropertyType>
-      <Title>Tuscany Townhouse - 2 Bedrooms</Title>
-      <Description><![CDATA[2 bedroom, 2 bath townhouse-style condo in Tuscany with air conditioning, in-suite laundry, balcony, and double tandem garage parking.]]></Description>
-      <Bedrooms>2</Bedrooms>
-      <Bathrooms>2</Bathrooms>
-      <LivingArea>1200</LivingArea>
-    </BasicDetails>
-    <RichDetails>
-      <ParkingTypes>
-        <ParkingType>Garage</ParkingType>
-        <ParkingType>Underground</ParkingType>
-      </ParkingTypes>
-      <Appliances>
-        <Appliance>Laundry - In Suite</Appliance>
-      </Appliances>
-      <CoolingSystems>
-        <CoolingSystem>Central</CoolingSystem>
-      </CoolingSystems>
-      <Fireplace>No</Fireplace>
-      <UtilitiesIncluded>Not included</UtilitiesIncluded>
-    </RichDetails>
-  </Listing>
+
   <Listing>
     <ID>722646</ID>
     <Location>
-      <StreetAddress>310 15 Avenue Southwest</StreetAddress>
+      <StreetAddress>310 15 Avenue SW</StreetAddress>
       <City>Calgary</City>
       <State>AB</State>
+      <Zip></Zip>
       <DisplayAddress>Yes</DisplayAddress>
     </Location>
     <ListingDetails>
       <Status>Active</Status>
-      <Price>2200</Price>
+      <Price>1850</Price>
       <ListingUrl>https://rentfaster.ca/rentsync/315291-1480891</ListingUrl>
       <ProviderListingId>722646</ProviderListingId>
     </ListingDetails>
     <RentalDetails>
-      <Availability>2026-03-18</Availability>
       <LeaseTerm>12 Months</LeaseTerm>
-      <DepositFees>2200</DepositFees>
+      <DepositFees>1850</DepositFees>
       <PetsAllowed>
         <NoPets>No</NoPets>
         <Cats>Yes</Cats>
@@ -396,30 +27,30 @@
       </PetsAllowed>
     </RentalDetails>
     <BasicDetails>
-      <PropertyType>Condo</PropertyType>
-      <Title>Brand New 2 Bed 2 Bath Condo in Beltline</Title>
-      <Description><![CDATA[Brand new 2 bedroom, 2 bath condo in Beltline. Underground parking included. Easy access to downtown amenities and transit.]]></Description>
+      <PropertyType>Apartment</PropertyType>
+      <Title>Broward – 310 15 Avenue SW</Title>
+      <Description><![CDATA[
+Modern unit in Broward building in Beltline.
+]]></Description>
       <Bedrooms>2</Bedrooms>
-      <Bathrooms>2</Bathrooms>
-      <LivingArea>700</LivingArea>
+      <Bathrooms>1</Bathrooms>
     </BasicDetails>
-    <RichDetails>
-      <ParkingTypes>
-        <ParkingType>Underground</ParkingType>
-      </ParkingTypes>
-      <CoolingSystems>
-        <CoolingSystem>None</CoolingSystem>
-      </CoolingSystems>
-      <Fireplace>No</Fireplace>
-      <UtilitiesIncluded>Heat | Water</UtilitiesIncluded>
-    </RichDetails>
+
+    <Pictures>
+      <Picture>
+        <PictureUrl>https://images.squarespace-cdn.com/content/v1/5ebf6a810c6a1e34d4110d73/fd85aef1-8cf0-4267-9d6f-a263b6a8ac65/Broward1?format=1500w</PictureUrl>
+        <Caption>Broward - Photo 1</Caption>
+      </Picture>
+    </Pictures>
   </Listing>
+
   <Listing>
     <ID>709262</ID>
     <Location>
       <StreetAddress>1766 26th Ave SW</StreetAddress>
       <City>Calgary</City>
       <State>AB</State>
+      <Zip></Zip>
       <DisplayAddress>Yes</DisplayAddress>
     </Location>
     <ListingDetails>
@@ -429,7 +60,6 @@
       <ProviderListingId>709262</ProviderListingId>
     </ListingDetails>
     <RentalDetails>
-      <Availability>2026-03-18</Availability>
       <LeaseTerm>12 Months</LeaseTerm>
       <DepositFees>2850</DepositFees>
       <PetsAllowed>
@@ -441,68 +71,14 @@
     </RentalDetails>
     <BasicDetails>
       <PropertyType>Townhouse</PropertyType>
-      <Title>4 Bedroom Townhouse in Bankview</Title>
-      <Description><![CDATA[4 bedroom, 4 bath townhouse in Bankview with underground parking, fireplace, balcony/patio, in-suite storage, and in-suite laundry.]]></Description>
+      <Title>1766 26 Ave SW</Title>
+      <Description><![CDATA[
+4 bed 4 bath townhouse with underground parking.
+]]></Description>
       <Bedrooms>4</Bedrooms>
       <Bathrooms>4</Bathrooms>
       <LivingArea>1800</LivingArea>
     </BasicDetails>
-    <RichDetails>
-      <ParkingTypes>
-        <ParkingType>Underground</ParkingType>
-      </ParkingTypes>
-      <Appliances>
-        <Appliance>Laundry - In Suite</Appliance>
-      </Appliances>
-      <CoolingSystems>
-        <CoolingSystem>None</CoolingSystem>
-      </CoolingSystems>
-      <Fireplace>Yes</Fireplace>
-      <UtilitiesIncluded>Not included</UtilitiesIncluded>
-    </RichDetails>
   </Listing>
-  <Listing>
-    <ID>721791</ID>
-    <Location>
-      <StreetAddress>1107 5th Street NE</StreetAddress>
-      <City>Calgary</City>
-      <State>AB</State>
-      <DisplayAddress>Yes</DisplayAddress>
-    </Location>
-    <ListingDetails>
-      <Status>Active</Status>
-      <Price>2950</Price>
-      <ListingUrl>https://rentfaster.ca/rentsync/315183-1480119</ListingUrl>
-      <ProviderListingId>721791</ProviderListingId>
-    </ListingDetails>
-    <RentalDetails>
-      <Availability>2026-03-18</Availability>
-      <LeaseTerm>12 Months</LeaseTerm>
-      <DepositFees>2950</DepositFees>
-      <PetsAllowed>
-        <NoPets>No</NoPets>
-        <Cats>Yes</Cats>
-        <SmallDogs>Yes</SmallDogs>
-        <LargeDogs>No</LargeDogs>
-      </PetsAllowed>
-    </RentalDetails>
-    <BasicDetails>
-      <PropertyType>Townhouse</PropertyType>
-      <Title>Brand New 3 Bedroom Townhomes</Title>
-      <Description><![CDATA[Brand new 3 bedroom, 2.5 bath townhome in Renfrew with garage parking. Long-term rental in a central northeast Calgary location.]]></Description>
-      <Bedrooms>3</Bedrooms>
-      <Bathrooms>2.5</Bathrooms>
-      <LivingArea>1500</LivingArea>
-    </BasicDetails>
-    <RichDetails>
-      <ParkingTypes>
-        <ParkingType>Garage</ParkingType>
-      </ParkingTypes>
-      <CoolingSystems>
-        <CoolingSystem>None</CoolingSystem>
-      </CoolingSystems>
-      <Fireplace>No</Fireplace>
-      <UtilitiesIncluded>Not included</UtilitiesIncluded>
-    </RichDetails>
-  </Listing>
+
 </Listings>
