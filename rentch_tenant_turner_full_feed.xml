@@ -523,4 +523,55 @@
       <UtilitiesIncluded>Heat | Water included</UtilitiesIncluded>
     </RichDetails>
   </Listing>
+  <Listing>
+    <ID>606567</ID>
+    <Location>
+      <StreetAddress>1736 13 Avenue Southwest</StreetAddress>
+      <City>Calgary</City>
+      <State>AB</State>
+      <Zip>T3C 0T9</Zip>
+      <DisplayAddress>Yes</DisplayAddress>
+    </Location>
+    <ListingDetails>
+      <Status>Active</Status>
+      <Price>1800</Price>
+      <ListingUrl>https://www.rentfaster.ca/properties/1736-13-avenue-southwest-calgary-606567?-RSYNC</ListingUrl>
+      <ProviderListingId>606567</ProviderListingId>
+    </ListingDetails>
+    <RentalDetails>
+      <Availability>2026-03-18</Availability>
+      <LeaseTerm>12 Months</LeaseTerm>
+      <DepositFees>1800</DepositFees>
+      <PetsAllowed>
+        <NoPets>No</NoPets>
+        <Cats>Yes</Cats>
+        <SmallDogs>Yes</SmallDogs>
+        <LargeDogs>No</LargeDogs>
+      </PetsAllowed>
+    </RentalDetails>
+    <BasicDetails>
+      <PropertyType>Condo</PropertyType>
+      <Title>Eloquently Furnished 1Bed 1Bath on Quiet Tree Lined 13th Ave SW</Title>
+      <Description><![CDATA[Fully furnished 1 bed, 1 bath condo in Sunalta on a quiet tree-lined street. In-suite laundry, dishwasher, microwave, hardwood and luxury vinyl plank flooring. Walking distance to Beltline, downtown, and Royal Sunalta Park.]]></Description>
+      <Bedrooms>1</Bedrooms>
+      <Bathrooms>1</Bathrooms>
+      <LivingArea>600</LivingArea>
+    </BasicDetails>
+    <Pictures>
+      <Picture>
+        <PictureUrl>https://images.squarespace-cdn.com/content/v1/5ebf6a810c6a1e34d4110d73/2bd48658-a2d7-4173-80bf-3a1d16b8ba30/1736+Sunalta+11_08_11+PM.png</PictureUrl>
+        <Caption>1736 Sunalta - Photo 1</Caption>
+      </Picture>
+    </Pictures>
+    <RichDetails>
+      <Appliances>
+        <Appliance>Laundry - In Suite</Appliance>
+      </Appliances>
+      <CoolingSystems>
+        <CoolingSystem>None</CoolingSystem>
+      </CoolingSystems>
+      <Fireplace>No</Fireplace>
+      <UtilitiesIncluded>Heat | Water | Electricity | Internet</UtilitiesIncluded>
+    </RichDetails>
+  </Listing>
 </Listings>
