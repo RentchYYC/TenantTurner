@@ -360,62 +360,7 @@
       <UtilitiesIncluded>Not included</UtilitiesIncluded>
     </RichDetails>
   </Listing>
-  <Listing>
-    <ID>608505</ID>
-    <Location>
-      <StreetAddress>208 Shawnee Square SW</StreetAddress>
-      <City>Calgary</City>
-      <State>AB</State>
-      <Zip>T2Y 0W4</Zip>
-      <DisplayAddress>Yes</DisplayAddress>
-    </Location>
-    <ListingDetails>
-      <Status>Active</Status>
-      <Price>2200</Price>
-      <ListingUrl>https://www.rentfaster.ca/properties/208-shawnee-square-sw-calgary-608505</ListingUrl>
-      <ProviderListingId>608505</ProviderListingId>
-    </ListingDetails>
-    <RentalDetails>
-      <Availability>2026-04-01</Availability>
-      <LeaseTerm>12 Months</LeaseTerm>
-      <DepositFees>2200</DepositFees>
-      <PetsAllowed>
-        <NoPets>No</NoPets>
-        <Cats>Yes</Cats>
-        <SmallDogs>Yes</SmallDogs>
-        <LargeDogs>No</LargeDogs>
-      </PetsAllowed>
-    </RentalDetails>
-    <BasicDetails>
-      <PropertyType>Townhouse</PropertyType>
-      <Title>2 Storey Townhome with tandem double attached garage For Rent in Shawnee Slopes!</Title>
-      <Description><![CDATA[Shawnee Slopes two-storey townhome with tandem garage, open-concept living, large patio, stainless appliances, and in-suite laundry.]]></Description>
-      <Bedrooms>2</Bedrooms>
-      <Bathrooms>2.5</Bathrooms>
-      <LivingArea>1165</LivingArea>
-    </BasicDetails>
-    <Pictures>
-      <Picture>
-        <PictureUrl>https://images.squarespace-cdn.com/content/v1/5ebf6a810c6a1e34d4110d73/bdf03f1d-cf80-4b20-b0fc-5abef21082d0/208+Shawnee%2C+06_42_05+PM.png</PictureUrl>
-        <Caption>208 Shawnee - Photo 1</Caption>
-      </Picture>
-    </Pictures>
-    <RichDetails>
-      <ParkingTypes>
-        <ParkingType>Indoor</ParkingType>
-        <ParkingType>Garage</ParkingType>
-      </ParkingTypes>
-      <Appliances>
-        <Appliance>Laundry - In Suite</Appliance>
-      </Appliances>
-      <CoolingSystems>
-        <CoolingSystem>None</CoolingSystem>
-      </CoolingSystems>
-      <Fireplace>No</Fireplace>
-      <UtilitiesIncluded>Not included</UtilitiesIncluded>
-    </RichDetails>
-  </Listing>
-  <Listing>
+<Listing>
     <ID>705740</ID>
     <Location>
       <StreetAddress>78 Tuscany Summit Square Northwest</StreetAddress>
@@ -619,6 +564,110 @@
       </CoolingSystems>
       <Fireplace>No</Fireplace>
       <UtilitiesIncluded>Not included</UtilitiesIncluded>
+    </RichDetails>
+  </Listing>
+
+  <Listing>
+    <ID>602215</ID>
+    <Location>
+      <StreetAddress>1535 12 Avenue SW</StreetAddress>
+      <City>Calgary</City>
+      <State>AB</State>
+      <Zip>T3C 0R1</Zip>
+      <DisplayAddress>Yes</DisplayAddress>
+    </Location>
+    <ListingDetails>
+      <Status>Active</Status>
+      <Price>1650</Price>
+      <ListingUrl>https://www.rentfaster.ca/properties/1535-12-avenue-southwest-calgary-602215?-RSYNC</ListingUrl>
+      <ProviderListingId>602215</ProviderListingId>
+    </ListingDetails>
+    <RentalDetails>
+      <Availability>2026-03-18</Availability>
+      <LeaseTerm>12 Months</LeaseTerm>
+      <DepositFees>1650</DepositFees>
+      <PetsAllowed>
+        <NoPets>No</NoPets>
+        <Cats>Yes</Cats>
+        <SmallDogs>Yes</SmallDogs>
+        <LargeDogs>No</LargeDogs>
+      </PetsAllowed>
+    </RentalDetails>
+    <BasicDetails>
+      <PropertyType>Apartment</PropertyType>
+      <Title>1535 Angel - Sunalta</Title>
+      <Description><![CDATA[2 bed 1 bath unit in Sunalta with outdoor parking and utilities included.]]></Description>
+      <Bedrooms>2</Bedrooms>
+      <Bathrooms>1</Bathrooms>
+      <LivingArea>680</LivingArea>
+    </BasicDetails>
+    <Pictures>
+      <Picture>
+        <PictureUrl>https://images.squarespace-cdn.com/content/v1/5ebf6a810c6a1e34d4110d73/f256d5ce-f489-4619-ae01-a9192a2d2d6b/1535+Angel+Exterior.png</PictureUrl>
+        <Caption>1535 Angel - Photo 1</Caption>
+      </Picture>
+    </Pictures>
+    <RichDetails>
+      <ParkingTypes>
+        <ParkingType>Driveway</ParkingType>
+      </ParkingTypes>
+      <CoolingSystems>
+        <CoolingSystem>None</CoolingSystem>
+      </CoolingSystems>
+      <Fireplace>No</Fireplace>
+      <UtilitiesIncluded>Heat | Water | Internet</UtilitiesIncluded>
+    </RichDetails>
+  </Listing>
+
+  <Listing>
+    <ID>731212</ID>
+    <Location>
+      <StreetAddress>738 3 Avenue SW</StreetAddress>
+      <City>Calgary</City>
+      <State>AB</State>
+      <Zip>T2P 0G7</Zip>
+      <DisplayAddress>Yes</DisplayAddress>
+    </Location>
+    <ListingDetails>
+      <Status>Active</Status>
+      <Price>1975</Price>
+      <ListingUrl>https://www.rentfaster.ca/properties/738-3-avenue-southwest-calgary-731212?-RSYNC</ListingUrl>
+      <ProviderListingId>731212</ProviderListingId>
+    </ListingDetails>
+    <RentalDetails>
+      <Availability>2026-05-01</Availability>
+      <LeaseTerm>12 Months</LeaseTerm>
+      <DepositFees>1975</DepositFees>
+      <PetsAllowed>
+        <NoPets>Yes</NoPets>
+        <Cats>No</Cats>
+        <SmallDogs>No</SmallDogs>
+        <LargeDogs>No</LargeDogs>
+      </PetsAllowed>
+    </RentalDetails>
+    <BasicDetails>
+      <PropertyType>Condo</PropertyType>
+      <Title>509 Prince's Crossing</Title>
+      <Description><![CDATA[Furnished 1 bed condo downtown with underground parking and utilities included.]]></Description>
+      <Bedrooms>1</Bedrooms>
+      <Bathrooms>1</Bathrooms>
+      <LivingArea>700</LivingArea>
+    </BasicDetails>
+    <Pictures>
+      <Picture>
+        <PictureUrl>https://images.squarespace-cdn.com/content/v1/5ebf6a810c6a1e34d4110d73/75c4e127-d6ae-4c4f-9780-585e6f8586d1/GetMedia+-+2026-04-01T233651.474.jpeg</PictureUrl>
+        <Caption>Prince's Crossing - Photo 1</Caption>
+      </Picture>
+    </Pictures>
+    <RichDetails>
+      <ParkingTypes>
+        <ParkingType>Underground</ParkingType>
+      </ParkingTypes>
+      <CoolingSystems>
+        <CoolingSystem>None</CoolingSystem>
+      </CoolingSystems>
+      <Fireplace>No</Fireplace>
+      <UtilitiesIncluded>Heat | Water | Electricity | Internet</UtilitiesIncluded>
     </RichDetails>
   </Listing>
 </Listings>
