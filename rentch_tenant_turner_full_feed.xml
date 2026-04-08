@@ -1,6 +1,5 @@
 <?xml version='1.0' encoding='utf-8'?>
-<Listings>
-  <Listing>
+<Listings><Listing>
     <ID>708680</ID>
     <Location>
       <StreetAddress>710 25 Street Northwest</StreetAddress>
@@ -704,4 +703,4 @@
       </Picture>
     </Pictures>
   </Listing>
-</Listings>
+<Listing><ID>602032</ID><Location><StreetAddress>NEW ADDRESS FROM SHEET</StreetAddress><City>Calgary</City><State>AB</State><Zip>TBD</Zip><DisplayAddress>Yes</DisplayAddress></Location><ListingDetails><Status>Active</Status><Price>0</Price><ListingUrl /><ProviderListingId>602032</ProviderListingId></ListingDetails><RentalDetails><LeaseTerm>12 Months</LeaseTerm><DepositFees>0</DepositFees></RentalDetails><BasicDetails><PropertyType>Condo</PropertyType><Title>New Listing</Title><Description>New listing added</Description><Bedrooms>1</Bedrooms><Bathrooms>1</Bathrooms><LivingArea>500</LivingArea></BasicDetails><Pictures><Picture><PictureUrl>https://images.squarespace-cdn.com/content/v1/placeholder.png</PictureUrl><Caption>New Listing - Photo 1</Caption></Picture></Pictures></Listing></Listings>
