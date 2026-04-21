@@ -572,58 +572,7 @@
       <UtilitiesIncluded>Not included</UtilitiesIncluded>
     </RichDetails>
   </Listing>
-  <Listing>
-    <ID>602032</ID>
-    <Location>
-      <StreetAddress>108 23 Ave SW</StreetAddress>
-      <City>Calgary</City>
-      <State>AB</State>
-      <Zip>T2S 0J1</Zip>
-      <DisplayAddress>Yes</DisplayAddress>
-    </Location>
-    <ListingDetails>
-      <Status>Active</Status>
-      <Price>2375</Price>
-      <ListingUrl>https://rentfaster.ca/rentsync/297345-1281994?r=-RSYNC</ListingUrl>
-      <ProviderListingId>602032</ProviderListingId>
-    </ListingDetails>
-    <RentalDetails>
-      <Availability>2026-05-01</Availability>
-      <LeaseTerm>12 Months</LeaseTerm>
-      <DepositFees>2000</DepositFees>
-      <PetsAllowed>
-        <NoPets>No</NoPets>
-        <Cats>Yes</Cats>
-        <SmallDogs>Yes</SmallDogs>
-        <LargeDogs>No</LargeDogs>
-      </PetsAllowed>
-    </RentalDetails>
-    <BasicDetails>
-      <PropertyType>Condo</PropertyType>
-      <Title>Brookwood Manor</Title>
-      <Description>River Facing, 2nd Floor, 2 Bedroom Furnished Suite in a Boutique Concrete Building in Mission!!</Description>
-      <Bedrooms>2</Bedrooms>
-      <Bathrooms>2</Bathrooms>
-      <LivingArea>1000</LivingArea>
-    </BasicDetails>
-    <Pictures>
-      <Picture>
-        <PictureUrl>https://images.squarespace-cdn.com/content/v1/5ebf6a810c6a1e34d4110d73/5fda4e42-e37f-4895-a4c7-dfda8be34411/108_23_Ave_SW_CaydencePhotography-1.jpg</PictureUrl>
-        <Caption>Brookwood Manor - Photo 1</Caption>
-      </Picture>
-    </Pictures>
-    <RichDetails>
-      <ParkingTypes>
-        <ParkingType>Garage</ParkingType>
-      </ParkingTypes>
-      <CoolingSystems>
-        <CoolingSystem>Central</CoolingSystem>
-      </CoolingSystems>
-      <Fireplace>No</Fireplace>
-      <UtilitiesIncluded>Not included</UtilitiesIncluded>
-    </RichDetails>
-  </Listing>
-  <Listing>
+<Listing>
     <ID>630443</ID>
     <Location>
       <StreetAddress>#406, 215 13th Avenue SW</StreetAddress>
@@ -685,14 +634,14 @@
     </Location>
     <ListingDetails>
       <Status>Active</Status>
-      <Price>1550</Price>
+      <Price>1450</Price>
       <ListingUrl>https://www.rentfaster.ca/properties/2419-16-st-sw-calgary-604744</ListingUrl>
       <ProviderListingId>604744</ProviderListingId>
     </ListingDetails>
     <RentalDetails>
       <Availability>2026-04-15</Availability>
       <LeaseTerm>12 months</LeaseTerm>
-      <DepositFees>1550</DepositFees>
+      <DepositFees>1450</DepositFees>
       <PetsAllowed>
         <NoPets>No</NoPets>
         <Cats>Yes</Cats>
@@ -1022,6 +971,57 @@
         <CoolingSystem>Central</CoolingSystem>
       </CoolingSystems>
       <Fireplace>Yes</Fireplace>
+      <UtilitiesIncluded>Not included</UtilitiesIncluded>
+    </RichDetails>
+  </Listing>
+<Listing>
+    <ID>602032</ID>
+    <Location>
+      <StreetAddress>108 23 Ave SW</StreetAddress>
+      <City>Calgary</City>
+      <State>AB</State>
+      <Zip>T2S 0J1</Zip>
+      <DisplayAddress>Yes</DisplayAddress>
+    </Location>
+    <ListingDetails>
+      <Status>Active</Status>
+      <Price>2950</Price>
+      <ListingUrl>https://rentfaster.ca/rentsync/297345-1281994?r=-RSYNC</ListingUrl>
+      <ProviderListingId>602032</ProviderListingId>
+    </ListingDetails>
+    <RentalDetails>
+      <Availability>2026-05-01</Availability>
+      <LeaseTerm>12 Months</LeaseTerm>
+      <DepositFees>2950</DepositFees>
+      <PetsAllowed>
+        <NoPets>No</NoPets>
+        <Cats>Yes</Cats>
+        <SmallDogs>Yes</SmallDogs>
+        <LargeDogs>No</LargeDogs>
+      </PetsAllowed>
+    </RentalDetails>
+    <BasicDetails>
+      <PropertyType>Condo</PropertyType>
+      <Title>Brookwood Manor</Title>
+      <Description>River Facing, 2nd Floor, 2 Bedroom Furnished Suite in a Boutique Concrete Building in Mission!!</Description>
+      <Bedrooms>2</Bedrooms>
+      <Bathrooms>2</Bathrooms>
+      <LivingArea>1000</LivingArea>
+    </BasicDetails>
+    <Pictures>
+      <Picture>
+        <PictureUrl>https://images.squarespace-cdn.com/content/v1/5ebf6a810c6a1e34d4110d73/5fda4e42-e37f-4895-a4c7-dfda8be34411/108_23_Ave_SW_CaydencePhotography-1.jpg</PictureUrl>
+        <Caption>Brookwood Manor - Photo 1</Caption>
+      </Picture>
+    </Pictures>
+    <RichDetails>
+      <ParkingTypes>
+        <ParkingType>Garage</ParkingType>
+      </ParkingTypes>
+      <CoolingSystems>
+        <CoolingSystem>Central</CoolingSystem>
+      </CoolingSystems>
+      <Fireplace>No</Fireplace>
       <UtilitiesIncluded>Not included</UtilitiesIncluded>
     </RichDetails>
   </Listing>
