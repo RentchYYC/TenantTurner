@@ -1,6 +1,167 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <Listings>
   <Listing>
+      
+      
+      <ID>705740</ID>
+      
+      
+      <Location>
+        
+        
+        <StreetAddress>78 Tuscany Summit Square Northwest</StreetAddress>
+        
+        
+        <City>Calgary</City>
+        
+        
+        <State>AB</State>
+        
+        
+        <Zip>T3L 0G1</Zip>
+        
+        
+        <DisplayAddress>Yes</DisplayAddress>
+        
+      
+      </Location>
+      
+      
+      <ListingDetails>
+        
+        
+        <Status>Active</Status>
+        
+        
+        <Price>2000</Price>
+        
+        
+        <ListingUrl>https://www.rentfaster.ca/properties/78-tuscany-summit-square-northwest-calgary-705740</ListingUrl>
+        
+        
+        <ProviderListingId>705740</ProviderListingId>
+        
+      
+      </ListingDetails>
+      
+      
+      <RentalDetails>
+        
+        
+        <Availability>2026-03-01</Availability>
+        
+        
+        <LeaseTerm>12 Months</LeaseTerm>
+        
+        
+        <DepositFees>2000</DepositFees>
+        
+        
+        <PetsAllowed>
+          
+          
+          <NoPets>Yes</NoPets>
+          
+          
+          <Cats>No</Cats>
+          
+          
+          <SmallDogs>No</SmallDogs>
+          
+          
+          <LargeDogs>No</LargeDogs>
+          
+        
+        </PetsAllowed>
+        
+      
+      </RentalDetails>
+      
+      
+      <BasicDetails>
+        
+        
+        <PropertyType>Condo</PropertyType>
+        
+        
+        <Title>Tuscany Townhouse - 2 Bedrooms, 2 Full Bathrooms</Title>
+        
+        
+        <Description>Tuscany townhouse with two full bathrooms, balcony, AC, modern kitchen, top-floor laundry, and tandem garage.</Description>
+        
+        
+        <Bedrooms>2</Bedrooms>
+        
+        
+        <Bathrooms>2</Bathrooms>
+        
+        
+        <LivingArea>1200</LivingArea>
+        
+      
+      </BasicDetails>
+      
+      
+      <Pictures>
+        
+        
+        <Picture>
+          
+          
+          <PictureUrl>https://images.squarespace-cdn.com/content/v1/5ebf6a810c6a1e34d4110d73/1bd7c64e-b2d1-4c13-8f01-812fc4186adb/78+Tuscany+10_59_36+PM.png</PictureUrl>
+          
+          
+          <Caption>78 Tuscany - 78 Tuscany Summit Square NW - Photo 1</Caption>
+          
+        
+        </Picture>
+        
+      
+      </Pictures>
+      
+      
+      <RichDetails>
+        
+        
+        <ParkingTypes>
+          
+          
+          <ParkingType>Garage</ParkingType>
+          
+        
+        </ParkingTypes>
+        
+        
+        <Appliances>
+          
+          
+          <Appliance>Laundry - In Suite</Appliance>
+          
+        
+        </Appliances>
+        
+        
+        <CoolingSystems>
+          
+          
+          <CoolingSystem>None</CoolingSystem>
+          
+        
+        </CoolingSystems>
+        
+        
+        <Fireplace>No</Fireplace>
+        
+        
+        <UtilitiesIncluded>Not included</UtilitiesIncluded>
+        
+      
+      </RichDetails>
+      
+    
+    </Listing>
+
+<Listing>
     <ID>708680</ID>
     <Location>
       <StreetAddress>710 25 Street Northwest</StreetAddress>
@@ -768,166 +929,84 @@
       <UtilitiesIncluded>Not included</UtilitiesIncluded>
     </RichDetails>
   </Listing>
-  <Listing>
-    
-    
-    <ID>705740</ID>
-    
-    
-    <Location>
-      
-      
-      <StreetAddress>78 Tuscany Summit Square Northwest</StreetAddress>
-      
-      
-      <City>Calgary</City>
-      
-      
-      <State>AB</State>
-      
-      
-      <Zip>T3L 0G1</Zip>
-      
-      
-      <DisplayAddress>Yes</DisplayAddress>
-      
-    
-    </Location>
-    
-    
-    <ListingDetails>
-      
-      
-      <Status>Active</Status>
-      
-      
-      <Price>2000</Price>
-      
-      
-      <ListingUrl>https://www.rentfaster.ca/properties/78-tuscany-summit-square-northwest-calgary-705740</ListingUrl>
-      
-      
-      <ProviderListingId>705740</ProviderListingId>
-      
-    
-    </ListingDetails>
-    
-    
-    <RentalDetails>
-      
-      
-      <Availability>2026-03-01</Availability>
-      
-      
-      <LeaseTerm>12 Months</LeaseTerm>
-      
-      
-      <DepositFees>2000</DepositFees>
-      
-      
-      <PetsAllowed>
-        
-        
-        <NoPets>Yes</NoPets>
-        
-        
-        <Cats>No</Cats>
-        
-        
-        <SmallDogs>No</SmallDogs>
-        
-        
-        <LargeDogs>No</LargeDogs>
-        
-      
-      </PetsAllowed>
-      
-    
-    </RentalDetails>
-    
-    
-    <BasicDetails>
-      
-      
-      <PropertyType>Condo</PropertyType>
-      
-      
-      <Title>Tuscany Townhouse - 2 Bedrooms, 2 Full Bathrooms</Title>
-      
-      
-      <Description>Tuscany townhouse with two full bathrooms, balcony, AC, modern kitchen, top-floor laundry, and tandem garage.</Description>
-      
-      
-      <Bedrooms>2</Bedrooms>
-      
-      
-      <Bathrooms>2</Bathrooms>
-      
-      
-      <LivingArea>1200</LivingArea>
-      
-    
-    </BasicDetails>
-    
-    
-    <Pictures>
-      
-      
-      <Picture>
-        
-        
-        <PictureUrl>https://images.squarespace-cdn.com/content/v1/5ebf6a810c6a1e34d4110d73/1bd7c64e-b2d1-4c13-8f01-812fc4186adb/78+Tuscany+10_59_36+PM.png</PictureUrl>
-        
-        
-        <Caption>78 Tuscany - 78 Tuscany Summit Square NW - Photo 1</Caption>
-        
-      
-      </Picture>
-      
-    
-    </Pictures>
-    
-    
-    <RichDetails>
-      
-      
-      <ParkingTypes>
-        
-        
-        <ParkingType>Garage</ParkingType>
-        
-      
-      </ParkingTypes>
-      
-      
-      <Appliances>
-        
-        
-        <Appliance>Laundry - In Suite</Appliance>
-        
-      
-      </Appliances>
-      
-      
-      <CoolingSystems>
-        
-        
-        <CoolingSystem>None</CoolingSystem>
-        
-      
-      </CoolingSystems>
-      
-      
-      <Fireplace>No</Fireplace>
-      
-      
-      <UtilitiesIncluded>Not included</UtilitiesIncluded>
-      
-    
-    </RichDetails>
-    
-  
-  </Listing>
-  
 
+  <Listing>
+    <ID>1206963</ID>
+    <Location>
+      <StreetAddress>106 Tuxedo Park</StreetAddress>
+      <City>Calgary</City>
+      <State>AB</State>
+      <Zip>T2E 1R1</Zip>
+      <DisplayAddress>Yes</DisplayAddress>
+    </Location>
+    <ListingDetails>
+      <Status>Active</Status>
+      <Price>2100</Price>
+      <ListingUrl>https://www.rentals.ca/calgary/106-tuxedo-park</ListingUrl>
+      <ProviderListingId>1206963</ProviderListingId>
+    </ListingDetails>
+    <RentalDetails>
+      <Availability>2026-06-01</Availability>
+      <LeaseTerm>12 Months</LeaseTerm>
+      <DepositFees>2100</DepositFees>
+      <PetsAllowed>
+        <NoPets>No</NoPets>
+        <Cats>Yes</Cats>
+        <SmallDogs>Yes</SmallDogs>
+        <LargeDogs>No</LargeDogs>
+      </PetsAllowed>
+    </RentalDetails>
+    <BasicDetails>
+      <PropertyType>Condo</PropertyType>
+      <Title>106 Tuxedo Park</Title>
+      <Description><![CDATA[Listing added from latest Rentch source data.]]></Description>
+    </BasicDetails>
+    <RichDetails>
+      <CoolingSystems>
+        <CoolingSystem>None</CoolingSystem>
+      </CoolingSystems>
+      <Fireplace>No</Fireplace>
+      <UtilitiesIncluded>Not included</UtilitiesIncluded>
+    </RichDetails>
+  </Listing>
+
+  <Listing>
+    <ID>1206965</ID>
+    <Location>
+      <StreetAddress>1105 Renfrew</StreetAddress>
+      <City>Calgary</City>
+      <State>AB</State>
+      <Zip>T2E 3T5</Zip>
+      <DisplayAddress>Yes</DisplayAddress>
+    </Location>
+    <ListingDetails>
+      <Status>Active</Status>
+      <Price>2000</Price>
+      <ListingUrl>https://www.rentals.ca/calgary/1105-renfrew</ListingUrl>
+      <ProviderListingId>1206965</ProviderListingId>
+    </ListingDetails>
+    <RentalDetails>
+      <Availability>2026-06-01</Availability>
+      <LeaseTerm>12 Months</LeaseTerm>
+      <DepositFees>2000</DepositFees>
+      <PetsAllowed>
+        <NoPets>No</NoPets>
+        <Cats>Yes</Cats>
+        <SmallDogs>Yes</SmallDogs>
+        <LargeDogs>No</LargeDogs>
+      </PetsAllowed>
+    </RentalDetails>
+    <BasicDetails>
+      <PropertyType>Townhouse</PropertyType>
+      <Title>1105 Renfrew</Title>
+      <Description><![CDATA[Listing added from latest Rentch source data.]]></Description>
+    </BasicDetails>
+    <RichDetails>
+      <CoolingSystems>
+        <CoolingSystem>None</CoolingSystem>
+      </CoolingSystems>
+      <Fireplace>No</Fireplace>
+      <UtilitiesIncluded>Not included</UtilitiesIncluded>
+    </RichDetails>
+  </Listing>
 </Listings>
