@@ -929,11 +929,10 @@
       <UtilitiesIncluded>Not included</UtilitiesIncluded>
     </RichDetails>
   </Listing>
-
   <Listing>
     <ID>1206963</ID>
     <Location>
-      <StreetAddress>106 Tuxedo Park</StreetAddress>
+      <StreetAddress>201 20 Avenue Northeast</StreetAddress>
       <City>Calgary</City>
       <State>AB</State>
       <Zip>T2E 1R1</Zip>
@@ -942,7 +941,7 @@
     <ListingDetails>
       <Status>Active</Status>
       <Price>2100</Price>
-      <ListingUrl>https://www.rentals.ca/calgary/106-tuxedo-park</ListingUrl>
+      <ListingUrl>https://rentals.ca/calgary/106-tuxedo-park-201-20-ave-ne</ListingUrl>
       <ProviderListingId>1206963</ProviderListingId>
     </ListingDetails>
     <RentalDetails>
@@ -959,8 +958,17 @@
     <BasicDetails>
       <PropertyType>Condo</PropertyType>
       <Title>106 Tuxedo Park</Title>
-      <Description><![CDATA[Listing added from latest Rentch source data.]]></Description>
+      <Description><![CDATA[2 Bedroom Tuxedo Park Walk Up Suite w/ UG Parking & Huge private Outdoor space!]]></Description>
+      <Bedrooms>2</Bedrooms>
+      <Bathrooms>1</Bathrooms>
+      <LivingArea>875</LivingArea>
     </BasicDetails>
+    <Pictures>
+      <Picture>
+        <PictureUrl>https://images.squarespace-cdn.com/content/v1/5ebf6a810c6a1e34d4110d73/73e3ba99-b70c-4f04-809e-840eb4da4484/%23106+201+20+Ave+NE_CaydencePhotography-2.jpg</PictureUrl>
+        <Caption>106 Tuxedo Park - Photo 1</Caption>
+      </Picture>
+    </Pictures>
     <RichDetails>
       <CoolingSystems>
         <CoolingSystem>None</CoolingSystem>
@@ -969,11 +977,10 @@
       <UtilitiesIncluded>Not included</UtilitiesIncluded>
     </RichDetails>
   </Listing>
-
   <Listing>
     <ID>1206965</ID>
     <Location>
-      <StreetAddress>1105 Renfrew</StreetAddress>
+      <StreetAddress>1105 4 Street Northeast</StreetAddress>
       <City>Calgary</City>
       <State>AB</State>
       <Zip>T2E 3T5</Zip>
@@ -981,8 +988,8 @@
     </Location>
     <ListingDetails>
       <Status>Active</Status>
-      <Price>2000</Price>
-      <ListingUrl>https://www.rentals.ca/calgary/1105-renfrew</ListingUrl>
+      <Price>3500</Price>
+      <ListingUrl>https://rentals.ca/calgary/1105-4th-street-ne</ListingUrl>
       <ProviderListingId>1206965</ProviderListingId>
     </ListingDetails>
     <RentalDetails>
@@ -999,8 +1006,17 @@
     <BasicDetails>
       <PropertyType>Townhouse</PropertyType>
       <Title>1105 Renfrew</Title>
-      <Description><![CDATA[Listing added from latest Rentch source data.]]></Description>
+      <Description><![CDATA[Discover executive living in this meticulously crafted modern townhouse, tailor-made for the discerning professional in the community of Renfrew. The 3 bedroom townhome is curated modern furnishings that effortlessly marry style and comfort. From sleek, minimalist designs to ergonomic furniture pieces, each element has been carefully chosen to enhance the overall ambiance, providing an inviting and chic atmosphere throughout.]]></Description>
+      <Bedrooms>3</Bedrooms>
+      <Bathrooms>2.5</Bathrooms>
+      <LivingArea>1800</LivingArea>
     </BasicDetails>
+    <Pictures>
+      <Picture>
+        <PictureUrl>https://images.squarespace-cdn.com/content/v1/5ebf6a810c6a1e34d4110d73/0f6a54a0-6ed3-429e-b21b-bb5591cae7f8/_DSC9718+Large.jpeg</PictureUrl>
+        <Caption>1105 Renfrew - Photo 1</Caption>
+      </Picture>
+    </Pictures>
     <RichDetails>
       <CoolingSystems>
         <CoolingSystem>None</CoolingSystem>
