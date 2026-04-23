@@ -1025,4 +1025,81 @@
       <UtilitiesIncluded>Not included</UtilitiesIncluded>
     </RichDetails>
   </Listing>
+
+  <Listing>
+    <ID>631595</ID>
+    <Location>
+      <StreetAddress>1605 17 Street SE</StreetAddress>
+      <City>Calgary</City>
+      <State>AB</State>
+      <Zip>T2G 2L7</Zip>
+      <DisplayAddress>Yes</DisplayAddress>
+    </Location>
+    <ListingDetails>
+      <Status>Active</Status>
+      <Price>1800</Price>
+      <ListingUrl>https://rentfaster.ca/properties/1605-17-street-se-calgary-631595?-RSYNC</ListingUrl>
+      <ProviderListingId>631595</ProviderListingId>
+      <ApplicationUrl>https://app.tenantturner.com/qualify/select-time/1605-17-street-se?p=TenantTurner</ApplicationUrl>
+    </ListingDetails>
+    <RentalDetails>
+      <Availability>2026-06-01</Availability>
+      <LeaseTerm>12 Months</LeaseTerm>
+      <DepositFees>1800</DepositFees>
+      <PetsAllowed>
+        <NoPets>No</NoPets>
+        <Cats>Yes</Cats>
+        <SmallDogs>Yes</SmallDogs>
+        <LargeDogs>No</LargeDogs>
+      </PetsAllowed>
+    </RentalDetails>
+    <BasicDetails>
+      <PropertyType>Condo</PropertyType>
+      <Title>Konekt - 1605 17th Street SE</Title>
+      <Description><![CDATA[Imagine living in the heart of Calgary's most iconic neighbourhood, Inglewood, where charm and vibrancy collide. Welcome to Konekt and this 2nd Floor 2 Bedroom 2 Bathroom condo with natural light streaming in and every detail thoughtfully curated, this condo offers unparalleled elegance and modern style.
+
+Interior Highlights:
+- 2 Bedroom, 2 Bathroom, UG Parking, ~750sf
+- High-end design is highlighted by wide plank flooring, a neutral colour pallet and an open floor plan
+- Gourmet kitchen featuring sleek stainless steel appliances, quartz countertops, and a generous island
+- Spacious primary bedroom offers a calming oasis, large windows and complete with walk-through closets leading to your private bathroom
+- The second bedroom is almost as luxurious with a walk-through closet that provides cheater access to the second 4-piece bathroom
+- Spacious balcony
+- In-suite full size washer / dryer
+
+Things to know:
+- Available June 1st 2026
+- Rent includes heat, water and 1 underground parking spot
+- Tenant is responsible for electricity, phone/cable/internet as required
+- Key access with 2 elevators]]></Description>
+      <Bedrooms>2</Bedrooms>
+      <Bathrooms>2</Bathrooms>
+      <LivingArea>750</LivingArea>
+    </BasicDetails>
+    <Pictures>
+      <Picture>
+        <PictureUrl>https://images.squarespace-cdn.com/content/v1/5ebf6a810c6a1e34d4110d73/e277ce96-70a7-4b41-aa45-27c8f32fe5a9/konekt-inglewood-calgary-ab-building-photo.jpeg</PictureUrl>
+        <Caption>Konekt - Photo 1</Caption>
+      </Picture>
+    </Pictures>
+    <RichDetails>
+      <ParkingTypes>
+        <ParkingType>Underground</ParkingType>
+        <ParkingType>Driveway</ParkingType>
+      </ParkingTypes>
+      <Appliances>
+        <Appliance>Fridge</Appliance>
+        <Appliance>Oven/Stove</Appliance>
+        <Appliance>Laundry - In Suite</Appliance>
+        <Appliance>Dishwasher</Appliance>
+        <Appliance>Microwave</Appliance>
+      </Appliances>
+      <CoolingSystems>
+        <CoolingSystem>None</CoolingSystem>
+      </CoolingSystems>
+      <Fireplace>No</Fireplace>
+      <UtilitiesIncluded>Heat | Water</UtilitiesIncluded>
+    </RichDetails>
+  </Listing>
+
 </Listings>
