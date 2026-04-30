@@ -1,6 +1,167 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <Listings>
   <Listing>
+      
+      
+      <ID>705740</ID>
+      
+      
+      <Location>
+        
+        
+        <StreetAddress>78 Tuscany Summit Square Northwest</StreetAddress>
+        
+        
+        <City>Calgary</City>
+        
+        
+        <State>AB</State>
+        
+        
+        <Zip>T3L 0G1</Zip>
+        
+        
+        <DisplayAddress>Yes</DisplayAddress>
+        
+      
+      </Location>
+      
+      
+      <ListingDetails>
+        
+        
+        <Status>Active</Status>
+        
+        
+        <Price>2000</Price>
+        
+        
+        <ListingUrl>https://www.rentfaster.ca/properties/78-tuscany-summit-square-northwest-calgary-705740</ListingUrl>
+        
+        
+        <ProviderListingId>705740</ProviderListingId>
+        
+      
+      </ListingDetails>
+      
+      
+      <RentalDetails>
+        
+        
+        <Availability>2026-03-01</Availability>
+        
+        
+        <LeaseTerm>12 Months</LeaseTerm>
+        
+        
+        <DepositFees>2000</DepositFees>
+        
+        
+        <PetsAllowed>
+          
+          
+          <NoPets>Yes</NoPets>
+          
+          
+          <Cats>No</Cats>
+          
+          
+          <SmallDogs>No</SmallDogs>
+          
+          
+          <LargeDogs>No</LargeDogs>
+          
+        
+        </PetsAllowed>
+        
+      
+      </RentalDetails>
+      
+      
+      <BasicDetails>
+        
+        
+        <PropertyType>Condo</PropertyType>
+        
+        
+        <Title>Tuscany Townhouse - 2 Bedrooms, 2 Full Bathrooms</Title>
+        
+        
+        <Description>Tuscany townhouse with two full bathrooms, balcony, AC, modern kitchen, top-floor laundry, and tandem garage.</Description>
+        
+        
+        <Bedrooms>2</Bedrooms>
+        
+        
+        <Bathrooms>2</Bathrooms>
+        
+        
+        <LivingArea>1200</LivingArea>
+        
+      
+      </BasicDetails>
+      
+      
+      <Pictures>
+        
+        
+        <Picture>
+          
+          
+          <PictureUrl>https://images.squarespace-cdn.com/content/v1/5ebf6a810c6a1e34d4110d73/1bd7c64e-b2d1-4c13-8f01-812fc4186adb/78+Tuscany+10_59_36+PM.png</PictureUrl>
+          
+          
+          <Caption>78 Tuscany - 78 Tuscany Summit Square NW - Photo 1</Caption>
+          
+        
+        </Picture>
+        
+      
+      </Pictures>
+      
+      
+      <RichDetails>
+        
+        
+        <ParkingTypes>
+          
+          
+          <ParkingType>Garage</ParkingType>
+          
+        
+        </ParkingTypes>
+        
+        
+        <Appliances>
+          
+          
+          <Appliance>Laundry - In Suite</Appliance>
+          
+        
+        </Appliances>
+        
+        
+        <CoolingSystems>
+          
+          
+          <CoolingSystem>None</CoolingSystem>
+          
+        
+        </CoolingSystems>
+        
+        
+        <Fireplace>No</Fireplace>
+        
+        
+        <UtilitiesIncluded>Not included</UtilitiesIncluded>
+        
+      
+      </RichDetails>
+      
+    
+    </Listing>
+
+<Listing>
     <ID>708680</ID>
     <Location>
       <StreetAddress>710 25 Street Northwest</StreetAddress>
@@ -14,7 +175,6 @@
       <Price>1400</Price>
       <ListingUrl>https://www.rentfaster.ca/properties/710-25-street-northwest-calgary-708680</ListingUrl>
       <ProviderListingId>708680</ProviderListingId>
-      <ApplicationUrl>https://app.tenantturner.com/qualify/select-time/710-25-street-northwest?p=TenantTurner</ApplicationUrl>
     </ListingDetails>
     <RentalDetails>
       <Availability>2026-03-25</Availability>
@@ -30,7 +190,7 @@
     <BasicDetails>
       <PropertyType>Apartment</PropertyType>
       <Title>Hillside Basement Suite</Title>
-      <Description><![CDATA[Brand new lower-level 1 bed, 1 bath suite in West Hillhurst with upscale kitchen and in-suite laundry.]]></Description>
+      <Description>Brand new lower-level 1 bed, 1 bath suite in West Hillhurst with upscale kitchen and in-suite laundry.</Description>
       <Bedrooms>1</Bedrooms>
       <Bathrooms>1</Bathrooms>
       <LivingArea>700</LivingArea>
@@ -42,6 +202,9 @@
       </Picture>
     </Pictures>
     <RichDetails>
+      <Appliances>
+        <Appliance>Laundry - In Suite</Appliance>
+      </Appliances>
       <CoolingSystems>
         <CoolingSystem>None</CoolingSystem>
       </CoolingSystems>
@@ -49,56 +212,7 @@
       <UtilitiesIncluded>Not included</UtilitiesIncluded>
     </RichDetails>
   </Listing>
-  <Listing>
-    <ID>721791</ID>
-    <Location>
-      <StreetAddress>1107 5th Street NE</StreetAddress>
-      <City>Calgary</City>
-      <State>AB</State>
-      <Zip>T2G 0Y8</Zip>
-      <DisplayAddress>Yes</DisplayAddress>
-    </Location>
-    <ListingDetails>
-      <Status>Active</Status>
-      <Price>2950</Price>
-      <ListingUrl>https://www.rentfaster.ca/properties/1107-5th-street-ne-calgary-721791</ListingUrl>
-      <ProviderListingId>721791</ProviderListingId>
-      <ApplicationUrl>https://app.tenantturner.com/qualify/select-time/1107-5th-street-ne?p=TenantTurner</ApplicationUrl>
-    </ListingDetails>
-    <RentalDetails>
-      <Availability>2026-03-15</Availability>
-      <LeaseTerm>12 Months</LeaseTerm>
-      <DepositFees>2950</DepositFees>
-      <PetsAllowed>
-        <NoPets>No</NoPets>
-        <Cats>Yes</Cats>
-        <SmallDogs>Yes</SmallDogs>
-        <LargeDogs>No</LargeDogs>
-      </PetsAllowed>
-    </RentalDetails>
-    <BasicDetails>
-      <PropertyType>Townhouse</PropertyType>
-      <Title>1107 Renfrew 8</Title>
-      <Description><![CDATA[Brand new 3-bedroom townhome in Renfrew with upscale kitchen, fireplace, upper laundry room, and yard/snow care included.]]></Description>
-      <Bedrooms>3</Bedrooms>
-      <Bathrooms>2.5</Bathrooms>
-      <LivingArea>1500</LivingArea>
-    </BasicDetails>
-    <Pictures>
-      <Picture>
-        <PictureUrl>https://images.squarespace-cdn.com/content/v1/5ebf6a810c6a1e34d4110d73/b79ff250-37de-4f5b-99a3-fb8caf65b0bb/ChatGPT+Image+Feb+28%2C+2026%2C+03_32_36+PM.png</PictureUrl>
-        <Caption>1107 Renfrew 8 - Photo 1</Caption>
-      </Picture>
-    </Pictures>
-    <RichDetails>
-      <CoolingSystems>
-        <CoolingSystem>None</CoolingSystem>
-      </CoolingSystems>
-      <Fireplace>No</Fireplace>
-      <UtilitiesIncluded>Not included</UtilitiesIncluded>
-    </RichDetails>
-  </Listing>
-  <Listing>
+<Listing>
     <ID>722646</ID>
     <Location>
       <StreetAddress>310 15 Avenue SW</StreetAddress>
@@ -109,10 +223,9 @@
     </Location>
     <ListingDetails>
       <Status>Active</Status>
-      <Price>1950</Price>
+      <Price>2000</Price>
       <ListingUrl>https://www.rentfaster.ca/properties/310-15-avenue-southwest-calgary-722646</ListingUrl>
       <ProviderListingId>722646</ProviderListingId>
-      <ApplicationUrl>https://app.tenantturner.com/qualify/select-time/310-15-avenue-sw?p=TenantTurner</ApplicationUrl>
     </ListingDetails>
     <RentalDetails>
       <Availability>2026-03-25</Availability>
@@ -128,7 +241,7 @@
     <BasicDetails>
       <PropertyType>Condo</PropertyType>
       <Title>The Broward</Title>
-      <Description><![CDATA[Brand new 2-bedroom Beltline condo in the Broward with rooftop amenities, quartz counters, AC, and underground parking.]]></Description>
+      <Description>Brand new 2-bedroom Beltline condo in the Broward with rooftop amenities, quartz counters, AC, and underground parking.</Description>
       <Bedrooms>2</Bedrooms>
       <Bathrooms>2</Bathrooms>
       <LivingArea>750</LivingArea>
@@ -140,11 +253,14 @@
       </Picture>
     </Pictures>
     <RichDetails>
+      <ParkingTypes>
+        <ParkingType>Underground</ParkingType>
+      </ParkingTypes>
       <CoolingSystems>
-        <CoolingSystem>None</CoolingSystem>
+        <CoolingSystem>Central</CoolingSystem>
       </CoolingSystems>
       <Fireplace>No</Fireplace>
-      <UtilitiesIncluded>Not included</UtilitiesIncluded>
+      <UtilitiesIncluded>Heat | Water</UtilitiesIncluded>
     </RichDetails>
   </Listing>
   <Listing>
@@ -161,7 +277,6 @@
       <Price>2750</Price>
       <ListingUrl>https://www.rentfaster.ca/properties/716-25-street-northwest-calgary-702335</ListingUrl>
       <ProviderListingId>702335</ProviderListingId>
-      <ApplicationUrl>https://app.tenantturner.com/qualify/select-time/716-25-street-northwest?p=TenantTurner</ApplicationUrl>
     </ListingDetails>
     <RentalDetails>
       <Availability>2026-02-15</Availability>
@@ -177,7 +292,7 @@
     <BasicDetails>
       <PropertyType>Townhouse</PropertyType>
       <Title>712 Hillside Townhome</Title>
-      <Description><![CDATA[Brand new 3-bed West Hillhurst townhome with upscale kitchen, AC, upper-level laundry, and promotion for April move-in.]]></Description>
+      <Description>Brand new 3-bed West Hillhurst townhome with upscale kitchen, AC, upper-level laundry, and promotion for April move-in.</Description>
       <Bedrooms>3</Bedrooms>
       <Bathrooms>2.5</Bathrooms>
       <LivingArea>1550</LivingArea>
@@ -189,8 +304,14 @@
       </Picture>
     </Pictures>
     <RichDetails>
+      <ParkingTypes>
+        <ParkingType>Garage</ParkingType>
+      </ParkingTypes>
+      <Appliances>
+        <Appliance>Laundry - In Suite</Appliance>
+      </Appliances>
       <CoolingSystems>
-        <CoolingSystem>None</CoolingSystem>
+        <CoolingSystem>Central</CoolingSystem>
       </CoolingSystems>
       <Fireplace>No</Fireplace>
       <UtilitiesIncluded>Not included</UtilitiesIncluded>
@@ -199,7 +320,7 @@
   <Listing>
     <ID>1502398</ID>
     <Location>
-      <StreetAddress>1111 15 Avenue SW</StreetAddress>
+      <StreetAddress>1111 15 Avenue Southwest</StreetAddress>
       <City>Calgary</City>
       <State>AB</State>
       <Zip>T2R 0S8</Zip>
@@ -207,13 +328,12 @@
     </Location>
     <ListingDetails>
       <Status>Active</Status>
-      <Price>1650</Price>
+      <Price>1700</Price>
       <ListingUrl>https://rentfaster.ca/rentsync/316388-1502398?r=-RSYNC</ListingUrl>
       <ProviderListingId>1502398</ProviderListingId>
-      <ApplicationUrl>https://app.tenantturner.com/qualify/select-time/501-shy-lui-drive-nw?p=TenantTurner</ApplicationUrl>
     </ListingDetails>
     <RentalDetails>
-      <Availability>2026-04-30</Availability>
+      <Availability>2026-03-25</Availability>
       <LeaseTerm>12 Months</LeaseTerm>
       <DepositFees>1700</DepositFees>
       <PetsAllowed>
@@ -224,9 +344,9 @@
       </PetsAllowed>
     </RentalDetails>
     <BasicDetails>
-      <PropertyType>Apartment</PropertyType>
+      <PropertyType>Condo</PropertyType>
       <Title>501 ShyLui</Title>
-      <Description><![CDATA[Living Just Steps From Trendy 17th Avenue and Downtown Discover this bright 2 Bedroom, 1 Bathroom, west facing 5th floor unit located in a quiet and well-maintained building.]]></Description>
+      <Description>Living Just Steps From Trendy 17th Avenue and Downtown Discover this bright 2 Bedroom, 1 Bathroom, west facing 5th floor unit located in a quiet and well-maintained building.</Description>
       <Bedrooms>2</Bedrooms>
       <Bathrooms>1</Bathrooms>
       <LivingArea>750</LivingArea>
@@ -238,11 +358,116 @@
       </Picture>
     </Pictures>
     <RichDetails>
+      <ParkingTypes>
+        <ParkingType>Driveway</ParkingType>
+      </ParkingTypes>
+      <CoolingSystems>
+        <CoolingSystem>Central</CoolingSystem>
+      </CoolingSystems>
+      <Fireplace>No</Fireplace>
+      <UtilitiesIncluded>Heat | Water</UtilitiesIncluded>
+    </RichDetails>
+  </Listing>
+  <Listing>
+    <ID>602215</ID>
+    <Location>
+      <StreetAddress>1535 12 Avenue SW</StreetAddress>
+      <City>Calgary</City>
+      <State>AB</State>
+      <Zip>T3C 0R1</Zip>
+      <DisplayAddress>Yes</DisplayAddress>
+    </Location>
+    <ListingDetails>
+      <Status>Active</Status>
+      <Price>1650</Price>
+      <ListingUrl>https://www.rentfaster.ca/properties/1535-12-avenue-southwest-calgary-602215?-RSYNC</ListingUrl>
+      <ProviderListingId>602215</ProviderListingId>
+    </ListingDetails>
+    <RentalDetails>
+      <Availability>2026-03-18</Availability>
+      <LeaseTerm>12 Months</LeaseTerm>
+      <DepositFees>1650</DepositFees>
+      <PetsAllowed>
+        <NoPets>No</NoPets>
+        <Cats>Yes</Cats>
+        <SmallDogs>Yes</SmallDogs>
+        <LargeDogs>No</LargeDogs>
+      </PetsAllowed>
+    </RentalDetails>
+    <BasicDetails>
+      <PropertyType>Apartment</PropertyType>
+      <Title>1535 Angel - Sunalta</Title>
+      <Description>2 bed 1 bath unit in Sunalta with outdoor parking and utilities included.</Description>
+      <Bedrooms>2</Bedrooms>
+      <Bathrooms>1</Bathrooms>
+      <LivingArea>680</LivingArea>
+    </BasicDetails>
+    <Pictures>
+      <Picture>
+        <PictureUrl>https://images.squarespace-cdn.com/content/v1/5ebf6a810c6a1e34d4110d73/f256d5ce-f489-4619-ae01-a9192a2d2d6b/1535+Angel+Exterior.png</PictureUrl>
+        <Caption>1535 Angel - Sunalta - Photo 1</Caption>
+      </Picture>
+    </Pictures>
+    <RichDetails>
+      <ParkingTypes>
+        <ParkingType>Driveway</ParkingType>
+      </ParkingTypes>
       <CoolingSystems>
         <CoolingSystem>None</CoolingSystem>
       </CoolingSystems>
       <Fireplace>No</Fireplace>
-      <UtilitiesIncluded>Not included</UtilitiesIncluded>
+      <UtilitiesIncluded>Heat | Water | Internet</UtilitiesIncluded>
+    </RichDetails>
+  </Listing>
+  <Listing>
+    <ID>731212</ID>
+    <Location>
+      <StreetAddress>738 3 Avenue SW</StreetAddress>
+      <City>Calgary</City>
+      <State>AB</State>
+      <Zip>T2P 0G7</Zip>
+      <DisplayAddress>Yes</DisplayAddress>
+    </Location>
+    <ListingDetails>
+      <Status>Active</Status>
+      <Price>1975</Price>
+      <ListingUrl>https://www.rentfaster.ca/properties/738-3-avenue-southwest-calgary-731212?-RSYNC</ListingUrl>
+      <ProviderListingId>731212</ProviderListingId>
+    </ListingDetails>
+    <RentalDetails>
+      <Availability>2026-05-01</Availability>
+      <LeaseTerm>12 Months</LeaseTerm>
+      <DepositFees>1975</DepositFees>
+      <PetsAllowed>
+        <NoPets>No</NoPets>
+        <Cats>Yes</Cats>
+        <SmallDogs>Yes</SmallDogs>
+        <LargeDogs>No</LargeDogs>
+      </PetsAllowed>
+    </RentalDetails>
+    <BasicDetails>
+      <PropertyType>Condo</PropertyType>
+      <Title>509 Prince's Crossing</Title>
+      <Description>Furnished 1 bed condo downtown with underground parking and utilities included.</Description>
+      <Bedrooms>1</Bedrooms>
+      <Bathrooms>1</Bathrooms>
+      <LivingArea>700</LivingArea>
+    </BasicDetails>
+    <Pictures>
+      <Picture>
+        <PictureUrl>https://images.squarespace-cdn.com/content/v1/5ebf6a810c6a1e34d4110d73/75c4e127-d6ae-4c4f-9780-585e6f8586d1/GetMedia+-+2026-04-01T233651.474.jpeg</PictureUrl>
+        <Caption>509 Prince's Crossing - Photo 1</Caption>
+      </Picture>
+    </Pictures>
+    <RichDetails>
+      <ParkingTypes>
+        <ParkingType>Underground</ParkingType>
+      </ParkingTypes>
+      <CoolingSystems>
+        <CoolingSystem>None</CoolingSystem>
+      </CoolingSystems>
+      <Fireplace>No</Fireplace>
+      <UtilitiesIncluded>Heat | Water | Electricity | Internet</UtilitiesIncluded>
     </RichDetails>
   </Listing>
   <Listing>
@@ -259,7 +484,6 @@
       <Price>2950</Price>
       <ListingUrl>https://rentfaster.ca/rentsync/316828-1519154</ListingUrl>
       <ProviderListingId>519154</ProviderListingId>
-      <ApplicationUrl>https://app.tenantturner.com/qualify/select-time/2852-Grant-Cres-SW?p=TenantTurner</ApplicationUrl>
     </ListingDetails>
     <RentalDetails>
       <Availability>2026-05-01</Availability>
@@ -275,7 +499,7 @@
     <BasicDetails>
       <PropertyType>Townhouse</PropertyType>
       <Title>2852 Grant</Title>
-      <Description><![CDATA[Brand New 3 Bedroom Townhomes in Glamorgan!]]></Description>
+      <Description>Brand New 3 Bedroom Townhomes in Glamorgan!</Description>
       <Bedrooms>3</Bedrooms>
       <Bathrooms>2.5</Bathrooms>
       <LivingArea>1600</LivingArea>
@@ -287,6 +511,9 @@
       </Picture>
     </Pictures>
     <RichDetails>
+      <ParkingTypes>
+        <ParkingType>Garage</ParkingType>
+      </ParkingTypes>
       <CoolingSystems>
         <CoolingSystem>None</CoolingSystem>
       </CoolingSystems>
@@ -308,7 +535,6 @@
       <Price>2950</Price>
       <ListingUrl>https://rentfaster.ca/rentsync/316827-1519163</ListingUrl>
       <ProviderListingId>519155</ProviderListingId>
-      <ApplicationUrl>https://app.tenantturner.com/qualify/select-time/227-26th-Ave-NE?p=TenantTurner</ApplicationUrl>
     </ListingDetails>
     <RentalDetails>
       <Availability>2026-05-01</Availability>
@@ -324,7 +550,7 @@
     <BasicDetails>
       <PropertyType>Townhouse</PropertyType>
       <Title>101 Tuxedo 8</Title>
-      <Description><![CDATA[Brand New 3 Bedroom Townhomes in Tuxedo Park!]]></Description>
+      <Description>Brand New 3 Bedroom Townhomes in Tuxedo Park!</Description>
       <Bedrooms>3</Bedrooms>
       <Bathrooms>2.5</Bathrooms>
       <LivingArea>1500</LivingArea>
@@ -336,6 +562,9 @@
       </Picture>
     </Pictures>
     <RichDetails>
+      <ParkingTypes>
+        <ParkingType>Garage</ParkingType>
+      </ParkingTypes>
       <CoolingSystems>
         <CoolingSystem>None</CoolingSystem>
       </CoolingSystems>
@@ -343,56 +572,7 @@
       <UtilitiesIncluded>Not included</UtilitiesIncluded>
     </RichDetails>
   </Listing>
-  <Listing>
-    <ID>602032</ID>
-    <Location>
-      <StreetAddress>108 23 Ave SW</StreetAddress>
-      <City>Calgary</City>
-      <State>AB</State>
-      <Zip>T2S 0J1</Zip>
-      <DisplayAddress>Yes</DisplayAddress>
-    </Location>
-    <ListingDetails>
-      <Status>Active</Status>
-      <Price>2375</Price>
-      <ListingUrl>https://rentfaster.ca/rentsync/297345-1281994?r=-RSYNC</ListingUrl>
-      <ProviderListingId>602032</ProviderListingId>
-      <ApplicationUrl>https://app.tenantturner.com/qualify/select-time/108-23-ave-sw?p=TenantTurner</ApplicationUrl>
-    </ListingDetails>
-    <RentalDetails>
-      <Availability>2026-05-01</Availability>
-      <LeaseTerm>12 Months</LeaseTerm>
-      <DepositFees>2000</DepositFees>
-      <PetsAllowed>
-        <NoPets>No</NoPets>
-        <Cats>Yes</Cats>
-        <SmallDogs>Yes</SmallDogs>
-        <LargeDogs>No</LargeDogs>
-      </PetsAllowed>
-    </RentalDetails>
-    <BasicDetails>
-      <PropertyType>Condo</PropertyType>
-      <Title>Brookwood Manor</Title>
-      <Description><![CDATA[River Facing, 2nd Floor, 2 Bedroom Furnished Suite in a Boutique Concrete Building in Mission!!]]></Description>
-      <Bedrooms>2</Bedrooms>
-      <Bathrooms>2</Bathrooms>
-      <LivingArea>1000</LivingArea>
-    </BasicDetails>
-    <Pictures>
-      <Picture>
-        <PictureUrl>https://images.squarespace-cdn.com/content/v1/5ebf6a810c6a1e34d4110d73/5fda4e42-e37f-4895-a4c7-dfda8be34411/108_23_Ave_SW_CaydencePhotography-1.jpg</PictureUrl>
-        <Caption>Brookwood Manor - Photo 1</Caption>
-      </Picture>
-    </Pictures>
-    <RichDetails>
-      <CoolingSystems>
-        <CoolingSystem>None</CoolingSystem>
-      </CoolingSystems>
-      <Fireplace>No</Fireplace>
-      <UtilitiesIncluded>Not included</UtilitiesIncluded>
-    </RichDetails>
-  </Listing>
-  <Listing>
+<Listing>
     <ID>630443</ID>
     <Location>
       <StreetAddress>#406, 215 13th Avenue SW</StreetAddress>
@@ -406,7 +586,6 @@
       <Price>2500</Price>
       <ListingUrl>https://www.rentfaster.ca/properties/215-13-ave-sw-calgary-630443</ListingUrl>
       <ProviderListingId>630443</ProviderListingId>
-      <ApplicationUrl>https://app.tenantturner.com/qualify/select-time/215-13-avenue-sw?p=TenantTurner</ApplicationUrl>
     </ListingDetails>
     <RentalDetails>
       <Availability>2026-06-01</Availability>
@@ -422,7 +601,7 @@
     <BasicDetails>
       <PropertyType>Condo</PropertyType>
       <Title>Union Square</Title>
-      <Description><![CDATA[Welcome to Union Square, where urban living meets contemporary comfort! Nestled in the heart of the Beltline, this exquisite 2-bedroom, 2-full-bathroom condo offers a serene retreat with unbeatable convenience.]]></Description>
+      <Description>Welcome to Union Square, where urban living meets contemporary comfort! Nestled in the heart of the Beltline, this exquisite 2-bedroom, 2-full-bathroom condo offers a serene retreat with unbeatable convenience.</Description>
       <Bedrooms>2</Bedrooms>
       <Bathrooms>2</Bathrooms>
       <LivingArea>900</LivingArea>
@@ -434,6 +613,9 @@
       </Picture>
     </Pictures>
     <RichDetails>
+      <ParkingTypes>
+        <ParkingType>Underground</ParkingType>
+      </ParkingTypes>
       <CoolingSystems>
         <CoolingSystem>None</CoolingSystem>
       </CoolingSystems>
@@ -452,15 +634,14 @@
     </Location>
     <ListingDetails>
       <Status>Active</Status>
-      <Price>1550</Price>
-      <ListingUrl>https://rentals.ca/calgary/2419-16-st-sw</ListingUrl>
+      <Price>1250</Price>
+      <ListingUrl>https://www.rentfaster.ca/properties/2419-16-st-sw-calgary-604744</ListingUrl>
       <ProviderListingId>604744</ProviderListingId>
-      <ApplicationUrl>https://app.tenantturner.com/qualify/select-time/2419-16th-street-sw-1</ApplicationUrl>
     </ListingDetails>
     <RentalDetails>
       <Availability>2026-04-15</Availability>
       <LeaseTerm>12 months</LeaseTerm>
-      <DepositFees>1550</DepositFees>
+      <DepositFees>1250</DepositFees>
       <PetsAllowed>
         <NoPets>No</NoPets>
         <Cats>Yes</Cats>
@@ -469,12 +650,12 @@
       </PetsAllowed>
     </RentalDetails>
     <BasicDetails>
-      <PropertyType>Condo</PropertyType>
+      <PropertyType>condo</PropertyType>
       <Title>Northumberland Place</Title>
-      <Description><![CDATA[Top Floor, 2 Bedroom, 1 Bath Apartment in Bankview!]]></Description>
-      <Bedrooms>2</Bedrooms>
+      <Description>Top Floor, 2 Bedroom, 1 Bath Apartment in Bankview!</Description>
+      <Bedrooms>1</Bedrooms>
       <Bathrooms>1</Bathrooms>
-      <LivingArea>900</LivingArea>
+      <LivingArea>700</LivingArea>
     </BasicDetails>
     <Pictures>
       <Picture>
@@ -483,11 +664,14 @@
       </Picture>
     </Pictures>
     <RichDetails>
+      <ParkingTypes>
+        <ParkingType>Outdoor</ParkingType>
+      </ParkingTypes>
       <CoolingSystems>
         <CoolingSystem>None</CoolingSystem>
       </CoolingSystems>
       <Fireplace>No</Fireplace>
-      <UtilitiesIncluded>Not included</UtilitiesIncluded>
+      <UtilitiesIncluded>Heat | Water | Internet</UtilitiesIncluded>
     </RichDetails>
   </Listing>
   <Listing>
@@ -501,15 +685,14 @@
     </Location>
     <ListingDetails>
       <Status>Active</Status>
-      <Price>2000</Price>
+      <Price>1450</Price>
       <ListingUrl>https://www.rentfaster.ca/properties/628-56-avenue-southwest-calgary-640415?-RSYNC</ListingUrl>
       <ProviderListingId>640415</ProviderListingId>
-      <ApplicationUrl>https://app.tenantturner.com/qualify/select-time/628-56-avenue-sw?p=TenantTurner</ApplicationUrl>
     </ListingDetails>
     <RentalDetails>
       <Availability>2026-05-01</Availability>
       <LeaseTerm>12 Months</LeaseTerm>
-      <DepositFees>2000</DepositFees>
+      <DepositFees>>1450</DepositFees>
       <PetsAllowed>
         <NoPets>No</NoPets>
         <Cats>Yes</Cats>
@@ -518,9 +701,9 @@
       </PetsAllowed>
     </RentalDetails>
     <BasicDetails>
-      <PropertyType>Condo</PropertyType>
+      <PropertyType>condo</PropertyType>
       <Title>56 Windsor</Title>
-      <Description><![CDATA[Discover the charm of this stunning 2-bedroom, 2-bathroom townhouse in the heart of Windsor Park!]]></Description>
+      <Description>Discover the charm of this stunning 2-bedroom, 2-bathroom townhouse in the heart of Windsor Park!</Description>
       <Bedrooms>2</Bedrooms>
       <Bathrooms>2.5</Bathrooms>
       <LivingArea>1050</LivingArea>
@@ -532,6 +715,9 @@
       </Picture>
     </Pictures>
     <RichDetails>
+      <ParkingTypes>
+        <ParkingType>Garage</ParkingType>
+      </ParkingTypes>
       <CoolingSystems>
         <CoolingSystem>None</CoolingSystem>
       </CoolingSystems>
@@ -542,7 +728,7 @@
   <Listing>
     <ID>734632</ID>
     <Location>
-      <StreetAddress>1107B 5 Street Northeast</StreetAddress>
+      <StreetAddress>1107 5 Street Northeast</StreetAddress>
       <City>Calgary</City>
       <State>AB</State>
       <Zip>T2E 1J6</Zip>
@@ -550,10 +736,9 @@
     </Location>
     <ListingDetails>
       <Status>Active</Status>
-      <Price>1400</Price>
-      <ListingUrl>http://rentals.ca/calgary/renfrew-8-basement-suite</ListingUrl>
+      <Price>1500</Price>
+      <ListingUrl>https://www.rentfaster.ca/properties/1107-5-street-northeast-calgary-734632</ListingUrl>
       <ProviderListingId>734632</ProviderListingId>
-      <ApplicationUrl>https://app.tenantturner.com/qualify/select-time/1107b-5-street-northeast</ApplicationUrl>
     </ListingDetails>
     <RentalDetails>
       <Availability>2026-05-01</Availability>
@@ -567,9 +752,9 @@
       </PetsAllowed>
     </RentalDetails>
     <BasicDetails>
-      <PropertyType>Basement</PropertyType>
-      <Title>Renfrew 8 - Basement Suite</Title>
-      <Description><![CDATA[Be the first to live in this Brand New Basement Suite in Renfrew, one of Calgary's most desirable inner-city communities, offering a blend of charm, convenience, and vibrant character. Just minutes from downtown, this neighbourhood is loved for its tree-lined streets, eclectic mix of homes, and a thriving local food scene.]]></Description>
+      <PropertyType>basement</PropertyType>
+      <Title>Renfrew Basement Suite</Title>
+      <Description>Be the first to live in this Brand New Basement Suite in Renfrew, one of Calgary's most desirable inner-city communities, offering a blend of charm, convenience, and vibrant character. Just minutes from downtown, this neighbourhood is loved for its tree-lined streets, eclectic mix of homes, and a thriving local food scene.</Description>
       <Bedrooms>1</Bedrooms>
       <Bathrooms>1</Bathrooms>
       <LivingArea>600</LivingArea>
@@ -577,10 +762,61 @@
     <Pictures>
       <Picture>
         <PictureUrl>https://images.squarespace-cdn.com/content/v1/5ebf6a810c6a1e34d4110d73/3f563819-8bdb-4ce3-96b8-2d6681bea777/Renfrew+8+542+Side+exterior.png</PictureUrl>
-        <Caption>Renfrew 8 - Basement Suite - Photo 1</Caption>
+        <Caption>Renfrew Basement Suite - Photo 1</Caption>
       </Picture>
     </Pictures>
     <RichDetails>
+      <CoolingSystems>
+        <CoolingSystem>Central</CoolingSystem>
+      </CoolingSystems>
+      <Fireplace>No</Fireplace>
+      <UtilitiesIncluded>Not included</UtilitiesIncluded>
+    </RichDetails>
+  </Listing>
+  <Listing>
+    <ID>653553</ID>
+    <Location>
+      <StreetAddress>888 4th Ave SW</StreetAddress>
+      <City>Calgary</City>
+      <State>AB</State>
+      <Zip>T2P 0V2</Zip>
+      <DisplayAddress>Yes</DisplayAddress>
+    </Location>
+    <ListingDetails>
+      <Status>Active</Status>
+      <Price>2750</Price>
+      <ListingUrl>https://www.rentfaster.ca/properties/888-4-avenue-sw-calgary-653553</ListingUrl>
+      <ProviderListingId>653553</ProviderListingId>
+    </ListingDetails>
+    <RentalDetails>
+      <Availability>2026-06-01</Availability>
+      <LeaseTerm>12 months</LeaseTerm>
+      <DepositFees>2750</DepositFees>
+      <PetsAllowed>
+        <NoPets>No</NoPets>
+        <Cats>Yes</Cats>
+        <SmallDogs>Yes</SmallDogs>
+        <LargeDogs>No</LargeDogs>
+      </PetsAllowed>
+    </RentalDetails>
+    <BasicDetails>
+      <PropertyType>condo</PropertyType>
+      <Title>1107 Solaire</Title>
+      <Description>Amazing opportunity to live in a 2bed 2bath Downtown Calgary West End Corner Suite! 11th Floor unit with endless views</Description>
+      <Bedrooms>2</Bedrooms>
+      <Bathrooms>2</Bathrooms>
+      <LivingArea>1100</LivingArea>
+    </BasicDetails>
+    <Pictures>
+      <Picture>
+        <PictureUrl>https://images.squarespace-cdn.com/content/v1/5ebf6a810c6a1e34d4110d73/45e363b1-b6df-47fc-a7d0-df38ca60db75/Solaire+Experior.jpeg</PictureUrl>
+        <Caption>1107 Solaire - Photo 1</Caption>
+      </Picture>
+    </Pictures>
+    <RichDetails>
+      <ParkingTypes>
+        <ParkingType>Underground</ParkingType>
+      </ParkingTypes>
       <CoolingSystems>
         <CoolingSystem>None</CoolingSystem>
       </CoolingSystems>
@@ -589,7 +825,7 @@
     </RichDetails>
   </Listing>
   <Listing>
-    <ID>736773</ID>
+    <ID>1206963</ID>
     <Location>
       <StreetAddress>201 20 Avenue Northeast</StreetAddress>
       <City>Calgary</City>
@@ -601,12 +837,11 @@
       <Status>Active</Status>
       <Price>2100</Price>
       <ListingUrl>https://rentals.ca/calgary/106-tuxedo-park-201-20-ave-ne</ListingUrl>
-      <ProviderListingId>736773</ProviderListingId>
-      <ApplicationUrl>https://app.tenantturner.com/qualify/select-time/201-20-avenue-ne?p=TenantTurner</ApplicationUrl>
+      <ProviderListingId>1206963</ProviderListingId>
     </ListingDetails>
     <RentalDetails>
       <Availability>2026-06-01</Availability>
-      <LeaseTerm>12 months</LeaseTerm>
+      <LeaseTerm>12 Months</LeaseTerm>
       <DepositFees>2100</DepositFees>
       <PetsAllowed>
         <NoPets>No</NoPets>
@@ -618,7 +853,7 @@
     <BasicDetails>
       <PropertyType>Condo</PropertyType>
       <Title>106 Tuxedo Park</Title>
-      <Description><![CDATA[2 Bedroom Tuxedo Park Walk Up Condo w/ UG Parking & Huge Private Outdoor Space!]]></Description>
+      <Description><![CDATA[2 Bedroom Tuxedo Park Walk Up Suite w/ UG Parking & Huge private Outdoor space!]]></Description>
       <Bedrooms>2</Bedrooms>
       <Bathrooms>1</Bathrooms>
       <LivingArea>875</LivingArea>
@@ -638,7 +873,7 @@
     </RichDetails>
   </Listing>
   <Listing>
-    <ID>736774</ID>
+    <ID>1206965</ID>
     <Location>
       <StreetAddress>1105 4 Street Northeast</StreetAddress>
       <City>Calgary</City>
@@ -650,13 +885,12 @@
       <Status>Active</Status>
       <Price>3500</Price>
       <ListingUrl>https://rentals.ca/calgary/1105-4th-street-ne</ListingUrl>
-      <ProviderListingId>736774</ProviderListingId>
-      <ApplicationUrl>https://app.tenantturner.com/qualify/select-time/1105-4-street-ne?p=TenantTurner</ApplicationUrl>
+      <ProviderListingId>1206965</ProviderListingId>
     </ListingDetails>
     <RentalDetails>
       <Availability>2026-06-01</Availability>
-      <LeaseTerm>12 months</LeaseTerm>
-      <DepositFees>3500</DepositFees>
+      <LeaseTerm>12 Months</LeaseTerm>
+      <DepositFees>2000</DepositFees>
       <PetsAllowed>
         <NoPets>No</NoPets>
         <Cats>Yes</Cats>
@@ -666,8 +900,8 @@
     </RentalDetails>
     <BasicDetails>
       <PropertyType>Townhouse</PropertyType>
-      <Title>1105 4 Street NE Townhome</Title>
-      <Description><![CDATA[Offered Furnished Including All Utilities! The 3 bedroom townhome is curated modern furnishings that effortlessly marry style and comfort. From sleek, minimalist designs to ergonomic furniture pieces, each element has been carefully chosen to enhance the overall ambiance, providing an inviting and chic atmosphere throughout.]]></Description>
+      <Title>1105 Renfrew</Title>
+      <Description><![CDATA[Discover executive living in this meticulously crafted modern townhouse, tailor-made for the discerning professional in the community of Renfrew. The 3 bedroom townhome is curated modern furnishings that effortlessly marry style and comfort.]]></Description>
       <Bedrooms>3</Bedrooms>
       <Bathrooms>2.5</Bathrooms>
       <LivingArea>1800</LivingArea>
@@ -675,7 +909,7 @@
     <Pictures>
       <Picture>
         <PictureUrl>https://images.squarespace-cdn.com/content/v1/5ebf6a810c6a1e34d4110d73/0f6a54a0-6ed3-429e-b21b-bb5591cae7f8/_DSC9718+Large.jpeg</PictureUrl>
-        <Caption>1105 4 Street NE Townhome - Photo 1</Caption>
+        <Caption>1105 Renfrew - Photo 1</Caption>
       </Picture>
     </Pictures>
     <RichDetails>
@@ -686,27 +920,79 @@
       <UtilitiesIncluded>Not included</UtilitiesIncluded>
     </RichDetails>
   </Listing>
-  <Listing>
-    <ID>653553</ID>
+<Listing>
+    <ID>721791</ID>
     <Location>
-      <StreetAddress>888 4th Ave SW</StreetAddress>
-      <UnitNumber>1107</UnitNumber>
+      <StreetAddress>1107 5th Street NE</StreetAddress>
       <City>Calgary</City>
       <State>AB</State>
-      <Zip>T2P 0V2</Zip>
+      <Zip>T2G 0Y8</Zip>
       <DisplayAddress>Yes</DisplayAddress>
     </Location>
     <ListingDetails>
       <Status>Active</Status>
-      <Price>2750</Price>
-      <ListingUrl>https://www.rentfaster.ca/properties/888-4-avenue-sw-calgary-653553</ListingUrl>
-      <ProviderListingId>653553</ProviderListingId>
-      <ApplicationUrl>https://app.tenantturner.com/qualify/select-time/888-4th-ave-sw</ApplicationUrl>
+      <Price>2950</Price>
+      <ListingUrl>https://www.rentfaster.ca/properties/1107-5th-street-ne-calgary-721791</ListingUrl>
+      <ProviderListingId>721791</ProviderListingId>
     </ListingDetails>
     <RentalDetails>
-      <Availability>2026-06-01</Availability>
-      <LeaseTerm>12 months</LeaseTerm>
-      <DepositFees>2750</DepositFees>
+      <Availability>2026-03-15</Availability>
+      <LeaseTerm>12 Months</LeaseTerm>
+      <DepositFees>2950</DepositFees>
+      <PetsAllowed>
+        <NoPets>No</NoPets>
+        <Cats>Yes</Cats>
+        <SmallDogs>Yes</SmallDogs>
+        <LargeDogs>No</LargeDogs>
+      </PetsAllowed>
+    </RentalDetails>
+    <BasicDetails>
+      <PropertyType>Townhouse</PropertyType>
+      <Title>1107 Renfrew 8</Title>
+      <Description>Brand new 3-bedroom townhome in Renfrew with upscale kitchen, fireplace, upper laundry room, and yard/snow care included.</Description>
+      <Bedrooms>3</Bedrooms>
+      <Bathrooms>2.5</Bathrooms>
+      <LivingArea>1500</LivingArea>
+    </BasicDetails>
+    <Pictures>
+      <Picture>
+        <PictureUrl>https://images.squarespace-cdn.com/content/v1/5ebf6a810c6a1e34d4110d73/b79ff250-37de-4f5b-99a3-fb8caf65b0bb/ChatGPT+Image+Feb+28%2C+2026%2C+03_32_36+PM.png</PictureUrl>
+        <Caption>1107 Renfrew 8 - Photo 1</Caption>
+      </Picture>
+    </Pictures>
+    <RichDetails>
+      <ParkingTypes>
+        <ParkingType>Garage</ParkingType>
+      </ParkingTypes>
+      <Appliances>
+        <Appliance>Laundry - In Suite</Appliance>
+      </Appliances>
+      <CoolingSystems>
+        <CoolingSystem>Central</CoolingSystem>
+      </CoolingSystems>
+      <Fireplace>Yes</Fireplace>
+      <UtilitiesIncluded>Not included</UtilitiesIncluded>
+    </RichDetails>
+  </Listing>
+<Listing>
+    <ID>602032</ID>
+    <Location>
+      <StreetAddress>108 23 Ave SW</StreetAddress>
+      <City>Calgary</City>
+      <State>AB</State>
+      <Zip>T2S 0J1</Zip>
+      <DisplayAddress>Yes</DisplayAddress>
+    </Location>
+    <ListingDetails>
+      <Status>Active</Status>
+      <Price>2450</Price>
+      <ListingUrl>https://rentfaster.ca/rentsync/297345-1281994?r=-RSYNC</ListingUrl>
+      <ProviderListingId>602032</ProviderListingId>
+    </ListingDetails>
+    <RentalDetails>
+      <Availability>2026-05-01</Availability>
+      <LeaseTerm>12 Months</LeaseTerm>
+      <DepositFees>2000</DepositFees>
       <PetsAllowed>
         <NoPets>No</NoPets>
         <Cats>Yes</Cats>
@@ -716,75 +1002,30 @@
     </RentalDetails>
     <BasicDetails>
       <PropertyType>Condo</PropertyType>
-      <Title>Solaire</Title>
-      <Description><![CDATA[11th Floor, 2 Bed 2 Bath Corner Suite in Calgary's Downtown West End!]]></Description>
-      <Bedrooms>2</Bedrooms>
-      <Bathrooms>2</Bathrooms>
-      <LivingArea>1100</LivingArea>
+      <Title>Brookwood Manor</Title>
+      <Description>River Facing, 2nd Floor, 2 Bedroom Furnished Suite in a Boutique Concrete Building in Mission!!</Description>
+      <Bedrooms>1</Bedrooms>
+      <Bathrooms>1</Bathrooms>
+      <LivingArea>700</LivingArea>
     </BasicDetails>
     <Pictures>
       <Picture>
-        <PictureUrl>https://images.squarespace-cdn.com/content/v1/5ebf6a810c6a1e34d4110d73/45e363b1-b6df-47fc-a7d0-df38ca60db75/Solaire+Experior.jpeg</PictureUrl>
-        <Caption>Solaire - Photo 1</Caption>
+        <PictureUrl>https://images.squarespace-cdn.com/content/v1/5ebf6a810c6a1e34d4110d73/5fda4e42-e37f-4895-a4c7-dfda8be34411/108_23_Ave_SW_CaydencePhotography-1.jpg</PictureUrl>
+        <Caption>Brookwood Manor - Photo 1</Caption>
       </Picture>
     </Pictures>
     <RichDetails>
+      <ParkingTypes>
+        <ParkingType>Garage</ParkingType>
+      </ParkingTypes>
       <CoolingSystems>
-        <CoolingSystem>None</CoolingSystem>
+        <CoolingSystem>Central</CoolingSystem>
       </CoolingSystems>
       <Fireplace>No</Fireplace>
       <UtilitiesIncluded>Not included</UtilitiesIncluded>
     </RichDetails>
   </Listing>
-  <Listing>
-    <ID>738281</ID>
-    <Location>
-      <StreetAddress>815 17th Ave NW</StreetAddress>
-      <City>Calgary</City>
-      <State>AB</State>
-      <Zip>T2M 0P1</Zip>
-      <DisplayAddress>Yes</DisplayAddress>
-    </Location>
-    <ListingDetails>
-      <Status>Active</Status>
-      <Price>2850</Price>
-      <ListingUrl>https://www.rentfaster.ca/properties/815-17-avenue-nw-calgary-738281?-RSYNC</ListingUrl>
-      <ProviderListingId>738281</ProviderListingId>
-      <ApplicationUrl>https://app.tenantturner.com/qualify/select-time/815-17th-ave-nw?p=TenantTurner</ApplicationUrl>
-    </ListingDetails>
-    <RentalDetails>
-      <Availability>2026-06-15</Availability>
-      <LeaseTerm>12 months</LeaseTerm>
-      <DepositFees>2800</DepositFees>
-      <PetsAllowed>
-        <NoPets>No</NoPets>
-        <Cats>Yes</Cats>
-        <SmallDogs>Yes</SmallDogs>
-        <LargeDogs>No</LargeDogs>
-      </PetsAllowed>
-    </RentalDetails>
-    <BasicDetails>
-      <PropertyType>Townhouse</PropertyType>
-      <Title>Pleasant View</Title>
-      <Description><![CDATA[Be the first to live in these Brand New 3 Bed, 2.5 Bath, 3 Storey, Mount Pleasant Townhomes!]]></Description>
-      <Bedrooms>3</Bedrooms>
-      <Bathrooms>2.5</Bathrooms>
-      <LivingArea>1600</LivingArea>
-    </BasicDetails>
-    <Pictures>
-      <Picture>
-        <PictureUrl>https://images.squarespace-cdn.com/content/v1/5ebf6a810c6a1e34d4110d73/18e07d0a-e82f-4185-9a6d-7f1e113b4c05/Pleasantville.png</PictureUrl>
-        <Caption>Pleasant View - Photo 1</Caption>
-      </Picture>
-    </Pictures>
-    <RichDetails>
-      <CoolingSystems>
-        <CoolingSystem>None</CoolingSystem>
-      </CoolingSystems>
-      <Fireplace>No</Fireplace>
-      <UtilitiesIncluded>Not included</UtilitiesIncluded>
-    </RichDetails>
-  </Listing>
+
   <Listing>
     <ID>631595</ID>
     <Location>
@@ -797,13 +1038,13 @@
     <ListingDetails>
       <Status>Active</Status>
       <Price>1800</Price>
-      <ListingUrl>https://www.rentfaster.ca/properties/1605-17-street-se-calgary-631595?-RSYNC</ListingUrl>
+      <ListingUrl>https://rentfaster.ca/properties/1605-17-street-se-calgary-631595?-RSYNC</ListingUrl>
       <ProviderListingId>631595</ProviderListingId>
-      <ApplicationUrl>https://app.tenantturner.com/qualify/select-time/1605-17-street-se</ApplicationUrl>
+      <ApplicationUrl>https://app.tenantturner.com/qualify/select-time/1605-17-street-se?p=TenantTurner</ApplicationUrl>
     </ListingDetails>
     <RentalDetails>
       <Availability>2026-06-01</Availability>
-      <LeaseTerm>12 months</LeaseTerm>
+      <LeaseTerm>12 Months</LeaseTerm>
       <DepositFees>1800</DepositFees>
       <PetsAllowed>
         <NoPets>No</NoPets>
@@ -814,11 +1055,26 @@
     </RentalDetails>
     <BasicDetails>
       <PropertyType>Condo</PropertyType>
-      <Title>Konekt</Title>
-      <Description><![CDATA[Imagine living in the heart of Calgary's most iconic neighbourhood, Inglewood, where charm and vibrancy collide. Welcome to Konekt and this 2nd Floor 1 Bedroom 1 Bathroom condo with natural light streaming in and every detail thoughtfully curated, this condo offers unparalleled elegance and modern style.]]></Description>
-      <Bedrooms>1</Bedrooms>
-      <Bathrooms>1</Bathrooms>
-      <LivingArea>600</LivingArea>
+      <Title>Konekt - 1605 17th Street SE</Title>
+      <Description><![CDATA[Imagine living in the heart of Calgary's most iconic neighbourhood, Inglewood, where charm and vibrancy collide. Welcome to Konekt and this 2nd Floor 2 Bedroom 2 Bathroom condo with natural light streaming in and every detail thoughtfully curated, this condo offers unparalleled elegance and modern style.
+
+Interior Highlights:
+- 2 Bedroom, 2 Bathroom, UG Parking, ~750sf
+- High-end design is highlighted by wide plank flooring, a neutral colour pallet and an open floor plan
+- Gourmet kitchen featuring sleek stainless steel appliances, quartz countertops, and a generous island
+- Spacious primary bedroom offers a calming oasis, large windows and complete with walk-through closets leading to your private bathroom
+- The second bedroom is almost as luxurious with a walk-through closet that provides cheater access to the second 4-piece bathroom
+- Spacious balcony
+- In-suite full size washer / dryer
+
+Things to know:
+- Available June 1st 2026
+- Rent includes heat, water and 1 underground parking spot
+- Tenant is responsible for electricity, phone/cable/internet as required
+- Key access with 2 elevators]]></Description>
+      <Bedrooms>2</Bedrooms>
+      <Bathrooms>2</Bathrooms>
+      <LivingArea>750</LivingArea>
     </BasicDetails>
     <Pictures>
       <Picture>
@@ -827,11 +1083,23 @@
       </Picture>
     </Pictures>
     <RichDetails>
+      <ParkingTypes>
+        <ParkingType>Underground</ParkingType>
+        <ParkingType>Driveway</ParkingType>
+      </ParkingTypes>
+      <Appliances>
+        <Appliance>Fridge</Appliance>
+        <Appliance>Oven/Stove</Appliance>
+        <Appliance>Laundry - In Suite</Appliance>
+        <Appliance>Dishwasher</Appliance>
+        <Appliance>Microwave</Appliance>
+      </Appliances>
       <CoolingSystems>
         <CoolingSystem>None</CoolingSystem>
       </CoolingSystems>
       <Fireplace>No</Fireplace>
-      <UtilitiesIncluded>Not included</UtilitiesIncluded>
+      <UtilitiesIncluded>Heat | Water</UtilitiesIncluded>
     </RichDetails>
   </Listing>
+
 </Listings>
