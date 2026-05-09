@@ -5,8 +5,8 @@
     <Location>
       <StreetAddress>1111 15 Avenue SW</StreetAddress>
       <City>Calgary</City>
-      <State>ALBERTA</State>
-      <Zip/>
+      <State>AB</State>
+      <Zip>T2S 0J1</Zip>
       <DisplayAddress>Yes</DisplayAddress>
     </Location>
     <ListingDetails>
@@ -18,7 +18,7 @@
     </ListingDetails>
     <RentalDetails>
       <Availability>Immediate</Availability>
-      <LeaseTerm>Long Term Months</LeaseTerm>
+      <LeaseTerm>12 Months</LeaseTerm>
       <DepositFees>1650</DepositFees>
       <PetsAllowed>
         <NoPets>No</NoPets>
@@ -28,22 +28,22 @@
       </PetsAllowed>
     </RentalDetails>
     <BasicDetails>
-      <PropertyType>Apartment</PropertyType>
+      <PropertyType>Condo</PropertyType>
       <Title>Living Just Steps From Trendy 17th Avenue and Downtown Discover this bright 2 Bedroom, 1 Bathroom condo, perfectly situa</Title>
-      <Description>1111 15 Avenue SW</Description>
-      <Bedrooms/>
+      <Description/>
+      <Bedrooms>2</Bedrooms>
       <Bathrooms>1</Bathrooms>
       <LivingArea>750</LivingArea>
     </BasicDetails>
+    <Pictures>
+      <Picture>
+        <PictureUrl>https://rf-images-prod-bcdn.rentfaster.ca/729291/slide_16788492.v.38e92304ec2d126ea145c9105239645a.jpg</PictureUrl>
+        <Caption>Living Just Steps From Trendy 17th Avenue and Downtown Discover this bright 2 Bedroom, 1 Bathroom condo, perfectly situa - Photo 1</Caption>
+      </Picture>
+    </Pictures>
     <RichDetails>
-      <ParkingTypes>
-        <ParkingType>Surface</ParkingType>
-      </ParkingTypes>
-      <CoolingSystems>
-        <CoolingSystem>None</CoolingSystem>
-      </CoolingSystems>
       <Fireplace>No</Fireplace>
-      <UtilitiesIncluded>Not included</UtilitiesIncluded>
+      <UtilitiesIncluded>Heat | Water included</UtilitiesIncluded>
     </RichDetails>
   </Listing>
   <Listing>
@@ -51,8 +51,8 @@
     <Location>
       <StreetAddress>2419 16 Street SW</StreetAddress>
       <City>Calgary</City>
-      <State>ALBERTA</State>
-      <Zip/>
+      <State>AB</State>
+      <Zip>T2T 1C8</Zip>
       <DisplayAddress>Yes</DisplayAddress>
     </Location>
     <ListingDetails>
@@ -64,7 +64,7 @@
     </ListingDetails>
     <RentalDetails>
       <Availability>Call for Availability</Availability>
-      <LeaseTerm>Long Term Months</LeaseTerm>
+      <LeaseTerm>12 Months</LeaseTerm>
       <DepositFees/>
       <PetsAllowed>
         <NoPets>Yes</NoPets>
@@ -76,17 +76,20 @@
     <BasicDetails>
       <PropertyType>Apartment</PropertyType>
       <Title>1 Bedroom 1 Bath Apartment in Bankview including parking and internet!</Title>
-      <Description>2419 16 Street SW</Description>
+      <Description/>
       <Bedrooms/>
       <Bathrooms/>
     </BasicDetails>
+    <Pictures>
+      <Picture>
+        <PictureUrl>https://rf-images-prod-bcdn.rentfaster.ca/604744/slide_16952861.v.3c961be3e864b73c3fbab8830f700f51.jpg</PictureUrl>
+        <Caption>1 Bedroom 1 Bath Apartment in Bankview including parking and internet! - Photo 1</Caption>
+      </Picture>
+    </Pictures>
     <RichDetails>
       <ParkingTypes>
         <ParkingType>Surface</ParkingType>
       </ParkingTypes>
-      <CoolingSystems>
-        <CoolingSystem>None</CoolingSystem>
-      </CoolingSystems>
       <Fireplace>No</Fireplace>
       <UtilitiesIncluded>Not included</UtilitiesIncluded>
     </RichDetails>
@@ -96,8 +99,8 @@
     <Location>
       <StreetAddress>710 25 Street NW</StreetAddress>
       <City>Calgary</City>
-      <State>ALBERTA</State>
-      <Zip/>
+      <State>AB</State>
+      <Zip>T2N 5A7</Zip>
       <DisplayAddress>Yes</DisplayAddress>
     </Location>
     <ListingDetails>
@@ -109,7 +112,7 @@
     </ListingDetails>
     <RentalDetails>
       <Availability>Immediate</Availability>
-      <LeaseTerm>Long Term Months</LeaseTerm>
+      <LeaseTerm>12 Months</LeaseTerm>
       <DepositFees>1400</DepositFees>
       <PetsAllowed>
         <NoPets>No</NoPets>
@@ -121,18 +124,18 @@
     <BasicDetails>
       <PropertyType>Apartment</PropertyType>
       <Title>Brand New 1 Bedroom Basement Suite </Title>
-      <Description>710 25 Street NW</Description>
-      <Bedrooms/>
+      <Description/>
+      <Bedrooms>1</Bedrooms>
       <Bathrooms>1</Bathrooms>
       <LivingArea>700</LivingArea>
     </BasicDetails>
+    <Pictures>
+      <Picture>
+        <PictureUrl>https://rf-images-prod-bcdn.rentfaster.ca/708680/slide_16958641.v.0f2989204838e4433409fd2a67c96b98.jpg</PictureUrl>
+        <Caption>Brand New 1 Bedroom Basement Suite  - Photo 1</Caption>
+      </Picture>
+    </Pictures>
     <RichDetails>
-      <ParkingTypes>
-        <ParkingType>Surface</ParkingType>
-      </ParkingTypes>
-      <CoolingSystems>
-        <CoolingSystem>None</CoolingSystem>
-      </CoolingSystems>
       <Fireplace>No</Fireplace>
       <UtilitiesIncluded>Not included</UtilitiesIncluded>
     </RichDetails>
@@ -142,8 +145,8 @@
     <Location>
       <StreetAddress>628 56 Avenue SW</StreetAddress>
       <City>Calgary</City>
-      <State>ALBERTA</State>
-      <Zip/>
+      <State>AB</State>
+      <Zip>T2V 0G8</Zip>
       <DisplayAddress>Yes</DisplayAddress>
     </Location>
     <ListingDetails>
@@ -155,7 +158,7 @@
     </ListingDetails>
     <RentalDetails>
       <Availability>Immediate</Availability>
-      <LeaseTerm>Long Term Months</LeaseTerm>
+      <LeaseTerm>12 Months</LeaseTerm>
       <DepositFees>2000</DepositFees>
       <PetsAllowed>
         <NoPets>No</NoPets>
@@ -165,20 +168,29 @@
       </PetsAllowed>
     </RentalDetails>
     <BasicDetails>
-      <PropertyType>Apartment</PropertyType>
+      <PropertyType>Condo</PropertyType>
       <Title>Upper Floor 2 Bed 2.5 Bath in Windsor Park</Title>
-      <Description>628 56 Avenue SW</Description>
-      <Bedrooms/>
+      <Description/>
+      <Bedrooms>2</Bedrooms>
       <Bathrooms>2.5</Bathrooms>
       <LivingArea>1050</LivingArea>
     </BasicDetails>
+    <Pictures>
+      <Picture>
+        <PictureUrl>https://rf-images-prod-bcdn.rentfaster.ca/640415/slide_13498471.v.d531c86532885886e73d0b9c23772727.jpg</PictureUrl>
+        <Caption>Upper Floor 2 Bed 2.5 Bath in Windsor Park - Photo 1</Caption>
+      </Picture>
+    </Pictures>
     <RichDetails>
       <ParkingTypes>
-        <ParkingType>Surface</ParkingType>
+        <ParkingType>Underground</ParkingType>
       </ParkingTypes>
-      <CoolingSystems>
-        <CoolingSystem>None</CoolingSystem>
-      </CoolingSystems>
+      <Appliances>
+        <Appliance>Storage Lockers</Appliance>
+        <Appliance>Fridge</Appliance>
+        <Appliance>Oven/Stove</Appliance>
+        <Appliance>Laundry - In Suite</Appliance>
+      </Appliances>
       <Fireplace>No</Fireplace>
       <UtilitiesIncluded>Not included</UtilitiesIncluded>
     </RichDetails>
@@ -188,8 +200,8 @@
     <Location>
       <StreetAddress>712 25 Street NW</StreetAddress>
       <City>Calgary</City>
-      <State>ALBERTA</State>
-      <Zip/>
+      <State>AB</State>
+      <Zip>T2N 5A7</Zip>
       <DisplayAddress>Yes</DisplayAddress>
     </Location>
     <ListingDetails>
@@ -201,7 +213,7 @@
     </ListingDetails>
     <RentalDetails>
       <Availability>Immediate</Availability>
-      <LeaseTerm>Long Term Months</LeaseTerm>
+      <LeaseTerm>12 Months</LeaseTerm>
       <DepositFees>2750</DepositFees>
       <PetsAllowed>
         <NoPets>No</NoPets>
@@ -213,18 +225,27 @@
     <BasicDetails>
       <PropertyType>Townhouse</PropertyType>
       <Title>Brand New, 3 Bed, 2.5 Bath Townhomes For Rent in West Hillhusrt! </Title>
-      <Description>712 25 Street NW</Description>
-      <Bedrooms/>
+      <Description/>
+      <Bedrooms>3</Bedrooms>
       <Bathrooms>2.5</Bathrooms>
       <LivingArea>1550</LivingArea>
     </BasicDetails>
+    <Pictures>
+      <Picture>
+        <PictureUrl>https://rf-images-prod-bcdn.rentfaster.ca/702335/slide_16958640.v.e14a6935cfcd0ebc139c8744c0abaf37.jpg</PictureUrl>
+        <Caption>Brand New, 3 Bed, 2.5 Bath Townhomes For Rent in West Hillhusrt!  - Photo 1</Caption>
+      </Picture>
+    </Pictures>
     <RichDetails>
       <ParkingTypes>
-        <ParkingType>Surface</ParkingType>
+        <ParkingType>Garage</ParkingType>
       </ParkingTypes>
-      <CoolingSystems>
-        <CoolingSystem>None</CoolingSystem>
-      </CoolingSystems>
+      <Appliances>
+        <Appliance>Fridge</Appliance>
+        <Appliance>Oven/Stove</Appliance>
+        <Appliance>Laundry - In Suite</Appliance>
+        <Appliance>Dishwasher</Appliance>
+      </Appliances>
       <Fireplace>No</Fireplace>
       <UtilitiesIncluded>Not included</UtilitiesIncluded>
     </RichDetails>
@@ -234,8 +255,8 @@
     <Location>
       <StreetAddress>2850 Grant Crescent SW</StreetAddress>
       <City>Calgary</City>
-      <State>ALBERTA</State>
-      <Zip/>
+      <State>AB</State>
+      <Zip>T2S 0J1</Zip>
       <DisplayAddress>Yes</DisplayAddress>
     </Location>
     <ListingDetails>
@@ -247,7 +268,7 @@
     </ListingDetails>
     <RentalDetails>
       <Availability>Immediate</Availability>
-      <LeaseTerm>Long Term Months</LeaseTerm>
+      <LeaseTerm>12 Months</LeaseTerm>
       <DepositFees>2950</DepositFees>
       <PetsAllowed>
         <NoPets>No</NoPets>
@@ -259,18 +280,18 @@
     <BasicDetails>
       <PropertyType>Townhouse</PropertyType>
       <Title>Brand New 3 Bedroom Townhomes in Glamorgan! </Title>
-      <Description>2850 Grant Crescent SW</Description>
-      <Bedrooms/>
+      <Description/>
+      <Bedrooms>3</Bedrooms>
       <Bathrooms>2.5</Bathrooms>
       <LivingArea>1650</LivingArea>
     </BasicDetails>
+    <Pictures>
+      <Picture>
+        <PictureUrl>https://rf-images-prod-bcdn.rentfaster.ca/732111/slide_17161087.v.9d1738620f3f1cbb0fb5c840c5bf4ed2.jpg</PictureUrl>
+        <Caption>Brand New 3 Bedroom Townhomes in Glamorgan!  - Photo 1</Caption>
+      </Picture>
+    </Pictures>
     <RichDetails>
-      <ParkingTypes>
-        <ParkingType>Surface</ParkingType>
-      </ParkingTypes>
-      <CoolingSystems>
-        <CoolingSystem>None</CoolingSystem>
-      </CoolingSystems>
       <Fireplace>No</Fireplace>
       <UtilitiesIncluded>Not included</UtilitiesIncluded>
     </RichDetails>
@@ -280,8 +301,8 @@
     <Location>
       <StreetAddress>310 15 Avenue SW</StreetAddress>
       <City>Calgary</City>
-      <State>ALBERTA</State>
-      <Zip/>
+      <State>AB</State>
+      <Zip>T2R 1S9</Zip>
       <DisplayAddress>Yes</DisplayAddress>
     </Location>
     <ListingDetails>
@@ -293,7 +314,7 @@
     </ListingDetails>
     <RentalDetails>
       <Availability>Immediate</Availability>
-      <LeaseTerm>Long Term Months</LeaseTerm>
+      <LeaseTerm>12 Months</LeaseTerm>
       <DepositFees>1850</DepositFees>
       <PetsAllowed>
         <NoPets>No</NoPets>
@@ -303,22 +324,31 @@
       </PetsAllowed>
     </RentalDetails>
     <BasicDetails>
-      <PropertyType>Apartment</PropertyType>
+      <PropertyType>Condo</PropertyType>
       <Title>Brand New, 2 Bed 2 Bath, in the Broward, UG Parking and Amazing Roof Top Patio!!</Title>
-      <Description>310 15 Avenue SW</Description>
-      <Bedrooms/>
+      <Description/>
+      <Bedrooms>2</Bedrooms>
       <Bathrooms>2</Bathrooms>
       <LivingArea>700</LivingArea>
     </BasicDetails>
+    <Pictures>
+      <Picture>
+        <PictureUrl>https://rf-images-prod-bcdn.rentfaster.ca/722646/slide_17161062.v.2c75a7ace4339120c6df77a8fbe37887.jpg</PictureUrl>
+        <Caption>Brand New, 2 Bed 2 Bath, in the Broward, UG Parking and Amazing Roof Top Patio!! - Photo 1</Caption>
+      </Picture>
+    </Pictures>
     <RichDetails>
       <ParkingTypes>
-        <ParkingType>Surface</ParkingType>
+        <ParkingType>Underground</ParkingType>
       </ParkingTypes>
-      <CoolingSystems>
-        <CoolingSystem>None</CoolingSystem>
-      </CoolingSystems>
+      <Appliances>
+        <Appliance>Elevator</Appliance>
+        <Appliance>Air Conditioning</Appliance>
+        <Appliance>Fridge</Appliance>
+        <Appliance>Oven/Stove</Appliance>
+      </Appliances>
       <Fireplace>No</Fireplace>
-      <UtilitiesIncluded>Not included</UtilitiesIncluded>
+      <UtilitiesIncluded>Heat | Water included</UtilitiesIncluded>
     </RichDetails>
   </Listing>
   <Listing>
@@ -326,8 +356,8 @@
     <Location>
       <StreetAddress>1320 1st Street SE</StreetAddress>
       <City>Calgary</City>
-      <State>ALBERTA</State>
-      <Zip/>
+      <State>AB</State>
+      <Zip>T2S 0J1</Zip>
       <DisplayAddress>Yes</DisplayAddress>
     </Location>
     <ListingDetails>
@@ -339,7 +369,7 @@
     </ListingDetails>
     <RentalDetails>
       <Availability>Immediate</Availability>
-      <LeaseTerm>Long Term Months</LeaseTerm>
+      <LeaseTerm>12 Months</LeaseTerm>
       <DepositFees>3500</DepositFees>
       <PetsAllowed>
         <NoPets>No</NoPets>
@@ -349,22 +379,31 @@
       </PetsAllowed>
     </RentalDetails>
     <BasicDetails>
-      <PropertyType>Apartment</PropertyType>
+      <PropertyType>Condo</PropertyType>
       <Title>Monthly Furnished! 2 Bed 2 Bath Condo for Rent with huge private patio!</Title>
-      <Description>1320 1st Street SE</Description>
-      <Bedrooms/>
+      <Description/>
+      <Bedrooms>2</Bedrooms>
       <Bathrooms>2</Bathrooms>
       <LivingArea>1000</LivingArea>
     </BasicDetails>
+    <Pictures>
+      <Picture>
+        <PictureUrl>https://rf-images-prod-bcdn.rentfaster.ca/656763/slide_14067088.v.e9a21e83fa571fca079c78671f6c4194.jpg</PictureUrl>
+        <Caption>Monthly Furnished! 2 Bed 2 Bath Condo for Rent with huge private patio! - Photo 1</Caption>
+      </Picture>
+    </Pictures>
     <RichDetails>
       <ParkingTypes>
-        <ParkingType>Surface</ParkingType>
+        <ParkingType>Underground</ParkingType>
       </ParkingTypes>
-      <CoolingSystems>
-        <CoolingSystem>None</CoolingSystem>
-      </CoolingSystems>
+      <Appliances>
+        <Appliance>Elevator</Appliance>
+        <Appliance>Air Conditioning</Appliance>
+        <Appliance>Fridge</Appliance>
+        <Appliance>Oven/Stove</Appliance>
+      </Appliances>
       <Fireplace>No</Fireplace>
-      <UtilitiesIncluded>Not included</UtilitiesIncluded>
+      <UtilitiesIncluded>Internet | Heat | Water | Electricity included</UtilitiesIncluded>
     </RichDetails>
   </Listing>
   <Listing>
@@ -372,8 +411,8 @@
     <Location>
       <StreetAddress>227 26 Avenue NE</StreetAddress>
       <City>Calgary</City>
-      <State>ALBERTA</State>
-      <Zip/>
+      <State>AB</State>
+      <Zip>T2S 0J1</Zip>
       <DisplayAddress>Yes</DisplayAddress>
     </Location>
     <ListingDetails>
@@ -385,7 +424,7 @@
     </ListingDetails>
     <RentalDetails>
       <Availability>Immediate</Availability>
-      <LeaseTerm>Long Term Months</LeaseTerm>
+      <LeaseTerm>12 Months</LeaseTerm>
       <DepositFees>2950</DepositFees>
       <PetsAllowed>
         <NoPets>No</NoPets>
@@ -397,18 +436,27 @@
     <BasicDetails>
       <PropertyType>Townhouse</PropertyType>
       <Title>Brand New 3 Bedroom Townhomes For Rent</Title>
-      <Description>227 26 Avenue NE</Description>
-      <Bedrooms/>
+      <Description/>
+      <Bedrooms>3</Bedrooms>
       <Bathrooms>2.5</Bathrooms>
       <LivingArea>1600</LivingArea>
     </BasicDetails>
+    <Pictures>
+      <Picture>
+        <PictureUrl>https://rf-images-prod-bcdn.rentfaster.ca/732110/slide_16890323.v.aedd1b22e3ac7d8975717d3b9e0c1bd8.jpg</PictureUrl>
+        <Caption>Brand New 3 Bedroom Townhomes For Rent - Photo 1</Caption>
+      </Picture>
+    </Pictures>
     <RichDetails>
       <ParkingTypes>
-        <ParkingType>Surface</ParkingType>
+        <ParkingType>Garage</ParkingType>
       </ParkingTypes>
-      <CoolingSystems>
-        <CoolingSystem>None</CoolingSystem>
-      </CoolingSystems>
+      <Appliances>
+        <Appliance>Fridge</Appliance>
+        <Appliance>Oven/Stove</Appliance>
+        <Appliance>Laundry - In Suite</Appliance>
+        <Appliance>Dishwasher</Appliance>
+      </Appliances>
       <Fireplace>No</Fireplace>
       <UtilitiesIncluded>Not included</UtilitiesIncluded>
     </RichDetails>
@@ -418,8 +466,8 @@
     <Location>
       <StreetAddress>69 Springborough Court SW</StreetAddress>
       <City>Calgary</City>
-      <State>ALBERTA</State>
-      <Zip/>
+      <State>AB</State>
+      <Zip>T2S 0J1</Zip>
       <DisplayAddress>Yes</DisplayAddress>
     </Location>
     <ListingDetails>
@@ -431,7 +479,7 @@
     </ListingDetails>
     <RentalDetails>
       <Availability>May 15</Availability>
-      <LeaseTerm>Long Term Months</LeaseTerm>
+      <LeaseTerm>12 Months</LeaseTerm>
       <DepositFees>2250</DepositFees>
       <PetsAllowed>
         <NoPets>No</NoPets>
@@ -441,22 +489,31 @@
       </PetsAllowed>
     </RentalDetails>
     <BasicDetails>
-      <PropertyType>Apartment</PropertyType>
+      <PropertyType>Condo</PropertyType>
       <Title>Welcome to this beautifully renovated and move-in ready 2 bedroom, 2 bathroom ground-floor unit in an unbeatable locatio</Title>
-      <Description>69 Springborough Court SW</Description>
-      <Bedrooms/>
+      <Description/>
+      <Bedrooms>2</Bedrooms>
       <Bathrooms>2</Bathrooms>
       <LivingArea>850</LivingArea>
     </BasicDetails>
+    <Pictures>
+      <Picture>
+        <PictureUrl>https://rf-images-prod-bcdn.rentfaster.ca/740087/slide_17125375.v.a848283e5959aa8ea830299557eff0cd.jpg</PictureUrl>
+        <Caption>Welcome to this beautifully renovated and move-in ready 2 bedroom, 2 bathroom ground-floor unit in an unbeatable locatio - Photo 1</Caption>
+      </Picture>
+    </Pictures>
     <RichDetails>
       <ParkingTypes>
-        <ParkingType>Surface</ParkingType>
+        <ParkingType>Underground</ParkingType>
       </ParkingTypes>
-      <CoolingSystems>
-        <CoolingSystem>None</CoolingSystem>
-      </CoolingSystems>
+      <Appliances>
+        <Appliance>Storage Lockers</Appliance>
+        <Appliance>Fridge</Appliance>
+        <Appliance>Oven/Stove</Appliance>
+        <Appliance>Laundry - In Suite</Appliance>
+      </Appliances>
       <Fireplace>No</Fireplace>
-      <UtilitiesIncluded>Not included</UtilitiesIncluded>
+      <UtilitiesIncluded>Heat | Water included</UtilitiesIncluded>
     </RichDetails>
   </Listing>
   <Listing>
@@ -464,8 +521,8 @@
     <Location>
       <StreetAddress>815 17 Avenue NW</StreetAddress>
       <City>Calgary</City>
-      <State>ALBERTA</State>
-      <Zip/>
+      <State>AB</State>
+      <Zip>T2M 0P1</Zip>
       <DisplayAddress>Yes</DisplayAddress>
     </Location>
     <ListingDetails>
@@ -477,7 +534,7 @@
     </ListingDetails>
     <RentalDetails>
       <Availability>June 01</Availability>
-      <LeaseTerm>Long Term Months</LeaseTerm>
+      <LeaseTerm>12 Months</LeaseTerm>
       <DepositFees>2800</DepositFees>
       <PetsAllowed>
         <NoPets>No</NoPets>
@@ -489,18 +546,21 @@
     <BasicDetails>
       <PropertyType>Townhouse</PropertyType>
       <Title>Brand New 3 Bed, 2.5 Bath, 3 Storey Mount Pleasant Townhomes for Rent</Title>
-      <Description>815 17 Avenue NW</Description>
-      <Bedrooms/>
+      <Description/>
+      <Bedrooms>3</Bedrooms>
       <Bathrooms>2.5</Bathrooms>
       <LivingArea>1500</LivingArea>
     </BasicDetails>
+    <Pictures>
+      <Picture>
+        <PictureUrl>https://rf-images-prod-bcdn.rentfaster.ca/738281/slide_17050188.v.9b9549efd862e0eeb126fe0576cc330b.jpg</PictureUrl>
+        <Caption>Brand New 3 Bed, 2.5 Bath, 3 Storey Mount Pleasant Townhomes for Rent - Photo 1</Caption>
+      </Picture>
+    </Pictures>
     <RichDetails>
       <ParkingTypes>
         <ParkingType>Surface</ParkingType>
       </ParkingTypes>
-      <CoolingSystems>
-        <CoolingSystem>None</CoolingSystem>
-      </CoolingSystems>
       <Fireplace>No</Fireplace>
       <UtilitiesIncluded>Not included</UtilitiesIncluded>
     </RichDetails>
@@ -510,8 +570,8 @@
     <Location>
       <StreetAddress>1105 4 Street NE</StreetAddress>
       <City>Calgary</City>
-      <State>ALBERTA</State>
-      <Zip/>
+      <State>AB</State>
+      <Zip>T2E 3T5</Zip>
       <DisplayAddress>Yes</DisplayAddress>
     </Location>
     <ListingDetails>
@@ -523,32 +583,41 @@
     </ListingDetails>
     <RentalDetails>
       <Availability>June 01</Availability>
-      <LeaseTerm>Long Term Months</LeaseTerm>
+      <LeaseTerm>12 Months</LeaseTerm>
       <DepositFees>3500</DepositFees>
       <PetsAllowed>
-        <NoPets>No</NoPets>
-        <Cats>Yes</Cats>
-        <SmallDogs>Yes</SmallDogs>
+        <NoPets>Yes</NoPets>
+        <Cats>No</Cats>
+        <SmallDogs>No</SmallDogs>
         <LargeDogs>No</LargeDogs>
       </PetsAllowed>
     </RentalDetails>
     <BasicDetails>
       <PropertyType>Townhouse</PropertyType>
       <Title>Meticulously crafted modern 3 Bedroom townhouse in Renfrew</Title>
-      <Description>1105 4 Street NE</Description>
-      <Bedrooms/>
+      <Description/>
+      <Bedrooms>3</Bedrooms>
       <Bathrooms>2.5</Bathrooms>
       <LivingArea>1800</LivingArea>
     </BasicDetails>
+    <Pictures>
+      <Picture>
+        <PictureUrl>https://rf-images-prod-bcdn.rentfaster.ca/736774/slide_16994925.v.3590a41ed93d8af1cef7472fad29ad68.jpg</PictureUrl>
+        <Caption>Meticulously crafted modern 3 Bedroom townhouse in Renfrew - Photo 1</Caption>
+      </Picture>
+    </Pictures>
     <RichDetails>
       <ParkingTypes>
-        <ParkingType>Surface</ParkingType>
+        <ParkingType>Garage</ParkingType>
       </ParkingTypes>
-      <CoolingSystems>
-        <CoolingSystem>None</CoolingSystem>
-      </CoolingSystems>
+      <Appliances>
+        <Appliance>Air Conditioning</Appliance>
+        <Appliance>Fridge</Appliance>
+        <Appliance>Oven/Stove</Appliance>
+        <Appliance>Laundry - In Suite</Appliance>
+      </Appliances>
       <Fireplace>No</Fireplace>
-      <UtilitiesIncluded>Not included</UtilitiesIncluded>
+      <UtilitiesIncluded>Internet | Heat | Water | Electricity included</UtilitiesIncluded>
     </RichDetails>
   </Listing>
   <Listing>
@@ -556,8 +625,8 @@
     <Location>
       <StreetAddress>201 20 Avenue NE</StreetAddress>
       <City>Calgary</City>
-      <State>ALBERTA</State>
-      <Zip/>
+      <State>AB</State>
+      <Zip>T2E 1R1</Zip>
       <DisplayAddress>Yes</DisplayAddress>
     </Location>
     <ListingDetails>
@@ -569,32 +638,41 @@
     </ListingDetails>
     <RentalDetails>
       <Availability>June 01</Availability>
-      <LeaseTerm>Long Term Months</LeaseTerm>
+      <LeaseTerm>12 Months</LeaseTerm>
       <DepositFees>2100</DepositFees>
       <PetsAllowed>
         <NoPets>No</NoPets>
-        <Cats>Yes</Cats>
+        <Cats>No</Cats>
         <SmallDogs>Yes</SmallDogs>
         <LargeDogs>No</LargeDogs>
       </PetsAllowed>
     </RentalDetails>
     <BasicDetails>
-      <PropertyType>Apartment</PropertyType>
+      <PropertyType>Condo</PropertyType>
       <Title>2 Bedroom Tuxedo Park Walk Up Suite w/ UG Parking &amp; Huge private Outdoor space!</Title>
-      <Description>201 20 Avenue NE</Description>
-      <Bedrooms/>
+      <Description/>
+      <Bedrooms>2</Bedrooms>
       <Bathrooms>1</Bathrooms>
       <LivingArea>875</LivingArea>
     </BasicDetails>
+    <Pictures>
+      <Picture>
+        <PictureUrl>https://rf-images-prod-bcdn.rentfaster.ca/736773/slide_16994905.v.f45cebe8681b5223b698867a49eb299c.jpg</PictureUrl>
+        <Caption>2 Bedroom Tuxedo Park Walk Up Suite w/ UG Parking &amp; Huge private Outdoor space! - Photo 1</Caption>
+      </Picture>
+    </Pictures>
     <RichDetails>
       <ParkingTypes>
-        <ParkingType>Surface</ParkingType>
+        <ParkingType>Underground</ParkingType>
       </ParkingTypes>
-      <CoolingSystems>
-        <CoolingSystem>None</CoolingSystem>
-      </CoolingSystems>
+      <Appliances>
+        <Appliance>Fridge</Appliance>
+        <Appliance>Oven/Stove</Appliance>
+        <Appliance>Laundry - In Suite</Appliance>
+        <Appliance>Dishwasher</Appliance>
+      </Appliances>
       <Fireplace>No</Fireplace>
-      <UtilitiesIncluded>Not included</UtilitiesIncluded>
+      <UtilitiesIncluded>Heat | Water included</UtilitiesIncluded>
     </RichDetails>
   </Listing>
   <Listing>
@@ -602,8 +680,8 @@
     <Location>
       <StreetAddress>888 4 Avenue SW</StreetAddress>
       <City>Calgary</City>
-      <State>ALBERTA</State>
-      <Zip/>
+      <State>AB</State>
+      <Zip>T2P 0V2</Zip>
       <DisplayAddress>Yes</DisplayAddress>
     </Location>
     <ListingDetails>
@@ -615,7 +693,7 @@
     </ListingDetails>
     <RentalDetails>
       <Availability>June 01</Availability>
-      <LeaseTerm>Long Term Months</LeaseTerm>
+      <LeaseTerm>12 Months</LeaseTerm>
       <DepositFees>2750</DepositFees>
       <PetsAllowed>
         <NoPets>No</NoPets>
@@ -625,22 +703,31 @@
       </PetsAllowed>
     </RentalDetails>
     <BasicDetails>
-      <PropertyType>Apartment</PropertyType>
+      <PropertyType>Condo</PropertyType>
       <Title>Beautiful 11th Floor, 2 Bedroom 2 Full Bath Condo in Downtown's West End</Title>
-      <Description>888 4 Avenue SW</Description>
-      <Bedrooms/>
+      <Description/>
+      <Bedrooms>2</Bedrooms>
       <Bathrooms>2</Bathrooms>
       <LivingArea>1100</LivingArea>
     </BasicDetails>
+    <Pictures>
+      <Picture>
+        <PictureUrl>https://rf-images-prod-bcdn.rentfaster.ca/653553/slide_13949379.v.35c55da39d46ed697a92a573581f04d7.jpg</PictureUrl>
+        <Caption>Beautiful 11th Floor, 2 Bedroom 2 Full Bath Condo in Downtown's West End - Photo 1</Caption>
+      </Picture>
+    </Pictures>
     <RichDetails>
       <ParkingTypes>
-        <ParkingType>Surface</ParkingType>
+        <ParkingType>Underground</ParkingType>
       </ParkingTypes>
-      <CoolingSystems>
-        <CoolingSystem>None</CoolingSystem>
-      </CoolingSystems>
+      <Appliances>
+        <Appliance>Elevator</Appliance>
+        <Appliance>Air Conditioning</Appliance>
+        <Appliance>Fridge</Appliance>
+        <Appliance>Hardwood Floors</Appliance>
+      </Appliances>
       <Fireplace>No</Fireplace>
-      <UtilitiesIncluded>Not included</UtilitiesIncluded>
+      <UtilitiesIncluded>Heat | Water included</UtilitiesIncluded>
     </RichDetails>
   </Listing>
   <Listing>
@@ -648,8 +735,8 @@
     <Location>
       <StreetAddress>1605 17 Street SE</StreetAddress>
       <City>Calgary</City>
-      <State>ALBERTA</State>
-      <Zip/>
+      <State>AB</State>
+      <Zip>T2G 2L7</Zip>
       <DisplayAddress>Yes</DisplayAddress>
     </Location>
     <ListingDetails>
@@ -661,7 +748,7 @@
     </ListingDetails>
     <RentalDetails>
       <Availability>June 01</Availability>
-      <LeaseTerm>Long Term Months</LeaseTerm>
+      <LeaseTerm>12 Months</LeaseTerm>
       <DepositFees>1800</DepositFees>
       <PetsAllowed>
         <NoPets>No</NoPets>
@@ -671,22 +758,32 @@
       </PetsAllowed>
     </RentalDetails>
     <BasicDetails>
-      <PropertyType>Apartment</PropertyType>
+      <PropertyType>Condo</PropertyType>
       <Title>2nd Floor, 1 Bed, 1 Bath, in Inglewood!!</Title>
-      <Description>1605 17 Street SE</Description>
-      <Bedrooms/>
+      <Description/>
+      <Bedrooms>1</Bedrooms>
       <Bathrooms>1</Bathrooms>
       <LivingArea>550</LivingArea>
     </BasicDetails>
+    <Pictures>
+      <Picture>
+        <PictureUrl>https://rf-images-prod-bcdn.rentfaster.ca/631595/slide_15159150.v.842bc8b56a2f3a9123583fe4e1d945bb.jpg</PictureUrl>
+        <Caption>2nd Floor, 1 Bed, 1 Bath, in Inglewood!! - Photo 1</Caption>
+      </Picture>
+    </Pictures>
     <RichDetails>
       <ParkingTypes>
         <ParkingType>Surface</ParkingType>
+        <ParkingType>Underground</ParkingType>
       </ParkingTypes>
-      <CoolingSystems>
-        <CoolingSystem>None</CoolingSystem>
-      </CoolingSystems>
+      <Appliances>
+        <Appliance>Elevator</Appliance>
+        <Appliance>Storage Lockers</Appliance>
+        <Appliance>Fridge</Appliance>
+        <Appliance>Oven/Stove</Appliance>
+      </Appliances>
       <Fireplace>No</Fireplace>
-      <UtilitiesIncluded>Not included</UtilitiesIncluded>
+      <UtilitiesIncluded>Heat | Water included</UtilitiesIncluded>
     </RichDetails>
   </Listing>
 </Listings>
