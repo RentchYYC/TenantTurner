@@ -67,7 +67,7 @@ def fetch_rentfaster_listings(user_id: str, city: str, province: str) -> list:
     while True:
         url = (
             f"https://www.rentfaster.ca/api/search.json"
-            f"?cur_page={page}&user_id={user_id}"
+            f"?cur_page={page}&user_ID={user_id}"
         )
         try:
             response = requests.get(url, cookies=cookies, headers=headers, timeout=15)
