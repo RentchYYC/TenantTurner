@@ -1,61 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <Listings>
   <Listing>
-    <ID>732110</ID>
-    <Location>
-      <StreetAddress>227 26 Avenue NE</StreetAddress>
-      <City>Calgary</City>
-      <State>AB</State>
-      <Zip>T2S 0J1</Zip>
-      <DisplayAddress>Yes</DisplayAddress>
-    </Location>
-    <ListingDetails>
-      <Status>Active</Status>
-      <Price>2950</Price>
-      <ListingUrl>https://www.rentfaster.ca/properties/227-26-avenue-ne-calgary-732110</ListingUrl>
-      <ProviderListingId>732110</ProviderListingId>
-      <ApplicationUrl>https://app.tenantturner.com/qualify/select-time/227-26-avenue-ne?p=TenantTurner</ApplicationUrl>
-    </ListingDetails>
-    <RentalDetails>
-      <Availability>Immediate</Availability>
-      <LeaseTerm>12 Months</LeaseTerm>
-      <DepositFees>2950</DepositFees>
-      <PetsAllowed>
-        <NoPets>No</NoPets>
-        <Cats>Yes</Cats>
-        <SmallDogs>Yes</SmallDogs>
-        <LargeDogs>No</LargeDogs>
-      </PetsAllowed>
-    </RentalDetails>
-    <BasicDetails>
-      <PropertyType>Townhouse</PropertyType>
-      <Title>Brand New 3 Bedroom Townhomes For Rent</Title>
-      <Description/>
-      <Bedrooms>3</Bedrooms>
-      <Bathrooms>2.5</Bathrooms>
-      <LivingArea>1600</LivingArea>
-    </BasicDetails>
-    <Pictures>
-      <Picture>
-        <PictureUrl>https://rf-images-prod-bcdn.rentfaster.ca/732110/slide_16890323.v.aedd1b22e3ac7d8975717d3b9e0c1bd8.jpg</PictureUrl>
-        <Caption>Brand New 3 Bedroom Townhomes For Rent - Photo 1</Caption>
-      </Picture>
-    </Pictures>
-    <RichDetails>
-      <ParkingTypes>
-        <ParkingType>Garage</ParkingType>
-      </ParkingTypes>
-      <Appliances>
-        <Appliance>Fridge</Appliance>
-        <Appliance>Oven/Stove</Appliance>
-        <Appliance>Laundry - In Suite</Appliance>
-        <Appliance>Dishwasher</Appliance>
-      </Appliances>
-      <Fireplace>No</Fireplace>
-      <UtilitiesIncluded>Not included</UtilitiesIncluded>
-    </RichDetails>
-  </Listing>
-  <Listing>
     <ID>708680</ID>
     <Location>
       <StreetAddress>710 25 Street NW</StreetAddress>
@@ -157,6 +102,61 @@
     </RichDetails>
   </Listing>
   <Listing>
+    <ID>732110</ID>
+    <Location>
+      <StreetAddress>227 26 Avenue NE</StreetAddress>
+      <City>Calgary</City>
+      <State>AB</State>
+      <Zip>T2S 0J1</Zip>
+      <DisplayAddress>Yes</DisplayAddress>
+    </Location>
+    <ListingDetails>
+      <Status>Active</Status>
+      <Price>2950</Price>
+      <ListingUrl>https://www.rentfaster.ca/properties/227-26-avenue-ne-calgary-732110</ListingUrl>
+      <ProviderListingId>732110</ProviderListingId>
+      <ApplicationUrl>https://app.tenantturner.com/qualify/select-time/227-26-avenue-ne?p=TenantTurner</ApplicationUrl>
+    </ListingDetails>
+    <RentalDetails>
+      <Availability>Immediate</Availability>
+      <LeaseTerm>12 Months</LeaseTerm>
+      <DepositFees>2950</DepositFees>
+      <PetsAllowed>
+        <NoPets>No</NoPets>
+        <Cats>Yes</Cats>
+        <SmallDogs>Yes</SmallDogs>
+        <LargeDogs>No</LargeDogs>
+      </PetsAllowed>
+    </RentalDetails>
+    <BasicDetails>
+      <PropertyType>Townhouse</PropertyType>
+      <Title>Brand New 3 Bedroom Townhomes For Rent</Title>
+      <Description/>
+      <Bedrooms>3</Bedrooms>
+      <Bathrooms>2.5</Bathrooms>
+      <LivingArea>1600</LivingArea>
+    </BasicDetails>
+    <Pictures>
+      <Picture>
+        <PictureUrl>https://rf-images-prod-bcdn.rentfaster.ca/732110/slide_16890323.v.aedd1b22e3ac7d8975717d3b9e0c1bd8.jpg</PictureUrl>
+        <Caption>Brand New 3 Bedroom Townhomes For Rent - Photo 1</Caption>
+      </Picture>
+    </Pictures>
+    <RichDetails>
+      <ParkingTypes>
+        <ParkingType>Garage</ParkingType>
+      </ParkingTypes>
+      <Appliances>
+        <Appliance>Fridge</Appliance>
+        <Appliance>Oven/Stove</Appliance>
+        <Appliance>Laundry - In Suite</Appliance>
+        <Appliance>Dishwasher</Appliance>
+      </Appliances>
+      <Fireplace>No</Fireplace>
+      <UtilitiesIncluded>Not included</UtilitiesIncluded>
+    </RichDetails>
+  </Listing>
+  <Listing>
     <ID>722646</ID>
     <Location>
       <StreetAddress>310 15 Avenue SW</StreetAddress>
@@ -209,6 +209,54 @@
       </Appliances>
       <Fireplace>No</Fireplace>
       <UtilitiesIncluded>Heat | Water included</UtilitiesIncluded>
+    </RichDetails>
+  </Listing>
+  <Listing>
+    <ID>604744</ID>
+    <Location>
+      <StreetAddress>2419 16 Street SW</StreetAddress>
+      <City>Calgary</City>
+      <State>AB</State>
+      <Zip>T2T 1C8</Zip>
+      <DisplayAddress>Yes</DisplayAddress>
+    </Location>
+    <ListingDetails>
+      <Status>Active</Status>
+      <Price/>
+      <ListingUrl>https://www.rentfaster.ca/properties/2419-16-street-sw-calgary-604744</ListingUrl>
+      <ProviderListingId>604744</ProviderListingId>
+      <ApplicationUrl>https://app.tenantturner.com/qualify/select-time/2419-16-street-sw?p=TenantTurner</ApplicationUrl>
+    </ListingDetails>
+    <RentalDetails>
+      <Availability>Call for Availability</Availability>
+      <LeaseTerm>12 Months</LeaseTerm>
+      <DepositFees/>
+      <PetsAllowed>
+        <NoPets>Yes</NoPets>
+        <Cats>No</Cats>
+        <SmallDogs>No</SmallDogs>
+        <LargeDogs>No</LargeDogs>
+      </PetsAllowed>
+    </RentalDetails>
+    <BasicDetails>
+      <PropertyType>Apartment</PropertyType>
+      <Title>1 Bedroom 1 Bath Apartment in Bankview including parking and internet!</Title>
+      <Description/>
+      <Bedrooms/>
+      <Bathrooms/>
+    </BasicDetails>
+    <Pictures>
+      <Picture>
+        <PictureUrl>https://rf-images-prod-bcdn.rentfaster.ca/604744/slide_16952861.v.3c961be3e864b73c3fbab8830f700f51.jpg</PictureUrl>
+        <Caption>1 Bedroom 1 Bath Apartment in Bankview including parking and internet! - Photo 1</Caption>
+      </Picture>
+    </Pictures>
+    <RichDetails>
+      <ParkingTypes>
+        <ParkingType>Surface</ParkingType>
+      </ParkingTypes>
+      <Fireplace>No</Fireplace>
+      <UtilitiesIncluded>Not included</UtilitiesIncluded>
     </RichDetails>
   </Listing>
   <Listing>
@@ -304,61 +352,6 @@
     </RichDetails>
   </Listing>
   <Listing>
-    <ID>702335</ID>
-    <Location>
-      <StreetAddress>712 25 Street NW</StreetAddress>
-      <City>Calgary</City>
-      <State>AB</State>
-      <Zip>T2N 5A7</Zip>
-      <DisplayAddress>Yes</DisplayAddress>
-    </Location>
-    <ListingDetails>
-      <Status>Active</Status>
-      <Price>2750</Price>
-      <ListingUrl>https://www.rentfaster.ca/properties/712-25-street-nw-calgary-702335</ListingUrl>
-      <ProviderListingId>702335</ProviderListingId>
-      <ApplicationUrl>https://app.tenantturner.com/qualify/select-time/712-25-street-nw?p=TenantTurner</ApplicationUrl>
-    </ListingDetails>
-    <RentalDetails>
-      <Availability>Immediate</Availability>
-      <LeaseTerm>12 Months</LeaseTerm>
-      <DepositFees>2750</DepositFees>
-      <PetsAllowed>
-        <NoPets>No</NoPets>
-        <Cats>Yes</Cats>
-        <SmallDogs>Yes</SmallDogs>
-        <LargeDogs>No</LargeDogs>
-      </PetsAllowed>
-    </RentalDetails>
-    <BasicDetails>
-      <PropertyType>Townhouse</PropertyType>
-      <Title>Brand New, 3 Bed, 2.5 Bath Townhomes For Rent in West Hillhusrt! </Title>
-      <Description/>
-      <Bedrooms>3</Bedrooms>
-      <Bathrooms>2.5</Bathrooms>
-      <LivingArea>1550</LivingArea>
-    </BasicDetails>
-    <Pictures>
-      <Picture>
-        <PictureUrl>https://rf-images-prod-bcdn.rentfaster.ca/702335/slide_16958640.v.e14a6935cfcd0ebc139c8744c0abaf37.jpg</PictureUrl>
-        <Caption>Brand New, 3 Bed, 2.5 Bath Townhomes For Rent in West Hillhusrt!  - Photo 1</Caption>
-      </Picture>
-    </Pictures>
-    <RichDetails>
-      <ParkingTypes>
-        <ParkingType>Garage</ParkingType>
-      </ParkingTypes>
-      <Appliances>
-        <Appliance>Fridge</Appliance>
-        <Appliance>Oven/Stove</Appliance>
-        <Appliance>Laundry - In Suite</Appliance>
-        <Appliance>Dishwasher</Appliance>
-      </Appliances>
-      <Fireplace>No</Fireplace>
-      <UtilitiesIncluded>Not included</UtilitiesIncluded>
-    </RichDetails>
-  </Listing>
-  <Listing>
     <ID>656763</ID>
     <Location>
       <StreetAddress>1320 1st Street SE</StreetAddress>
@@ -414,49 +407,56 @@
     </RichDetails>
   </Listing>
   <Listing>
-    <ID>604744</ID>
+    <ID>702335</ID>
     <Location>
-      <StreetAddress>2419 16 Street SW</StreetAddress>
+      <StreetAddress>712 25 Street NW</StreetAddress>
       <City>Calgary</City>
       <State>AB</State>
-      <Zip>T2T 1C8</Zip>
+      <Zip>T2N 5A7</Zip>
       <DisplayAddress>Yes</DisplayAddress>
     </Location>
     <ListingDetails>
       <Status>Active</Status>
-      <Price/>
-      <ListingUrl>https://www.rentfaster.ca/properties/2419-16-street-sw-calgary-604744</ListingUrl>
-      <ProviderListingId>604744</ProviderListingId>
-      <ApplicationUrl>https://app.tenantturner.com/qualify/select-time/2419-16-street-sw?p=TenantTurner</ApplicationUrl>
+      <Price>2750</Price>
+      <ListingUrl>https://www.rentfaster.ca/properties/712-25-street-nw-calgary-702335</ListingUrl>
+      <ProviderListingId>702335</ProviderListingId>
+      <ApplicationUrl>https://app.tenantturner.com/qualify/select-time/712-25-street-nw?p=TenantTurner</ApplicationUrl>
     </ListingDetails>
     <RentalDetails>
-      <Availability>Call for Availability</Availability>
+      <Availability>Immediate</Availability>
       <LeaseTerm>12 Months</LeaseTerm>
-      <DepositFees/>
+      <DepositFees>2750</DepositFees>
       <PetsAllowed>
-        <NoPets>Yes</NoPets>
-        <Cats>No</Cats>
-        <SmallDogs>No</SmallDogs>
+        <NoPets>No</NoPets>
+        <Cats>Yes</Cats>
+        <SmallDogs>Yes</SmallDogs>
         <LargeDogs>No</LargeDogs>
       </PetsAllowed>
     </RentalDetails>
     <BasicDetails>
-      <PropertyType>Apartment</PropertyType>
-      <Title>1 Bedroom 1 Bath Apartment in Bankview including parking and internet!</Title>
+      <PropertyType>Townhouse</PropertyType>
+      <Title>Brand New, 3 Bed, 2.5 Bath Townhomes For Rent in West Hillhusrt! </Title>
       <Description/>
-      <Bedrooms/>
-      <Bathrooms/>
+      <Bedrooms>3</Bedrooms>
+      <Bathrooms>2.5</Bathrooms>
+      <LivingArea>1550</LivingArea>
     </BasicDetails>
     <Pictures>
       <Picture>
-        <PictureUrl>https://rf-images-prod-bcdn.rentfaster.ca/604744/slide_16952861.v.3c961be3e864b73c3fbab8830f700f51.jpg</PictureUrl>
-        <Caption>1 Bedroom 1 Bath Apartment in Bankview including parking and internet! - Photo 1</Caption>
+        <PictureUrl>https://rf-images-prod-bcdn.rentfaster.ca/702335/slide_16958640.v.e14a6935cfcd0ebc139c8744c0abaf37.jpg</PictureUrl>
+        <Caption>Brand New, 3 Bed, 2.5 Bath Townhomes For Rent in West Hillhusrt!  - Photo 1</Caption>
       </Picture>
     </Pictures>
     <RichDetails>
       <ParkingTypes>
-        <ParkingType>Surface</ParkingType>
+        <ParkingType>Garage</ParkingType>
       </ParkingTypes>
+      <Appliances>
+        <Appliance>Fridge</Appliance>
+        <Appliance>Oven/Stove</Appliance>
+        <Appliance>Laundry - In Suite</Appliance>
+        <Appliance>Dishwasher</Appliance>
+      </Appliances>
       <Fireplace>No</Fireplace>
       <UtilitiesIncluded>Not included</UtilitiesIncluded>
     </RichDetails>
@@ -514,6 +514,110 @@
       </Appliances>
       <Fireplace>No</Fireplace>
       <UtilitiesIncluded>Heat | Water included</UtilitiesIncluded>
+    </RichDetails>
+  </Listing>
+  <Listing>
+    <ID>736774</ID>
+    <Location>
+      <StreetAddress>1105 4 Street NE</StreetAddress>
+      <City>Calgary</City>
+      <State>AB</State>
+      <Zip>T2E 3T5</Zip>
+      <DisplayAddress>Yes</DisplayAddress>
+    </Location>
+    <ListingDetails>
+      <Status>Active</Status>
+      <Price>3500</Price>
+      <ListingUrl>https://www.rentfaster.ca/properties/1105-4-street-ne-calgary-736774</ListingUrl>
+      <ProviderListingId>736774</ProviderListingId>
+      <ApplicationUrl>https://app.tenantturner.com/qualify/select-time/1105-4-street-ne?p=TenantTurner</ApplicationUrl>
+    </ListingDetails>
+    <RentalDetails>
+      <Availability>June 01</Availability>
+      <LeaseTerm>12 Months</LeaseTerm>
+      <DepositFees>3500</DepositFees>
+      <PetsAllowed>
+        <NoPets>Yes</NoPets>
+        <Cats>No</Cats>
+        <SmallDogs>No</SmallDogs>
+        <LargeDogs>No</LargeDogs>
+      </PetsAllowed>
+    </RentalDetails>
+    <BasicDetails>
+      <PropertyType>Townhouse</PropertyType>
+      <Title>Meticulously crafted modern 3 Bedroom townhouse in Renfrew</Title>
+      <Description/>
+      <Bedrooms>3</Bedrooms>
+      <Bathrooms>2.5</Bathrooms>
+      <LivingArea>1800</LivingArea>
+    </BasicDetails>
+    <Pictures>
+      <Picture>
+        <PictureUrl>https://rf-images-prod-bcdn.rentfaster.ca/736774/slide_16994925.v.3590a41ed93d8af1cef7472fad29ad68.jpg</PictureUrl>
+        <Caption>Meticulously crafted modern 3 Bedroom townhouse in Renfrew - Photo 1</Caption>
+      </Picture>
+    </Pictures>
+    <RichDetails>
+      <ParkingTypes>
+        <ParkingType>Garage</ParkingType>
+      </ParkingTypes>
+      <Appliances>
+        <Appliance>Air Conditioning</Appliance>
+        <Appliance>Fridge</Appliance>
+        <Appliance>Oven/Stove</Appliance>
+        <Appliance>Laundry - In Suite</Appliance>
+      </Appliances>
+      <Fireplace>No</Fireplace>
+      <UtilitiesIncluded>Internet | Heat | Water | Electricity included</UtilitiesIncluded>
+    </RichDetails>
+  </Listing>
+  <Listing>
+    <ID>738281</ID>
+    <Location>
+      <StreetAddress>815 17 Avenue NW</StreetAddress>
+      <City>Calgary</City>
+      <State>AB</State>
+      <Zip>T2M 0P1</Zip>
+      <DisplayAddress>Yes</DisplayAddress>
+    </Location>
+    <ListingDetails>
+      <Status>Active</Status>
+      <Price>2800</Price>
+      <ListingUrl>https://www.rentfaster.ca/properties/815-17-avenue-nw-calgary-738281</ListingUrl>
+      <ProviderListingId>738281</ProviderListingId>
+      <ApplicationUrl>https://app.tenantturner.com/qualify/select-time/815-17-avenue-nw?p=TenantTurner</ApplicationUrl>
+    </ListingDetails>
+    <RentalDetails>
+      <Availability>June 01</Availability>
+      <LeaseTerm>12 Months</LeaseTerm>
+      <DepositFees>2800</DepositFees>
+      <PetsAllowed>
+        <NoPets>No</NoPets>
+        <Cats>Yes</Cats>
+        <SmallDogs>Yes</SmallDogs>
+        <LargeDogs>No</LargeDogs>
+      </PetsAllowed>
+    </RentalDetails>
+    <BasicDetails>
+      <PropertyType>Townhouse</PropertyType>
+      <Title>Brand New 3 Bed, 2.5 Bath, 3 Storey Mount Pleasant Townhomes for Rent</Title>
+      <Description/>
+      <Bedrooms>3</Bedrooms>
+      <Bathrooms>2.5</Bathrooms>
+      <LivingArea>1500</LivingArea>
+    </BasicDetails>
+    <Pictures>
+      <Picture>
+        <PictureUrl>https://rf-images-prod-bcdn.rentfaster.ca/738281/slide_17050188.v.9b9549efd862e0eeb126fe0576cc330b.jpg</PictureUrl>
+        <Caption>Brand New 3 Bed, 2.5 Bath, 3 Storey Mount Pleasant Townhomes for Rent - Photo 1</Caption>
+      </Picture>
+    </Pictures>
+    <RichDetails>
+      <ParkingTypes>
+        <ParkingType>Surface</ParkingType>
+      </ParkingTypes>
+      <Fireplace>No</Fireplace>
+      <UtilitiesIncluded>Not included</UtilitiesIncluded>
     </RichDetails>
   </Listing>
   <Listing>
@@ -683,110 +787,6 @@
     </RichDetails>
   </Listing>
   <Listing>
-    <ID>672832</ID>
-    <Location>
-      <StreetAddress>110 18A Street NW</StreetAddress>
-      <City>Calgary</City>
-      <State>AB</State>
-      <Zip>T2S 0J1</Zip>
-      <DisplayAddress>Yes</DisplayAddress>
-    </Location>
-    <ListingDetails>
-      <Status>Active</Status>
-      <Price>2450</Price>
-      <ListingUrl>https://www.rentfaster.ca/properties/110-18a-street-nw-calgary-672832</ListingUrl>
-      <ProviderListingId>672832</ProviderListingId>
-      <ApplicationUrl>https://app.tenantturner.com/qualify/select-time/110-18a-street-nw?p=TenantTurner</ApplicationUrl>
-    </ListingDetails>
-    <RentalDetails>
-      <Availability>June 01</Availability>
-      <LeaseTerm>12 Months</LeaseTerm>
-      <DepositFees>2450</DepositFees>
-      <PetsAllowed>
-        <NoPets>No</NoPets>
-        <Cats>Yes</Cats>
-        <SmallDogs>Yes</SmallDogs>
-        <LargeDogs>No</LargeDogs>
-      </PetsAllowed>
-    </RentalDetails>
-    <BasicDetails>
-      <PropertyType>Condo</PropertyType>
-      <Title>2 Bed 2 Bath in The Frontier, a boutique concrete residence  in the desirable community of West Hillhurst, just steps fr</Title>
-      <Description/>
-      <Bedrooms>2</Bedrooms>
-      <Bathrooms>2</Bathrooms>
-      <LivingArea>840</LivingArea>
-    </BasicDetails>
-    <Pictures>
-      <Picture>
-        <PictureUrl>https://rf-images-prod-bcdn.rentfaster.ca/672832/slide_17210873.v.5af0160dc7bbf67aae8ba69da7f9620f.jpg</PictureUrl>
-        <Caption>2 Bed 2 Bath in The Frontier, a boutique concrete residence  in the desirable community of West Hillhurst, just steps fr - Photo 1</Caption>
-      </Picture>
-    </Pictures>
-    <RichDetails>
-      <ParkingTypes>
-        <ParkingType>Underground</ParkingType>
-      </ParkingTypes>
-      <Appliances>
-        <Appliance>Elevator</Appliance>
-        <Appliance>Storage Lockers</Appliance>
-        <Appliance>Air Conditioning</Appliance>
-        <Appliance>Fridge</Appliance>
-      </Appliances>
-      <Fireplace>No</Fireplace>
-      <UtilitiesIncluded>Heat | Water included</UtilitiesIncluded>
-    </RichDetails>
-  </Listing>
-  <Listing>
-    <ID>738281</ID>
-    <Location>
-      <StreetAddress>815 17 Avenue NW</StreetAddress>
-      <City>Calgary</City>
-      <State>AB</State>
-      <Zip>T2M 0P1</Zip>
-      <DisplayAddress>Yes</DisplayAddress>
-    </Location>
-    <ListingDetails>
-      <Status>Active</Status>
-      <Price>2800</Price>
-      <ListingUrl>https://www.rentfaster.ca/properties/815-17-avenue-nw-calgary-738281</ListingUrl>
-      <ProviderListingId>738281</ProviderListingId>
-      <ApplicationUrl>https://app.tenantturner.com/qualify/select-time/815-17-avenue-nw?p=TenantTurner</ApplicationUrl>
-    </ListingDetails>
-    <RentalDetails>
-      <Availability>June 01</Availability>
-      <LeaseTerm>12 Months</LeaseTerm>
-      <DepositFees>2800</DepositFees>
-      <PetsAllowed>
-        <NoPets>No</NoPets>
-        <Cats>Yes</Cats>
-        <SmallDogs>Yes</SmallDogs>
-        <LargeDogs>No</LargeDogs>
-      </PetsAllowed>
-    </RentalDetails>
-    <BasicDetails>
-      <PropertyType>Townhouse</PropertyType>
-      <Title>Brand New 3 Bed, 2.5 Bath, 3 Storey Mount Pleasant Townhomes for Rent</Title>
-      <Description/>
-      <Bedrooms>3</Bedrooms>
-      <Bathrooms>2.5</Bathrooms>
-      <LivingArea>1500</LivingArea>
-    </BasicDetails>
-    <Pictures>
-      <Picture>
-        <PictureUrl>https://rf-images-prod-bcdn.rentfaster.ca/738281/slide_17050188.v.9b9549efd862e0eeb126fe0576cc330b.jpg</PictureUrl>
-        <Caption>Brand New 3 Bed, 2.5 Bath, 3 Storey Mount Pleasant Townhomes for Rent - Photo 1</Caption>
-      </Picture>
-    </Pictures>
-    <RichDetails>
-      <ParkingTypes>
-        <ParkingType>Surface</ParkingType>
-      </ParkingTypes>
-      <Fireplace>No</Fireplace>
-      <UtilitiesIncluded>Not included</UtilitiesIncluded>
-    </RichDetails>
-  </Listing>
-  <Listing>
     <ID>736773</ID>
     <Location>
       <StreetAddress>201 20 Avenue NE</StreetAddress>
@@ -842,58 +842,58 @@
     </RichDetails>
   </Listing>
   <Listing>
-    <ID>736774</ID>
+    <ID>672832</ID>
     <Location>
-      <StreetAddress>1105 4 Street NE</StreetAddress>
+      <StreetAddress>110 18A Street NW</StreetAddress>
       <City>Calgary</City>
       <State>AB</State>
-      <Zip>T2E 3T5</Zip>
+      <Zip>T2S 0J1</Zip>
       <DisplayAddress>Yes</DisplayAddress>
     </Location>
     <ListingDetails>
       <Status>Active</Status>
-      <Price>3500</Price>
-      <ListingUrl>https://www.rentfaster.ca/properties/1105-4-street-ne-calgary-736774</ListingUrl>
-      <ProviderListingId>736774</ProviderListingId>
-      <ApplicationUrl>https://app.tenantturner.com/qualify/select-time/1105-4-street-ne?p=TenantTurner</ApplicationUrl>
+      <Price>2450</Price>
+      <ListingUrl>https://www.rentfaster.ca/properties/110-18a-street-nw-calgary-672832</ListingUrl>
+      <ProviderListingId>672832</ProviderListingId>
+      <ApplicationUrl>https://app.tenantturner.com/qualify/select-time/110-18a-street-nw?p=TenantTurner</ApplicationUrl>
     </ListingDetails>
     <RentalDetails>
       <Availability>June 01</Availability>
       <LeaseTerm>12 Months</LeaseTerm>
-      <DepositFees>3500</DepositFees>
+      <DepositFees>2450</DepositFees>
       <PetsAllowed>
-        <NoPets>Yes</NoPets>
-        <Cats>No</Cats>
-        <SmallDogs>No</SmallDogs>
+        <NoPets>No</NoPets>
+        <Cats>Yes</Cats>
+        <SmallDogs>Yes</SmallDogs>
         <LargeDogs>No</LargeDogs>
       </PetsAllowed>
     </RentalDetails>
     <BasicDetails>
-      <PropertyType>Townhouse</PropertyType>
-      <Title>Meticulously crafted modern 3 Bedroom townhouse in Renfrew</Title>
+      <PropertyType>Condo</PropertyType>
+      <Title>2 Bed 2 Bath in The Frontier, a boutique concrete residence  in the desirable community of West Hillhurst, just steps fr</Title>
       <Description/>
-      <Bedrooms>3</Bedrooms>
-      <Bathrooms>2.5</Bathrooms>
-      <LivingArea>1800</LivingArea>
+      <Bedrooms>2</Bedrooms>
+      <Bathrooms>2</Bathrooms>
+      <LivingArea>840</LivingArea>
     </BasicDetails>
     <Pictures>
       <Picture>
-        <PictureUrl>https://rf-images-prod-bcdn.rentfaster.ca/736774/slide_16994925.v.3590a41ed93d8af1cef7472fad29ad68.jpg</PictureUrl>
-        <Caption>Meticulously crafted modern 3 Bedroom townhouse in Renfrew - Photo 1</Caption>
+        <PictureUrl>https://rf-images-prod-bcdn.rentfaster.ca/672832/slide_17210873.v.5af0160dc7bbf67aae8ba69da7f9620f.jpg</PictureUrl>
+        <Caption>2 Bed 2 Bath in The Frontier, a boutique concrete residence  in the desirable community of West Hillhurst, just steps fr - Photo 1</Caption>
       </Picture>
     </Pictures>
     <RichDetails>
       <ParkingTypes>
-        <ParkingType>Garage</ParkingType>
+        <ParkingType>Underground</ParkingType>
       </ParkingTypes>
       <Appliances>
+        <Appliance>Elevator</Appliance>
+        <Appliance>Storage Lockers</Appliance>
         <Appliance>Air Conditioning</Appliance>
         <Appliance>Fridge</Appliance>
-        <Appliance>Oven/Stove</Appliance>
-        <Appliance>Laundry - In Suite</Appliance>
       </Appliances>
       <Fireplace>No</Fireplace>
-      <UtilitiesIncluded>Internet | Heat | Water | Electricity included</UtilitiesIncluded>
+      <UtilitiesIncluded>Heat | Water included</UtilitiesIncluded>
     </RichDetails>
   </Listing>
 </Listings>
