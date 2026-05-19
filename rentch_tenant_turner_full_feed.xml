@@ -1,116 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <Listings>
   <Listing>
-    <ID>740087</ID>
-    <Location>
-      <StreetAddress>69 Springborough Court SW</StreetAddress>
-      <City>Calgary</City>
-      <State>AB</State>
-      <Zip>T2S 0J1</Zip>
-      <DisplayAddress>Yes</DisplayAddress>
-    </Location>
-    <ListingDetails>
-      <Status>Active</Status>
-      <Price>2250</Price>
-      <ListingUrl>https://www.rentfaster.ca/properties/69-springborough-court-sw-calgary-740087</ListingUrl>
-      <ProviderListingId>740087</ProviderListingId>
-      <ApplicationUrl>https://app.tenantturner.com/qualify/select-time/69-springborough-court-sw?p=TenantTurner</ApplicationUrl>
-    </ListingDetails>
-    <RentalDetails>
-      <Availability>Immediate</Availability>
-      <LeaseTerm>12 Months</LeaseTerm>
-      <DepositFees>2250</DepositFees>
-      <PetsAllowed>
-        <NoPets>No</NoPets>
-        <Cats>Yes</Cats>
-        <SmallDogs>Yes</SmallDogs>
-        <LargeDogs>No</LargeDogs>
-      </PetsAllowed>
-    </RentalDetails>
-    <BasicDetails>
-      <PropertyType>Condo</PropertyType>
-      <Title>Welcome to this beautifully renovated and move-in ready 2 bed, 2 bath ground-floor unit in an unbeatable location!</Title>
-      <Description/>
-      <Bedrooms>2</Bedrooms>
-      <Bathrooms>2</Bathrooms>
-      <LivingArea>850</LivingArea>
-    </BasicDetails>
-    <Pictures>
-      <Picture>
-        <PictureUrl>https://rf-images-prod-bcdn.rentfaster.ca/740087/slide_17125375.v.a848283e5959aa8ea830299557eff0cd.jpg</PictureUrl>
-        <Caption>Welcome to this beautifully renovated and move-in ready 2 bed, 2 bath ground-floor unit in an unbeatable location! - Photo 1</Caption>
-      </Picture>
-    </Pictures>
-    <RichDetails>
-      <ParkingTypes>
-        <ParkingType>Underground</ParkingType>
-      </ParkingTypes>
-      <Appliances>
-        <Appliance>Storage Lockers</Appliance>
-        <Appliance>Fridge</Appliance>
-        <Appliance>Oven/Stove</Appliance>
-        <Appliance>Laundry - In Suite</Appliance>
-      </Appliances>
-      <Fireplace>No</Fireplace>
-      <UtilitiesIncluded>Heat | Water included</UtilitiesIncluded>
-    </RichDetails>
-  </Listing>
-  <Listing>
-    <ID>640415</ID>
-    <Location>
-      <StreetAddress>628 56 Avenue SW</StreetAddress>
-      <City>Calgary</City>
-      <State>AB</State>
-      <Zip>T2V 0G8</Zip>
-      <DisplayAddress>Yes</DisplayAddress>
-    </Location>
-    <ListingDetails>
-      <Status>Active</Status>
-      <Price>2000</Price>
-      <ListingUrl>https://www.rentfaster.ca/properties/628-56-avenue-sw-calgary-640415</ListingUrl>
-      <ProviderListingId>640415</ProviderListingId>
-      <ApplicationUrl>https://app.tenantturner.com/qualify/select-time/628-56-avenue-sw?p=TenantTurner</ApplicationUrl>
-    </ListingDetails>
-    <RentalDetails>
-      <Availability>Immediate</Availability>
-      <LeaseTerm>12 Months</LeaseTerm>
-      <DepositFees>2000</DepositFees>
-      <PetsAllowed>
-        <NoPets>No</NoPets>
-        <Cats>Yes</Cats>
-        <SmallDogs>Yes</SmallDogs>
-        <LargeDogs>No</LargeDogs>
-      </PetsAllowed>
-    </RentalDetails>
-    <BasicDetails>
-      <PropertyType>Condo</PropertyType>
-      <Title>Upper Floor 2 Bed 2.5 Bath in Windsor Park</Title>
-      <Description/>
-      <Bedrooms>2</Bedrooms>
-      <Bathrooms>2.5</Bathrooms>
-      <LivingArea>1050</LivingArea>
-    </BasicDetails>
-    <Pictures>
-      <Picture>
-        <PictureUrl>https://rf-images-prod-bcdn.rentfaster.ca/640415/slide_13498471.v.d531c86532885886e73d0b9c23772727.jpg</PictureUrl>
-        <Caption>Upper Floor 2 Bed 2.5 Bath in Windsor Park - Photo 1</Caption>
-      </Picture>
-    </Pictures>
-    <RichDetails>
-      <ParkingTypes>
-        <ParkingType>Underground</ParkingType>
-      </ParkingTypes>
-      <Appliances>
-        <Appliance>Storage Lockers</Appliance>
-        <Appliance>Fridge</Appliance>
-        <Appliance>Oven/Stove</Appliance>
-        <Appliance>Laundry - In Suite</Appliance>
-      </Appliances>
-      <Fireplace>No</Fireplace>
-      <UtilitiesIncluded>Not included</UtilitiesIncluded>
-    </RichDetails>
-  </Listing>
-  <Listing>
     <ID>743660</ID>
     <Location>
       <StreetAddress>515 17 Avenue NW</StreetAddress>
@@ -163,61 +53,6 @@
       </Appliances>
       <Fireplace>No</Fireplace>
       <UtilitiesIncluded>Not included</UtilitiesIncluded>
-    </RichDetails>
-  </Listing>
-  <Listing>
-    <ID>722646</ID>
-    <Location>
-      <StreetAddress>310 15 Avenue SW</StreetAddress>
-      <City>Calgary</City>
-      <State>AB</State>
-      <Zip>T2R 1S9</Zip>
-      <DisplayAddress>Yes</DisplayAddress>
-    </Location>
-    <ListingDetails>
-      <Status>Active</Status>
-      <Price>1950</Price>
-      <ListingUrl>https://www.rentfaster.ca/properties/310-15-avenue-sw-calgary-722646</ListingUrl>
-      <ProviderListingId>722646</ProviderListingId>
-      <ApplicationUrl>https://app.tenantturner.com/qualify/select-time/310-15-avenue-sw?p=TenantTurner</ApplicationUrl>
-    </ListingDetails>
-    <RentalDetails>
-      <Availability>Immediate</Availability>
-      <LeaseTerm>12 Months</LeaseTerm>
-      <DepositFees>1950</DepositFees>
-      <PetsAllowed>
-        <NoPets>No</NoPets>
-        <Cats>Yes</Cats>
-        <SmallDogs>Yes</SmallDogs>
-        <LargeDogs>No</LargeDogs>
-      </PetsAllowed>
-    </RentalDetails>
-    <BasicDetails>
-      <PropertyType>Condo</PropertyType>
-      <Title>Brand New, 2 Bed 2 Bath, in the Broward, UG Parking and Amazing Roof Top Patio!!</Title>
-      <Description/>
-      <Bedrooms>2</Bedrooms>
-      <Bathrooms>2</Bathrooms>
-      <LivingArea>700</LivingArea>
-    </BasicDetails>
-    <Pictures>
-      <Picture>
-        <PictureUrl>https://rf-images-prod-bcdn.rentfaster.ca/722646/slide_17161062.v.2c75a7ace4339120c6df77a8fbe37887.jpg</PictureUrl>
-        <Caption>Brand New, 2 Bed 2 Bath, in the Broward, UG Parking and Amazing Roof Top Patio!! - Photo 1</Caption>
-      </Picture>
-    </Pictures>
-    <RichDetails>
-      <ParkingTypes>
-        <ParkingType>Underground</ParkingType>
-      </ParkingTypes>
-      <Appliances>
-        <Appliance>Elevator</Appliance>
-        <Appliance>Air Conditioning</Appliance>
-        <Appliance>Fridge</Appliance>
-        <Appliance>Oven/Stove</Appliance>
-      </Appliances>
-      <Fireplace>No</Fireplace>
-      <UtilitiesIncluded>Heat | Water included</UtilitiesIncluded>
     </RichDetails>
   </Listing>
   <Listing>
@@ -322,51 +157,388 @@
     </RichDetails>
   </Listing>
   <Listing>
-    <ID>604744</ID>
+    <ID>740087</ID>
     <Location>
-      <StreetAddress>2419 16 Street SW</StreetAddress>
+      <StreetAddress>69 Springborough Court SW</StreetAddress>
       <City>Calgary</City>
       <State>AB</State>
-      <Zip>T2T 1C8</Zip>
+      <Zip>T2S 0J1</Zip>
       <DisplayAddress>Yes</DisplayAddress>
     </Location>
     <ListingDetails>
       <Status>Active</Status>
-      <Price/>
-      <ListingUrl>https://www.rentfaster.ca/properties/2419-16-street-sw-calgary-604744</ListingUrl>
-      <ProviderListingId>604744</ProviderListingId>
-      <ApplicationUrl>https://app.tenantturner.com/qualify/select-time/2419-16-street-sw?p=TenantTurner</ApplicationUrl>
+      <Price>2250</Price>
+      <ListingUrl>https://www.rentfaster.ca/properties/69-springborough-court-sw-calgary-740087</ListingUrl>
+      <ProviderListingId>740087</ProviderListingId>
+      <ApplicationUrl>https://app.tenantturner.com/qualify/select-time/69-springborough-court-sw?p=TenantTurner</ApplicationUrl>
     </ListingDetails>
     <RentalDetails>
-      <Availability>Call for Availability</Availability>
+      <Availability>Immediate</Availability>
       <LeaseTerm>12 Months</LeaseTerm>
-      <DepositFees/>
+      <DepositFees>2250</DepositFees>
       <PetsAllowed>
-        <NoPets>Yes</NoPets>
-        <Cats>No</Cats>
-        <SmallDogs>No</SmallDogs>
+        <NoPets>No</NoPets>
+        <Cats>Yes</Cats>
+        <SmallDogs>Yes</SmallDogs>
         <LargeDogs>No</LargeDogs>
       </PetsAllowed>
     </RentalDetails>
     <BasicDetails>
-      <PropertyType>Apartment</PropertyType>
-      <Title>1 Bedroom 1 Bath Apartment in Bankview including parking and internet!</Title>
+      <PropertyType>Condo</PropertyType>
+      <Title>Welcome to this beautifully renovated and move-in ready 2 bed, 2 bath ground-floor unit in an unbeatable location!</Title>
       <Description/>
-      <Bedrooms/>
-      <Bathrooms/>
+      <Bedrooms>2</Bedrooms>
+      <Bathrooms>2</Bathrooms>
+      <LivingArea>850</LivingArea>
     </BasicDetails>
     <Pictures>
       <Picture>
-        <PictureUrl>https://rf-images-prod-bcdn.rentfaster.ca/604744/slide_16952861.v.3c961be3e864b73c3fbab8830f700f51.jpg</PictureUrl>
-        <Caption>1 Bedroom 1 Bath Apartment in Bankview including parking and internet! - Photo 1</Caption>
+        <PictureUrl>https://rf-images-prod-bcdn.rentfaster.ca/740087/slide_17125375.v.a848283e5959aa8ea830299557eff0cd.jpg</PictureUrl>
+        <Caption>Welcome to this beautifully renovated and move-in ready 2 bed, 2 bath ground-floor unit in an unbeatable location! - Photo 1</Caption>
+      </Picture>
+    </Pictures>
+    <RichDetails>
+      <ParkingTypes>
+        <ParkingType>Underground</ParkingType>
+      </ParkingTypes>
+      <Appliances>
+        <Appliance>Storage Lockers</Appliance>
+        <Appliance>Fridge</Appliance>
+        <Appliance>Oven/Stove</Appliance>
+        <Appliance>Laundry - In Suite</Appliance>
+      </Appliances>
+      <Fireplace>No</Fireplace>
+      <UtilitiesIncluded>Heat | Water included</UtilitiesIncluded>
+    </RichDetails>
+  </Listing>
+  <Listing>
+    <ID>722646</ID>
+    <Location>
+      <StreetAddress>310 15 Avenue SW</StreetAddress>
+      <City>Calgary</City>
+      <State>AB</State>
+      <Zip>T2R 1S9</Zip>
+      <DisplayAddress>Yes</DisplayAddress>
+    </Location>
+    <ListingDetails>
+      <Status>Active</Status>
+      <Price>1950</Price>
+      <ListingUrl>https://www.rentfaster.ca/properties/310-15-avenue-sw-calgary-722646</ListingUrl>
+      <ProviderListingId>722646</ProviderListingId>
+      <ApplicationUrl>https://app.tenantturner.com/qualify/select-time/310-15-avenue-sw?p=TenantTurner</ApplicationUrl>
+    </ListingDetails>
+    <RentalDetails>
+      <Availability>Immediate</Availability>
+      <LeaseTerm>12 Months</LeaseTerm>
+      <DepositFees>1950</DepositFees>
+      <PetsAllowed>
+        <NoPets>No</NoPets>
+        <Cats>Yes</Cats>
+        <SmallDogs>Yes</SmallDogs>
+        <LargeDogs>No</LargeDogs>
+      </PetsAllowed>
+    </RentalDetails>
+    <BasicDetails>
+      <PropertyType>Condo</PropertyType>
+      <Title>Brand New, 2 Bed 2 Bath, in the Broward, UG Parking and Amazing Roof Top Patio!!</Title>
+      <Description/>
+      <Bedrooms>2</Bedrooms>
+      <Bathrooms>2</Bathrooms>
+      <LivingArea>700</LivingArea>
+    </BasicDetails>
+    <Pictures>
+      <Picture>
+        <PictureUrl>https://rf-images-prod-bcdn.rentfaster.ca/722646/slide_17161062.v.2c75a7ace4339120c6df77a8fbe37887.jpg</PictureUrl>
+        <Caption>Brand New, 2 Bed 2 Bath, in the Broward, UG Parking and Amazing Roof Top Patio!! - Photo 1</Caption>
+      </Picture>
+    </Pictures>
+    <RichDetails>
+      <ParkingTypes>
+        <ParkingType>Underground</ParkingType>
+      </ParkingTypes>
+      <Appliances>
+        <Appliance>Elevator</Appliance>
+        <Appliance>Air Conditioning</Appliance>
+        <Appliance>Fridge</Appliance>
+        <Appliance>Oven/Stove</Appliance>
+      </Appliances>
+      <Fireplace>No</Fireplace>
+      <UtilitiesIncluded>Heat | Water included</UtilitiesIncluded>
+    </RichDetails>
+  </Listing>
+  <Listing>
+    <ID>640415</ID>
+    <Location>
+      <StreetAddress>628 56 Avenue SW</StreetAddress>
+      <City>Calgary</City>
+      <State>AB</State>
+      <Zip>T2V 0G8</Zip>
+      <DisplayAddress>Yes</DisplayAddress>
+    </Location>
+    <ListingDetails>
+      <Status>Active</Status>
+      <Price>2000</Price>
+      <ListingUrl>https://www.rentfaster.ca/properties/628-56-avenue-sw-calgary-640415</ListingUrl>
+      <ProviderListingId>640415</ProviderListingId>
+      <ApplicationUrl>https://app.tenantturner.com/qualify/select-time/628-56-avenue-sw?p=TenantTurner</ApplicationUrl>
+    </ListingDetails>
+    <RentalDetails>
+      <Availability>Immediate</Availability>
+      <LeaseTerm>12 Months</LeaseTerm>
+      <DepositFees>2000</DepositFees>
+      <PetsAllowed>
+        <NoPets>No</NoPets>
+        <Cats>Yes</Cats>
+        <SmallDogs>Yes</SmallDogs>
+        <LargeDogs>No</LargeDogs>
+      </PetsAllowed>
+    </RentalDetails>
+    <BasicDetails>
+      <PropertyType>Condo</PropertyType>
+      <Title>Upper Floor 2 Bed 2.5 Bath in Windsor Park</Title>
+      <Description/>
+      <Bedrooms>2</Bedrooms>
+      <Bathrooms>2.5</Bathrooms>
+      <LivingArea>1050</LivingArea>
+    </BasicDetails>
+    <Pictures>
+      <Picture>
+        <PictureUrl>https://rf-images-prod-bcdn.rentfaster.ca/640415/slide_13498471.v.d531c86532885886e73d0b9c23772727.jpg</PictureUrl>
+        <Caption>Upper Floor 2 Bed 2.5 Bath in Windsor Park - Photo 1</Caption>
+      </Picture>
+    </Pictures>
+    <RichDetails>
+      <ParkingTypes>
+        <ParkingType>Underground</ParkingType>
+      </ParkingTypes>
+      <Appliances>
+        <Appliance>Storage Lockers</Appliance>
+        <Appliance>Fridge</Appliance>
+        <Appliance>Oven/Stove</Appliance>
+        <Appliance>Laundry - In Suite</Appliance>
+      </Appliances>
+      <Fireplace>No</Fireplace>
+      <UtilitiesIncluded>Not included</UtilitiesIncluded>
+    </RichDetails>
+  </Listing>
+  <Listing>
+    <ID>653553</ID>
+    <Location>
+      <StreetAddress>888 4 Avenue SW</StreetAddress>
+      <City>Calgary</City>
+      <State>AB</State>
+      <Zip>T2P 0V2</Zip>
+      <DisplayAddress>Yes</DisplayAddress>
+    </Location>
+    <ListingDetails>
+      <Status>Active</Status>
+      <Price>2650</Price>
+      <ListingUrl>https://www.rentfaster.ca/properties/888-4-avenue-sw-calgary-653553</ListingUrl>
+      <ProviderListingId>653553</ProviderListingId>
+      <ApplicationUrl>https://app.tenantturner.com/qualify/select-time/888-4-avenue-sw?p=TenantTurner</ApplicationUrl>
+    </ListingDetails>
+    <RentalDetails>
+      <Availability>June 01</Availability>
+      <LeaseTerm>12 Months</LeaseTerm>
+      <DepositFees>2650</DepositFees>
+      <PetsAllowed>
+        <NoPets>No</NoPets>
+        <Cats>Yes</Cats>
+        <SmallDogs>Yes</SmallDogs>
+        <LargeDogs>No</LargeDogs>
+      </PetsAllowed>
+    </RentalDetails>
+    <BasicDetails>
+      <PropertyType>Condo</PropertyType>
+      <Title>Beautiful 11th Floor, 2 Bedroom 2 Full Bath Condo in Downtown's West End</Title>
+      <Description/>
+      <Bedrooms>2</Bedrooms>
+      <Bathrooms>2</Bathrooms>
+      <LivingArea>1100</LivingArea>
+    </BasicDetails>
+    <Pictures>
+      <Picture>
+        <PictureUrl>https://rf-images-prod-bcdn.rentfaster.ca/653553/slide_13949379.v.35c55da39d46ed697a92a573581f04d7.jpg</PictureUrl>
+        <Caption>Beautiful 11th Floor, 2 Bedroom 2 Full Bath Condo in Downtown's West End - Photo 1</Caption>
+      </Picture>
+    </Pictures>
+    <RichDetails>
+      <ParkingTypes>
+        <ParkingType>Underground</ParkingType>
+      </ParkingTypes>
+      <Appliances>
+        <Appliance>Elevator</Appliance>
+        <Appliance>Air Conditioning</Appliance>
+        <Appliance>Fridge</Appliance>
+        <Appliance>Hardwood Floors</Appliance>
+      </Appliances>
+      <Fireplace>No</Fireplace>
+      <UtilitiesIncluded>Heat | Water included</UtilitiesIncluded>
+    </RichDetails>
+  </Listing>
+  <Listing>
+    <ID>598482</ID>
+    <Location>
+      <StreetAddress>2306 17a Street SW</StreetAddress>
+      <City>Calgary</City>
+      <State>AB</State>
+      <Zip>T2S 0J1</Zip>
+      <DisplayAddress>Yes</DisplayAddress>
+    </Location>
+    <ListingDetails>
+      <Status>Active</Status>
+      <Price>2850</Price>
+      <ListingUrl>https://www.rentfaster.ca/properties/2306-17a-street-sw-calgary-598482</ListingUrl>
+      <ProviderListingId>598482</ProviderListingId>
+      <ApplicationUrl>https://app.tenantturner.com/qualify/select-time/2306-17a-street-sw?p=TenantTurner</ApplicationUrl>
+    </ListingDetails>
+    <RentalDetails>
+      <Availability>June 01</Availability>
+      <LeaseTerm>12 Months</LeaseTerm>
+      <DepositFees>2850</DepositFees>
+      <PetsAllowed>
+        <NoPets>No</NoPets>
+        <Cats>Yes</Cats>
+        <SmallDogs>Yes</SmallDogs>
+        <LargeDogs>No</LargeDogs>
+      </PetsAllowed>
+    </RentalDetails>
+    <BasicDetails>
+      <PropertyType>Townhouse</PropertyType>
+      <Title>Huge 4 Bdrm 3 Full Bath Stacked Townhouse for Rent in Bankview!</Title>
+      <Description/>
+      <Bedrooms>4</Bedrooms>
+      <Bathrooms>3</Bathrooms>
+      <LivingArea>1800</LivingArea>
+    </BasicDetails>
+    <Pictures>
+      <Picture>
+        <PictureUrl>https://rf-images-prod-bcdn.rentfaster.ca/598482/slide_12895882.v.fa464028938005a90cd3cc46a535a2cd.jpg</PictureUrl>
+        <Caption>Huge 4 Bdrm 3 Full Bath Stacked Townhouse for Rent in Bankview! - Photo 1</Caption>
       </Picture>
     </Pictures>
     <RichDetails>
       <ParkingTypes>
         <ParkingType>Surface</ParkingType>
       </ParkingTypes>
+      <Appliances>
+        <Appliance>Fridge</Appliance>
+        <Appliance>Oven/Stove</Appliance>
+        <Appliance>Laundry - In Suite</Appliance>
+        <Appliance>Dishwasher</Appliance>
+      </Appliances>
       <Fireplace>No</Fireplace>
       <UtilitiesIncluded>Not included</UtilitiesIncluded>
+    </RichDetails>
+  </Listing>
+  <Listing>
+    <ID>736773</ID>
+    <Location>
+      <StreetAddress>201 20 Avenue NE</StreetAddress>
+      <City>Calgary</City>
+      <State>AB</State>
+      <Zip>T2E 1R1</Zip>
+      <DisplayAddress>Yes</DisplayAddress>
+    </Location>
+    <ListingDetails>
+      <Status>Active</Status>
+      <Price>2100</Price>
+      <ListingUrl>https://www.rentfaster.ca/properties/201-20-avenue-ne-calgary-736773</ListingUrl>
+      <ProviderListingId>736773</ProviderListingId>
+      <ApplicationUrl>https://app.tenantturner.com/qualify/select-time/201-20-avenue-ne?p=TenantTurner</ApplicationUrl>
+    </ListingDetails>
+    <RentalDetails>
+      <Availability>June 01</Availability>
+      <LeaseTerm>12 Months</LeaseTerm>
+      <DepositFees>2100</DepositFees>
+      <PetsAllowed>
+        <NoPets>No</NoPets>
+        <Cats>No</Cats>
+        <SmallDogs>Yes</SmallDogs>
+        <LargeDogs>No</LargeDogs>
+      </PetsAllowed>
+    </RentalDetails>
+    <BasicDetails>
+      <PropertyType>Condo</PropertyType>
+      <Title>2 Bedroom Tuxedo Park Walk Up Suite w/ UG Parking &amp; Huge private Outdoor space!</Title>
+      <Description/>
+      <Bedrooms>2</Bedrooms>
+      <Bathrooms>1</Bathrooms>
+      <LivingArea>875</LivingArea>
+    </BasicDetails>
+    <Pictures>
+      <Picture>
+        <PictureUrl>https://rf-images-prod-bcdn.rentfaster.ca/736773/slide_16994905.v.f45cebe8681b5223b698867a49eb299c.jpg</PictureUrl>
+        <Caption>2 Bedroom Tuxedo Park Walk Up Suite w/ UG Parking &amp; Huge private Outdoor space! - Photo 1</Caption>
+      </Picture>
+    </Pictures>
+    <RichDetails>
+      <ParkingTypes>
+        <ParkingType>Underground</ParkingType>
+      </ParkingTypes>
+      <Appliances>
+        <Appliance>Fridge</Appliance>
+        <Appliance>Oven/Stove</Appliance>
+        <Appliance>Laundry - In Suite</Appliance>
+        <Appliance>Dishwasher</Appliance>
+      </Appliances>
+      <Fireplace>No</Fireplace>
+      <UtilitiesIncluded>Heat | Water included</UtilitiesIncluded>
+    </RichDetails>
+  </Listing>
+  <Listing>
+    <ID>672832</ID>
+    <Location>
+      <StreetAddress>110 18A Street NW</StreetAddress>
+      <City>Calgary</City>
+      <State>AB</State>
+      <Zip>T2S 0J1</Zip>
+      <DisplayAddress>Yes</DisplayAddress>
+    </Location>
+    <ListingDetails>
+      <Status>Active</Status>
+      <Price>2450</Price>
+      <ListingUrl>https://www.rentfaster.ca/properties/110-18a-street-nw-calgary-672832</ListingUrl>
+      <ProviderListingId>672832</ProviderListingId>
+      <ApplicationUrl>https://app.tenantturner.com/qualify/select-time/110-18a-street-nw?p=TenantTurner</ApplicationUrl>
+    </ListingDetails>
+    <RentalDetails>
+      <Availability>June 01</Availability>
+      <LeaseTerm>12 Months</LeaseTerm>
+      <DepositFees>2450</DepositFees>
+      <PetsAllowed>
+        <NoPets>No</NoPets>
+        <Cats>Yes</Cats>
+        <SmallDogs>Yes</SmallDogs>
+        <LargeDogs>No</LargeDogs>
+      </PetsAllowed>
+    </RentalDetails>
+    <BasicDetails>
+      <PropertyType>Condo</PropertyType>
+      <Title>2 Bed 2 Bath in The Frontier, a boutique concrete residence  in the desirable community of West Hillhurst, just steps fr</Title>
+      <Description/>
+      <Bedrooms>2</Bedrooms>
+      <Bathrooms>2</Bathrooms>
+      <LivingArea>840</LivingArea>
+    </BasicDetails>
+    <Pictures>
+      <Picture>
+        <PictureUrl>https://rf-images-prod-bcdn.rentfaster.ca/672832/slide_17210873.v.5af0160dc7bbf67aae8ba69da7f9620f.jpg</PictureUrl>
+        <Caption>2 Bed 2 Bath in The Frontier, a boutique concrete residence  in the desirable community of West Hillhurst, just steps fr - Photo 1</Caption>
+      </Picture>
+    </Pictures>
+    <RichDetails>
+      <ParkingTypes>
+        <ParkingType>Underground</ParkingType>
+      </ParkingTypes>
+      <Appliances>
+        <Appliance>Elevator</Appliance>
+        <Appliance>Storage Lockers</Appliance>
+        <Appliance>Air Conditioning</Appliance>
+        <Appliance>Fridge</Appliance>
+      </Appliances>
+      <Fireplace>No</Fireplace>
+      <UtilitiesIncluded>Heat | Water included</UtilitiesIncluded>
     </RichDetails>
   </Listing>
   <Listing>
@@ -474,223 +646,52 @@
     </RichDetails>
   </Listing>
   <Listing>
-    <ID>598482</ID>
+    <ID>604744</ID>
     <Location>
-      <StreetAddress>2306 17a Street SW</StreetAddress>
+      <StreetAddress>2419 16 Street SW</StreetAddress>
       <City>Calgary</City>
       <State>AB</State>
-      <Zip>T2S 0J1</Zip>
+      <Zip>T2T 1C8</Zip>
       <DisplayAddress>Yes</DisplayAddress>
     </Location>
     <ListingDetails>
       <Status>Active</Status>
-      <Price>2850</Price>
-      <ListingUrl>https://www.rentfaster.ca/properties/2306-17a-street-sw-calgary-598482</ListingUrl>
-      <ProviderListingId>598482</ProviderListingId>
-      <ApplicationUrl>https://app.tenantturner.com/qualify/select-time/2306-17a-street-sw?p=TenantTurner</ApplicationUrl>
+      <Price>1350</Price>
+      <ListingUrl>https://www.rentfaster.ca/properties/2419-16-street-sw-calgary-604744</ListingUrl>
+      <ProviderListingId>604744</ProviderListingId>
+      <ApplicationUrl>https://app.tenantturner.com/qualify/select-time/2419-16-street-sw?p=TenantTurner</ApplicationUrl>
     </ListingDetails>
     <RentalDetails>
-      <Availability>June 01</Availability>
+      <Availability>Call for Availability</Availability>
       <LeaseTerm>12 Months</LeaseTerm>
-      <DepositFees>2850</DepositFees>
+      <DepositFees>1350</DepositFees>
       <PetsAllowed>
-        <NoPets>No</NoPets>
-        <Cats>Yes</Cats>
-        <SmallDogs>Yes</SmallDogs>
+        <NoPets>Yes</NoPets>
+        <Cats>No</Cats>
+        <SmallDogs>No</SmallDogs>
         <LargeDogs>No</LargeDogs>
       </PetsAllowed>
     </RentalDetails>
     <BasicDetails>
-      <PropertyType>Townhouse</PropertyType>
-      <Title>Huge 4 Bdrm 3 Full Bath Stacked Townhouse for Rent in Bankview!</Title>
+      <PropertyType>Apartment</PropertyType>
+      <Title>1 Bedroom 1 Bath Apartment in Bankview including parking and internet!</Title>
       <Description/>
-      <Bedrooms>4</Bedrooms>
-      <Bathrooms>3</Bathrooms>
-      <LivingArea>1800</LivingArea>
+      <Bedrooms>1</Bedrooms>
+      <Bathrooms>1</Bathrooms>
+      <LivingArea>850</LivingArea>
     </BasicDetails>
     <Pictures>
       <Picture>
-        <PictureUrl>https://rf-images-prod-bcdn.rentfaster.ca/598482/slide_12895882.v.fa464028938005a90cd3cc46a535a2cd.jpg</PictureUrl>
-        <Caption>Huge 4 Bdrm 3 Full Bath Stacked Townhouse for Rent in Bankview! - Photo 1</Caption>
+        <PictureUrl>https://rf-images-prod-bcdn.rentfaster.ca/604744/slide_16952861.v.3c961be3e864b73c3fbab8830f700f51.jpg</PictureUrl>
+        <Caption>1 Bedroom 1 Bath Apartment in Bankview including parking and internet! - Photo 1</Caption>
       </Picture>
     </Pictures>
     <RichDetails>
       <ParkingTypes>
         <ParkingType>Surface</ParkingType>
       </ParkingTypes>
-      <Appliances>
-        <Appliance>Fridge</Appliance>
-        <Appliance>Oven/Stove</Appliance>
-        <Appliance>Laundry - In Suite</Appliance>
-        <Appliance>Dishwasher</Appliance>
-      </Appliances>
       <Fireplace>No</Fireplace>
       <UtilitiesIncluded>Not included</UtilitiesIncluded>
-    </RichDetails>
-  </Listing>
-  <Listing>
-    <ID>653553</ID>
-    <Location>
-      <StreetAddress>888 4 Avenue SW</StreetAddress>
-      <City>Calgary</City>
-      <State>AB</State>
-      <Zip>T2P 0V2</Zip>
-      <DisplayAddress>Yes</DisplayAddress>
-    </Location>
-    <ListingDetails>
-      <Status>Active</Status>
-      <Price>2650</Price>
-      <ListingUrl>https://www.rentfaster.ca/properties/888-4-avenue-sw-calgary-653553</ListingUrl>
-      <ProviderListingId>653553</ProviderListingId>
-      <ApplicationUrl>https://app.tenantturner.com/qualify/select-time/888-4-avenue-sw?p=TenantTurner</ApplicationUrl>
-    </ListingDetails>
-    <RentalDetails>
-      <Availability>June 01</Availability>
-      <LeaseTerm>12 Months</LeaseTerm>
-      <DepositFees>2650</DepositFees>
-      <PetsAllowed>
-        <NoPets>No</NoPets>
-        <Cats>Yes</Cats>
-        <SmallDogs>Yes</SmallDogs>
-        <LargeDogs>No</LargeDogs>
-      </PetsAllowed>
-    </RentalDetails>
-    <BasicDetails>
-      <PropertyType>Condo</PropertyType>
-      <Title>Beautiful 11th Floor, 2 Bedroom 2 Full Bath Condo in Downtown's West End</Title>
-      <Description/>
-      <Bedrooms>2</Bedrooms>
-      <Bathrooms>2</Bathrooms>
-      <LivingArea>1100</LivingArea>
-    </BasicDetails>
-    <Pictures>
-      <Picture>
-        <PictureUrl>https://rf-images-prod-bcdn.rentfaster.ca/653553/slide_13949379.v.35c55da39d46ed697a92a573581f04d7.jpg</PictureUrl>
-        <Caption>Beautiful 11th Floor, 2 Bedroom 2 Full Bath Condo in Downtown's West End - Photo 1</Caption>
-      </Picture>
-    </Pictures>
-    <RichDetails>
-      <ParkingTypes>
-        <ParkingType>Underground</ParkingType>
-      </ParkingTypes>
-      <Appliances>
-        <Appliance>Elevator</Appliance>
-        <Appliance>Air Conditioning</Appliance>
-        <Appliance>Fridge</Appliance>
-        <Appliance>Hardwood Floors</Appliance>
-      </Appliances>
-      <Fireplace>No</Fireplace>
-      <UtilitiesIncluded>Heat | Water included</UtilitiesIncluded>
-    </RichDetails>
-  </Listing>
-  <Listing>
-    <ID>672832</ID>
-    <Location>
-      <StreetAddress>110 18A Street NW</StreetAddress>
-      <City>Calgary</City>
-      <State>AB</State>
-      <Zip>T2S 0J1</Zip>
-      <DisplayAddress>Yes</DisplayAddress>
-    </Location>
-    <ListingDetails>
-      <Status>Active</Status>
-      <Price>2450</Price>
-      <ListingUrl>https://www.rentfaster.ca/properties/110-18a-street-nw-calgary-672832</ListingUrl>
-      <ProviderListingId>672832</ProviderListingId>
-      <ApplicationUrl>https://app.tenantturner.com/qualify/select-time/110-18a-street-nw?p=TenantTurner</ApplicationUrl>
-    </ListingDetails>
-    <RentalDetails>
-      <Availability>June 01</Availability>
-      <LeaseTerm>12 Months</LeaseTerm>
-      <DepositFees>2450</DepositFees>
-      <PetsAllowed>
-        <NoPets>No</NoPets>
-        <Cats>Yes</Cats>
-        <SmallDogs>Yes</SmallDogs>
-        <LargeDogs>No</LargeDogs>
-      </PetsAllowed>
-    </RentalDetails>
-    <BasicDetails>
-      <PropertyType>Condo</PropertyType>
-      <Title>2 Bed 2 Bath in The Frontier, a boutique concrete residence  in the desirable community of West Hillhurst, just steps fr</Title>
-      <Description/>
-      <Bedrooms>2</Bedrooms>
-      <Bathrooms>2</Bathrooms>
-      <LivingArea>840</LivingArea>
-    </BasicDetails>
-    <Pictures>
-      <Picture>
-        <PictureUrl>https://rf-images-prod-bcdn.rentfaster.ca/672832/slide_17210873.v.5af0160dc7bbf67aae8ba69da7f9620f.jpg</PictureUrl>
-        <Caption>2 Bed 2 Bath in The Frontier, a boutique concrete residence  in the desirable community of West Hillhurst, just steps fr - Photo 1</Caption>
-      </Picture>
-    </Pictures>
-    <RichDetails>
-      <ParkingTypes>
-        <ParkingType>Underground</ParkingType>
-      </ParkingTypes>
-      <Appliances>
-        <Appliance>Elevator</Appliance>
-        <Appliance>Storage Lockers</Appliance>
-        <Appliance>Air Conditioning</Appliance>
-        <Appliance>Fridge</Appliance>
-      </Appliances>
-      <Fireplace>No</Fireplace>
-      <UtilitiesIncluded>Heat | Water included</UtilitiesIncluded>
-    </RichDetails>
-  </Listing>
-  <Listing>
-    <ID>736773</ID>
-    <Location>
-      <StreetAddress>201 20 Avenue NE</StreetAddress>
-      <City>Calgary</City>
-      <State>AB</State>
-      <Zip>T2E 1R1</Zip>
-      <DisplayAddress>Yes</DisplayAddress>
-    </Location>
-    <ListingDetails>
-      <Status>Active</Status>
-      <Price>2100</Price>
-      <ListingUrl>https://www.rentfaster.ca/properties/201-20-avenue-ne-calgary-736773</ListingUrl>
-      <ProviderListingId>736773</ProviderListingId>
-      <ApplicationUrl>https://app.tenantturner.com/qualify/select-time/201-20-avenue-ne?p=TenantTurner</ApplicationUrl>
-    </ListingDetails>
-    <RentalDetails>
-      <Availability>June 01</Availability>
-      <LeaseTerm>12 Months</LeaseTerm>
-      <DepositFees>2100</DepositFees>
-      <PetsAllowed>
-        <NoPets>No</NoPets>
-        <Cats>No</Cats>
-        <SmallDogs>Yes</SmallDogs>
-        <LargeDogs>No</LargeDogs>
-      </PetsAllowed>
-    </RentalDetails>
-    <BasicDetails>
-      <PropertyType>Condo</PropertyType>
-      <Title>2 Bedroom Tuxedo Park Walk Up Suite w/ UG Parking &amp; Huge private Outdoor space!</Title>
-      <Description/>
-      <Bedrooms>2</Bedrooms>
-      <Bathrooms>1</Bathrooms>
-      <LivingArea>875</LivingArea>
-    </BasicDetails>
-    <Pictures>
-      <Picture>
-        <PictureUrl>https://rf-images-prod-bcdn.rentfaster.ca/736773/slide_16994905.v.f45cebe8681b5223b698867a49eb299c.jpg</PictureUrl>
-        <Caption>2 Bedroom Tuxedo Park Walk Up Suite w/ UG Parking &amp; Huge private Outdoor space! - Photo 1</Caption>
-      </Picture>
-    </Pictures>
-    <RichDetails>
-      <ParkingTypes>
-        <ParkingType>Underground</ParkingType>
-      </ParkingTypes>
-      <Appliances>
-        <Appliance>Fridge</Appliance>
-        <Appliance>Oven/Stove</Appliance>
-        <Appliance>Laundry - In Suite</Appliance>
-        <Appliance>Dishwasher</Appliance>
-      </Appliances>
-      <Fireplace>No</Fireplace>
-      <UtilitiesIncluded>Heat | Water included</UtilitiesIncluded>
     </RichDetails>
   </Listing>
   <Listing>
@@ -755,7 +756,7 @@
       <StreetAddress>930 16 Avenue Southwest</StreetAddress>
       <City>Calgary</City>
       <State>AB</State>
-      <Zip>T2S 0J1</Zip>
+      <Zip>T2R 1C2</Zip>
       <DisplayAddress>Yes</DisplayAddress>
     </Location>
     <ListingDetails>
