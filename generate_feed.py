@@ -28,7 +28,10 @@ OUTPUT_FILE = "rentch_tenant_turner_full_feed.xml"
 TENANT_TURNER_CUSTOM_SLUGS = {
     "930 16 Avenue SW":        "930-16-avenue-southwest-1",
     "930 16 Avenue Southwest": "930-16-avenue-southwest-1",
-    "744732":                  "930-16-avenue-southwest-1",
+    "744732":                  "930-16-avenue-southwest-1",   # 930 16 Avenue SW
+    "653553":                  "888-4th-ave-sw",              # 888 4th Ave SW - Solaire
+    "604744":                  "2419-16th-street-sw-1",       # 2419 16th Street SW - Northumberland Place
+    "640415":                  "628-56-avenue-southwest-1",   # 628 56 Avenue SW - 56 Windsor
 }
 TENANT_TURNER_BASE = "https://app.tenantturner.com/qualify/select-time/"
 TENANT_TURNER_SUFFIX = "?p=TenantTurner"
