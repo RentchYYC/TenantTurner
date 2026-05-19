@@ -24,8 +24,11 @@ OUTPUT_FILE = "rentch_tenant_turner_full_feed.xml"
 # Tenant Turner base URL — slugs are auto-generated from street address.
 # If a property uses a custom slug, add it here:
 #   "710 25 Street NW": "716b-hillside-west-hillhurst"
+# Keyed by RentFaster address string OR listing ID (ID takes priority)
 TENANT_TURNER_CUSTOM_SLUGS = {
-    "930 16 Avenue SW": "930-16-avenue-southwest-1",
+    "930 16 Avenue SW":        "930-16-avenue-southwest-1",
+    "930 16 Avenue Southwest": "930-16-avenue-southwest-1",
+    "744732":                  "930-16-avenue-southwest-1",
 }
 TENANT_TURNER_BASE = "https://app.tenantturner.com/qualify/select-time/"
 TENANT_TURNER_SUFFIX = "?p=TenantTurner"
@@ -77,9 +80,11 @@ def address_to_slug(address: str) -> str:
     return slug
 
 
-def build_tenant_turner_url(address: str) -> str:
-    """Return the Tenant Turner scheduling URL for a given address."""
-    slug = TENANT_TURNER_CUSTOM_SLUGS.get(address) or address_to_slug(address)
+def build_tenant_turner_url(address: str, listing_id: str = "") -> str:
+    """Return the Tenant Turner scheduling URL for a given address/ID."""
+    slug = (TENANT_TURNER_CUSTOM_SLUGS.get(listing_id)
+            or TENANT_TURNER_CUSTOM_SLUGS.get(address)
+            or address_to_slug(address))
     return f"{TENANT_TURNER_BASE}{slug}{TENANT_TURNER_SUFFIX}"
 
 
@@ -303,7 +308,7 @@ def build_listing_element(rf_search: dict, rf_detail: dict) -> ET.Element:
         link = "https://www.rentfaster.ca" + link
     sub(det, "ListingUrl", link)
     sub(det, "ProviderListingId", listing_id)
-    sub(det, "ApplicationUrl", build_tenant_turner_url(address))
+    sub(det, "ApplicationUrl", build_tenant_turner_url(address, listing_id))
 
     # ── RentalDetails ──
     rent = sub(listing, "RentalDetails")
