@@ -25,7 +25,7 @@ OUTPUT_FILE = "rentch_tenant_turner_full_feed.xml"
 # If a property uses a custom slug, add it here:
 #   "710 25 Street NW": "716b-hillside-west-hillhurst"
 TENANT_TURNER_CUSTOM_SLUGS = {
-    # "123 Main Street SW": "custom-slug",
+    "930 16 Avenue SW": "930-16-avenue-southwest-1",
 }
 TENANT_TURNER_BASE = "https://app.tenantturner.com/qualify/select-time/"
 TENANT_TURNER_SUFFIX = "?p=TenantTurner"
@@ -51,6 +51,19 @@ POSTAL_CODES = {
     "653553":  "T2P 0V2",  # 888 4th Ave SW - Solaire
     "738281":  "T2M 0P1",  # 815 17th Ave NW - Pleasant View
     "631595":  "T2G 2L7",  # 1605 17 Street SE - Konekt
+    "744732":  "T2R 1C2",  # 930 16 Avenue SW
+}
+
+# ─── MANUAL OVERRIDES (for listings where RentFaster API returns incomplete data) ──
+# Keyed by listing ID. Any field here replaces what the API returns.
+LISTING_OVERRIDES = {
+    "604744": {
+        "price":    "1350",
+        "type":     "Apartment",
+        "sq_feet":  "850",
+        "bedrooms": "1",
+        "baths":    "1",
+    },
 }
 
 # ─── HELPERS ───────────────────────────────────────────────────────────────────
@@ -362,6 +375,11 @@ def build_xml(search_listings: list) -> str:
 
         rf_detail = fetch_listing_detail(listing_id, headers)
         time.sleep(0.5)
+
+        # Apply any manual overrides for this listing
+        if listing_id in LISTING_OVERRIDES:
+            rf_search = {**rf_search, **LISTING_OVERRIDES[listing_id]}
+            print(f"    Applied manual overrides for listing {listing_id}")
 
         try:
             listing_el = build_listing_element(rf_search, rf_detail)
