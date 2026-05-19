@@ -280,7 +280,7 @@
       <Price>2000</Price>
       <ListingUrl>https://www.rentfaster.ca/properties/628-56-avenue-sw-calgary-640415</ListingUrl>
       <ProviderListingId>640415</ProviderListingId>
-      <ApplicationUrl>https://app.tenantturner.com/qualify/select-time/628-56-avenue-sw?p=TenantTurner</ApplicationUrl>
+      <ApplicationUrl>https://app.tenantturner.com/qualify/select-time/628-56-avenue-southwest-1?p=TenantTurner</ApplicationUrl>
     </ListingDetails>
     <RentalDetails>
       <Availability>Immediate</Availability>
@@ -335,7 +335,7 @@
       <Price>1350</Price>
       <ListingUrl>https://www.rentfaster.ca/properties/2419-16-street-sw-calgary-604744</ListingUrl>
       <ProviderListingId>604744</ProviderListingId>
-      <ApplicationUrl>https://app.tenantturner.com/qualify/select-time/2419-16-street-sw?p=TenantTurner</ApplicationUrl>
+      <ApplicationUrl>https://app.tenantturner.com/qualify/select-time/2419-16th-street-sw-1?p=TenantTurner</ApplicationUrl>
     </ListingDetails>
     <RentalDetails>
       <Availability>Call for Availability</Availability>
@@ -549,7 +549,7 @@
       <Price>2650</Price>
       <ListingUrl>https://www.rentfaster.ca/properties/888-4-avenue-sw-calgary-653553</ListingUrl>
       <ProviderListingId>653553</ProviderListingId>
-      <ApplicationUrl>https://app.tenantturner.com/qualify/select-time/888-4-avenue-sw?p=TenantTurner</ApplicationUrl>
+      <ApplicationUrl>https://app.tenantturner.com/qualify/select-time/888-4th-ave-sw?p=TenantTurner</ApplicationUrl>
     </ListingDetails>
     <RentalDetails>
       <Availability>June 01</Availability>
