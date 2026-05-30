@@ -1,6 +1,110 @@
 <?xml version="1.0" encoding="utf-8"?>
 <Listings>
   <Listing>
+    <ID>672832</ID>
+    <Location>
+      <StreetAddress>110 18A Street NW</StreetAddress>
+      <City>Calgary</City>
+      <State>AB</State>
+      <Zip>T2S 0J1</Zip>
+      <DisplayAddress>Yes</DisplayAddress>
+    </Location>
+    <ListingDetails>
+      <Status>Active</Status>
+      <Price>2200</Price>
+      <ListingUrl>https://www.rentfaster.ca/properties/110-18a-street-nw-calgary-672832</ListingUrl>
+      <ProviderListingId>672832</ProviderListingId>
+      <ApplicationUrl>https://app.tenantturner.com/qualify/select-time/110-18a-street-nw?p=TenantTurner</ApplicationUrl>
+    </ListingDetails>
+    <RentalDetails>
+      <Availability>Immediate</Availability>
+      <LeaseTerm>12 Months</LeaseTerm>
+      <DepositFees>2200</DepositFees>
+      <PetsAllowed>
+        <NoPets>No</NoPets>
+        <Cats>Yes</Cats>
+        <SmallDogs>Yes</SmallDogs>
+        <LargeDogs>No</LargeDogs>
+      </PetsAllowed>
+    </RentalDetails>
+    <BasicDetails>
+      <PropertyType>Condo</PropertyType>
+      <Title>2 Bed 1 Bath in The Frontier, a boutique concrete residence  in the desirable community of West Hillhurst, just steps fr</Title>
+      <Description/>
+      <Bedrooms>2</Bedrooms>
+      <Bathrooms>1.5</Bathrooms>
+      <LivingArea>579</LivingArea>
+    </BasicDetails>
+    <Pictures>
+      <Picture>
+        <PictureUrl>https://rf-images-prod-bcdn.rentfaster.ca/672832/slide_17317477.v.21f0b1cd78c4640da361e998d5c63d38.jpg</PictureUrl>
+        <Caption>2 Bed 1 Bath in The Frontier, a boutique concrete residence  in the desirable community of West Hillhurst, just steps fr - Photo 1</Caption>
+      </Picture>
+    </Pictures>
+    <RichDetails>
+      <ParkingTypes>
+        <ParkingType>Underground</ParkingType>
+      </ParkingTypes>
+      <Appliances>
+        <Appliance>Elevator</Appliance>
+        <Appliance>Storage Lockers</Appliance>
+        <Appliance>Air Conditioning</Appliance>
+        <Appliance>Fridge</Appliance>
+      </Appliances>
+      <Fireplace>No</Fireplace>
+      <UtilitiesIncluded>Heat | Water included</UtilitiesIncluded>
+    </RichDetails>
+  </Listing>
+  <Listing>
+    <ID>732111</ID>
+    <Location>
+      <StreetAddress>2850 Grant Crescent SW</StreetAddress>
+      <City>Calgary</City>
+      <State>AB</State>
+      <Zip>T2S 0J1</Zip>
+      <DisplayAddress>Yes</DisplayAddress>
+    </Location>
+    <ListingDetails>
+      <Status>Active</Status>
+      <Price>2750</Price>
+      <ListingUrl>https://www.rentfaster.ca/properties/2850-grant-crescent-sw-calgary-732111</ListingUrl>
+      <ProviderListingId>732111</ProviderListingId>
+      <ApplicationUrl>https://app.tenantturner.com/qualify/select-time/2850-grant-crescent-sw?p=TenantTurner</ApplicationUrl>
+    </ListingDetails>
+    <RentalDetails>
+      <Availability>Immediate</Availability>
+      <LeaseTerm>12 Months</LeaseTerm>
+      <DepositFees>2750</DepositFees>
+      <PetsAllowed>
+        <NoPets>No</NoPets>
+        <Cats>Yes</Cats>
+        <SmallDogs>Yes</SmallDogs>
+        <LargeDogs>No</LargeDogs>
+      </PetsAllowed>
+    </RentalDetails>
+    <BasicDetails>
+      <PropertyType>Townhouse</PropertyType>
+      <Title>Brand New, Stylish and Spacious, 3 Bedroom Townhomes in Glamorgan! </Title>
+      <Description/>
+      <Bedrooms>3</Bedrooms>
+      <Bathrooms>2.5</Bathrooms>
+      <LivingArea>1650</LivingArea>
+    </BasicDetails>
+    <Pictures>
+      <Picture>
+        <PictureUrl>https://rf-images-prod-bcdn.rentfaster.ca/732111/slide_17161090.v.d28f614b1ddd75b37b794914bd5b86a9.jpg</PictureUrl>
+        <Caption>Brand New, Stylish and Spacious, 3 Bedroom Townhomes in Glamorgan!  - Photo 1</Caption>
+      </Picture>
+    </Pictures>
+    <RichDetails>
+      <ParkingTypes>
+        <ParkingType>Garage</ParkingType>
+      </ParkingTypes>
+      <Fireplace>No</Fireplace>
+      <UtilitiesIncluded>Not included</UtilitiesIncluded>
+    </RichDetails>
+  </Listing>
+  <Listing>
     <ID>640415</ID>
     <Location>
       <StreetAddress>628 56 Avenue SW</StreetAddress>
@@ -29,7 +133,7 @@
     </RentalDetails>
     <BasicDetails>
       <PropertyType>Condo</PropertyType>
-      <Title>Upper Floor 2 Bed 2.5 Bath in Windsor Park</Title>
+      <Title>Top Floor Condo, 2 Storey, 2 Bedrooms each with their own Ensuite, 2 Parking Spots! For Rent in Windsor Park!!</Title>
       <Description/>
       <Bedrooms>2</Bedrooms>
       <Bathrooms>2.5</Bathrooms>
@@ -37,8 +141,8 @@
     </BasicDetails>
     <Pictures>
       <Picture>
-        <PictureUrl>https://rf-images-prod-bcdn.rentfaster.ca/640415/slide_13498471.v.d531c86532885886e73d0b9c23772727.jpg</PictureUrl>
-        <Caption>Upper Floor 2 Bed 2.5 Bath in Windsor Park - Photo 1</Caption>
+        <PictureUrl>https://rf-images-prod-bcdn.rentfaster.ca/640415/slide_17415120.v.424eedcd3ed24ced30735296c324c17b.jpg</PictureUrl>
+        <Caption>Top Floor Condo, 2 Storey, 2 Bedrooms each with their own Ensuite, 2 Parking Spots! For Rent in Windsor Park!! - Photo 1</Caption>
       </Picture>
     </Pictures>
     <RichDetails>
@@ -53,6 +157,61 @@
       </Appliances>
       <Fireplace>No</Fireplace>
       <UtilitiesIncluded>Not included</UtilitiesIncluded>
+    </RichDetails>
+  </Listing>
+  <Listing>
+    <ID>740087</ID>
+    <Location>
+      <StreetAddress>69 Springborough Court SW</StreetAddress>
+      <City>Calgary</City>
+      <State>AB</State>
+      <Zip>T2S 0J1</Zip>
+      <DisplayAddress>Yes</DisplayAddress>
+    </Location>
+    <ListingDetails>
+      <Status>Active</Status>
+      <Price>2250</Price>
+      <ListingUrl>https://www.rentfaster.ca/properties/69-springborough-court-sw-calgary-740087</ListingUrl>
+      <ProviderListingId>740087</ProviderListingId>
+      <ApplicationUrl>https://app.tenantturner.com/qualify/select-time/69-springborough-court-sw?p=TenantTurner</ApplicationUrl>
+    </ListingDetails>
+    <RentalDetails>
+      <Availability>Immediate</Availability>
+      <LeaseTerm>12 Months</LeaseTerm>
+      <DepositFees>2250</DepositFees>
+      <PetsAllowed>
+        <NoPets>No</NoPets>
+        <Cats>Yes</Cats>
+        <SmallDogs>Yes</SmallDogs>
+        <LargeDogs>No</LargeDogs>
+      </PetsAllowed>
+    </RentalDetails>
+    <BasicDetails>
+      <PropertyType>Condo</PropertyType>
+      <Title>Welcome to this beautifully renovated and move-in ready 2 bed, 2 bath ground-floor unit in an unbeatable location!</Title>
+      <Description/>
+      <Bedrooms>2</Bedrooms>
+      <Bathrooms>2</Bathrooms>
+      <LivingArea>850</LivingArea>
+    </BasicDetails>
+    <Pictures>
+      <Picture>
+        <PictureUrl>https://rf-images-prod-bcdn.rentfaster.ca/740087/slide_17125375.v.a848283e5959aa8ea830299557eff0cd.jpg</PictureUrl>
+        <Caption>Welcome to this beautifully renovated and move-in ready 2 bed, 2 bath ground-floor unit in an unbeatable location! - Photo 1</Caption>
+      </Picture>
+    </Pictures>
+    <RichDetails>
+      <ParkingTypes>
+        <ParkingType>Underground</ParkingType>
+      </ParkingTypes>
+      <Appliances>
+        <Appliance>Storage Lockers</Appliance>
+        <Appliance>Fridge</Appliance>
+        <Appliance>Oven/Stove</Appliance>
+        <Appliance>Laundry - In Suite</Appliance>
+      </Appliances>
+      <Fireplace>No</Fireplace>
+      <UtilitiesIncluded>Heat | Water included</UtilitiesIncluded>
     </RichDetails>
   </Listing>
   <Listing>
@@ -106,55 +265,6 @@
         <Appliance>Laundry - In Suite</Appliance>
         <Appliance>Dishwasher</Appliance>
       </Appliances>
-      <Fireplace>No</Fireplace>
-      <UtilitiesIncluded>Not included</UtilitiesIncluded>
-    </RichDetails>
-  </Listing>
-  <Listing>
-    <ID>732111</ID>
-    <Location>
-      <StreetAddress>2850 Grant Crescent SW</StreetAddress>
-      <City>Calgary</City>
-      <State>AB</State>
-      <Zip>T2S 0J1</Zip>
-      <DisplayAddress>Yes</DisplayAddress>
-    </Location>
-    <ListingDetails>
-      <Status>Active</Status>
-      <Price>2750</Price>
-      <ListingUrl>https://www.rentfaster.ca/properties/2850-grant-crescent-sw-calgary-732111</ListingUrl>
-      <ProviderListingId>732111</ProviderListingId>
-      <ApplicationUrl>https://app.tenantturner.com/qualify/select-time/2850-grant-crescent-sw?p=TenantTurner</ApplicationUrl>
-    </ListingDetails>
-    <RentalDetails>
-      <Availability>Immediate</Availability>
-      <LeaseTerm>12 Months</LeaseTerm>
-      <DepositFees>2750</DepositFees>
-      <PetsAllowed>
-        <NoPets>No</NoPets>
-        <Cats>Yes</Cats>
-        <SmallDogs>Yes</SmallDogs>
-        <LargeDogs>No</LargeDogs>
-      </PetsAllowed>
-    </RentalDetails>
-    <BasicDetails>
-      <PropertyType>Townhouse</PropertyType>
-      <Title>Brand New, Stylish and Spacious, 3 Bedroom Townhomes in Glamorgan! </Title>
-      <Description/>
-      <Bedrooms>3</Bedrooms>
-      <Bathrooms>2.5</Bathrooms>
-      <LivingArea>1650</LivingArea>
-    </BasicDetails>
-    <Pictures>
-      <Picture>
-        <PictureUrl>https://rf-images-prod-bcdn.rentfaster.ca/732111/slide_17161090.v.d28f614b1ddd75b37b794914bd5b86a9.jpg</PictureUrl>
-        <Caption>Brand New, Stylish and Spacious, 3 Bedroom Townhomes in Glamorgan!  - Photo 1</Caption>
-      </Picture>
-    </Pictures>
-    <RichDetails>
-      <ParkingTypes>
-        <ParkingType>Garage</ParkingType>
-      </ParkingTypes>
       <Fireplace>No</Fireplace>
       <UtilitiesIncluded>Not included</UtilitiesIncluded>
     </RichDetails>
@@ -215,116 +325,6 @@
     </RichDetails>
   </Listing>
   <Listing>
-    <ID>672832</ID>
-    <Location>
-      <StreetAddress>110 18A Street NW</StreetAddress>
-      <City>Calgary</City>
-      <State>AB</State>
-      <Zip>T2S 0J1</Zip>
-      <DisplayAddress>Yes</DisplayAddress>
-    </Location>
-    <ListingDetails>
-      <Status>Active</Status>
-      <Price>2200</Price>
-      <ListingUrl>https://www.rentfaster.ca/properties/110-18a-street-nw-calgary-672832</ListingUrl>
-      <ProviderListingId>672832</ProviderListingId>
-      <ApplicationUrl>https://app.tenantturner.com/qualify/select-time/110-18a-street-nw?p=TenantTurner</ApplicationUrl>
-    </ListingDetails>
-    <RentalDetails>
-      <Availability>Immediate</Availability>
-      <LeaseTerm>12 Months</LeaseTerm>
-      <DepositFees>2200</DepositFees>
-      <PetsAllowed>
-        <NoPets>No</NoPets>
-        <Cats>Yes</Cats>
-        <SmallDogs>Yes</SmallDogs>
-        <LargeDogs>No</LargeDogs>
-      </PetsAllowed>
-    </RentalDetails>
-    <BasicDetails>
-      <PropertyType>Condo</PropertyType>
-      <Title>2 Bed 1 Bath in The Frontier, a boutique concrete residence  in the desirable community of West Hillhurst, just steps fr</Title>
-      <Description/>
-      <Bedrooms>2</Bedrooms>
-      <Bathrooms>1.5</Bathrooms>
-      <LivingArea>579</LivingArea>
-    </BasicDetails>
-    <Pictures>
-      <Picture>
-        <PictureUrl>https://rf-images-prod-bcdn.rentfaster.ca/672832/slide_17317477.v.21f0b1cd78c4640da361e998d5c63d38.jpg</PictureUrl>
-        <Caption>2 Bed 1 Bath in The Frontier, a boutique concrete residence  in the desirable community of West Hillhurst, just steps fr - Photo 1</Caption>
-      </Picture>
-    </Pictures>
-    <RichDetails>
-      <ParkingTypes>
-        <ParkingType>Underground</ParkingType>
-      </ParkingTypes>
-      <Appliances>
-        <Appliance>Elevator</Appliance>
-        <Appliance>Storage Lockers</Appliance>
-        <Appliance>Air Conditioning</Appliance>
-        <Appliance>Fridge</Appliance>
-      </Appliances>
-      <Fireplace>No</Fireplace>
-      <UtilitiesIncluded>Heat | Water included</UtilitiesIncluded>
-    </RichDetails>
-  </Listing>
-  <Listing>
-    <ID>740087</ID>
-    <Location>
-      <StreetAddress>69 Springborough Court SW</StreetAddress>
-      <City>Calgary</City>
-      <State>AB</State>
-      <Zip>T2S 0J1</Zip>
-      <DisplayAddress>Yes</DisplayAddress>
-    </Location>
-    <ListingDetails>
-      <Status>Active</Status>
-      <Price>2250</Price>
-      <ListingUrl>https://www.rentfaster.ca/properties/69-springborough-court-sw-calgary-740087</ListingUrl>
-      <ProviderListingId>740087</ProviderListingId>
-      <ApplicationUrl>https://app.tenantturner.com/qualify/select-time/69-springborough-court-sw?p=TenantTurner</ApplicationUrl>
-    </ListingDetails>
-    <RentalDetails>
-      <Availability>Immediate</Availability>
-      <LeaseTerm>12 Months</LeaseTerm>
-      <DepositFees>2250</DepositFees>
-      <PetsAllowed>
-        <NoPets>No</NoPets>
-        <Cats>Yes</Cats>
-        <SmallDogs>Yes</SmallDogs>
-        <LargeDogs>No</LargeDogs>
-      </PetsAllowed>
-    </RentalDetails>
-    <BasicDetails>
-      <PropertyType>Condo</PropertyType>
-      <Title>Welcome to this beautifully renovated and move-in ready 2 bed, 2 bath ground-floor unit in an unbeatable location!</Title>
-      <Description/>
-      <Bedrooms>2</Bedrooms>
-      <Bathrooms>2</Bathrooms>
-      <LivingArea>850</LivingArea>
-    </BasicDetails>
-    <Pictures>
-      <Picture>
-        <PictureUrl>https://rf-images-prod-bcdn.rentfaster.ca/740087/slide_17125375.v.a848283e5959aa8ea830299557eff0cd.jpg</PictureUrl>
-        <Caption>Welcome to this beautifully renovated and move-in ready 2 bed, 2 bath ground-floor unit in an unbeatable location! - Photo 1</Caption>
-      </Picture>
-    </Pictures>
-    <RichDetails>
-      <ParkingTypes>
-        <ParkingType>Underground</ParkingType>
-      </ParkingTypes>
-      <Appliances>
-        <Appliance>Storage Lockers</Appliance>
-        <Appliance>Fridge</Appliance>
-        <Appliance>Oven/Stove</Appliance>
-        <Appliance>Laundry - In Suite</Appliance>
-      </Appliances>
-      <Fireplace>No</Fireplace>
-      <UtilitiesIncluded>Heat | Water included</UtilitiesIncluded>
-    </RichDetails>
-  </Listing>
-  <Listing>
     <ID>732110</ID>
     <Location>
       <StreetAddress>227 26 Avenue NE</StreetAddress>
@@ -377,6 +377,62 @@
       </Appliances>
       <Fireplace>No</Fireplace>
       <UtilitiesIncluded>Not included</UtilitiesIncluded>
+    </RichDetails>
+  </Listing>
+  <Listing>
+    <ID>631595</ID>
+    <Location>
+      <StreetAddress>1605 17 Street SE</StreetAddress>
+      <City>Calgary</City>
+      <State>AB</State>
+      <Zip>T2G 2L7</Zip>
+      <DisplayAddress>Yes</DisplayAddress>
+    </Location>
+    <ListingDetails>
+      <Status>Active</Status>
+      <Price>1700</Price>
+      <ListingUrl>https://www.rentfaster.ca/properties/1605-17-street-se-calgary-631595</ListingUrl>
+      <ProviderListingId>631595</ProviderListingId>
+      <ApplicationUrl>https://app.tenantturner.com/qualify/select-time/1605-17-street-se?p=TenantTurner</ApplicationUrl>
+    </ListingDetails>
+    <RentalDetails>
+      <Availability>June 01</Availability>
+      <LeaseTerm>12 Months</LeaseTerm>
+      <DepositFees>1700</DepositFees>
+      <PetsAllowed>
+        <NoPets>No</NoPets>
+        <Cats>Yes</Cats>
+        <SmallDogs>Yes</SmallDogs>
+        <LargeDogs>No</LargeDogs>
+      </PetsAllowed>
+    </RentalDetails>
+    <BasicDetails>
+      <PropertyType>Condo</PropertyType>
+      <Title>Welcome to Konekt and this 2nd Floor, 1 Bed, 1 Bath Condo in the heart of Calgary's most iconic neighbourhood, Inglewood</Title>
+      <Description/>
+      <Bedrooms>1</Bedrooms>
+      <Bathrooms>1</Bathrooms>
+      <LivingArea>550</LivingArea>
+    </BasicDetails>
+    <Pictures>
+      <Picture>
+        <PictureUrl>https://rf-images-prod-bcdn.rentfaster.ca/631595/slide_15159150.v.842bc8b56a2f3a9123583fe4e1d945bb.jpg</PictureUrl>
+        <Caption>Welcome to Konekt and this 2nd Floor, 1 Bed, 1 Bath Condo in the heart of Calgary's most iconic neighbourhood, Inglewood - Photo 1</Caption>
+      </Picture>
+    </Pictures>
+    <RichDetails>
+      <ParkingTypes>
+        <ParkingType>Surface</ParkingType>
+        <ParkingType>Underground</ParkingType>
+      </ParkingTypes>
+      <Appliances>
+        <Appliance>Elevator</Appliance>
+        <Appliance>Storage Lockers</Appliance>
+        <Appliance>Fridge</Appliance>
+        <Appliance>Oven/Stove</Appliance>
+      </Appliances>
+      <Fireplace>No</Fireplace>
+      <UtilitiesIncluded>Heat | Water included</UtilitiesIncluded>
     </RichDetails>
   </Listing>
   <Listing>
@@ -490,117 +546,6 @@
     </RichDetails>
   </Listing>
   <Listing>
-    <ID>631595</ID>
-    <Location>
-      <StreetAddress>1605 17 Street SE</StreetAddress>
-      <City>Calgary</City>
-      <State>AB</State>
-      <Zip>T2G 2L7</Zip>
-      <DisplayAddress>Yes</DisplayAddress>
-    </Location>
-    <ListingDetails>
-      <Status>Active</Status>
-      <Price>1700</Price>
-      <ListingUrl>https://www.rentfaster.ca/properties/1605-17-street-se-calgary-631595</ListingUrl>
-      <ProviderListingId>631595</ProviderListingId>
-      <ApplicationUrl>https://app.tenantturner.com/qualify/select-time/1605-17-street-se?p=TenantTurner</ApplicationUrl>
-    </ListingDetails>
-    <RentalDetails>
-      <Availability>June 01</Availability>
-      <LeaseTerm>12 Months</LeaseTerm>
-      <DepositFees>1700</DepositFees>
-      <PetsAllowed>
-        <NoPets>No</NoPets>
-        <Cats>Yes</Cats>
-        <SmallDogs>Yes</SmallDogs>
-        <LargeDogs>No</LargeDogs>
-      </PetsAllowed>
-    </RentalDetails>
-    <BasicDetails>
-      <PropertyType>Condo</PropertyType>
-      <Title>Welcome to Konekt and this 2nd Floor, 1 Bed, 1 Bath Condo in the heart of Calgary's most iconic neighbourhood, Inglewood</Title>
-      <Description/>
-      <Bedrooms>1</Bedrooms>
-      <Bathrooms>1</Bathrooms>
-      <LivingArea>550</LivingArea>
-    </BasicDetails>
-    <Pictures>
-      <Picture>
-        <PictureUrl>https://rf-images-prod-bcdn.rentfaster.ca/631595/slide_15159150.v.842bc8b56a2f3a9123583fe4e1d945bb.jpg</PictureUrl>
-        <Caption>Welcome to Konekt and this 2nd Floor, 1 Bed, 1 Bath Condo in the heart of Calgary's most iconic neighbourhood, Inglewood - Photo 1</Caption>
-      </Picture>
-    </Pictures>
-    <RichDetails>
-      <ParkingTypes>
-        <ParkingType>Surface</ParkingType>
-        <ParkingType>Underground</ParkingType>
-      </ParkingTypes>
-      <Appliances>
-        <Appliance>Elevator</Appliance>
-        <Appliance>Storage Lockers</Appliance>
-        <Appliance>Fridge</Appliance>
-        <Appliance>Oven/Stove</Appliance>
-      </Appliances>
-      <Fireplace>No</Fireplace>
-      <UtilitiesIncluded>Heat | Water included</UtilitiesIncluded>
-    </RichDetails>
-  </Listing>
-  <Listing>
-    <ID>635858</ID>
-    <Location>
-      <StreetAddress>140 Mahogany Street SE</StreetAddress>
-      <City>Calgary</City>
-      <State>AB</State>
-      <Zip>T2S 0J1</Zip>
-      <DisplayAddress>Yes</DisplayAddress>
-    </Location>
-    <ListingDetails>
-      <Status>Active</Status>
-      <Price>2575</Price>
-      <ListingUrl>https://www.rentfaster.ca/properties/140-mahogany-street-se-calgary-635858</ListingUrl>
-      <ProviderListingId>635858</ProviderListingId>
-      <ApplicationUrl>https://app.tenantturner.com/qualify/select-time/140-mahogany-street-se?p=TenantTurner</ApplicationUrl>
-    </ListingDetails>
-    <RentalDetails>
-      <Availability>July 01</Availability>
-      <LeaseTerm>12 Months</LeaseTerm>
-      <DepositFees>2575</DepositFees>
-      <PetsAllowed>
-        <NoPets>No</NoPets>
-        <Cats>Yes</Cats>
-        <SmallDogs>Yes</SmallDogs>
-        <LargeDogs>No</LargeDogs>
-      </PetsAllowed>
-    </RentalDetails>
-    <BasicDetails>
-      <PropertyType>Condo</PropertyType>
-      <Title>Beautifully designed 3-bedroom, 2-bathroom unit! Among the largest in the complex, Unit 106 comes complete with Mahogany</Title>
-      <Description/>
-      <Bedrooms>3</Bedrooms>
-      <Bathrooms>2</Bathrooms>
-      <LivingArea>950</LivingArea>
-    </BasicDetails>
-    <Pictures>
-      <Picture>
-        <PictureUrl>https://rf-images-prod-bcdn.rentfaster.ca/635858/slide_17393031.v.70377f31f426abc6804c99ce00aa7875.jpg</PictureUrl>
-        <Caption>Beautifully designed 3-bedroom, 2-bathroom unit! Among the largest in the complex, Unit 106 comes complete with Mahogany - Photo 1</Caption>
-      </Picture>
-    </Pictures>
-    <RichDetails>
-      <ParkingTypes>
-        <ParkingType>Underground</ParkingType>
-      </ParkingTypes>
-      <Appliances>
-        <Appliance>Elevator</Appliance>
-        <Appliance>Storage Lockers</Appliance>
-        <Appliance>Fridge</Appliance>
-        <Appliance>Oven/Stove</Appliance>
-      </Appliances>
-      <Fireplace>No</Fireplace>
-      <UtilitiesIncluded>Heat | Water included</UtilitiesIncluded>
-    </RichDetails>
-  </Listing>
-  <Listing>
     <ID>738281</ID>
     <Location>
       <StreetAddress>815 17 Avenue NW</StreetAddress>
@@ -705,6 +650,61 @@
         <Appliance>Storage Lockers</Appliance>
         <Appliance>Air Conditioning</Appliance>
         <Appliance>Fridge</Appliance>
+      </Appliances>
+      <Fireplace>No</Fireplace>
+      <UtilitiesIncluded>Heat | Water included</UtilitiesIncluded>
+    </RichDetails>
+  </Listing>
+  <Listing>
+    <ID>635858</ID>
+    <Location>
+      <StreetAddress>140 Mahogany Street SE</StreetAddress>
+      <City>Calgary</City>
+      <State>AB</State>
+      <Zip>T2S 0J1</Zip>
+      <DisplayAddress>Yes</DisplayAddress>
+    </Location>
+    <ListingDetails>
+      <Status>Active</Status>
+      <Price>2575</Price>
+      <ListingUrl>https://www.rentfaster.ca/properties/140-mahogany-street-se-calgary-635858</ListingUrl>
+      <ProviderListingId>635858</ProviderListingId>
+      <ApplicationUrl>https://app.tenantturner.com/qualify/select-time/140-mahogany-street-se?p=TenantTurner</ApplicationUrl>
+    </ListingDetails>
+    <RentalDetails>
+      <Availability>July 01</Availability>
+      <LeaseTerm>12 Months</LeaseTerm>
+      <DepositFees>2575</DepositFees>
+      <PetsAllowed>
+        <NoPets>No</NoPets>
+        <Cats>Yes</Cats>
+        <SmallDogs>Yes</SmallDogs>
+        <LargeDogs>No</LargeDogs>
+      </PetsAllowed>
+    </RentalDetails>
+    <BasicDetails>
+      <PropertyType>Condo</PropertyType>
+      <Title>Beautifully designed 3-bedroom, 2-bathroom unit! Among the largest in the complex, Unit 106 comes complete with Mahogany</Title>
+      <Description/>
+      <Bedrooms>3</Bedrooms>
+      <Bathrooms>2</Bathrooms>
+      <LivingArea>950</LivingArea>
+    </BasicDetails>
+    <Pictures>
+      <Picture>
+        <PictureUrl>https://rf-images-prod-bcdn.rentfaster.ca/635858/slide_17393031.v.70377f31f426abc6804c99ce00aa7875.jpg</PictureUrl>
+        <Caption>Beautifully designed 3-bedroom, 2-bathroom unit! Among the largest in the complex, Unit 106 comes complete with Mahogany - Photo 1</Caption>
+      </Picture>
+    </Pictures>
+    <RichDetails>
+      <ParkingTypes>
+        <ParkingType>Underground</ParkingType>
+      </ParkingTypes>
+      <Appliances>
+        <Appliance>Elevator</Appliance>
+        <Appliance>Storage Lockers</Appliance>
+        <Appliance>Fridge</Appliance>
+        <Appliance>Oven/Stove</Appliance>
       </Appliances>
       <Fireplace>No</Fireplace>
       <UtilitiesIncluded>Heat | Water included</UtilitiesIncluded>
