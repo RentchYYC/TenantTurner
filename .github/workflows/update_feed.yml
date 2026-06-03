@@ -4,7 +4,7 @@ on:
   schedule:
     # Runs every day at 6:00 AM Mountain Time (12:00 UTC)
     - cron: "0 12 * * *"
-  workflow_dispatch:  # also allows manual trigger from GitHub UI
+  workflow_dispatch:
 
 jobs:
   generate-feed:
@@ -12,10 +12,10 @@ jobs:
 
     steps:
       - name: Checkout repo
-        uses: actions/checkout@v4
+        uses: actions/checkout@v4.2.2
 
       - name: Set up Python
-        uses: actions/setup-python@v5
+        uses: actions/setup-python@v5.6.0
         with:
           python-version: "3.11"
 
