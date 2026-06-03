@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="utf-8"?>
 <Listings>
   <Listing>
-    <ID>598482</ID>
+    <ID>732110</ID>
     <Location>
-      <StreetAddress>2306 17a Street SW</StreetAddress>
+      <StreetAddress>227 26 Avenue NE</StreetAddress>
       <City>Calgary</City>
       <State>AB</State>
       <Zip>T2S 0J1</Zip>
@@ -11,15 +11,15 @@
     </Location>
     <ListingDetails>
       <Status>Active</Status>
-      <Price>2850</Price>
-      <ListingUrl>https://www.rentfaster.ca/properties/2306-17a-street-sw-calgary-598482</ListingUrl>
-      <ProviderListingId>598482</ProviderListingId>
-      <ApplicationUrl>https://app.tenantturner.com/qualify/select-time/2306-17a-street-sw?p=TenantTurner</ApplicationUrl>
+      <Price>2650</Price>
+      <ListingUrl>https://www.rentfaster.ca/properties/227-26-avenue-ne-calgary-732110</ListingUrl>
+      <ProviderListingId>732110</ProviderListingId>
+      <ApplicationUrl>https://app.tenantturner.com/qualify/select-time/227-26-avenue-ne?p=TenantTurner</ApplicationUrl>
     </ListingDetails>
     <RentalDetails>
       <Availability>Immediate</Availability>
       <LeaseTerm>12 Months</LeaseTerm>
-      <DepositFees>2850</DepositFees>
+      <DepositFees>2650</DepositFees>
       <PetsAllowed>
         <NoPets>No</NoPets>
         <Cats>Yes</Cats>
@@ -29,178 +29,28 @@
     </RentalDetails>
     <BasicDetails>
       <PropertyType>Townhouse</PropertyType>
-      <Title>Huge 4 Bdrm 3 Full Bath Stacked Townhouse for Rent in Bankview!</Title>
-      <Description/>
-      <Bedrooms>4</Bedrooms>
-      <Bathrooms>3</Bathrooms>
-      <LivingArea>1800</LivingArea>
-    </BasicDetails>
-    <Pictures>
-      <Picture>
-        <PictureUrl>https://rf-images-prod-bcdn.rentfaster.ca/598482/slide_12895882.v.fa464028938005a90cd3cc46a535a2cd.jpg</PictureUrl>
-        <Caption>Huge 4 Bdrm 3 Full Bath Stacked Townhouse for Rent in Bankview! - Photo 1</Caption>
-      </Picture>
-    </Pictures>
-    <RichDetails>
-      <ParkingTypes>
-        <ParkingType>Surface</ParkingType>
-      </ParkingTypes>
-      <Appliances>
-        <Appliance>Fridge</Appliance>
-        <Appliance>Oven/Stove</Appliance>
-        <Appliance>Laundry - In Suite</Appliance>
-        <Appliance>Dishwasher</Appliance>
-      </Appliances>
-      <Fireplace>No</Fireplace>
-      <UtilitiesIncluded>Not included</UtilitiesIncluded>
-    </RichDetails>
-  </Listing>
-  <Listing>
-    <ID>748399</ID>
-    <Location>
-      <StreetAddress>515 17 Avenue NW</StreetAddress>
-      <City>Calgary</City>
-      <State>AB</State>
-      <Zip>T2S 0J1</Zip>
-      <DisplayAddress>Yes</DisplayAddress>
-    </Location>
-    <ListingDetails>
-      <Status>Active</Status>
-      <Price>1275</Price>
-      <ListingUrl>https://www.rentfaster.ca/properties/515-17-avenue-nw-calgary-748399</ListingUrl>
-      <ProviderListingId>748399</ProviderListingId>
-      <ApplicationUrl>https://app.tenantturner.com/qualify/select-time/515-17-avenue-nw?p=TenantTurner</ApplicationUrl>
-    </ListingDetails>
-    <RentalDetails>
-      <Availability>Immediate</Availability>
-      <LeaseTerm>12 Months</LeaseTerm>
-      <DepositFees>1275</DepositFees>
-      <PetsAllowed>
-        <NoPets>No</NoPets>
-        <Cats>Yes</Cats>
-        <SmallDogs>Yes</SmallDogs>
-        <LargeDogs>No</LargeDogs>
-      </PetsAllowed>
-    </RentalDetails>
-    <BasicDetails>
-      <PropertyType>Apartment</PropertyType>
-      <Title>Brand New 1 Bedroom Mount Pleasant Basement Suites For Rent!</Title>
-      <Description/>
-      <Bedrooms>1</Bedrooms>
-      <Bathrooms>1</Bathrooms>
-      <LivingArea>600</LivingArea>
-    </BasicDetails>
-    <Pictures>
-      <Picture>
-        <PictureUrl>https://rf-images-prod-bcdn.rentfaster.ca/748399/slide_17424815.v.697e0daa00a154303c4499843d166c77.jpg</PictureUrl>
-        <Caption>Brand New 1 Bedroom Mount Pleasant Basement Suites For Rent! - Photo 1</Caption>
-      </Picture>
-    </Pictures>
-    <RichDetails>
-      <Fireplace>No</Fireplace>
-      <UtilitiesIncluded>Not included</UtilitiesIncluded>
-    </RichDetails>
-  </Listing>
-  <Listing>
-    <ID>743660</ID>
-    <Location>
-      <StreetAddress>515 17 Avenue NW</StreetAddress>
-      <City>Calgary</City>
-      <State>AB</State>
-      <Zip>T2S 0J1</Zip>
-      <DisplayAddress>Yes</DisplayAddress>
-    </Location>
-    <ListingDetails>
-      <Status>Active</Status>
-      <Price>2475</Price>
-      <ListingUrl>https://www.rentfaster.ca/properties/515-17-avenue-nw-calgary-743660</ListingUrl>
-      <ProviderListingId>743660</ProviderListingId>
-      <ApplicationUrl>https://app.tenantturner.com/qualify/select-time/515-17-avenue-nw?p=TenantTurner</ApplicationUrl>
-    </ListingDetails>
-    <RentalDetails>
-      <Availability>Immediate</Availability>
-      <LeaseTerm>12 Months</LeaseTerm>
-      <DepositFees>2475</DepositFees>
-      <PetsAllowed>
-        <NoPets>No</NoPets>
-        <Cats>Yes</Cats>
-        <SmallDogs>Yes</SmallDogs>
-        <LargeDogs>No</LargeDogs>
-      </PetsAllowed>
-    </RentalDetails>
-    <BasicDetails>
-      <PropertyType>Townhouse</PropertyType>
-      <Title>Brand New - 3Bed 3Storey - Mount Pleasant Townhomes For Rent!</Title>
+      <Title>Brand New 3 Bedroom Townhomes For Rent</Title>
       <Description/>
       <Bedrooms>3</Bedrooms>
       <Bathrooms>2.5</Bathrooms>
-      <LivingArea>1500</LivingArea>
+      <LivingArea>1600</LivingArea>
     </BasicDetails>
     <Pictures>
       <Picture>
-        <PictureUrl>https://rf-images-prod-bcdn.rentfaster.ca/743660/slide_17248481.v.675ebe44d0e460b20637bcdfdc5dd959.jpg</PictureUrl>
-        <Caption>Brand New - 3Bed 3Storey - Mount Pleasant Townhomes For Rent! - Photo 1</Caption>
-      </Picture>
-    </Pictures>
-    <RichDetails>
-      <ParkingTypes>
-        <ParkingType>Surface</ParkingType>
-      </ParkingTypes>
-      <Appliances>
-        <Appliance>Fridge</Appliance>
-        <Appliance>Oven/Stove</Appliance>
-        <Appliance>Laundry - In Suite</Appliance>
-        <Appliance>Dishwasher</Appliance>
-      </Appliances>
-      <Fireplace>No</Fireplace>
-      <UtilitiesIncluded>Not included</UtilitiesIncluded>
-    </RichDetails>
-  </Listing>
-  <Listing>
-    <ID>732111</ID>
-    <Location>
-      <StreetAddress>2850 Grant Crescent SW</StreetAddress>
-      <City>Calgary</City>
-      <State>AB</State>
-      <Zip>T2S 0J1</Zip>
-      <DisplayAddress>Yes</DisplayAddress>
-    </Location>
-    <ListingDetails>
-      <Status>Active</Status>
-      <Price>2700</Price>
-      <ListingUrl>https://www.rentfaster.ca/properties/2850-grant-crescent-sw-calgary-732111</ListingUrl>
-      <ProviderListingId>732111</ProviderListingId>
-      <ApplicationUrl>https://app.tenantturner.com/qualify/select-time/2850-grant-crescent-sw?p=TenantTurner</ApplicationUrl>
-    </ListingDetails>
-    <RentalDetails>
-      <Availability>Immediate</Availability>
-      <LeaseTerm>12 Months</LeaseTerm>
-      <DepositFees>2700</DepositFees>
-      <PetsAllowed>
-        <NoPets>No</NoPets>
-        <Cats>Yes</Cats>
-        <SmallDogs>Yes</SmallDogs>
-        <LargeDogs>No</LargeDogs>
-      </PetsAllowed>
-    </RentalDetails>
-    <BasicDetails>
-      <PropertyType>Townhouse</PropertyType>
-      <Title>Brand New, Stylish and Spacious, 3 Bedroom Townhomes in Glamorgan! </Title>
-      <Description/>
-      <Bedrooms>3</Bedrooms>
-      <Bathrooms>2.5</Bathrooms>
-      <LivingArea>1650</LivingArea>
-    </BasicDetails>
-    <Pictures>
-      <Picture>
-        <PictureUrl>https://rf-images-prod-bcdn.rentfaster.ca/732111/slide_17161090.v.d28f614b1ddd75b37b794914bd5b86a9.jpg</PictureUrl>
-        <Caption>Brand New, Stylish and Spacious, 3 Bedroom Townhomes in Glamorgan!  - Photo 1</Caption>
+        <PictureUrl>https://rf-images-prod-bcdn.rentfaster.ca/732110/slide_17392098.v.555d0834258fefeea5bfcfbb1475cafc.jpg</PictureUrl>
+        <Caption>Brand New 3 Bedroom Townhomes For Rent - Photo 1</Caption>
       </Picture>
     </Pictures>
     <RichDetails>
       <ParkingTypes>
         <ParkingType>Garage</ParkingType>
       </ParkingTypes>
+      <Appliances>
+        <Appliance>Fridge</Appliance>
+        <Appliance>Oven/Stove</Appliance>
+        <Appliance>Laundry - In Suite</Appliance>
+        <Appliance>Dishwasher</Appliance>
+      </Appliances>
       <Fireplace>No</Fireplace>
       <UtilitiesIncluded>Not included</UtilitiesIncluded>
     </RichDetails>
@@ -242,7 +92,7 @@
     </BasicDetails>
     <Pictures>
       <Picture>
-        <PictureUrl>https://rf-images-prod-bcdn.rentfaster.ca/631595/slide_15159150.v.842bc8b56a2f3a9123583fe4e1d945bb.jpg</PictureUrl>
+        <PictureUrl>https://rf-images-prod-bcdn.rentfaster.ca/631595/slide_17475676.v.2e749846e9a63adc1e43ecf18739f7f9.jpg</PictureUrl>
         <Caption>Welcome to Konekt and this 2nd Floor, 1 Bed, 1 Bath Condo in the heart of Calgary's most iconic neighbourhood, Inglewood - Photo 1</Caption>
       </Picture>
     </Pictures>
@@ -317,9 +167,9 @@
     </RichDetails>
   </Listing>
   <Listing>
-    <ID>732110</ID>
+    <ID>740087</ID>
     <Location>
-      <StreetAddress>227 26 Avenue NE</StreetAddress>
+      <StreetAddress>69 Springborough Court SW</StreetAddress>
       <City>Calgary</City>
       <State>AB</State>
       <Zip>T2S 0J1</Zip>
@@ -327,15 +177,15 @@
     </Location>
     <ListingDetails>
       <Status>Active</Status>
-      <Price>2650</Price>
-      <ListingUrl>https://www.rentfaster.ca/properties/227-26-avenue-ne-calgary-732110</ListingUrl>
-      <ProviderListingId>732110</ProviderListingId>
-      <ApplicationUrl>https://app.tenantturner.com/qualify/select-time/227-26-avenue-ne?p=TenantTurner</ApplicationUrl>
+      <Price>2200</Price>
+      <ListingUrl>https://www.rentfaster.ca/properties/69-springborough-court-sw-calgary-740087</ListingUrl>
+      <ProviderListingId>740087</ProviderListingId>
+      <ApplicationUrl>https://app.tenantturner.com/qualify/select-time/69-springborough-court-sw?p=TenantTurner</ApplicationUrl>
     </ListingDetails>
     <RentalDetails>
       <Availability>Immediate</Availability>
       <LeaseTerm>12 Months</LeaseTerm>
-      <DepositFees>2650</DepositFees>
+      <DepositFees>2200</DepositFees>
       <PetsAllowed>
         <NoPets>No</NoPets>
         <Cats>Yes</Cats>
@@ -344,31 +194,31 @@
       </PetsAllowed>
     </RentalDetails>
     <BasicDetails>
-      <PropertyType>Townhouse</PropertyType>
-      <Title>Brand New 3 Bedroom Townhomes For Rent</Title>
+      <PropertyType>Condo</PropertyType>
+      <Title>Welcome to this beautifully renovated and move-in ready 2 bed, 2 bath ground-floor unit in an unbeatable location!</Title>
       <Description/>
-      <Bedrooms>3</Bedrooms>
-      <Bathrooms>2.5</Bathrooms>
-      <LivingArea>1600</LivingArea>
+      <Bedrooms>2</Bedrooms>
+      <Bathrooms>2</Bathrooms>
+      <LivingArea>850</LivingArea>
     </BasicDetails>
     <Pictures>
       <Picture>
-        <PictureUrl>https://rf-images-prod-bcdn.rentfaster.ca/732110/slide_17392098.v.555d0834258fefeea5bfcfbb1475cafc.jpg</PictureUrl>
-        <Caption>Brand New 3 Bedroom Townhomes For Rent - Photo 1</Caption>
+        <PictureUrl>https://rf-images-prod-bcdn.rentfaster.ca/740087/slide_17125375.v.a848283e5959aa8ea830299557eff0cd.jpg</PictureUrl>
+        <Caption>Welcome to this beautifully renovated and move-in ready 2 bed, 2 bath ground-floor unit in an unbeatable location! - Photo 1</Caption>
       </Picture>
     </Pictures>
     <RichDetails>
       <ParkingTypes>
-        <ParkingType>Garage</ParkingType>
+        <ParkingType>Underground</ParkingType>
       </ParkingTypes>
       <Appliances>
+        <Appliance>Storage Lockers</Appliance>
         <Appliance>Fridge</Appliance>
         <Appliance>Oven/Stove</Appliance>
         <Appliance>Laundry - In Suite</Appliance>
-        <Appliance>Dishwasher</Appliance>
       </Appliances>
       <Fireplace>No</Fireplace>
-      <UtilitiesIncluded>Not included</UtilitiesIncluded>
+      <UtilitiesIncluded>Heat | Water included</UtilitiesIncluded>
     </RichDetails>
   </Listing>
   <Listing>
@@ -427,6 +277,116 @@
     </RichDetails>
   </Listing>
   <Listing>
+    <ID>743660</ID>
+    <Location>
+      <StreetAddress>515 17 Avenue NW</StreetAddress>
+      <City>Calgary</City>
+      <State>AB</State>
+      <Zip>T2S 0J1</Zip>
+      <DisplayAddress>Yes</DisplayAddress>
+    </Location>
+    <ListingDetails>
+      <Status>Active</Status>
+      <Price>2475</Price>
+      <ListingUrl>https://www.rentfaster.ca/properties/515-17-avenue-nw-calgary-743660</ListingUrl>
+      <ProviderListingId>743660</ProviderListingId>
+      <ApplicationUrl>https://app.tenantturner.com/qualify/select-time/515-17-avenue-nw?p=TenantTurner</ApplicationUrl>
+    </ListingDetails>
+    <RentalDetails>
+      <Availability>Immediate</Availability>
+      <LeaseTerm>12 Months</LeaseTerm>
+      <DepositFees>2475</DepositFees>
+      <PetsAllowed>
+        <NoPets>No</NoPets>
+        <Cats>Yes</Cats>
+        <SmallDogs>Yes</SmallDogs>
+        <LargeDogs>No</LargeDogs>
+      </PetsAllowed>
+    </RentalDetails>
+    <BasicDetails>
+      <PropertyType>Townhouse</PropertyType>
+      <Title>Brand New - 3Bed 3Storey - Mount Pleasant Townhomes For Rent!</Title>
+      <Description/>
+      <Bedrooms>3</Bedrooms>
+      <Bathrooms>2.5</Bathrooms>
+      <LivingArea>1500</LivingArea>
+    </BasicDetails>
+    <Pictures>
+      <Picture>
+        <PictureUrl>https://rf-images-prod-bcdn.rentfaster.ca/743660/slide_17248481.v.675ebe44d0e460b20637bcdfdc5dd959.jpg</PictureUrl>
+        <Caption>Brand New - 3Bed 3Storey - Mount Pleasant Townhomes For Rent! - Photo 1</Caption>
+      </Picture>
+    </Pictures>
+    <RichDetails>
+      <ParkingTypes>
+        <ParkingType>Surface</ParkingType>
+      </ParkingTypes>
+      <Appliances>
+        <Appliance>Fridge</Appliance>
+        <Appliance>Oven/Stove</Appliance>
+        <Appliance>Laundry - In Suite</Appliance>
+        <Appliance>Dishwasher</Appliance>
+      </Appliances>
+      <Fireplace>No</Fireplace>
+      <UtilitiesIncluded>Not included</UtilitiesIncluded>
+    </RichDetails>
+  </Listing>
+  <Listing>
+    <ID>746322</ID>
+    <Location>
+      <StreetAddress>105 Belmont Drive SW</StreetAddress>
+      <City>Calgary</City>
+      <State>AB</State>
+      <Zip>T2S 0J1</Zip>
+      <DisplayAddress>Yes</DisplayAddress>
+    </Location>
+    <ListingDetails>
+      <Status>Active</Status>
+      <Price>2150</Price>
+      <ListingUrl>https://www.rentfaster.ca/properties/105-belmont-drive-sw-calgary-746322</ListingUrl>
+      <ProviderListingId>746322</ProviderListingId>
+      <ApplicationUrl>https://app.tenantturner.com/qualify/select-time/105-belmont-drive-sw?p=TenantTurner</ApplicationUrl>
+    </ListingDetails>
+    <RentalDetails>
+      <Availability>Immediate</Availability>
+      <LeaseTerm>12 Months</LeaseTerm>
+      <DepositFees>2150</DepositFees>
+      <PetsAllowed>
+        <NoPets>Yes</NoPets>
+        <Cats>No</Cats>
+        <SmallDogs>No</SmallDogs>
+        <LargeDogs>No</LargeDogs>
+      </PetsAllowed>
+    </RentalDetails>
+    <BasicDetails>
+      <PropertyType>Apartment</PropertyType>
+      <Title>BRAND NEW 3 Bedroom Bright Duplex located in the trendy SW neighbourhood of Belmont </Title>
+      <Description/>
+      <Bedrooms>3</Bedrooms>
+      <Bathrooms>2.5</Bathrooms>
+      <LivingArea>1500</LivingArea>
+    </BasicDetails>
+    <Pictures>
+      <Picture>
+        <PictureUrl>https://rf-images-prod-bcdn.rentfaster.ca/746322/slide_17409335.v.1c27dd8c2968b38adc093f00d1dd5c0c.jpg</PictureUrl>
+        <Caption>BRAND NEW 3 Bedroom Bright Duplex located in the trendy SW neighbourhood of Belmont  - Photo 1</Caption>
+      </Picture>
+    </Pictures>
+    <RichDetails>
+      <ParkingTypes>
+        <ParkingType>Surface</ParkingType>
+      </ParkingTypes>
+      <Appliances>
+        <Appliance>Fridge</Appliance>
+        <Appliance>Oven/Stove</Appliance>
+        <Appliance>Laundry - In Suite</Appliance>
+        <Appliance>Dishwasher</Appliance>
+      </Appliances>
+      <Fireplace>No</Fireplace>
+      <UtilitiesIncluded>Not included</UtilitiesIncluded>
+    </RichDetails>
+  </Listing>
+  <Listing>
     <ID>672832</ID>
     <Location>
       <StreetAddress>110 18A Street NW</StreetAddress>
@@ -437,7 +397,7 @@
     </Location>
     <ListingDetails>
       <Status>Active</Status>
-      <Price>2200</Price>
+      <Price>2100</Price>
       <ListingUrl>https://www.rentfaster.ca/properties/110-18a-street-nw-calgary-672832</ListingUrl>
       <ProviderListingId>672832</ProviderListingId>
       <ApplicationUrl>https://app.tenantturner.com/qualify/select-time/110-18a-street-nw?p=TenantTurner</ApplicationUrl>
@@ -445,7 +405,7 @@
     <RentalDetails>
       <Availability>Immediate</Availability>
       <LeaseTerm>12 Months</LeaseTerm>
-      <DepositFees>2200</DepositFees>
+      <DepositFees>2100</DepositFees>
       <PetsAllowed>
         <NoPets>No</NoPets>
         <Cats>Yes</Cats>
@@ -482,9 +442,9 @@
     </RichDetails>
   </Listing>
   <Listing>
-    <ID>740087</ID>
+    <ID>748399</ID>
     <Location>
-      <StreetAddress>69 Springborough Court SW</StreetAddress>
+      <StreetAddress>515 17 Avenue NW</StreetAddress>
       <City>Calgary</City>
       <State>AB</State>
       <Zip>T2S 0J1</Zip>
@@ -492,15 +452,15 @@
     </Location>
     <ListingDetails>
       <Status>Active</Status>
-      <Price>2200</Price>
-      <ListingUrl>https://www.rentfaster.ca/properties/69-springborough-court-sw-calgary-740087</ListingUrl>
-      <ProviderListingId>740087</ProviderListingId>
-      <ApplicationUrl>https://app.tenantturner.com/qualify/select-time/69-springborough-court-sw?p=TenantTurner</ApplicationUrl>
+      <Price>1275</Price>
+      <ListingUrl>https://www.rentfaster.ca/properties/515-17-avenue-nw-calgary-748399</ListingUrl>
+      <ProviderListingId>748399</ProviderListingId>
+      <ApplicationUrl>https://app.tenantturner.com/qualify/select-time/515-17-avenue-nw?p=TenantTurner</ApplicationUrl>
     </ListingDetails>
     <RentalDetails>
       <Availability>Immediate</Availability>
       <LeaseTerm>12 Months</LeaseTerm>
-      <DepositFees>2200</DepositFees>
+      <DepositFees>1275</DepositFees>
       <PetsAllowed>
         <NoPets>No</NoPets>
         <Cats>Yes</Cats>
@@ -509,37 +469,28 @@
       </PetsAllowed>
     </RentalDetails>
     <BasicDetails>
-      <PropertyType>Condo</PropertyType>
-      <Title>Welcome to this beautifully renovated and move-in ready 2 bed, 2 bath ground-floor unit in an unbeatable location!</Title>
+      <PropertyType>Apartment</PropertyType>
+      <Title>Brand New 1 Bedroom Mount Pleasant Basement Suites For Rent!</Title>
       <Description/>
-      <Bedrooms>2</Bedrooms>
-      <Bathrooms>2</Bathrooms>
-      <LivingArea>850</LivingArea>
+      <Bedrooms>1</Bedrooms>
+      <Bathrooms>1</Bathrooms>
+      <LivingArea>600</LivingArea>
     </BasicDetails>
     <Pictures>
       <Picture>
-        <PictureUrl>https://rf-images-prod-bcdn.rentfaster.ca/740087/slide_17125375.v.a848283e5959aa8ea830299557eff0cd.jpg</PictureUrl>
-        <Caption>Welcome to this beautifully renovated and move-in ready 2 bed, 2 bath ground-floor unit in an unbeatable location! - Photo 1</Caption>
+        <PictureUrl>https://rf-images-prod-bcdn.rentfaster.ca/748399/slide_17424815.v.697e0daa00a154303c4499843d166c77.jpg</PictureUrl>
+        <Caption>Brand New 1 Bedroom Mount Pleasant Basement Suites For Rent! - Photo 1</Caption>
       </Picture>
     </Pictures>
     <RichDetails>
-      <ParkingTypes>
-        <ParkingType>Underground</ParkingType>
-      </ParkingTypes>
-      <Appliances>
-        <Appliance>Storage Lockers</Appliance>
-        <Appliance>Fridge</Appliance>
-        <Appliance>Oven/Stove</Appliance>
-        <Appliance>Laundry - In Suite</Appliance>
-      </Appliances>
       <Fireplace>No</Fireplace>
-      <UtilitiesIncluded>Heat | Water included</UtilitiesIncluded>
+      <UtilitiesIncluded>Not included</UtilitiesIncluded>
     </RichDetails>
   </Listing>
   <Listing>
-    <ID>746322</ID>
+    <ID>749568</ID>
     <Location>
-      <StreetAddress>105 Belmont Drive SW</StreetAddress>
+      <StreetAddress>20305 45 Street SE</StreetAddress>
       <City>Calgary</City>
       <State>AB</State>
       <Zip>T2S 0J1</Zip>
@@ -547,25 +498,25 @@
     </Location>
     <ListingDetails>
       <Status>Active</Status>
-      <Price>2250</Price>
-      <ListingUrl>https://www.rentfaster.ca/properties/105-belmont-drive-sw-calgary-746322</ListingUrl>
-      <ProviderListingId>746322</ProviderListingId>
-      <ApplicationUrl>https://app.tenantturner.com/qualify/select-time/105-belmont-drive-sw?p=TenantTurner</ApplicationUrl>
+      <Price>2500</Price>
+      <ListingUrl>https://www.rentfaster.ca/properties/20305-45-street-se-calgary-749568</ListingUrl>
+      <ProviderListingId>749568</ProviderListingId>
+      <ApplicationUrl>https://app.tenantturner.com/qualify/select-time/20305-45-street-se?p=TenantTurner</ApplicationUrl>
     </ListingDetails>
     <RentalDetails>
       <Availability>Immediate</Availability>
       <LeaseTerm>12 Months</LeaseTerm>
-      <DepositFees>2250</DepositFees>
+      <DepositFees>2500</DepositFees>
       <PetsAllowed>
-        <NoPets>Yes</NoPets>
-        <Cats>No</Cats>
-        <SmallDogs>No</SmallDogs>
+        <NoPets>No</NoPets>
+        <Cats>Yes</Cats>
+        <SmallDogs>Yes</SmallDogs>
         <LargeDogs>No</LargeDogs>
       </PetsAllowed>
     </RentalDetails>
     <BasicDetails>
       <PropertyType>Apartment</PropertyType>
-      <Title>BRAND NEW 3 Bedroom Bright Duplex located in the trendy SW neighbourhood of Belmont </Title>
+      <Title>This home provides over 1,500 sq. ft. of beautifully designed living space, perfect for families or those seeking a flex</Title>
       <Description/>
       <Bedrooms>3</Bedrooms>
       <Bathrooms>2.5</Bathrooms>
@@ -573,8 +524,106 @@
     </BasicDetails>
     <Pictures>
       <Picture>
-        <PictureUrl>https://rf-images-prod-bcdn.rentfaster.ca/746322/slide_17409334.v.6bc3dc3ad501fb3c9d1595eb81b8d984.jpg</PictureUrl>
-        <Caption>BRAND NEW 3 Bedroom Bright Duplex located in the trendy SW neighbourhood of Belmont  - Photo 1</Caption>
+        <PictureUrl>https://rf-images-prod-bcdn.rentfaster.ca/749568/slide_17467945.v.68b3feb2efeabb5cf9970e48f190bb20.jpg</PictureUrl>
+        <Caption>This home provides over 1,500 sq. ft. of beautifully designed living space, perfect for families or those seeking a flex - Photo 1</Caption>
+      </Picture>
+    </Pictures>
+    <RichDetails>
+      <ParkingTypes>
+        <ParkingType>Surface</ParkingType>
+      </ParkingTypes>
+      <Fireplace>No</Fireplace>
+      <UtilitiesIncluded>Not included</UtilitiesIncluded>
+    </RichDetails>
+  </Listing>
+  <Listing>
+    <ID>732111</ID>
+    <Location>
+      <StreetAddress>2850 Grant Crescent SW</StreetAddress>
+      <City>Calgary</City>
+      <State>AB</State>
+      <Zip>T2S 0J1</Zip>
+      <DisplayAddress>Yes</DisplayAddress>
+    </Location>
+    <ListingDetails>
+      <Status>Active</Status>
+      <Price>2700</Price>
+      <ListingUrl>https://www.rentfaster.ca/properties/2850-grant-crescent-sw-calgary-732111</ListingUrl>
+      <ProviderListingId>732111</ProviderListingId>
+      <ApplicationUrl>https://app.tenantturner.com/qualify/select-time/2850-grant-crescent-sw?p=TenantTurner</ApplicationUrl>
+    </ListingDetails>
+    <RentalDetails>
+      <Availability>Immediate</Availability>
+      <LeaseTerm>12 Months</LeaseTerm>
+      <DepositFees>2700</DepositFees>
+      <PetsAllowed>
+        <NoPets>No</NoPets>
+        <Cats>Yes</Cats>
+        <SmallDogs>Yes</SmallDogs>
+        <LargeDogs>No</LargeDogs>
+      </PetsAllowed>
+    </RentalDetails>
+    <BasicDetails>
+      <PropertyType>Townhouse</PropertyType>
+      <Title>Brand New, Stylish and Spacious, 3 Bedroom Townhomes in Glamorgan! </Title>
+      <Description/>
+      <Bedrooms>3</Bedrooms>
+      <Bathrooms>2.5</Bathrooms>
+      <LivingArea>1650</LivingArea>
+    </BasicDetails>
+    <Pictures>
+      <Picture>
+        <PictureUrl>https://rf-images-prod-bcdn.rentfaster.ca/732111/slide_17161090.v.d28f614b1ddd75b37b794914bd5b86a9.jpg</PictureUrl>
+        <Caption>Brand New, Stylish and Spacious, 3 Bedroom Townhomes in Glamorgan!  - Photo 1</Caption>
+      </Picture>
+    </Pictures>
+    <RichDetails>
+      <ParkingTypes>
+        <ParkingType>Garage</ParkingType>
+      </ParkingTypes>
+      <Fireplace>No</Fireplace>
+      <UtilitiesIncluded>Not included</UtilitiesIncluded>
+    </RichDetails>
+  </Listing>
+  <Listing>
+    <ID>598482</ID>
+    <Location>
+      <StreetAddress>2306 17a Street SW</StreetAddress>
+      <City>Calgary</City>
+      <State>AB</State>
+      <Zip>T2S 0J1</Zip>
+      <DisplayAddress>Yes</DisplayAddress>
+    </Location>
+    <ListingDetails>
+      <Status>Active</Status>
+      <Price>2850</Price>
+      <ListingUrl>https://www.rentfaster.ca/properties/2306-17a-street-sw-calgary-598482</ListingUrl>
+      <ProviderListingId>598482</ProviderListingId>
+      <ApplicationUrl>https://app.tenantturner.com/qualify/select-time/2306-17a-street-sw?p=TenantTurner</ApplicationUrl>
+    </ListingDetails>
+    <RentalDetails>
+      <Availability>Immediate</Availability>
+      <LeaseTerm>12 Months</LeaseTerm>
+      <DepositFees>2850</DepositFees>
+      <PetsAllowed>
+        <NoPets>No</NoPets>
+        <Cats>Yes</Cats>
+        <SmallDogs>Yes</SmallDogs>
+        <LargeDogs>No</LargeDogs>
+      </PetsAllowed>
+    </RentalDetails>
+    <BasicDetails>
+      <PropertyType>Townhouse</PropertyType>
+      <Title>Huge 4 Bdrm 3 Full Bath Stacked Townhouse for Rent in Bankview!</Title>
+      <Description/>
+      <Bedrooms>4</Bedrooms>
+      <Bathrooms>3</Bathrooms>
+      <LivingArea>1800</LivingArea>
+    </BasicDetails>
+    <Pictures>
+      <Picture>
+        <PictureUrl>https://rf-images-prod-bcdn.rentfaster.ca/598482/slide_12895882.v.fa464028938005a90cd3cc46a535a2cd.jpg</PictureUrl>
+        <Caption>Huge 4 Bdrm 3 Full Bath Stacked Townhouse for Rent in Bankview! - Photo 1</Caption>
       </Picture>
     </Pictures>
     <RichDetails>
@@ -602,7 +651,7 @@
     </Location>
     <ListingDetails>
       <Status>Active</Status>
-      <Price>2800</Price>
+      <Price>2700</Price>
       <ListingUrl>https://www.rentfaster.ca/properties/815-17-avenue-nw-calgary-738281</ListingUrl>
       <ProviderListingId>738281</ProviderListingId>
       <ApplicationUrl>https://app.tenantturner.com/qualify/select-time/815-17-avenue-nw?p=TenantTurner</ApplicationUrl>
@@ -610,7 +659,7 @@
     <RentalDetails>
       <Availability>July 01</Availability>
       <LeaseTerm>12 Months</LeaseTerm>
-      <DepositFees>2800</DepositFees>
+      <DepositFees>2700</DepositFees>
       <PetsAllowed>
         <NoPets>No</NoPets>
         <Cats>Yes</Cats>
@@ -641,6 +690,61 @@
         <Appliance>Oven/Stove</Appliance>
         <Appliance>Laundry - In Suite</Appliance>
         <Appliance>Dishwasher</Appliance>
+      </Appliances>
+      <Fireplace>No</Fireplace>
+      <UtilitiesIncluded>Not included</UtilitiesIncluded>
+    </RichDetails>
+  </Listing>
+  <Listing>
+    <ID>684190</ID>
+    <Location>
+      <StreetAddress>1760 26 Avenue SW</StreetAddress>
+      <City>Calgary</City>
+      <State>AB</State>
+      <Zip>T2S 0J1</Zip>
+      <DisplayAddress>Yes</DisplayAddress>
+    </Location>
+    <ListingDetails>
+      <Status>Active</Status>
+      <Price>2350</Price>
+      <ListingUrl>https://www.rentfaster.ca/properties/1760-26-avenue-sw-calgary-684190</ListingUrl>
+      <ProviderListingId>684190</ProviderListingId>
+      <ApplicationUrl>https://app.tenantturner.com/qualify/select-time/1760-26-avenue-sw?p=TenantTurner</ApplicationUrl>
+    </ListingDetails>
+    <RentalDetails>
+      <Availability>July 01</Availability>
+      <LeaseTerm>12 Months</LeaseTerm>
+      <DepositFees>2350</DepositFees>
+      <PetsAllowed>
+        <NoPets>No</NoPets>
+        <Cats>Yes</Cats>
+        <SmallDogs>Yes</SmallDogs>
+        <LargeDogs>No</LargeDogs>
+      </PetsAllowed>
+    </RentalDetails>
+    <BasicDetails>
+      <PropertyType>Townhouse</PropertyType>
+      <Title>Top Floor, 2 Bedroom, 2 Bathroom, Stacked Townhome for Rent in Bankview!</Title>
+      <Description/>
+      <Bedrooms>2</Bedrooms>
+      <Bathrooms>2</Bathrooms>
+      <LivingArea>1400</LivingArea>
+    </BasicDetails>
+    <Pictures>
+      <Picture>
+        <PictureUrl>https://rf-images-prod-bcdn.rentfaster.ca/684190/slide_17453418.v.c00077c95cc9bf2517765b72bf4c5965.jpg</PictureUrl>
+        <Caption>Top Floor, 2 Bedroom, 2 Bathroom, Stacked Townhome for Rent in Bankview! - Photo 1</Caption>
+      </Picture>
+    </Pictures>
+    <RichDetails>
+      <ParkingTypes>
+        <ParkingType>Underground</ParkingType>
+      </ParkingTypes>
+      <Appliances>
+        <Appliance>Storage Lockers</Appliance>
+        <Appliance>Fridge</Appliance>
+        <Appliance>Oven/Stove</Appliance>
+        <Appliance>Laundry - In Suite</Appliance>
       </Appliances>
       <Fireplace>No</Fireplace>
       <UtilitiesIncluded>Not included</UtilitiesIncluded>
@@ -702,9 +806,9 @@
     </RichDetails>
   </Listing>
   <Listing>
-    <ID>684190</ID>
+    <ID>749569</ID>
     <Location>
-      <StreetAddress>1760 26 Avenue SW</StreetAddress>
+      <StreetAddress>227 26 Avenue NE</StreetAddress>
       <City>Calgary</City>
       <State>AB</State>
       <Zip>T2S 0J1</Zip>
@@ -712,15 +816,15 @@
     </Location>
     <ListingDetails>
       <Status>Active</Status>
-      <Price>2350</Price>
-      <ListingUrl>https://www.rentfaster.ca/properties/1760-26-avenue-sw-calgary-684190</ListingUrl>
-      <ProviderListingId>684190</ProviderListingId>
-      <ApplicationUrl>https://app.tenantturner.com/qualify/select-time/1760-26-avenue-sw?p=TenantTurner</ApplicationUrl>
+      <Price>1500</Price>
+      <ListingUrl>https://www.rentfaster.ca/properties/227-26-avenue-ne-calgary-749569</ListingUrl>
+      <ProviderListingId>749569</ProviderListingId>
+      <ApplicationUrl>https://app.tenantturner.com/qualify/select-time/227-26-avenue-ne?p=TenantTurner</ApplicationUrl>
     </ListingDetails>
     <RentalDetails>
       <Availability>July 01</Availability>
       <LeaseTerm>12 Months</LeaseTerm>
-      <DepositFees>2350</DepositFees>
+      <DepositFees>1500</DepositFees>
       <PetsAllowed>
         <NoPets>No</NoPets>
         <Cats>Yes</Cats>
@@ -729,28 +833,25 @@
       </PetsAllowed>
     </RentalDetails>
     <BasicDetails>
-      <PropertyType>Townhouse</PropertyType>
-      <Title>Top Floor, 2 Bedroom, 2 Bathroom, Stacked Townhome for Rent in Bankview!</Title>
+      <PropertyType>Apartment</PropertyType>
+      <Title>Brand New 2-Bedroom Suite | Private Entrance | Prime Location | Tuxedo Park</Title>
       <Description/>
       <Bedrooms>2</Bedrooms>
-      <Bathrooms>2</Bathrooms>
-      <LivingArea>1400</LivingArea>
+      <Bathrooms>1</Bathrooms>
+      <LivingArea>600</LivingArea>
     </BasicDetails>
     <Pictures>
       <Picture>
-        <PictureUrl>https://rf-images-prod-bcdn.rentfaster.ca/684190/slide_17453418.v.c00077c95cc9bf2517765b72bf4c5965.jpg</PictureUrl>
-        <Caption>Top Floor, 2 Bedroom, 2 Bathroom, Stacked Townhome for Rent in Bankview! - Photo 1</Caption>
+        <PictureUrl>https://rf-images-prod-bcdn.rentfaster.ca/749569/slide_17475683.v.c1268cafd7aee12f6d83ecd00fe17fcf.jpg</PictureUrl>
+        <Caption>Brand New 2-Bedroom Suite | Private Entrance | Prime Location | Tuxedo Park - Photo 1</Caption>
       </Picture>
     </Pictures>
     <RichDetails>
-      <ParkingTypes>
-        <ParkingType>Underground</ParkingType>
-      </ParkingTypes>
       <Appliances>
-        <Appliance>Storage Lockers</Appliance>
         <Appliance>Fridge</Appliance>
         <Appliance>Oven/Stove</Appliance>
         <Appliance>Laundry - In Suite</Appliance>
+        <Appliance>Dishwasher</Appliance>
       </Appliances>
       <Fireplace>No</Fireplace>
       <UtilitiesIncluded>Not included</UtilitiesIncluded>
