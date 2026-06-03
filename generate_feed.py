@@ -32,6 +32,8 @@ TENANT_TURNER_CUSTOM_SLUGS = {
     "653553":                  "888-4th-ave-sw",              # 888 4th Ave SW - Solaire
     "604744":                  "2419-16th-street-sw-1",       # 2419 16th Street SW - Northumberland Place
     "640415":                  "628-56-avenue-southwest-1",   # 628 56 Avenue SW - 56 Windsor
+    "748399":                  "515-17-avenue-nw-1",          # 515 17 Avenue NW - Basement Suite
+    "749569":                  "227-26-avenue-ne-1",          # 227 26 Avenue NE
 }
 TENANT_TURNER_BASE = "https://app.tenantturner.com/qualify/select-time/"
 TENANT_TURNER_SUFFIX = "?p=TenantTurner"
