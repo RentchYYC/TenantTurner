@@ -1,25 +1,25 @@
 <?xml version="1.0" encoding="utf-8"?>
 <Listings>
   <Listing>
-    <ID>738281</ID>
+    <ID>748399</ID>
     <Location>
-      <StreetAddress>815 17 Avenue NW</StreetAddress>
+      <StreetAddress>515 17 Avenue NW</StreetAddress>
       <City>Calgary</City>
       <State>AB</State>
-      <Zip>T2M 0P1</Zip>
+      <Zip>T2S 0J1</Zip>
       <DisplayAddress>Yes</DisplayAddress>
     </Location>
     <ListingDetails>
       <Status>Active</Status>
-      <Price>2400</Price>
-      <ListingUrl>https://www.rentfaster.ca/properties/815-17-avenue-nw-calgary-738281</ListingUrl>
-      <ProviderListingId>738281</ProviderListingId>
-      <ApplicationUrl>https://app.tenantturner.com/qualify/select-time/815-17-avenue-nw?p=TenantTurner</ApplicationUrl>
+      <Price>1200</Price>
+      <ListingUrl>https://www.rentfaster.ca/properties/515-17-avenue-nw-calgary-748399</ListingUrl>
+      <ProviderListingId>748399</ProviderListingId>
+      <ApplicationUrl>https://app.tenantturner.com/qualify/select-time/515-17-avenue-nw-1?p=TenantTurner</ApplicationUrl>
     </ListingDetails>
     <RentalDetails>
       <Availability>Immediate</Availability>
       <LeaseTerm>12 Months</LeaseTerm>
-      <DepositFees>2400</DepositFees>
+      <DepositFees>1200</DepositFees>
       <PetsAllowed>
         <NoPets>No</NoPets>
         <Cats>Yes</Cats>
@@ -28,30 +28,20 @@
       </PetsAllowed>
     </RentalDetails>
     <BasicDetails>
-      <PropertyType>Townhouse</PropertyType>
-      <Title>Brand New 3 Storey, 3 Bedroom, 2.5 Bathroom Mount Pleasant Townhomes for Rent!</Title>
+      <PropertyType>Apartment</PropertyType>
+      <Title>Brand New 1 Bedroom Mount Pleasant Basement Suites For Rent!</Title>
       <Description/>
-      <Bedrooms>3</Bedrooms>
-      <Bathrooms>2.5</Bathrooms>
-      <LivingArea>1500</LivingArea>
+      <Bedrooms>1</Bedrooms>
+      <Bathrooms>1</Bathrooms>
+      <LivingArea>600</LivingArea>
     </BasicDetails>
     <Pictures>
       <Picture>
-        <PictureUrl>https://rf-images-prod-bcdn.rentfaster.ca/738281/slide_17574876.v.8959301b2e8e6712660f061bbd4e0816.jpg</PictureUrl>
-        <Caption>Brand New 3 Storey, 3 Bedroom, 2.5 Bathroom Mount Pleasant Townhomes for Rent! - Photo 1</Caption>
+        <PictureUrl>https://rf-images-prod-bcdn.rentfaster.ca/748399/slide_17424815.v.697e0daa00a154303c4499843d166c77.jpg</PictureUrl>
+        <Caption>Brand New 1 Bedroom Mount Pleasant Basement Suites For Rent! - Photo 1</Caption>
       </Picture>
     </Pictures>
     <RichDetails>
-      <ParkingTypes>
-        <ParkingType>Street</ParkingType>
-        <ParkingType>Surface</ParkingType>
-      </ParkingTypes>
-      <Appliances>
-        <Appliance>Fridge</Appliance>
-        <Appliance>Oven/Stove</Appliance>
-        <Appliance>Laundry - In Suite</Appliance>
-        <Appliance>Dishwasher</Appliance>
-      </Appliances>
       <Fireplace>No</Fireplace>
       <UtilitiesIncluded>Not included</UtilitiesIncluded>
     </RichDetails>
@@ -101,52 +91,6 @@
       <ParkingTypes>
         <ParkingType>Garage</ParkingType>
       </ParkingTypes>
-      <Fireplace>No</Fireplace>
-      <UtilitiesIncluded>Not included</UtilitiesIncluded>
-    </RichDetails>
-  </Listing>
-  <Listing>
-    <ID>748399</ID>
-    <Location>
-      <StreetAddress>515 17 Avenue NW</StreetAddress>
-      <City>Calgary</City>
-      <State>AB</State>
-      <Zip>T2S 0J1</Zip>
-      <DisplayAddress>Yes</DisplayAddress>
-    </Location>
-    <ListingDetails>
-      <Status>Active</Status>
-      <Price>1200</Price>
-      <ListingUrl>https://www.rentfaster.ca/properties/515-17-avenue-nw-calgary-748399</ListingUrl>
-      <ProviderListingId>748399</ProviderListingId>
-      <ApplicationUrl>https://app.tenantturner.com/qualify/select-time/515-17-avenue-nw-1?p=TenantTurner</ApplicationUrl>
-    </ListingDetails>
-    <RentalDetails>
-      <Availability>Immediate</Availability>
-      <LeaseTerm>12 Months</LeaseTerm>
-      <DepositFees>1200</DepositFees>
-      <PetsAllowed>
-        <NoPets>No</NoPets>
-        <Cats>Yes</Cats>
-        <SmallDogs>Yes</SmallDogs>
-        <LargeDogs>No</LargeDogs>
-      </PetsAllowed>
-    </RentalDetails>
-    <BasicDetails>
-      <PropertyType>Apartment</PropertyType>
-      <Title>Brand New 1 Bedroom Mount Pleasant Basement Suites For Rent!</Title>
-      <Description/>
-      <Bedrooms>1</Bedrooms>
-      <Bathrooms>1</Bathrooms>
-      <LivingArea>600</LivingArea>
-    </BasicDetails>
-    <Pictures>
-      <Picture>
-        <PictureUrl>https://rf-images-prod-bcdn.rentfaster.ca/748399/slide_17424815.v.697e0daa00a154303c4499843d166c77.jpg</PictureUrl>
-        <Caption>Brand New 1 Bedroom Mount Pleasant Basement Suites For Rent! - Photo 1</Caption>
-      </Picture>
-    </Pictures>
-    <RichDetails>
       <Fireplace>No</Fireplace>
       <UtilitiesIncluded>Not included</UtilitiesIncluded>
     </RichDetails>
@@ -207,9 +151,9 @@
     </RichDetails>
   </Listing>
   <Listing>
-    <ID>757311</ID>
+    <ID>749569</ID>
     <Location>
-      <StreetAddress>25B Yorkstone Row SW</StreetAddress>
+      <StreetAddress>227 26 Avenue NE</StreetAddress>
       <City>Calgary</City>
       <State>AB</State>
       <Zip>T2S 0J1</Zip>
@@ -217,37 +161,43 @@
     </Location>
     <ListingDetails>
       <Status>Active</Status>
-      <Price>1100</Price>
-      <ListingUrl>https://www.rentfaster.ca/properties/25b-yorkstone-row-sw-calgary-757311</ListingUrl>
-      <ProviderListingId>757311</ProviderListingId>
-      <ApplicationUrl>https://app.tenantturner.com/qualify/select-time/25b-yorkstone-row-sw?p=TenantTurner</ApplicationUrl>
+      <Price>1500</Price>
+      <ListingUrl>https://www.rentfaster.ca/properties/227-26-avenue-ne-calgary-749569</ListingUrl>
+      <ProviderListingId>749569</ProviderListingId>
+      <ApplicationUrl>https://app.tenantturner.com/qualify/select-time/227-26-avenue-ne-1?p=TenantTurner</ApplicationUrl>
     </ListingDetails>
     <RentalDetails>
       <Availability>Immediate</Availability>
       <LeaseTerm>12 Months</LeaseTerm>
-      <DepositFees>1100</DepositFees>
+      <DepositFees>1500</DepositFees>
       <PetsAllowed>
-        <NoPets>Yes</NoPets>
-        <Cats>No</Cats>
-        <SmallDogs>No</SmallDogs>
+        <NoPets>No</NoPets>
+        <Cats>Yes</Cats>
+        <SmallDogs>Yes</SmallDogs>
         <LargeDogs>No</LargeDogs>
       </PetsAllowed>
     </RentalDetails>
     <BasicDetails>
       <PropertyType>Apartment</PropertyType>
-      <Title>Next to New Basement Suite in Yorkstone for Rent!</Title>
+      <Title>Brand New 2-Bedroom Suite | Private Entrance | Prime Location | Tuxedo Park</Title>
       <Description/>
-      <Bedrooms>1</Bedrooms>
+      <Bedrooms>2</Bedrooms>
       <Bathrooms>1</Bathrooms>
-      <LivingArea>650</LivingArea>
+      <LivingArea>600</LivingArea>
     </BasicDetails>
     <Pictures>
       <Picture>
-        <PictureUrl>https://rf-images-prod-bcdn.rentfaster.ca/757311/slide_17724129.v.d75c4211a4821c3a155d32de037deb24.jpg</PictureUrl>
-        <Caption>Next to New Basement Suite in Yorkstone for Rent! - Photo 1</Caption>
+        <PictureUrl>https://rf-images-prod-bcdn.rentfaster.ca/749569/slide_17475683.v.c1268cafd7aee12f6d83ecd00fe17fcf.jpg</PictureUrl>
+        <Caption>Brand New 2-Bedroom Suite | Private Entrance | Prime Location | Tuxedo Park - Photo 1</Caption>
       </Picture>
     </Pictures>
     <RichDetails>
+      <Appliances>
+        <Appliance>Fridge</Appliance>
+        <Appliance>Oven/Stove</Appliance>
+        <Appliance>Laundry - In Suite</Appliance>
+        <Appliance>Dishwasher</Appliance>
+      </Appliances>
       <Fireplace>No</Fireplace>
       <UtilitiesIncluded>Not included</UtilitiesIncluded>
     </RichDetails>
@@ -302,25 +252,25 @@
     </RichDetails>
   </Listing>
   <Listing>
-    <ID>749569</ID>
+    <ID>738281</ID>
     <Location>
-      <StreetAddress>227 26 Avenue NE</StreetAddress>
+      <StreetAddress>815 17 Avenue NW</StreetAddress>
       <City>Calgary</City>
       <State>AB</State>
-      <Zip>T2S 0J1</Zip>
+      <Zip>T2M 0P1</Zip>
       <DisplayAddress>Yes</DisplayAddress>
     </Location>
     <ListingDetails>
       <Status>Active</Status>
-      <Price>1500</Price>
-      <ListingUrl>https://www.rentfaster.ca/properties/227-26-avenue-ne-calgary-749569</ListingUrl>
-      <ProviderListingId>749569</ProviderListingId>
-      <ApplicationUrl>https://app.tenantturner.com/qualify/select-time/227-26-avenue-ne-1?p=TenantTurner</ApplicationUrl>
+      <Price>2400</Price>
+      <ListingUrl>https://www.rentfaster.ca/properties/815-17-avenue-nw-calgary-738281</ListingUrl>
+      <ProviderListingId>738281</ProviderListingId>
+      <ApplicationUrl>https://app.tenantturner.com/qualify/select-time/815-17-avenue-nw?p=TenantTurner</ApplicationUrl>
     </ListingDetails>
     <RentalDetails>
       <Availability>Immediate</Availability>
       <LeaseTerm>12 Months</LeaseTerm>
-      <DepositFees>1500</DepositFees>
+      <DepositFees>2400</DepositFees>
       <PetsAllowed>
         <NoPets>No</NoPets>
         <Cats>Yes</Cats>
@@ -329,20 +279,24 @@
       </PetsAllowed>
     </RentalDetails>
     <BasicDetails>
-      <PropertyType>Apartment</PropertyType>
-      <Title>Brand New 2-Bedroom Suite | Private Entrance | Prime Location | Tuxedo Park</Title>
+      <PropertyType>Townhouse</PropertyType>
+      <Title>Brand New 3 Storey, 3 Bedroom, 2.5 Bathroom Mount Pleasant Townhomes for Rent!</Title>
       <Description/>
-      <Bedrooms>2</Bedrooms>
-      <Bathrooms>1</Bathrooms>
-      <LivingArea>600</LivingArea>
+      <Bedrooms>3</Bedrooms>
+      <Bathrooms>2.5</Bathrooms>
+      <LivingArea>1500</LivingArea>
     </BasicDetails>
     <Pictures>
       <Picture>
-        <PictureUrl>https://rf-images-prod-bcdn.rentfaster.ca/749569/slide_17475683.v.c1268cafd7aee12f6d83ecd00fe17fcf.jpg</PictureUrl>
-        <Caption>Brand New 2-Bedroom Suite | Private Entrance | Prime Location | Tuxedo Park - Photo 1</Caption>
+        <PictureUrl>https://rf-images-prod-bcdn.rentfaster.ca/738281/slide_17574876.v.8959301b2e8e6712660f061bbd4e0816.jpg</PictureUrl>
+        <Caption>Brand New 3 Storey, 3 Bedroom, 2.5 Bathroom Mount Pleasant Townhomes for Rent! - Photo 1</Caption>
       </Picture>
     </Pictures>
     <RichDetails>
+      <ParkingTypes>
+        <ParkingType>Street</ParkingType>
+        <ParkingType>Surface</ParkingType>
+      </ParkingTypes>
       <Appliances>
         <Appliance>Fridge</Appliance>
         <Appliance>Oven/Stove</Appliance>
@@ -351,6 +305,107 @@
       </Appliances>
       <Fireplace>No</Fireplace>
       <UtilitiesIncluded>Not included</UtilitiesIncluded>
+    </RichDetails>
+  </Listing>
+  <Listing>
+    <ID>638294</ID>
+    <Location>
+      <StreetAddress>450 8 Ave SE</StreetAddress>
+      <City>Calgary</City>
+      <State>AB</State>
+      <Zip>T2S 0J1</Zip>
+      <DisplayAddress>Yes</DisplayAddress>
+    </Location>
+    <ListingDetails>
+      <Status>Active</Status>
+      <Price>1750</Price>
+      <ListingUrl>https://www.rentfaster.ca/properties/450-8-ave-se-calgary-638294</ListingUrl>
+      <ProviderListingId>638294</ProviderListingId>
+      <ApplicationUrl>https://app.tenantturner.com/qualify/select-time/450-8-ave-se?p=TenantTurner</ApplicationUrl>
+    </ListingDetails>
+    <RentalDetails>
+      <Availability>Immediate</Availability>
+      <LeaseTerm>12 Months</LeaseTerm>
+      <DepositFees>1750</DepositFees>
+      <PetsAllowed>
+        <NoPets>No</NoPets>
+        <Cats>Yes</Cats>
+        <SmallDogs>Yes</SmallDogs>
+        <LargeDogs>No</LargeDogs>
+      </PetsAllowed>
+    </RentalDetails>
+    <BasicDetails>
+      <PropertyType>Condo</PropertyType>
+      <Title>2 Bed 1 Bath East Village Condo for Rent in N3! Offered Furnished or Not</Title>
+      <Description/>
+      <Bedrooms>2</Bedrooms>
+      <Bathrooms>1</Bathrooms>
+      <LivingArea>550</LivingArea>
+    </BasicDetails>
+    <Pictures>
+      <Picture>
+        <PictureUrl>https://rf-images-prod-bcdn.rentfaster.ca/638294/slide_13723312.v.f99c2bfbcb20bd2dac9501bc5147d384.jpg</PictureUrl>
+        <Caption>2 Bed 1 Bath East Village Condo for Rent in N3! Offered Furnished or Not - Photo 1</Caption>
+      </Picture>
+    </Pictures>
+    <RichDetails>
+      <Appliances>
+        <Appliance>Elevator</Appliance>
+        <Appliance>Storage Lockers</Appliance>
+        <Appliance>Fridge</Appliance>
+        <Appliance>Oven/Stove</Appliance>
+      </Appliances>
+      <Fireplace>No</Fireplace>
+      <UtilitiesIncluded>Heat | Water included</UtilitiesIncluded>
+    </RichDetails>
+  </Listing>
+  <Listing>
+    <ID>765155</ID>
+    <Location>
+      <StreetAddress>265 Wolf Willow Boulevard SE</StreetAddress>
+      <City>Calgary</City>
+      <State>AB</State>
+      <Zip>T2S 0J1</Zip>
+      <DisplayAddress>Yes</DisplayAddress>
+    </Location>
+    <ListingDetails>
+      <Status>Active</Status>
+      <Price>1700</Price>
+      <ListingUrl>https://www.rentfaster.ca/properties/265-wolf-willow-boulevard-se-calgary-765155</ListingUrl>
+      <ProviderListingId>765155</ProviderListingId>
+      <ApplicationUrl>https://app.tenantturner.com/qualify/select-time/265-wolf-willow-boulevard-se?p=TenantTurner</ApplicationUrl>
+    </ListingDetails>
+    <RentalDetails>
+      <Availability>Immediate</Availability>
+      <LeaseTerm>12 Months</LeaseTerm>
+      <DepositFees>1700</DepositFees>
+      <PetsAllowed>
+        <NoPets>No</NoPets>
+        <Cats>Yes</Cats>
+        <SmallDogs>Yes</SmallDogs>
+        <LargeDogs>No</LargeDogs>
+      </PetsAllowed>
+    </RentalDetails>
+    <BasicDetails>
+      <PropertyType>Condo</PropertyType>
+      <Title>Brand New | 2Bed 2Bath | UG Parking and More | The Orson at Wolf Willow</Title>
+      <Description/>
+      <Bedrooms>2</Bedrooms>
+      <Bathrooms>2</Bathrooms>
+      <LivingArea>675</LivingArea>
+    </BasicDetails>
+    <Pictures>
+      <Picture>
+        <PictureUrl>https://rf-images-prod-bcdn.rentfaster.ca/765155/slide_17943333.v.b81b7e3bc3b18a6a6bba8b9b94ba7a86.jpg</PictureUrl>
+        <Caption>Brand New | 2Bed 2Bath | UG Parking and More | The Orson at Wolf Willow - Photo 1</Caption>
+      </Picture>
+    </Pictures>
+    <RichDetails>
+      <ParkingTypes>
+        <ParkingType>Underground</ParkingType>
+      </ParkingTypes>
+      <Fireplace>No</Fireplace>
+      <UtilitiesIncluded>Heat | Water included</UtilitiesIncluded>
     </RichDetails>
   </Listing>
   <Listing>
@@ -406,9 +461,9 @@
     </RichDetails>
   </Listing>
   <Listing>
-    <ID>765155</ID>
+    <ID>757311</ID>
     <Location>
-      <StreetAddress>265 Wolf Willow Boulevard SE</StreetAddress>
+      <StreetAddress>25B Yorkstone Row SW</StreetAddress>
       <City>Calgary</City>
       <State>AB</State>
       <Zip>T2S 0J1</Zip>
@@ -416,94 +471,39 @@
     </Location>
     <ListingDetails>
       <Status>Active</Status>
-      <Price>1700</Price>
-      <ListingUrl>https://www.rentfaster.ca/properties/265-wolf-willow-boulevard-se-calgary-765155</ListingUrl>
-      <ProviderListingId>765155</ProviderListingId>
-      <ApplicationUrl>https://app.tenantturner.com/qualify/select-time/265-wolf-willow-boulevard-se?p=TenantTurner</ApplicationUrl>
+      <Price>1100</Price>
+      <ListingUrl>https://www.rentfaster.ca/properties/25b-yorkstone-row-sw-calgary-757311</ListingUrl>
+      <ProviderListingId>757311</ProviderListingId>
+      <ApplicationUrl>https://app.tenantturner.com/qualify/select-time/25b-yorkstone-row-sw?p=TenantTurner</ApplicationUrl>
     </ListingDetails>
     <RentalDetails>
       <Availability>Immediate</Availability>
       <LeaseTerm>12 Months</LeaseTerm>
-      <DepositFees>1700</DepositFees>
+      <DepositFees>1100</DepositFees>
       <PetsAllowed>
-        <NoPets>No</NoPets>
-        <Cats>Yes</Cats>
-        <SmallDogs>Yes</SmallDogs>
+        <NoPets>Yes</NoPets>
+        <Cats>No</Cats>
+        <SmallDogs>No</SmallDogs>
         <LargeDogs>No</LargeDogs>
       </PetsAllowed>
     </RentalDetails>
     <BasicDetails>
-      <PropertyType>Condo</PropertyType>
-      <Title>Brand New | 2Bed 2Bath | UG Parking and More | The Orson at Wolf Willow</Title>
+      <PropertyType>Apartment</PropertyType>
+      <Title>Next to New Basement Suite in Yorkstone for Rent!</Title>
       <Description/>
-      <Bedrooms>2</Bedrooms>
-      <Bathrooms>2</Bathrooms>
-      <LivingArea>675</LivingArea>
-    </BasicDetails>
-    <Pictures>
-      <Picture>
-        <PictureUrl>https://rf-images-prod-bcdn.rentfaster.ca/765155/slide_17943333.v.b81b7e3bc3b18a6a6bba8b9b94ba7a86.jpg</PictureUrl>
-        <Caption>Brand New | 2Bed 2Bath | UG Parking and More | The Orson at Wolf Willow - Photo 1</Caption>
-      </Picture>
-    </Pictures>
-    <RichDetails>
-      <ParkingTypes>
-        <ParkingType>Underground</ParkingType>
-      </ParkingTypes>
-      <Fireplace>No</Fireplace>
-      <UtilitiesIncluded>Heat | Water included</UtilitiesIncluded>
-    </RichDetails>
-  </Listing>
-  <Listing>
-    <ID>638294</ID>
-    <Location>
-      <StreetAddress>450 8 Ave SE</StreetAddress>
-      <City>Calgary</City>
-      <State>AB</State>
-      <Zip>T2S 0J1</Zip>
-      <DisplayAddress>Yes</DisplayAddress>
-    </Location>
-    <ListingDetails>
-      <Status>Active</Status>
-      <Price>1750</Price>
-      <ListingUrl>https://www.rentfaster.ca/properties/450-8-ave-se-calgary-638294</ListingUrl>
-      <ProviderListingId>638294</ProviderListingId>
-      <ApplicationUrl>https://app.tenantturner.com/qualify/select-time/450-8-ave-se?p=TenantTurner</ApplicationUrl>
-    </ListingDetails>
-    <RentalDetails>
-      <Availability>Immediate</Availability>
-      <LeaseTerm>12 Months</LeaseTerm>
-      <DepositFees>1750</DepositFees>
-      <PetsAllowed>
-        <NoPets>No</NoPets>
-        <Cats>Yes</Cats>
-        <SmallDogs>Yes</SmallDogs>
-        <LargeDogs>No</LargeDogs>
-      </PetsAllowed>
-    </RentalDetails>
-    <BasicDetails>
-      <PropertyType>Condo</PropertyType>
-      <Title>2 Bed 1 Bath East Village Condo for Rent in N3! Offered Furnished or Not</Title>
-      <Description/>
-      <Bedrooms>2</Bedrooms>
+      <Bedrooms>1</Bedrooms>
       <Bathrooms>1</Bathrooms>
-      <LivingArea>550</LivingArea>
+      <LivingArea>650</LivingArea>
     </BasicDetails>
     <Pictures>
       <Picture>
-        <PictureUrl>https://rf-images-prod-bcdn.rentfaster.ca/638294/slide_13723312.v.f99c2bfbcb20bd2dac9501bc5147d384.jpg</PictureUrl>
-        <Caption>2 Bed 1 Bath East Village Condo for Rent in N3! Offered Furnished or Not - Photo 1</Caption>
+        <PictureUrl>https://rf-images-prod-bcdn.rentfaster.ca/757311/slide_17724129.v.d75c4211a4821c3a155d32de037deb24.jpg</PictureUrl>
+        <Caption>Next to New Basement Suite in Yorkstone for Rent! - Photo 1</Caption>
       </Picture>
     </Pictures>
     <RichDetails>
-      <Appliances>
-        <Appliance>Elevator</Appliance>
-        <Appliance>Storage Lockers</Appliance>
-        <Appliance>Fridge</Appliance>
-        <Appliance>Oven/Stove</Appliance>
-      </Appliances>
       <Fireplace>No</Fireplace>
-      <UtilitiesIncluded>Heat | Water included</UtilitiesIncluded>
+      <UtilitiesIncluded>Not included</UtilitiesIncluded>
     </RichDetails>
   </Listing>
   <Listing>
@@ -626,7 +626,7 @@
     </Location>
     <ListingDetails>
       <Status>Active</Status>
-      <Price>2250</Price>
+      <Price>2200</Price>
       <ListingUrl>https://www.rentfaster.ca/properties/8375-broadcast-avenue-sw-calgary-698865</ListingUrl>
       <ProviderListingId>698865</ProviderListingId>
       <ApplicationUrl>https://app.tenantturner.com/qualify/select-time/8375-broadcast-avenue-sw?p=TenantTurner</ApplicationUrl>
@@ -634,7 +634,7 @@
     <RentalDetails>
       <Availability>August 15</Availability>
       <LeaseTerm>12 Months</LeaseTerm>
-      <DepositFees>2250</DepositFees>
+      <DepositFees>2200</DepositFees>
       <PetsAllowed>
         <NoPets>No</NoPets>
         <Cats>Yes</Cats>
@@ -662,61 +662,6 @@
       </ParkingTypes>
       <Fireplace>No</Fireplace>
       <UtilitiesIncluded>Heat | Water included</UtilitiesIncluded>
-    </RichDetails>
-  </Listing>
-  <Listing>
-    <ID>693938</ID>
-    <Location>
-      <StreetAddress>1188 3 Street Southeast</StreetAddress>
-      <City>Calgary</City>
-      <State>AB</State>
-      <Zip>T2S 0J1</Zip>
-      <DisplayAddress>Yes</DisplayAddress>
-    </Location>
-    <ListingDetails>
-      <Status>Active</Status>
-      <Price>2950</Price>
-      <ListingUrl>https://www.rentfaster.ca/properties/1188-3-street-southeast-calgary-693938</ListingUrl>
-      <ProviderListingId>693938</ProviderListingId>
-      <ApplicationUrl>https://app.tenantturner.com/qualify/select-time/1188-3-street-southeast?p=TenantTurner</ApplicationUrl>
-    </ListingDetails>
-    <RentalDetails>
-      <Availability>September 01</Availability>
-      <LeaseTerm>12 Months</LeaseTerm>
-      <DepositFees>2950</DepositFees>
-      <PetsAllowed>
-        <NoPets>No</NoPets>
-        <Cats>Yes</Cats>
-        <SmallDogs>Yes</SmallDogs>
-        <LargeDogs>No</LargeDogs>
-      </PetsAllowed>
-    </RentalDetails>
-    <BasicDetails>
-      <PropertyType>Condo</PropertyType>
-      <Title>Corner Unit. 2 bedroom, 2 bathroom, gym, concierge, security, tandem (2) parking stall + storage unit. BEST floor plan i</Title>
-      <Description/>
-      <Bedrooms>2</Bedrooms>
-      <Bathrooms>2</Bathrooms>
-      <LivingArea>950</LivingArea>
-    </BasicDetails>
-    <Pictures>
-      <Picture>
-        <PictureUrl>https://rf-images-prod-bcdn.rentfaster.ca/693938/slide_15739884.v.495138316f6812b0bfccff491723b9e0.jpg</PictureUrl>
-        <Caption>Corner Unit. 2 bedroom, 2 bathroom, gym, concierge, security, tandem (2) parking stall + storage unit. BEST floor plan i - Photo 1</Caption>
-      </Picture>
-    </Pictures>
-    <RichDetails>
-      <ParkingTypes>
-        <ParkingType>Underground</ParkingType>
-      </ParkingTypes>
-      <Appliances>
-        <Appliance>Elevator</Appliance>
-        <Appliance>Air Conditioning</Appliance>
-        <Appliance>Fridge</Appliance>
-        <Appliance>Oven/Stove</Appliance>
-      </Appliances>
-      <Fireplace>No</Fireplace>
-      <UtilitiesIncluded>Internet | Heat | Water | Electricity included</UtilitiesIncluded>
     </RichDetails>
   </Listing>
   <Listing>
@@ -785,7 +730,7 @@
     </Location>
     <ListingDetails>
       <Status>Active</Status>
-      <Price>2250</Price>
+      <Price>2150</Price>
       <ListingUrl>https://www.rentfaster.ca/properties/140-mahogany-street-se-calgary-635858</ListingUrl>
       <ProviderListingId>635858</ProviderListingId>
       <ApplicationUrl>https://app.tenantturner.com/qualify/select-time/140-mahogany-street-se?p=TenantTurner</ApplicationUrl>
@@ -793,7 +738,7 @@
     <RentalDetails>
       <Availability>September 01</Availability>
       <LeaseTerm>12 Months</LeaseTerm>
-      <DepositFees>2250</DepositFees>
+      <DepositFees>2150</DepositFees>
       <PetsAllowed>
         <NoPets>No</NoPets>
         <Cats>Yes</Cats>
@@ -827,6 +772,61 @@
       </Appliances>
       <Fireplace>No</Fireplace>
       <UtilitiesIncluded>Heat | Water included</UtilitiesIncluded>
+    </RichDetails>
+  </Listing>
+  <Listing>
+    <ID>693938</ID>
+    <Location>
+      <StreetAddress>1188 3 Street Southeast</StreetAddress>
+      <City>Calgary</City>
+      <State>AB</State>
+      <Zip>T2S 0J1</Zip>
+      <DisplayAddress>Yes</DisplayAddress>
+    </Location>
+    <ListingDetails>
+      <Status>Active</Status>
+      <Price>2950</Price>
+      <ListingUrl>https://www.rentfaster.ca/properties/1188-3-street-southeast-calgary-693938</ListingUrl>
+      <ProviderListingId>693938</ProviderListingId>
+      <ApplicationUrl>https://app.tenantturner.com/qualify/select-time/1188-3-street-southeast?p=TenantTurner</ApplicationUrl>
+    </ListingDetails>
+    <RentalDetails>
+      <Availability>September 01</Availability>
+      <LeaseTerm>12 Months</LeaseTerm>
+      <DepositFees>2950</DepositFees>
+      <PetsAllowed>
+        <NoPets>No</NoPets>
+        <Cats>Yes</Cats>
+        <SmallDogs>Yes</SmallDogs>
+        <LargeDogs>No</LargeDogs>
+      </PetsAllowed>
+    </RentalDetails>
+    <BasicDetails>
+      <PropertyType>Condo</PropertyType>
+      <Title>Corner Unit. 2 bedroom, 2 bathroom, gym, concierge, security, tandem (2) parking stall + storage unit. BEST floor plan i</Title>
+      <Description/>
+      <Bedrooms>2</Bedrooms>
+      <Bathrooms>2</Bathrooms>
+      <LivingArea>950</LivingArea>
+    </BasicDetails>
+    <Pictures>
+      <Picture>
+        <PictureUrl>https://rf-images-prod-bcdn.rentfaster.ca/693938/slide_15739884.v.495138316f6812b0bfccff491723b9e0.jpg</PictureUrl>
+        <Caption>Corner Unit. 2 bedroom, 2 bathroom, gym, concierge, security, tandem (2) parking stall + storage unit. BEST floor plan i - Photo 1</Caption>
+      </Picture>
+    </Pictures>
+    <RichDetails>
+      <ParkingTypes>
+        <ParkingType>Underground</ParkingType>
+      </ParkingTypes>
+      <Appliances>
+        <Appliance>Elevator</Appliance>
+        <Appliance>Air Conditioning</Appliance>
+        <Appliance>Fridge</Appliance>
+        <Appliance>Oven/Stove</Appliance>
+      </Appliances>
+      <Fireplace>No</Fireplace>
+      <UtilitiesIncluded>Internet | Heat | Water | Electricity included</UtilitiesIncluded>
     </RichDetails>
   </Listing>
 </Listings>
