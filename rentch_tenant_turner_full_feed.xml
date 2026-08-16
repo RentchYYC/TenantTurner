@@ -1,6 +1,104 @@
 <?xml version="1.0" encoding="utf-8"?>
 <Listings>
   <Listing>
+    <ID>767420</ID>
+    <Location>
+      <StreetAddress>100 Walgrove Court Southeast 1405</StreetAddress>
+      <City>Calgary</City>
+      <State>AB</State>
+      <Zip>T2S 0J1</Zip>
+      <DisplayAddress>Yes</DisplayAddress>
+    </Location>
+    <ListingDetails>
+      <Status>Active</Status>
+      <Price>2400</Price>
+      <ListingUrl>https://www.rentfaster.ca/properties/100-walgrove-court-southeast-1405-calgary-767420</ListingUrl>
+      <ProviderListingId>767420</ProviderListingId>
+      <ApplicationUrl>https://app.tenantturner.com/qualify/select-time/100-walgrove-court-southeast-1405?p=TenantTurner</ApplicationUrl>
+    </ListingDetails>
+    <RentalDetails>
+      <Availability>Immediate</Availability>
+      <LeaseTerm>12 Months</LeaseTerm>
+      <DepositFees>2400</DepositFees>
+      <PetsAllowed>
+        <NoPets>Yes</NoPets>
+        <Cats>No</Cats>
+        <SmallDogs>No</SmallDogs>
+        <LargeDogs>No</LargeDogs>
+      </PetsAllowed>
+    </RentalDetails>
+    <BasicDetails>
+      <PropertyType>Townhouse</PropertyType>
+      <Title>One Level Living in Walden! Spacious, 3 Bedroom Bungalow Style Townhome for Rent!</Title>
+      <Description/>
+      <Bedrooms>3</Bedrooms>
+      <Bathrooms>2</Bathrooms>
+      <LivingArea>1300</LivingArea>
+    </BasicDetails>
+    <Pictures>
+      <Picture>
+        <PictureUrl>https://rf-images-prod-bcdn.rentfaster.ca/767420/slide_18068890.v.a969971aa1256c763dfd961c6ca0b9c8.jpg</PictureUrl>
+        <Caption>One Level Living in Walden! Spacious, 3 Bedroom Bungalow Style Townhome for Rent! - Photo 1</Caption>
+      </Picture>
+    </Pictures>
+    <RichDetails>
+      <ParkingTypes>
+        <ParkingType>Garage</ParkingType>
+      </ParkingTypes>
+      <Fireplace>No</Fireplace>
+      <UtilitiesIncluded>Not included</UtilitiesIncluded>
+    </RichDetails>
+  </Listing>
+  <Listing>
+    <ID>754051</ID>
+    <Location>
+      <StreetAddress>3119 45 Street SW</StreetAddress>
+      <City>Calgary</City>
+      <State>AB</State>
+      <Zip>T2S 0J1</Zip>
+      <DisplayAddress>Yes</DisplayAddress>
+    </Location>
+    <ListingDetails>
+      <Status>Active</Status>
+      <Price>2625</Price>
+      <ListingUrl>https://www.rentfaster.ca/properties/3119-45-street-sw-calgary-754051</ListingUrl>
+      <ProviderListingId>754051</ProviderListingId>
+      <ApplicationUrl>https://app.tenantturner.com/qualify/select-time/3119-45-street-sw?p=TenantTurner</ApplicationUrl>
+    </ListingDetails>
+    <RentalDetails>
+      <Availability>Immediate</Availability>
+      <LeaseTerm>12 Months</LeaseTerm>
+      <DepositFees>2625</DepositFees>
+      <PetsAllowed>
+        <NoPets>No</NoPets>
+        <Cats>Yes</Cats>
+        <SmallDogs>Yes</SmallDogs>
+        <LargeDogs>No</LargeDogs>
+      </PetsAllowed>
+    </RentalDetails>
+    <BasicDetails>
+      <PropertyType>Townhouse</PropertyType>
+      <Title>Brand New 2 Storey, 3 Bedroom Townhomes For Rent! </Title>
+      <Description/>
+      <Bedrooms>3</Bedrooms>
+      <Bathrooms>2.5</Bathrooms>
+      <LivingArea>1600</LivingArea>
+    </BasicDetails>
+    <Pictures>
+      <Picture>
+        <PictureUrl>https://rf-images-prod-bcdn.rentfaster.ca/754051/slide_18267503.v.36d8db9e7ca0081f9f7ae5d6e3678c92.jpg</PictureUrl>
+        <Caption>Brand New 2 Storey, 3 Bedroom Townhomes For Rent!  - Photo 1</Caption>
+      </Picture>
+    </Pictures>
+    <RichDetails>
+      <ParkingTypes>
+        <ParkingType>Garage</ParkingType>
+      </ParkingTypes>
+      <Fireplace>No</Fireplace>
+      <UtilitiesIncluded>Not included</UtilitiesIncluded>
+    </RichDetails>
+  </Listing>
+  <Listing>
     <ID>757311</ID>
     <Location>
       <StreetAddress>25B Yorkstone Row SW</StreetAddress>
@@ -42,6 +140,58 @@
       </Picture>
     </Pictures>
     <RichDetails>
+      <Fireplace>No</Fireplace>
+      <UtilitiesIncluded>Not included</UtilitiesIncluded>
+    </RichDetails>
+  </Listing>
+  <Listing>
+    <ID>749569</ID>
+    <Location>
+      <StreetAddress>227 26 Avenue NE</StreetAddress>
+      <City>Calgary</City>
+      <State>AB</State>
+      <Zip>T2S 0J1</Zip>
+      <DisplayAddress>Yes</DisplayAddress>
+    </Location>
+    <ListingDetails>
+      <Status>Active</Status>
+      <Price>1400</Price>
+      <ListingUrl>https://www.rentfaster.ca/properties/227-26-avenue-ne-calgary-749569</ListingUrl>
+      <ProviderListingId>749569</ProviderListingId>
+      <ApplicationUrl>https://app.tenantturner.com/qualify/select-time/227-26-avenue-ne-1?p=TenantTurner</ApplicationUrl>
+    </ListingDetails>
+    <RentalDetails>
+      <Availability>Immediate</Availability>
+      <LeaseTerm>12 Months</LeaseTerm>
+      <DepositFees>1400</DepositFees>
+      <PetsAllowed>
+        <NoPets>No</NoPets>
+        <Cats>Yes</Cats>
+        <SmallDogs>Yes</SmallDogs>
+        <LargeDogs>No</LargeDogs>
+      </PetsAllowed>
+    </RentalDetails>
+    <BasicDetails>
+      <PropertyType>Apartment</PropertyType>
+      <Title>Brand New 2-Bedroom Suite | Private Entrance | Prime Location | Tuxedo Park</Title>
+      <Description/>
+      <Bedrooms>2</Bedrooms>
+      <Bathrooms>1</Bathrooms>
+      <LivingArea>600</LivingArea>
+    </BasicDetails>
+    <Pictures>
+      <Picture>
+        <PictureUrl>https://rf-images-prod-bcdn.rentfaster.ca/749569/slide_17475683.v.c1268cafd7aee12f6d83ecd00fe17fcf.jpg</PictureUrl>
+        <Caption>Brand New 2-Bedroom Suite | Private Entrance | Prime Location | Tuxedo Park - Photo 1</Caption>
+      </Picture>
+    </Pictures>
+    <RichDetails>
+      <Appliances>
+        <Appliance>Fridge</Appliance>
+        <Appliance>Oven/Stove</Appliance>
+        <Appliance>Laundry - In Suite</Appliance>
+        <Appliance>Dishwasher</Appliance>
+      </Appliances>
       <Fireplace>No</Fireplace>
       <UtilitiesIncluded>Not included</UtilitiesIncluded>
     </RichDetails>
@@ -102,9 +252,9 @@
     </RichDetails>
   </Listing>
   <Listing>
-    <ID>688503</ID>
+    <ID>761872</ID>
     <Location>
-      <StreetAddress>1188 3 Street Southeast</StreetAddress>
+      <StreetAddress>815 17 Avenue Northwest 101 b</StreetAddress>
       <City>Calgary</City>
       <State>AB</State>
       <Zip>T2S 0J1</Zip>
@@ -112,119 +262,15 @@
     </Location>
     <ListingDetails>
       <Status>Active</Status>
-      <Price>2150</Price>
-      <ListingUrl>https://www.rentfaster.ca/properties/1188-3-street-southeast-calgary-688503</ListingUrl>
-      <ProviderListingId>688503</ProviderListingId>
-      <ApplicationUrl>https://app.tenantturner.com/qualify/select-time/1188-3-street-southeast?p=TenantTurner</ApplicationUrl>
+      <Price>1350</Price>
+      <ListingUrl>https://www.rentfaster.ca/properties/815-17-avenue-northwest-101-b-calgary-761872</ListingUrl>
+      <ProviderListingId>761872</ProviderListingId>
+      <ApplicationUrl>https://app.tenantturner.com/qualify/select-time/815-17-avenue-northwest-101-b?p=TenantTurner</ApplicationUrl>
     </ListingDetails>
     <RentalDetails>
       <Availability>Immediate</Availability>
       <LeaseTerm>12 Months</LeaseTerm>
-      <DepositFees>2150</DepositFees>
-      <PetsAllowed>
-        <NoPets>Yes</NoPets>
-        <Cats>No</Cats>
-        <SmallDogs>No</SmallDogs>
-        <LargeDogs>No</LargeDogs>
-      </PetsAllowed>
-    </RentalDetails>
-    <BasicDetails>
-      <PropertyType>Condo</PropertyType>
-      <Title>Stylish 1 Bedroom, Fully Furnished, Condo Perched on the 7th of The Guardian with Oversized Patio and UG Parking!!</Title>
-      <Description/>
-      <Bedrooms>1</Bedrooms>
-      <Bathrooms>1</Bathrooms>
-      <LivingArea>650</LivingArea>
-    </BasicDetails>
-    <Pictures>
-      <Picture>
-        <PictureUrl>https://rf-images-prod-bcdn.rentfaster.ca/688503/slide_16043897.v.995cbc6089e779771545080de3bca23a.jpg</PictureUrl>
-        <Caption>Stylish 1 Bedroom, Fully Furnished, Condo Perched on the 7th of The Guardian with Oversized Patio and UG Parking!! - Photo 1</Caption>
-      </Picture>
-    </Pictures>
-    <RichDetails>
-      <ParkingTypes>
-        <ParkingType>Underground</ParkingType>
-      </ParkingTypes>
-      <Appliances>
-        <Appliance>Elevator</Appliance>
-        <Appliance>Fridge</Appliance>
-        <Appliance>Oven/Stove</Appliance>
-        <Appliance>Laundry - In Suite</Appliance>
-      </Appliances>
-      <Fireplace>No</Fireplace>
-      <UtilitiesIncluded>Internet | Heat | Water | Electricity included</UtilitiesIncluded>
-    </RichDetails>
-  </Listing>
-  <Listing>
-    <ID>765155</ID>
-    <Location>
-      <StreetAddress>265 Wolf Willow Boulevard SE</StreetAddress>
-      <City>Calgary</City>
-      <State>AB</State>
-      <Zip>T2S 0J1</Zip>
-      <DisplayAddress>Yes</DisplayAddress>
-    </Location>
-    <ListingDetails>
-      <Status>Active</Status>
-      <Price>1550</Price>
-      <ListingUrl>https://www.rentfaster.ca/properties/265-wolf-willow-boulevard-se-calgary-765155</ListingUrl>
-      <ProviderListingId>765155</ProviderListingId>
-      <ApplicationUrl>https://app.tenantturner.com/qualify/select-time/265-wolf-willow-boulevard-se?p=TenantTurner</ApplicationUrl>
-    </ListingDetails>
-    <RentalDetails>
-      <Availability>Immediate</Availability>
-      <LeaseTerm>12 Months</LeaseTerm>
-      <DepositFees>1550</DepositFees>
-      <PetsAllowed>
-        <NoPets>No</NoPets>
-        <Cats>Yes</Cats>
-        <SmallDogs>Yes</SmallDogs>
-        <LargeDogs>No</LargeDogs>
-      </PetsAllowed>
-    </RentalDetails>
-    <BasicDetails>
-      <PropertyType>Condo</PropertyType>
-      <Title>Brand New | 2Bed 2Bath | UG Parking and More | The Orson at Wolf Willow</Title>
-      <Description/>
-      <Bedrooms>2</Bedrooms>
-      <Bathrooms>2</Bathrooms>
-      <LivingArea>675</LivingArea>
-    </BasicDetails>
-    <Pictures>
-      <Picture>
-        <PictureUrl>https://rf-images-prod-bcdn.rentfaster.ca/765155/slide_17943333.v.b81b7e3bc3b18a6a6bba8b9b94ba7a86.jpg</PictureUrl>
-        <Caption>Brand New | 2Bed 2Bath | UG Parking and More | The Orson at Wolf Willow - Photo 1</Caption>
-      </Picture>
-    </Pictures>
-    <RichDetails>
-      <ParkingTypes>
-        <ParkingType>Underground</ParkingType>
-      </ParkingTypes>
-      <Fireplace>No</Fireplace>
-      <UtilitiesIncluded>Heat | Water included</UtilitiesIncluded>
-    </RichDetails>
-  </Listing>
-  <Listing>
-    <ID>749569</ID>
-    <Location>
-      <StreetAddress>227 26 Avenue NE</StreetAddress>
-      <City>Calgary</City>
-      <State>AB</State>
-      <Zip>T2S 0J1</Zip>
-      <DisplayAddress>Yes</DisplayAddress>
-    </Location>
-    <ListingDetails>
-      <Status>Active</Status>
-      <Price>1400</Price>
-      <ListingUrl>https://www.rentfaster.ca/properties/227-26-avenue-ne-calgary-749569</ListingUrl>
-      <ProviderListingId>749569</ProviderListingId>
-      <ApplicationUrl>https://app.tenantturner.com/qualify/select-time/227-26-avenue-ne-1?p=TenantTurner</ApplicationUrl>
-    </ListingDetails>
-    <RentalDetails>
-      <Availability>Immediate</Availability>
-      <LeaseTerm>12 Months</LeaseTerm>
-      <DepositFees>1400</DepositFees>
+      <DepositFees>1350</DepositFees>
       <PetsAllowed>
         <NoPets>No</NoPets>
         <Cats>Yes</Cats>
@@ -234,16 +280,16 @@
     </RentalDetails>
     <BasicDetails>
       <PropertyType>Apartment</PropertyType>
-      <Title>Brand New 2-Bedroom Suite | Private Entrance | Prime Location | Tuxedo Park</Title>
+      <Title>Brand New, Furnished, 1 Bedroom Basement Suite in Mount Pleasant!</Title>
       <Description/>
-      <Bedrooms>2</Bedrooms>
+      <Bedrooms>1</Bedrooms>
       <Bathrooms>1</Bathrooms>
-      <LivingArea>600</LivingArea>
+      <LivingArea>550</LivingArea>
     </BasicDetails>
     <Pictures>
       <Picture>
-        <PictureUrl>https://rf-images-prod-bcdn.rentfaster.ca/749569/slide_17475683.v.c1268cafd7aee12f6d83ecd00fe17fcf.jpg</PictureUrl>
-        <Caption>Brand New 2-Bedroom Suite | Private Entrance | Prime Location | Tuxedo Park - Photo 1</Caption>
+        <PictureUrl>https://rf-images-prod-bcdn.rentfaster.ca/761872/slide_17863651.v.93020608822f2adf1c8400ee3868f611.jpg</PictureUrl>
+        <Caption>Brand New, Furnished, 1 Bedroom Basement Suite in Mount Pleasant! - Photo 1</Caption>
       </Picture>
     </Pictures>
     <RichDetails>
@@ -254,7 +300,7 @@
         <Appliance>Dishwasher</Appliance>
       </Appliances>
       <Fireplace>No</Fireplace>
-      <UtilitiesIncluded>Not included</UtilitiesIncluded>
+      <UtilitiesIncluded>Heat | Water | Electricity included</UtilitiesIncluded>
     </RichDetails>
   </Listing>
   <Listing>
@@ -307,9 +353,9 @@
     </RichDetails>
   </Listing>
   <Listing>
-    <ID>754051</ID>
+    <ID>765155</ID>
     <Location>
-      <StreetAddress>3119 45 Street SW</StreetAddress>
+      <StreetAddress>265 Wolf Willow Boulevard SE</StreetAddress>
       <City>Calgary</City>
       <State>AB</State>
       <Zip>T2S 0J1</Zip>
@@ -317,15 +363,15 @@
     </Location>
     <ListingDetails>
       <Status>Active</Status>
-      <Price>2625</Price>
-      <ListingUrl>https://www.rentfaster.ca/properties/3119-45-street-sw-calgary-754051</ListingUrl>
-      <ProviderListingId>754051</ProviderListingId>
-      <ApplicationUrl>https://app.tenantturner.com/qualify/select-time/3119-45-street-sw?p=TenantTurner</ApplicationUrl>
+      <Price>1550</Price>
+      <ListingUrl>https://www.rentfaster.ca/properties/265-wolf-willow-boulevard-se-calgary-765155</ListingUrl>
+      <ProviderListingId>765155</ProviderListingId>
+      <ApplicationUrl>https://app.tenantturner.com/qualify/select-time/265-wolf-willow-boulevard-se?p=TenantTurner</ApplicationUrl>
     </ListingDetails>
     <RentalDetails>
       <Availability>Immediate</Availability>
       <LeaseTerm>12 Months</LeaseTerm>
-      <DepositFees>2625</DepositFees>
+      <DepositFees>1550</DepositFees>
       <PetsAllowed>
         <NoPets>No</NoPets>
         <Cats>Yes</Cats>
@@ -334,80 +380,25 @@
       </PetsAllowed>
     </RentalDetails>
     <BasicDetails>
-      <PropertyType>Townhouse</PropertyType>
-      <Title>Brand New 2 Storey, 3 Bedroom Townhomes For Rent! </Title>
-      <Description/>
-      <Bedrooms>3</Bedrooms>
-      <Bathrooms>2.5</Bathrooms>
-      <LivingArea>1600</LivingArea>
-    </BasicDetails>
-    <Pictures>
-      <Picture>
-        <PictureUrl>https://rf-images-prod-bcdn.rentfaster.ca/754051/slide_18267503.v.36d8db9e7ca0081f9f7ae5d6e3678c92.jpg</PictureUrl>
-        <Caption>Brand New 2 Storey, 3 Bedroom Townhomes For Rent!  - Photo 1</Caption>
-      </Picture>
-    </Pictures>
-    <RichDetails>
-      <ParkingTypes>
-        <ParkingType>Garage</ParkingType>
-      </ParkingTypes>
-      <Fireplace>No</Fireplace>
-      <UtilitiesIncluded>Not included</UtilitiesIncluded>
-    </RichDetails>
-  </Listing>
-  <Listing>
-    <ID>684190</ID>
-    <Location>
-      <StreetAddress>1746 26 Avenue SW</StreetAddress>
-      <City>Calgary</City>
-      <State>AB</State>
-      <Zip>T2S 0J1</Zip>
-      <DisplayAddress>Yes</DisplayAddress>
-    </Location>
-    <ListingDetails>
-      <Status>Active</Status>
-      <Price>2350</Price>
-      <ListingUrl>https://www.rentfaster.ca/properties/1746-26-avenue-sw-calgary-684190</ListingUrl>
-      <ProviderListingId>684190</ProviderListingId>
-      <ApplicationUrl>https://app.tenantturner.com/qualify/select-time/1746-26-avenue-sw?p=TenantTurner</ApplicationUrl>
-    </ListingDetails>
-    <RentalDetails>
-      <Availability>Immediate</Availability>
-      <LeaseTerm>12 Months</LeaseTerm>
-      <DepositFees>2350</DepositFees>
-      <PetsAllowed>
-        <NoPets>No</NoPets>
-        <Cats>Yes</Cats>
-        <SmallDogs>Yes</SmallDogs>
-        <LargeDogs>No</LargeDogs>
-      </PetsAllowed>
-    </RentalDetails>
-    <BasicDetails>
-      <PropertyType>Townhouse</PropertyType>
-      <Title>Walk Out Level, 2 Bedroom, 2 Bathroom, Stacked Townhome for Rent in Bankview!</Title>
+      <PropertyType>Condo</PropertyType>
+      <Title>Brand New | 2Bed 2Bath | UG Parking and More | The Orson at Wolf Willow</Title>
       <Description/>
       <Bedrooms>2</Bedrooms>
-      <Bathrooms>2.5</Bathrooms>
-      <LivingArea>1400</LivingArea>
+      <Bathrooms>2</Bathrooms>
+      <LivingArea>675</LivingArea>
     </BasicDetails>
     <Pictures>
       <Picture>
-        <PictureUrl>https://rf-images-prod-bcdn.rentfaster.ca/684190/slide_18159179.v.fde33cbb30aed24d77397a9a4d88e28a.jpg</PictureUrl>
-        <Caption>Walk Out Level, 2 Bedroom, 2 Bathroom, Stacked Townhome for Rent in Bankview! - Photo 1</Caption>
+        <PictureUrl>https://rf-images-prod-bcdn.rentfaster.ca/765155/slide_17943333.v.b81b7e3bc3b18a6a6bba8b9b94ba7a86.jpg</PictureUrl>
+        <Caption>Brand New | 2Bed 2Bath | UG Parking and More | The Orson at Wolf Willow - Photo 1</Caption>
       </Picture>
     </Pictures>
     <RichDetails>
       <ParkingTypes>
         <ParkingType>Underground</ParkingType>
       </ParkingTypes>
-      <Appliances>
-        <Appliance>Storage Lockers</Appliance>
-        <Appliance>Fridge</Appliance>
-        <Appliance>Oven/Stove</Appliance>
-        <Appliance>Laundry - In Suite</Appliance>
-      </Appliances>
       <Fireplace>No</Fireplace>
-      <UtilitiesIncluded>Not included</UtilitiesIncluded>
+      <UtilitiesIncluded>Heat | Water included</UtilitiesIncluded>
     </RichDetails>
   </Listing>
   <Listing>
@@ -519,9 +510,9 @@
     </RichDetails>
   </Listing>
   <Listing>
-    <ID>761872</ID>
+    <ID>688503</ID>
     <Location>
-      <StreetAddress>815 17 Avenue Northwest 101 b</StreetAddress>
+      <StreetAddress>1188 3 Street Southeast</StreetAddress>
       <City>Calgary</City>
       <State>AB</State>
       <Zip>T2S 0J1</Zip>
@@ -529,67 +520,15 @@
     </Location>
     <ListingDetails>
       <Status>Active</Status>
-      <Price>1350</Price>
-      <ListingUrl>https://www.rentfaster.ca/properties/815-17-avenue-northwest-101-b-calgary-761872</ListingUrl>
-      <ProviderListingId>761872</ProviderListingId>
-      <ApplicationUrl>https://app.tenantturner.com/qualify/select-time/815-17-avenue-northwest-101-b?p=TenantTurner</ApplicationUrl>
+      <Price>2150</Price>
+      <ListingUrl>https://www.rentfaster.ca/properties/1188-3-street-southeast-calgary-688503</ListingUrl>
+      <ProviderListingId>688503</ProviderListingId>
+      <ApplicationUrl>https://app.tenantturner.com/qualify/select-time/1188-3-street-southeast?p=TenantTurner</ApplicationUrl>
     </ListingDetails>
     <RentalDetails>
       <Availability>Immediate</Availability>
       <LeaseTerm>12 Months</LeaseTerm>
-      <DepositFees>1350</DepositFees>
-      <PetsAllowed>
-        <NoPets>No</NoPets>
-        <Cats>Yes</Cats>
-        <SmallDogs>Yes</SmallDogs>
-        <LargeDogs>No</LargeDogs>
-      </PetsAllowed>
-    </RentalDetails>
-    <BasicDetails>
-      <PropertyType>Apartment</PropertyType>
-      <Title>Brand New, Furnished, 1 Bedroom Basement Suite in Mount Pleasant!</Title>
-      <Description/>
-      <Bedrooms>1</Bedrooms>
-      <Bathrooms>1</Bathrooms>
-      <LivingArea>550</LivingArea>
-    </BasicDetails>
-    <Pictures>
-      <Picture>
-        <PictureUrl>https://rf-images-prod-bcdn.rentfaster.ca/761872/slide_17863651.v.93020608822f2adf1c8400ee3868f611.jpg</PictureUrl>
-        <Caption>Brand New, Furnished, 1 Bedroom Basement Suite in Mount Pleasant! - Photo 1</Caption>
-      </Picture>
-    </Pictures>
-    <RichDetails>
-      <Appliances>
-        <Appliance>Fridge</Appliance>
-        <Appliance>Oven/Stove</Appliance>
-        <Appliance>Laundry - In Suite</Appliance>
-        <Appliance>Dishwasher</Appliance>
-      </Appliances>
-      <Fireplace>No</Fireplace>
-      <UtilitiesIncluded>Heat | Water | Electricity included</UtilitiesIncluded>
-    </RichDetails>
-  </Listing>
-  <Listing>
-    <ID>767420</ID>
-    <Location>
-      <StreetAddress>100 Walgrove Court Southeast 1405</StreetAddress>
-      <City>Calgary</City>
-      <State>AB</State>
-      <Zip>T2S 0J1</Zip>
-      <DisplayAddress>Yes</DisplayAddress>
-    </Location>
-    <ListingDetails>
-      <Status>Active</Status>
-      <Price>2400</Price>
-      <ListingUrl>https://www.rentfaster.ca/properties/100-walgrove-court-southeast-1405-calgary-767420</ListingUrl>
-      <ProviderListingId>767420</ProviderListingId>
-      <ApplicationUrl>https://app.tenantturner.com/qualify/select-time/100-walgrove-court-southeast-1405?p=TenantTurner</ApplicationUrl>
-    </ListingDetails>
-    <RentalDetails>
-      <Availability>Immediate</Availability>
-      <LeaseTerm>12 Months</LeaseTerm>
-      <DepositFees>2400</DepositFees>
+      <DepositFees>2150</DepositFees>
       <PetsAllowed>
         <NoPets>Yes</NoPets>
         <Cats>No</Cats>
@@ -598,31 +537,37 @@
       </PetsAllowed>
     </RentalDetails>
     <BasicDetails>
-      <PropertyType>Townhouse</PropertyType>
-      <Title>One Level Living in Walden! Spacious, 3 Bedroom Bungalow Style Townhome for Rent!</Title>
+      <PropertyType>Condo</PropertyType>
+      <Title>Stylish 1 Bedroom, Fully Furnished, Condo Perched on the 7th of The Guardian with Oversized Patio and UG Parking!!</Title>
       <Description/>
-      <Bedrooms>3</Bedrooms>
-      <Bathrooms>2</Bathrooms>
-      <LivingArea>1300</LivingArea>
+      <Bedrooms>1</Bedrooms>
+      <Bathrooms>1</Bathrooms>
+      <LivingArea>650</LivingArea>
     </BasicDetails>
     <Pictures>
       <Picture>
-        <PictureUrl>https://rf-images-prod-bcdn.rentfaster.ca/767420/slide_18068890.v.a969971aa1256c763dfd961c6ca0b9c8.jpg</PictureUrl>
-        <Caption>One Level Living in Walden! Spacious, 3 Bedroom Bungalow Style Townhome for Rent! - Photo 1</Caption>
+        <PictureUrl>https://rf-images-prod-bcdn.rentfaster.ca/688503/slide_16043897.v.995cbc6089e779771545080de3bca23a.jpg</PictureUrl>
+        <Caption>Stylish 1 Bedroom, Fully Furnished, Condo Perched on the 7th of The Guardian with Oversized Patio and UG Parking!! - Photo 1</Caption>
       </Picture>
     </Pictures>
     <RichDetails>
       <ParkingTypes>
-        <ParkingType>Garage</ParkingType>
+        <ParkingType>Underground</ParkingType>
       </ParkingTypes>
+      <Appliances>
+        <Appliance>Elevator</Appliance>
+        <Appliance>Fridge</Appliance>
+        <Appliance>Oven/Stove</Appliance>
+        <Appliance>Laundry - In Suite</Appliance>
+      </Appliances>
       <Fireplace>No</Fireplace>
-      <UtilitiesIncluded>Not included</UtilitiesIncluded>
+      <UtilitiesIncluded>Internet | Heat | Water | Electricity included</UtilitiesIncluded>
     </RichDetails>
   </Listing>
   <Listing>
-    <ID>631597</ID>
+    <ID>770300</ID>
     <Location>
-      <StreetAddress>521 23 Avenue NE</StreetAddress>
+      <StreetAddress>32 Varsity Estates Circle Northwest</StreetAddress>
       <City>Calgary</City>
       <State>AB</State>
       <Zip>T2S 0J1</Zip>
@@ -630,45 +575,143 @@
     </Location>
     <ListingDetails>
       <Status>Active</Status>
-      <Price>1900</Price>
-      <ListingUrl>https://www.rentfaster.ca/properties/521-23-avenue-ne-calgary-631597</ListingUrl>
-      <ProviderListingId>631597</ProviderListingId>
-      <ApplicationUrl>https://app.tenantturner.com/qualify/select-time/521-23-avenue-ne?p=TenantTurner</ApplicationUrl>
+      <Price>2250</Price>
+      <ListingUrl>https://www.rentfaster.ca/properties/32-varsity-estates-circle-northwest-calgary-770300</ListingUrl>
+      <ProviderListingId>770300</ProviderListingId>
+      <ApplicationUrl>https://app.tenantturner.com/qualify/select-time/32-varsity-estates-circle-northwest?p=TenantTurner</ApplicationUrl>
     </ListingDetails>
     <RentalDetails>
       <Availability>September 01</Availability>
       <LeaseTerm>12 Months</LeaseTerm>
-      <DepositFees>1900</DepositFees>
+      <DepositFees>2250</DepositFees>
+      <PetsAllowed>
+        <NoPets>Yes</NoPets>
+        <Cats>No</Cats>
+        <SmallDogs>No</SmallDogs>
+        <LargeDogs>No</LargeDogs>
+      </PetsAllowed>
+    </RentalDetails>
+    <BasicDetails>
+      <PropertyType>Condo</PropertyType>
+      <Title>Spacious, 1200sf, 2 Bed 2 Bath 1st Floor Corner Suite with Huge Outdoor Patio For Rent in the Groves of Varsity!</Title>
+      <Description/>
+      <Bedrooms>2</Bedrooms>
+      <Bathrooms>2</Bathrooms>
+      <LivingArea>1200</LivingArea>
+    </BasicDetails>
+    <Pictures>
+      <Picture>
+        <PictureUrl>https://rf-images-prod-bcdn.rentfaster.ca/770300/slide_18191856.v.3f68adf8270fbab519293cea90bc0102.jpg</PictureUrl>
+        <Caption>Spacious, 1200sf, 2 Bed 2 Bath 1st Floor Corner Suite with Huge Outdoor Patio For Rent in the Groves of Varsity! - Photo 1</Caption>
+      </Picture>
+    </Pictures>
+    <RichDetails>
+      <ParkingTypes>
+        <ParkingType>Underground</ParkingType>
+      </ParkingTypes>
+      <Fireplace>No</Fireplace>
+      <UtilitiesIncluded>Heat | Water included</UtilitiesIncluded>
+    </RichDetails>
+  </Listing>
+  <Listing>
+    <ID>635858</ID>
+    <Location>
+      <StreetAddress>140 Mahogany Street SE</StreetAddress>
+      <City>Calgary</City>
+      <State>AB</State>
+      <Zip>T2S 0J1</Zip>
+      <DisplayAddress>Yes</DisplayAddress>
+    </Location>
+    <ListingDetails>
+      <Status>Active</Status>
+      <Price>2100</Price>
+      <ListingUrl>https://www.rentfaster.ca/properties/140-mahogany-street-se-calgary-635858</ListingUrl>
+      <ProviderListingId>635858</ProviderListingId>
+      <ApplicationUrl>https://app.tenantturner.com/qualify/select-time/140-mahogany-street-se?p=TenantTurner</ApplicationUrl>
+    </ListingDetails>
+    <RentalDetails>
+      <Availability>September 01</Availability>
+      <LeaseTerm>12 Months</LeaseTerm>
+      <DepositFees>2100</DepositFees>
       <PetsAllowed>
         <NoPets>No</NoPets>
-        <Cats>No</Cats>
+        <Cats>Yes</Cats>
         <SmallDogs>Yes</SmallDogs>
         <LargeDogs>No</LargeDogs>
       </PetsAllowed>
     </RentalDetails>
     <BasicDetails>
-      <PropertyType>Apartment</PropertyType>
-      <Title>2 Bedroom, Furnished Basement Suite, All Utilities Included for Rent in Winston Heights!</Title>
+      <PropertyType>Condo</PropertyType>
+      <Title>Beautifully designed 2-bedroom, 2-bathroom walkout unit, complete with Mahogany Lake Access and UG Parking!</Title>
       <Description/>
       <Bedrooms>2</Bedrooms>
-      <Bathrooms>1</Bathrooms>
-      <LivingArea>900</LivingArea>
+      <Bathrooms>2</Bathrooms>
+      <LivingArea>1100</LivingArea>
     </BasicDetails>
     <Pictures>
       <Picture>
-        <PictureUrl>https://rf-images-prod-bcdn.rentfaster.ca/631597/slide_13454839.v.dcd21bb5e4f09ebaf848867c19619260.jpg</PictureUrl>
-        <Caption>2 Bedroom, Furnished Basement Suite, All Utilities Included for Rent in Winston Heights! - Photo 1</Caption>
+        <PictureUrl>https://rf-images-prod-bcdn.rentfaster.ca/635858/slide_17731904.v.c727165c4f3d021a5a48f7e8b2496ec0.jpg</PictureUrl>
+        <Caption>Beautifully designed 2-bedroom, 2-bathroom walkout unit, complete with Mahogany Lake Access and UG Parking! - Photo 1</Caption>
       </Picture>
     </Pictures>
     <RichDetails>
+      <ParkingTypes>
+        <ParkingType>Underground</ParkingType>
+      </ParkingTypes>
       <Appliances>
-        <Appliance>Air Conditioning</Appliance>
+        <Appliance>Elevator</Appliance>
+        <Appliance>Storage Lockers</Appliance>
         <Appliance>Fridge</Appliance>
         <Appliance>Oven/Stove</Appliance>
-        <Appliance>Laundry - In Suite</Appliance>
       </Appliances>
       <Fireplace>No</Fireplace>
-      <UtilitiesIncluded>Internet | Heat | Water | Electricity included</UtilitiesIncluded>
+      <UtilitiesIncluded>Heat | Water included</UtilitiesIncluded>
+    </RichDetails>
+  </Listing>
+  <Listing>
+    <ID>769578</ID>
+    <Location>
+      <StreetAddress>10 Brentwood Common NW</StreetAddress>
+      <City>Calgary</City>
+      <State>AB</State>
+      <Zip>T2S 0J1</Zip>
+      <DisplayAddress>Yes</DisplayAddress>
+    </Location>
+    <ListingDetails>
+      <Status>Active</Status>
+      <Price>1750</Price>
+      <ListingUrl>https://www.rentfaster.ca/properties/10-brentwood-common-nw-calgary-769578</ListingUrl>
+      <ProviderListingId>769578</ProviderListingId>
+      <ApplicationUrl>https://app.tenantturner.com/qualify/select-time/10-brentwood-common-nw?p=TenantTurner</ApplicationUrl>
+    </ListingDetails>
+    <RentalDetails>
+      <Availability>September 01</Availability>
+      <LeaseTerm>12 Months</LeaseTerm>
+      <DepositFees>1750</DepositFees>
+      <PetsAllowed>
+        <NoPets>Yes</NoPets>
+        <Cats>No</Cats>
+        <SmallDogs>No</SmallDogs>
+        <LargeDogs>No</LargeDogs>
+      </PetsAllowed>
+    </RentalDetails>
+    <BasicDetails>
+      <PropertyType>Condo</PropertyType>
+      <Title>4th Floor, 2 Bed, 1 Bath Condo with unparalleled access to University City in Brentwood! </Title>
+      <Description/>
+      <Bedrooms>2</Bedrooms>
+      <Bathrooms>1</Bathrooms>
+      <LivingArea>550</LivingArea>
+    </BasicDetails>
+    <Pictures>
+      <Picture>
+        <PictureUrl>https://rf-images-prod-bcdn.rentfaster.ca/769578/slide_18169976.v.5b943d7c7b4a12ba9ab6377f461b60ea.jpg</PictureUrl>
+        <Caption>4th Floor, 2 Bed, 1 Bath Condo with unparalleled access to University City in Brentwood!  - Photo 1</Caption>
+      </Picture>
+    </Pictures>
+    <RichDetails>
+      <Fireplace>No</Fireplace>
+      <UtilitiesIncluded>Not included</UtilitiesIncluded>
     </RichDetails>
   </Listing>
   <Listing>
@@ -783,162 +826,6 @@
     </RichDetails>
   </Listing>
   <Listing>
-    <ID>696741</ID>
-    <Location>
-      <StreetAddress>313 20 Avenue SW</StreetAddress>
-      <City>Calgary</City>
-      <State>AB</State>
-      <Zip>T2S 0J1</Zip>
-      <DisplayAddress>Yes</DisplayAddress>
-    </Location>
-    <ListingDetails>
-      <Status>Active</Status>
-      <Price>1975</Price>
-      <ListingUrl>https://www.rentfaster.ca/properties/313-20-avenue-sw-calgary-696741</ListingUrl>
-      <ProviderListingId>696741</ProviderListingId>
-      <ApplicationUrl>https://app.tenantturner.com/qualify/select-time/313-20-avenue-sw?p=TenantTurner</ApplicationUrl>
-    </ListingDetails>
-    <RentalDetails>
-      <Availability>September 01</Availability>
-      <LeaseTerm>12 Months</LeaseTerm>
-      <DepositFees>1975</DepositFees>
-      <PetsAllowed>
-        <NoPets>No</NoPets>
-        <Cats>No</Cats>
-        <SmallDogs>Yes</SmallDogs>
-        <LargeDogs>No</LargeDogs>
-      </PetsAllowed>
-    </RentalDetails>
-    <BasicDetails>
-      <PropertyType>Condo</PropertyType>
-      <Title>Semi-Furnished 2 bedroom Condo in Mission – Elegant Grey &amp; Wood Kitchen, Piano &amp; Stylish Living</Title>
-      <Description/>
-      <Bedrooms>2</Bedrooms>
-      <Bathrooms>1</Bathrooms>
-      <LivingArea>700</LivingArea>
-    </BasicDetails>
-    <Pictures>
-      <Picture>
-        <PictureUrl>https://rf-images-prod-bcdn.rentfaster.ca/696741/slide_15795834.v.b64bf0796aea3b7a1cc524fceec4bad8.jpg</PictureUrl>
-        <Caption>Semi-Furnished 2 bedroom Condo in Mission – Elegant Grey &amp; Wood Kitchen, Piano &amp; Stylish Living - Photo 1</Caption>
-      </Picture>
-    </Pictures>
-    <RichDetails>
-      <ParkingTypes>
-        <ParkingType>Surface</ParkingType>
-      </ParkingTypes>
-      <Appliances>
-        <Appliance>Fridge</Appliance>
-        <Appliance>Oven/Stove</Appliance>
-        <Appliance>Dishwasher</Appliance>
-        <Appliance>Balcony</Appliance>
-      </Appliances>
-      <Fireplace>No</Fireplace>
-      <UtilitiesIncluded>Not included</UtilitiesIncluded>
-    </RichDetails>
-  </Listing>
-  <Listing>
-    <ID>769578</ID>
-    <Location>
-      <StreetAddress>10 Brentwood Common NW</StreetAddress>
-      <City>Calgary</City>
-      <State>AB</State>
-      <Zip>T2S 0J1</Zip>
-      <DisplayAddress>Yes</DisplayAddress>
-    </Location>
-    <ListingDetails>
-      <Status>Active</Status>
-      <Price>1750</Price>
-      <ListingUrl>https://www.rentfaster.ca/properties/10-brentwood-common-nw-calgary-769578</ListingUrl>
-      <ProviderListingId>769578</ProviderListingId>
-      <ApplicationUrl>https://app.tenantturner.com/qualify/select-time/10-brentwood-common-nw?p=TenantTurner</ApplicationUrl>
-    </ListingDetails>
-    <RentalDetails>
-      <Availability>September 01</Availability>
-      <LeaseTerm>12 Months</LeaseTerm>
-      <DepositFees>1750</DepositFees>
-      <PetsAllowed>
-        <NoPets>Yes</NoPets>
-        <Cats>No</Cats>
-        <SmallDogs>No</SmallDogs>
-        <LargeDogs>No</LargeDogs>
-      </PetsAllowed>
-    </RentalDetails>
-    <BasicDetails>
-      <PropertyType>Condo</PropertyType>
-      <Title>4th Floor, 2 Bed, 1 Bath Condo with unparalleled access to University City in Brentwood! </Title>
-      <Description/>
-      <Bedrooms>2</Bedrooms>
-      <Bathrooms>1</Bathrooms>
-      <LivingArea>550</LivingArea>
-    </BasicDetails>
-    <Pictures>
-      <Picture>
-        <PictureUrl>https://rf-images-prod-bcdn.rentfaster.ca/769578/slide_18169976.v.5b943d7c7b4a12ba9ab6377f461b60ea.jpg</PictureUrl>
-        <Caption>4th Floor, 2 Bed, 1 Bath Condo with unparalleled access to University City in Brentwood!  - Photo 1</Caption>
-      </Picture>
-    </Pictures>
-    <RichDetails>
-      <Fireplace>No</Fireplace>
-      <UtilitiesIncluded>Not included</UtilitiesIncluded>
-    </RichDetails>
-  </Listing>
-  <Listing>
-    <ID>635858</ID>
-    <Location>
-      <StreetAddress>140 Mahogany Street SE</StreetAddress>
-      <City>Calgary</City>
-      <State>AB</State>
-      <Zip>T2S 0J1</Zip>
-      <DisplayAddress>Yes</DisplayAddress>
-    </Location>
-    <ListingDetails>
-      <Status>Active</Status>
-      <Price>2100</Price>
-      <ListingUrl>https://www.rentfaster.ca/properties/140-mahogany-street-se-calgary-635858</ListingUrl>
-      <ProviderListingId>635858</ProviderListingId>
-      <ApplicationUrl>https://app.tenantturner.com/qualify/select-time/140-mahogany-street-se?p=TenantTurner</ApplicationUrl>
-    </ListingDetails>
-    <RentalDetails>
-      <Availability>September 01</Availability>
-      <LeaseTerm>12 Months</LeaseTerm>
-      <DepositFees>2100</DepositFees>
-      <PetsAllowed>
-        <NoPets>No</NoPets>
-        <Cats>Yes</Cats>
-        <SmallDogs>Yes</SmallDogs>
-        <LargeDogs>No</LargeDogs>
-      </PetsAllowed>
-    </RentalDetails>
-    <BasicDetails>
-      <PropertyType>Condo</PropertyType>
-      <Title>Beautifully designed 2-bedroom, 2-bathroom walkout unit, complete with Mahogany Lake Access and UG Parking!</Title>
-      <Description/>
-      <Bedrooms>2</Bedrooms>
-      <Bathrooms>2</Bathrooms>
-      <LivingArea>1100</LivingArea>
-    </BasicDetails>
-    <Pictures>
-      <Picture>
-        <PictureUrl>https://rf-images-prod-bcdn.rentfaster.ca/635858/slide_17731904.v.c727165c4f3d021a5a48f7e8b2496ec0.jpg</PictureUrl>
-        <Caption>Beautifully designed 2-bedroom, 2-bathroom walkout unit, complete with Mahogany Lake Access and UG Parking! - Photo 1</Caption>
-      </Picture>
-    </Pictures>
-    <RichDetails>
-      <ParkingTypes>
-        <ParkingType>Underground</ParkingType>
-      </ParkingTypes>
-      <Appliances>
-        <Appliance>Elevator</Appliance>
-        <Appliance>Storage Lockers</Appliance>
-        <Appliance>Fridge</Appliance>
-        <Appliance>Oven/Stove</Appliance>
-      </Appliances>
-      <Fireplace>No</Fireplace>
-      <UtilitiesIncluded>Heat | Water included</UtilitiesIncluded>
-    </RichDetails>
-  </Listing>
-  <Listing>
     <ID>766895</ID>
     <Location>
       <StreetAddress>433 11 Avenue SE</StreetAddress>
@@ -994,9 +881,9 @@
     </RichDetails>
   </Listing>
   <Listing>
-    <ID>770300</ID>
+    <ID>696741</ID>
     <Location>
-      <StreetAddress>32 Varsity Estates Circle Northwest</StreetAddress>
+      <StreetAddress>313 20 Avenue SW</StreetAddress>
       <City>Calgary</City>
       <State>AB</State>
       <Zip>T2S 0J1</Zip>
@@ -1004,42 +891,155 @@
     </Location>
     <ListingDetails>
       <Status>Active</Status>
-      <Price>2250</Price>
-      <ListingUrl>https://www.rentfaster.ca/properties/32-varsity-estates-circle-northwest-calgary-770300</ListingUrl>
-      <ProviderListingId>770300</ProviderListingId>
-      <ApplicationUrl>https://app.tenantturner.com/qualify/select-time/32-varsity-estates-circle-northwest?p=TenantTurner</ApplicationUrl>
+      <Price>1975</Price>
+      <ListingUrl>https://www.rentfaster.ca/properties/313-20-avenue-sw-calgary-696741</ListingUrl>
+      <ProviderListingId>696741</ProviderListingId>
+      <ApplicationUrl>https://app.tenantturner.com/qualify/select-time/313-20-avenue-sw?p=TenantTurner</ApplicationUrl>
     </ListingDetails>
     <RentalDetails>
       <Availability>September 01</Availability>
       <LeaseTerm>12 Months</LeaseTerm>
-      <DepositFees>2250</DepositFees>
+      <DepositFees>1975</DepositFees>
       <PetsAllowed>
-        <NoPets>Yes</NoPets>
+        <NoPets>No</NoPets>
         <Cats>No</Cats>
-        <SmallDogs>No</SmallDogs>
+        <SmallDogs>Yes</SmallDogs>
         <LargeDogs>No</LargeDogs>
       </PetsAllowed>
     </RentalDetails>
     <BasicDetails>
       <PropertyType>Condo</PropertyType>
-      <Title>Spacious, 1200sf, 2 Bed 2 Bath 1st Floor Corner Suite with Huge Outdoor Patio For Rent in the Groves of Varsity!</Title>
+      <Title>Semi-Furnished 2 bedroom Condo in Mission – Elegant Grey &amp; Wood Kitchen, Piano &amp; Stylish Living</Title>
       <Description/>
       <Bedrooms>2</Bedrooms>
-      <Bathrooms>2</Bathrooms>
-      <LivingArea>1200</LivingArea>
+      <Bathrooms>1</Bathrooms>
+      <LivingArea>700</LivingArea>
     </BasicDetails>
     <Pictures>
       <Picture>
-        <PictureUrl>https://rf-images-prod-bcdn.rentfaster.ca/770300/slide_18191856.v.3f68adf8270fbab519293cea90bc0102.jpg</PictureUrl>
-        <Caption>Spacious, 1200sf, 2 Bed 2 Bath 1st Floor Corner Suite with Huge Outdoor Patio For Rent in the Groves of Varsity! - Photo 1</Caption>
+        <PictureUrl>https://rf-images-prod-bcdn.rentfaster.ca/696741/slide_15795834.v.b64bf0796aea3b7a1cc524fceec4bad8.jpg</PictureUrl>
+        <Caption>Semi-Furnished 2 bedroom Condo in Mission – Elegant Grey &amp; Wood Kitchen, Piano &amp; Stylish Living - Photo 1</Caption>
+      </Picture>
+    </Pictures>
+    <RichDetails>
+      <ParkingTypes>
+        <ParkingType>Surface</ParkingType>
+      </ParkingTypes>
+      <Appliances>
+        <Appliance>Fridge</Appliance>
+        <Appliance>Oven/Stove</Appliance>
+        <Appliance>Dishwasher</Appliance>
+        <Appliance>Balcony</Appliance>
+      </Appliances>
+      <Fireplace>No</Fireplace>
+      <UtilitiesIncluded>Not included</UtilitiesIncluded>
+    </RichDetails>
+  </Listing>
+  <Listing>
+    <ID>684190</ID>
+    <Location>
+      <StreetAddress>1746 26 Avenue SW</StreetAddress>
+      <City>Calgary</City>
+      <State>AB</State>
+      <Zip>T2S 0J1</Zip>
+      <DisplayAddress>Yes</DisplayAddress>
+    </Location>
+    <ListingDetails>
+      <Status>Active</Status>
+      <Price>2350</Price>
+      <ListingUrl>https://www.rentfaster.ca/properties/1746-26-avenue-sw-calgary-684190</ListingUrl>
+      <ProviderListingId>684190</ProviderListingId>
+      <ApplicationUrl>https://app.tenantturner.com/qualify/select-time/1746-26-avenue-sw?p=TenantTurner</ApplicationUrl>
+    </ListingDetails>
+    <RentalDetails>
+      <Availability>September 01</Availability>
+      <LeaseTerm>12 Months</LeaseTerm>
+      <DepositFees>2350</DepositFees>
+      <PetsAllowed>
+        <NoPets>No</NoPets>
+        <Cats>Yes</Cats>
+        <SmallDogs>Yes</SmallDogs>
+        <LargeDogs>No</LargeDogs>
+      </PetsAllowed>
+    </RentalDetails>
+    <BasicDetails>
+      <PropertyType>Townhouse</PropertyType>
+      <Title>Upper Level, 2 Bedroom, 2 Bathroom, Stacked Townhome for Rent in Bankview!</Title>
+      <Description/>
+      <Bedrooms>2</Bedrooms>
+      <Bathrooms>2</Bathrooms>
+      <LivingArea>1400</LivingArea>
+    </BasicDetails>
+    <Pictures>
+      <Picture>
+        <PictureUrl>https://rf-images-prod-bcdn.rentfaster.ca/684190/slide_18364363.v.64f649feeb753a6d0c43b41ac9a5dc0e.jpg</PictureUrl>
+        <Caption>Upper Level, 2 Bedroom, 2 Bathroom, Stacked Townhome for Rent in Bankview! - Photo 1</Caption>
       </Picture>
     </Pictures>
     <RichDetails>
       <ParkingTypes>
         <ParkingType>Underground</ParkingType>
       </ParkingTypes>
+      <Appliances>
+        <Appliance>Storage Lockers</Appliance>
+        <Appliance>Fridge</Appliance>
+        <Appliance>Oven/Stove</Appliance>
+        <Appliance>Laundry - In Suite</Appliance>
+      </Appliances>
       <Fireplace>No</Fireplace>
-      <UtilitiesIncluded>Heat | Water included</UtilitiesIncluded>
+      <UtilitiesIncluded>Not included</UtilitiesIncluded>
+    </RichDetails>
+  </Listing>
+  <Listing>
+    <ID>631597</ID>
+    <Location>
+      <StreetAddress>521 23 Avenue NE</StreetAddress>
+      <City>Calgary</City>
+      <State>AB</State>
+      <Zip>T2S 0J1</Zip>
+      <DisplayAddress>Yes</DisplayAddress>
+    </Location>
+    <ListingDetails>
+      <Status>Active</Status>
+      <Price>1900</Price>
+      <ListingUrl>https://www.rentfaster.ca/properties/521-23-avenue-ne-calgary-631597</ListingUrl>
+      <ProviderListingId>631597</ProviderListingId>
+      <ApplicationUrl>https://app.tenantturner.com/qualify/select-time/521-23-avenue-ne?p=TenantTurner</ApplicationUrl>
+    </ListingDetails>
+    <RentalDetails>
+      <Availability>September 01</Availability>
+      <LeaseTerm>12 Months</LeaseTerm>
+      <DepositFees>1900</DepositFees>
+      <PetsAllowed>
+        <NoPets>No</NoPets>
+        <Cats>No</Cats>
+        <SmallDogs>Yes</SmallDogs>
+        <LargeDogs>No</LargeDogs>
+      </PetsAllowed>
+    </RentalDetails>
+    <BasicDetails>
+      <PropertyType>Apartment</PropertyType>
+      <Title>2 Bedroom, Furnished Basement Suite, All Utilities Included for Rent in Winston Heights!</Title>
+      <Description/>
+      <Bedrooms>2</Bedrooms>
+      <Bathrooms>1</Bathrooms>
+      <LivingArea>900</LivingArea>
+    </BasicDetails>
+    <Pictures>
+      <Picture>
+        <PictureUrl>https://rf-images-prod-bcdn.rentfaster.ca/631597/slide_13454839.v.dcd21bb5e4f09ebaf848867c19619260.jpg</PictureUrl>
+        <Caption>2 Bedroom, Furnished Basement Suite, All Utilities Included for Rent in Winston Heights! - Photo 1</Caption>
+      </Picture>
+    </Pictures>
+    <RichDetails>
+      <Appliances>
+        <Appliance>Air Conditioning</Appliance>
+        <Appliance>Fridge</Appliance>
+        <Appliance>Oven/Stove</Appliance>
+        <Appliance>Laundry - In Suite</Appliance>
+      </Appliances>
+      <Fireplace>No</Fireplace>
+      <UtilitiesIncluded>Internet | Heat | Water | Electricity included</UtilitiesIncluded>
     </RichDetails>
   </Listing>
 </Listings>
