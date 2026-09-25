@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="utf-8"?>
 <Listings>
   <Listing>
-    <ID>696741</ID>
+    <ID>635859</ID>
     <Location>
-      <StreetAddress>313 20 Avenue SW</StreetAddress>
+      <StreetAddress>258 22 Avenue NE</StreetAddress>
       <City>Calgary</City>
       <State>AB</State>
       <Zip>T2S 0J1</Zip>
@@ -11,46 +11,92 @@
     </Location>
     <ListingDetails>
       <Status>Active</Status>
-      <Price>1875</Price>
-      <ListingUrl>https://www.rentfaster.ca/properties/313-20-avenue-sw-calgary-696741</ListingUrl>
-      <ProviderListingId>696741</ProviderListingId>
-      <ApplicationUrl>https://app.tenantturner.com/qualify/select-time/313-20-avenue-sw?p=TenantTurner</ApplicationUrl>
+      <Price>1800</Price>
+      <ListingUrl>https://www.rentfaster.ca/properties/258-22-avenue-ne-calgary-635859</ListingUrl>
+      <ProviderListingId>635859</ProviderListingId>
+      <ApplicationUrl>https://app.tenantturner.com/qualify/select-time/258-22-avenue-ne?p=TenantTurner</ApplicationUrl>
     </ListingDetails>
     <RentalDetails>
       <Availability>Immediate</Availability>
       <LeaseTerm>12 Months</LeaseTerm>
-      <DepositFees>1875</DepositFees>
+      <DepositFees>1800</DepositFees>
       <PetsAllowed>
         <NoPets>No</NoPets>
-        <Cats>No</Cats>
+        <Cats>Yes</Cats>
         <SmallDogs>Yes</SmallDogs>
         <LargeDogs>No</LargeDogs>
       </PetsAllowed>
     </RentalDetails>
     <BasicDetails>
-      <PropertyType>Condo</PropertyType>
-      <Title>Semi-Furnished 2 bedroom Condo in Mission – Elegant Grey &amp; Wood Kitchen, Piano &amp; Stylish Living</Title>
+      <PropertyType>House</PropertyType>
+      <Title>Welcome to Tuxedo Park!! Built in 2024, the basement portion of this sophisticated home boasts 900 SF of well thought ou</Title>
       <Description/>
       <Bedrooms>2</Bedrooms>
       <Bathrooms>1</Bathrooms>
-      <LivingArea>700</LivingArea>
+      <LivingArea>900</LivingArea>
     </BasicDetails>
     <Pictures>
       <Picture>
-        <PictureUrl>https://rf-images-prod-bcdn.rentfaster.ca/696741/slide_15795872.v.0e6848a8b803476178b18e32aa41a68a.jpg</PictureUrl>
-        <Caption>Semi-Furnished 2 bedroom Condo in Mission – Elegant Grey &amp; Wood Kitchen, Piano &amp; Stylish Living - Photo 1</Caption>
+        <PictureUrl>https://rf-images-prod-bcdn.rentfaster.ca/635859/slide_18794525.v.9481e41731ade5aebd4e4ff7fe01da86.jpg</PictureUrl>
+        <Caption>Welcome to Tuxedo Park!! Built in 2024, the basement portion of this sophisticated home boasts 900 SF of well thought ou - Photo 1</Caption>
+      </Picture>
+    </Pictures>
+    <RichDetails>
+      <Appliances>
+        <Appliance>Fridge</Appliance>
+        <Appliance>Oven/Stove</Appliance>
+        <Appliance>Laundry - In Suite</Appliance>
+        <Appliance>Dishwasher</Appliance>
+      </Appliances>
+      <Fireplace>No</Fireplace>
+      <UtilitiesIncluded>Internet | Heat | Water | Electricity included</UtilitiesIncluded>
+    </RichDetails>
+  </Listing>
+  <Listing>
+    <ID>783933</ID>
+    <Location>
+      <StreetAddress>18 Sage Hill Lane NW</StreetAddress>
+      <City>Calgary</City>
+      <State>AB</State>
+      <Zip>T2S 0J1</Zip>
+      <DisplayAddress>Yes</DisplayAddress>
+    </Location>
+    <ListingDetails>
+      <Status>Active</Status>
+      <Price>2250</Price>
+      <ListingUrl>https://www.rentfaster.ca/properties/18-sage-hill-lane-nw-calgary-783933</ListingUrl>
+      <ProviderListingId>783933</ProviderListingId>
+      <ApplicationUrl>https://app.tenantturner.com/qualify/select-time/18-sage-hill-lane-nw?p=TenantTurner</ApplicationUrl>
+    </ListingDetails>
+    <RentalDetails>
+      <Availability>Immediate</Availability>
+      <LeaseTerm>12 Months</LeaseTerm>
+      <DepositFees>2250</DepositFees>
+      <PetsAllowed>
+        <NoPets>No</NoPets>
+        <Cats>Yes</Cats>
+        <SmallDogs>Yes</SmallDogs>
+        <LargeDogs>No</LargeDogs>
+      </PetsAllowed>
+    </RentalDetails>
+    <BasicDetails>
+      <PropertyType>Apartment</PropertyType>
+      <Title>3 Bedroom, Semi Detached Sage Hill Home for Rent w/ Double Garage and More!</Title>
+      <Description/>
+      <Bedrooms>3</Bedrooms>
+      <Bathrooms>2.5</Bathrooms>
+      <LivingArea>1900</LivingArea>
+    </BasicDetails>
+    <Pictures>
+      <Picture>
+        <PictureUrl>https://rf-images-prod-bcdn.rentfaster.ca/783933/slide_18719675.v.71cafdac43bfb9b330e3667331472acb.jpg</PictureUrl>
+        <Caption>3 Bedroom, Semi Detached Sage Hill Home for Rent w/ Double Garage and More! - Photo 1</Caption>
       </Picture>
     </Pictures>
     <RichDetails>
       <ParkingTypes>
-        <ParkingType>Surface</ParkingType>
+        <ParkingType>Garage</ParkingType>
       </ParkingTypes>
-      <Appliances>
-        <Appliance>Fridge</Appliance>
-        <Appliance>Oven/Stove</Appliance>
-        <Appliance>Dishwasher</Appliance>
-        <Appliance>Balcony</Appliance>
-      </Appliances>
       <Fireplace>No</Fireplace>
       <UtilitiesIncluded>Not included</UtilitiesIncluded>
     </RichDetails>
@@ -102,9 +148,9 @@
     </RichDetails>
   </Listing>
   <Listing>
-    <ID>754051</ID>
+    <ID>602032</ID>
     <Location>
-      <StreetAddress>3119 45 Street SW</StreetAddress>
+      <StreetAddress>108 23 Avenue SW</StreetAddress>
       <City>Calgary</City>
       <State>AB</State>
       <Zip>T2S 0J1</Zip>
@@ -112,15 +158,15 @@
     </Location>
     <ListingDetails>
       <Status>Active</Status>
-      <Price>2650</Price>
-      <ListingUrl>https://www.rentfaster.ca/properties/3119-45-street-sw-calgary-754051</ListingUrl>
-      <ProviderListingId>754051</ProviderListingId>
-      <ApplicationUrl>https://app.tenantturner.com/qualify/select-time/3119-45-street-sw?p=TenantTurner</ApplicationUrl>
+      <Price>2250</Price>
+      <ListingUrl>https://www.rentfaster.ca/properties/108-23-avenue-sw-calgary-602032</ListingUrl>
+      <ProviderListingId>602032</ProviderListingId>
+      <ApplicationUrl>https://app.tenantturner.com/qualify/select-time/108-23-avenue-sw?p=TenantTurner</ApplicationUrl>
     </ListingDetails>
     <RentalDetails>
       <Availability>Immediate</Availability>
       <LeaseTerm>12 Months</LeaseTerm>
-      <DepositFees>2650</DepositFees>
+      <DepositFees>2250</DepositFees>
       <PetsAllowed>
         <NoPets>No</NoPets>
         <Cats>Yes</Cats>
@@ -129,179 +175,32 @@
       </PetsAllowed>
     </RentalDetails>
     <BasicDetails>
-      <PropertyType>Townhouse</PropertyType>
-      <Title>Brand New 2 Storey, 3 Bedroom Townhomes For Rent! </Title>
+      <PropertyType>Condo</PropertyType>
+      <Title>Boutique All Concrete Building in Mission! 2nd Floor, South Facing Fully Furnished 1 Bedroom Suite For Rent!</Title>
       <Description/>
-      <Bedrooms>3</Bedrooms>
-      <Bathrooms>2.5</Bathrooms>
-      <LivingArea>1600</LivingArea>
+      <Bedrooms>1</Bedrooms>
+      <Bathrooms>1</Bathrooms>
+      <LivingArea>650</LivingArea>
     </BasicDetails>
     <Pictures>
       <Picture>
-        <PictureUrl>https://rf-images-prod-bcdn.rentfaster.ca/754051/slide_18267503.v.36d8db9e7ca0081f9f7ae5d6e3678c92.jpg</PictureUrl>
-        <Caption>Brand New 2 Storey, 3 Bedroom Townhomes For Rent!  - Photo 1</Caption>
+        <PictureUrl>https://rf-images-prod-bcdn.rentfaster.ca/602032/slide_18855025.v.a6a2a5a71f4c48fc5b81a02d1c10e0ea.jpg</PictureUrl>
+        <Caption>Boutique All Concrete Building in Mission! 2nd Floor, South Facing Fully Furnished 1 Bedroom Suite For Rent! - Photo 1</Caption>
       </Picture>
     </Pictures>
     <RichDetails>
       <ParkingTypes>
-        <ParkingType>Garage</ParkingType>
-      </ParkingTypes>
-      <Fireplace>No</Fireplace>
-      <UtilitiesIncluded>Not included</UtilitiesIncluded>
-    </RichDetails>
-  </Listing>
-  <Listing>
-    <ID>749569</ID>
-    <Location>
-      <StreetAddress>227 26 Avenue NE</StreetAddress>
-      <City>Calgary</City>
-      <State>AB</State>
-      <Zip>T2S 0J1</Zip>
-      <DisplayAddress>Yes</DisplayAddress>
-    </Location>
-    <ListingDetails>
-      <Status>Active</Status>
-      <Price>1600</Price>
-      <ListingUrl>https://www.rentfaster.ca/properties/227-26-avenue-ne-calgary-749569</ListingUrl>
-      <ProviderListingId>749569</ProviderListingId>
-      <ApplicationUrl>https://app.tenantturner.com/qualify/select-time/227-26-avenue-ne-1?p=TenantTurner</ApplicationUrl>
-    </ListingDetails>
-    <RentalDetails>
-      <Availability>Immediate</Availability>
-      <LeaseTerm>12 Months</LeaseTerm>
-      <DepositFees>1600</DepositFees>
-      <PetsAllowed>
-        <NoPets>No</NoPets>
-        <Cats>Yes</Cats>
-        <SmallDogs>Yes</SmallDogs>
-        <LargeDogs>No</LargeDogs>
-      </PetsAllowed>
-    </RentalDetails>
-    <BasicDetails>
-      <PropertyType>Apartment</PropertyType>
-      <Title>Brand New 2-Bedroom Suite | Private Entrance | Prime Location | Tuxedo Park</Title>
-      <Description/>
-      <Bedrooms>2</Bedrooms>
-      <Bathrooms>1</Bathrooms>
-      <LivingArea>600</LivingArea>
-    </BasicDetails>
-    <Pictures>
-      <Picture>
-        <PictureUrl>https://rf-images-prod-bcdn.rentfaster.ca/749569/slide_17475683.v.c1268cafd7aee12f6d83ecd00fe17fcf.jpg</PictureUrl>
-        <Caption>Brand New 2-Bedroom Suite | Private Entrance | Prime Location | Tuxedo Park - Photo 1</Caption>
-      </Picture>
-    </Pictures>
-    <RichDetails>
-      <Appliances>
-        <Appliance>Fridge</Appliance>
-        <Appliance>Oven/Stove</Appliance>
-        <Appliance>Laundry - In Suite</Appliance>
-        <Appliance>Dishwasher</Appliance>
-      </Appliances>
-      <Fireplace>No</Fireplace>
-      <UtilitiesIncluded>Heat | Water | Electricity included</UtilitiesIncluded>
-    </RichDetails>
-  </Listing>
-  <Listing>
-    <ID>782506</ID>
-    <Location>
-      <StreetAddress>15 Galbraith Drive SW</StreetAddress>
-      <City>Calgary</City>
-      <State>AB</State>
-      <Zip>T2S 0J1</Zip>
-      <DisplayAddress>Yes</DisplayAddress>
-    </Location>
-    <ListingDetails>
-      <Status>Active</Status>
-      <Price>2150</Price>
-      <ListingUrl>https://www.rentfaster.ca/properties/15-galbraith-drive-sw-calgary-782506</ListingUrl>
-      <ProviderListingId>782506</ProviderListingId>
-      <ApplicationUrl>https://app.tenantturner.com/qualify/select-time/15-galbraith-drive-sw?p=TenantTurner</ApplicationUrl>
-    </ListingDetails>
-    <RentalDetails>
-      <Availability>Immediate</Availability>
-      <LeaseTerm>12 Months</LeaseTerm>
-      <DepositFees>2150</DepositFees>
-      <PetsAllowed>
-        <NoPets>Yes</NoPets>
-        <Cats>No</Cats>
-        <SmallDogs>No</SmallDogs>
-        <LargeDogs>No</LargeDogs>
-      </PetsAllowed>
-    </RentalDetails>
-    <BasicDetails>
-      <PropertyType>Apartment</PropertyType>
-      <Title>Fabulous 3 Bedroom Duplex - Upper Floor Suite - For Rent in Glamorgan</Title>
-      <Description/>
-      <Bedrooms>3</Bedrooms>
-      <Bathrooms>1</Bathrooms>
-      <LivingArea>1000</LivingArea>
-    </BasicDetails>
-    <Pictures>
-      <Picture>
-        <PictureUrl>https://rf-images-prod-bcdn.rentfaster.ca/782506/slide_18658014.v.f95f5a234eb564f59c27572a07cfa970.jpg</PictureUrl>
-        <Caption>Fabulous 3 Bedroom Duplex - Upper Floor Suite - For Rent in Glamorgan - Photo 1</Caption>
-      </Picture>
-    </Pictures>
-    <RichDetails>
-      <Fireplace>No</Fireplace>
-      <UtilitiesIncluded>Heat | Water included</UtilitiesIncluded>
-    </RichDetails>
-  </Listing>
-  <Listing>
-    <ID>771176</ID>
-    <Location>
-      <StreetAddress>914 Royal Avenue SW</StreetAddress>
-      <City>Calgary</City>
-      <State>AB</State>
-      <Zip>T2S 0J1</Zip>
-      <DisplayAddress>Yes</DisplayAddress>
-    </Location>
-    <ListingDetails>
-      <Status>Active</Status>
-      <Price>6450</Price>
-      <ListingUrl>https://www.rentfaster.ca/properties/914-royal-avenue-sw-calgary-771176</ListingUrl>
-      <ProviderListingId>771176</ProviderListingId>
-      <ApplicationUrl>https://app.tenantturner.com/qualify/select-time/914-royal-avenue-sw?p=TenantTurner</ApplicationUrl>
-    </ListingDetails>
-    <RentalDetails>
-      <Availability>Immediate</Availability>
-      <LeaseTerm>12 Months</LeaseTerm>
-      <DepositFees>6450</DepositFees>
-      <PetsAllowed>
-        <NoPets>Yes</NoPets>
-        <Cats>No</Cats>
-        <SmallDogs>No</SmallDogs>
-        <LargeDogs>No</LargeDogs>
-      </PetsAllowed>
-    </RentalDetails>
-    <BasicDetails>
-      <PropertyType>Townhouse</PropertyType>
-      <Title>Immaculate, Executive Furnished Brownstone for Rent in Lower Mount Royal! 3 Storey, 4 Bedroom, 3000sf, Attached Parking,</Title>
-      <Description/>
-      <Bedrooms>4</Bedrooms>
-      <Bathrooms>3.5</Bathrooms>
-      <LivingArea>3000</LivingArea>
-    </BasicDetails>
-    <Pictures>
-      <Picture>
-        <PictureUrl>https://rf-images-prod-bcdn.rentfaster.ca/771176/slide_18782284.v.1959efb0b7c11bdea3de0369edde317f.jpg</PictureUrl>
-        <Caption>Immaculate, Executive Furnished Brownstone for Rent in Lower Mount Royal! 3 Storey, 4 Bedroom, 3000sf, Attached Parking, - Photo 1</Caption>
-      </Picture>
-    </Pictures>
-    <RichDetails>
-      <ParkingTypes>
-        <ParkingType>Garage</ParkingType>
         <ParkingType>Surface</ParkingType>
+        <ParkingType>Underground</ParkingType>
       </ParkingTypes>
       <Appliances>
+        <Appliance>Elevator</Appliance>
         <Appliance>Air Conditioning</Appliance>
         <Appliance>Fridge</Appliance>
         <Appliance>Oven/Stove</Appliance>
-        <Appliance>Laundry - In Suite</Appliance>
       </Appliances>
       <Fireplace>No</Fireplace>
-      <UtilitiesIncluded>Internet | Heat | Water | Electricity included</UtilitiesIncluded>
+      <UtilitiesIncluded>Heat | Water | Electricity | Internet included</UtilitiesIncluded>
     </RichDetails>
   </Listing>
   <Listing>
@@ -360,9 +259,9 @@
     </RichDetails>
   </Listing>
   <Listing>
-    <ID>783933</ID>
+    <ID>696741</ID>
     <Location>
-      <StreetAddress>18 Sage Hill Lane NW</StreetAddress>
+      <StreetAddress>313 20 Avenue SW</StreetAddress>
       <City>Calgary</City>
       <State>AB</State>
       <Zip>T2S 0J1</Zip>
@@ -370,40 +269,46 @@
     </Location>
     <ListingDetails>
       <Status>Active</Status>
-      <Price>2250</Price>
-      <ListingUrl>https://www.rentfaster.ca/properties/18-sage-hill-lane-nw-calgary-783933</ListingUrl>
-      <ProviderListingId>783933</ProviderListingId>
-      <ApplicationUrl>https://app.tenantturner.com/qualify/select-time/18-sage-hill-lane-nw?p=TenantTurner</ApplicationUrl>
+      <Price>1875</Price>
+      <ListingUrl>https://www.rentfaster.ca/properties/313-20-avenue-sw-calgary-696741</ListingUrl>
+      <ProviderListingId>696741</ProviderListingId>
+      <ApplicationUrl>https://app.tenantturner.com/qualify/select-time/313-20-avenue-sw?p=TenantTurner</ApplicationUrl>
     </ListingDetails>
     <RentalDetails>
       <Availability>Immediate</Availability>
       <LeaseTerm>12 Months</LeaseTerm>
-      <DepositFees>2250</DepositFees>
+      <DepositFees>1875</DepositFees>
       <PetsAllowed>
         <NoPets>No</NoPets>
-        <Cats>Yes</Cats>
+        <Cats>No</Cats>
         <SmallDogs>Yes</SmallDogs>
         <LargeDogs>No</LargeDogs>
       </PetsAllowed>
     </RentalDetails>
     <BasicDetails>
-      <PropertyType>Apartment</PropertyType>
-      <Title>3 Bedroom, Semi Detached Sage Hill Home for Rent w/ Double Garage and More!</Title>
+      <PropertyType>Condo</PropertyType>
+      <Title>Semi-Furnished 2 bedroom Condo in Mission – Elegant Grey &amp; Wood Kitchen, Piano &amp; Stylish Living</Title>
       <Description/>
-      <Bedrooms>3</Bedrooms>
-      <Bathrooms>2.5</Bathrooms>
-      <LivingArea>1900</LivingArea>
+      <Bedrooms>2</Bedrooms>
+      <Bathrooms>1</Bathrooms>
+      <LivingArea>700</LivingArea>
     </BasicDetails>
     <Pictures>
       <Picture>
-        <PictureUrl>https://rf-images-prod-bcdn.rentfaster.ca/783933/slide_18719675.v.71cafdac43bfb9b330e3667331472acb.jpg</PictureUrl>
-        <Caption>3 Bedroom, Semi Detached Sage Hill Home for Rent w/ Double Garage and More! - Photo 1</Caption>
+        <PictureUrl>https://rf-images-prod-bcdn.rentfaster.ca/696741/slide_15795872.v.0e6848a8b803476178b18e32aa41a68a.jpg</PictureUrl>
+        <Caption>Semi-Furnished 2 bedroom Condo in Mission – Elegant Grey &amp; Wood Kitchen, Piano &amp; Stylish Living - Photo 1</Caption>
       </Picture>
     </Pictures>
     <RichDetails>
       <ParkingTypes>
-        <ParkingType>Garage</ParkingType>
+        <ParkingType>Surface</ParkingType>
       </ParkingTypes>
+      <Appliances>
+        <Appliance>Fridge</Appliance>
+        <Appliance>Oven/Stove</Appliance>
+        <Appliance>Dishwasher</Appliance>
+        <Appliance>Balcony</Appliance>
+      </Appliances>
       <Fireplace>No</Fireplace>
       <UtilitiesIncluded>Not included</UtilitiesIncluded>
     </RichDetails>
@@ -459,52 +364,6 @@
         <Appliance>Oven/Stove</Appliance>
         <Appliance>Laundry - In Suite</Appliance>
       </Appliances>
-      <Fireplace>No</Fireplace>
-      <UtilitiesIncluded>Not included</UtilitiesIncluded>
-    </RichDetails>
-  </Listing>
-  <Listing>
-    <ID>782574</ID>
-    <Location>
-      <StreetAddress>3119b 45 Street SW</StreetAddress>
-      <City>Calgary</City>
-      <State>AB</State>
-      <Zip>T2S 0J1</Zip>
-      <DisplayAddress>Yes</DisplayAddress>
-    </Location>
-    <ListingDetails>
-      <Status>Active</Status>
-      <Price>1200</Price>
-      <ListingUrl>https://www.rentfaster.ca/properties/3119b-45-street-sw-calgary-782574</ListingUrl>
-      <ProviderListingId>782574</ProviderListingId>
-      <ApplicationUrl>https://app.tenantturner.com/qualify/select-time/3119b-45-street-sw?p=TenantTurner</ApplicationUrl>
-    </ListingDetails>
-    <RentalDetails>
-      <Availability>Immediate</Availability>
-      <LeaseTerm>12 Months</LeaseTerm>
-      <DepositFees>1200</DepositFees>
-      <PetsAllowed>
-        <NoPets>No</NoPets>
-        <Cats>Yes</Cats>
-        <SmallDogs>Yes</SmallDogs>
-        <LargeDogs>No</LargeDogs>
-      </PetsAllowed>
-    </RentalDetails>
-    <BasicDetails>
-      <PropertyType>Apartment</PropertyType>
-      <Title>Brand New, Stylish 1 Bedroom Basement Suites for Rent! </Title>
-      <Description/>
-      <Bedrooms>1</Bedrooms>
-      <Bathrooms>1</Bathrooms>
-      <LivingArea>600</LivingArea>
-    </BasicDetails>
-    <Pictures>
-      <Picture>
-        <PictureUrl>https://rf-images-prod-bcdn.rentfaster.ca/782574/slide_18673737.v.2a1b17405877286304e8a580620a6f14.jpg</PictureUrl>
-        <Caption>Brand New, Stylish 1 Bedroom Basement Suites for Rent!  - Photo 1</Caption>
-      </Picture>
-    </Pictures>
-    <RichDetails>
       <Fireplace>No</Fireplace>
       <UtilitiesIncluded>Not included</UtilitiesIncluded>
     </RichDetails>
@@ -566,9 +425,9 @@
     </RichDetails>
   </Listing>
   <Listing>
-    <ID>635859</ID>
+    <ID>771176</ID>
     <Location>
-      <StreetAddress>258 22 Avenue NE</StreetAddress>
+      <StreetAddress>914 Royal Avenue SW</StreetAddress>
       <City>Calgary</City>
       <State>AB</State>
       <Zip>T2S 0J1</Zip>
@@ -576,51 +435,55 @@
     </Location>
     <ListingDetails>
       <Status>Active</Status>
-      <Price>1800</Price>
-      <ListingUrl>https://www.rentfaster.ca/properties/258-22-avenue-ne-calgary-635859</ListingUrl>
-      <ProviderListingId>635859</ProviderListingId>
-      <ApplicationUrl>https://app.tenantturner.com/qualify/select-time/258-22-avenue-ne?p=TenantTurner</ApplicationUrl>
+      <Price>6450</Price>
+      <ListingUrl>https://www.rentfaster.ca/properties/914-royal-avenue-sw-calgary-771176</ListingUrl>
+      <ProviderListingId>771176</ProviderListingId>
+      <ApplicationUrl>https://app.tenantturner.com/qualify/select-time/914-royal-avenue-sw?p=TenantTurner</ApplicationUrl>
     </ListingDetails>
     <RentalDetails>
       <Availability>Immediate</Availability>
       <LeaseTerm>12 Months</LeaseTerm>
-      <DepositFees>1800</DepositFees>
+      <DepositFees>6450</DepositFees>
       <PetsAllowed>
-        <NoPets>No</NoPets>
-        <Cats>Yes</Cats>
-        <SmallDogs>Yes</SmallDogs>
+        <NoPets>Yes</NoPets>
+        <Cats>No</Cats>
+        <SmallDogs>No</SmallDogs>
         <LargeDogs>No</LargeDogs>
       </PetsAllowed>
     </RentalDetails>
     <BasicDetails>
-      <PropertyType>House</PropertyType>
-      <Title>Welcome to Tuxedo Park!! Built in 2024, the basement portion of this sophisticated home boasts 900 SF of well thought ou</Title>
+      <PropertyType>Townhouse</PropertyType>
+      <Title>Immaculate, Executive Furnished Brownstone for Rent in Lower Mount Royal! 3 Storey, 4 Bedroom, 3000sf, Attached Parking,</Title>
       <Description/>
-      <Bedrooms>2</Bedrooms>
-      <Bathrooms>1</Bathrooms>
-      <LivingArea>900</LivingArea>
+      <Bedrooms>4</Bedrooms>
+      <Bathrooms>3.5</Bathrooms>
+      <LivingArea>3000</LivingArea>
     </BasicDetails>
     <Pictures>
       <Picture>
-        <PictureUrl>https://rf-images-prod-bcdn.rentfaster.ca/635859/slide_18794525.v.9481e41731ade5aebd4e4ff7fe01da86.jpg</PictureUrl>
-        <Caption>Welcome to Tuxedo Park!! Built in 2024, the basement portion of this sophisticated home boasts 900 SF of well thought ou - Photo 1</Caption>
+        <PictureUrl>https://rf-images-prod-bcdn.rentfaster.ca/771176/slide_18782284.v.1959efb0b7c11bdea3de0369edde317f.jpg</PictureUrl>
+        <Caption>Immaculate, Executive Furnished Brownstone for Rent in Lower Mount Royal! 3 Storey, 4 Bedroom, 3000sf, Attached Parking, - Photo 1</Caption>
       </Picture>
     </Pictures>
     <RichDetails>
+      <ParkingTypes>
+        <ParkingType>Garage</ParkingType>
+        <ParkingType>Surface</ParkingType>
+      </ParkingTypes>
       <Appliances>
+        <Appliance>Air Conditioning</Appliance>
         <Appliance>Fridge</Appliance>
         <Appliance>Oven/Stove</Appliance>
         <Appliance>Laundry - In Suite</Appliance>
-        <Appliance>Dishwasher</Appliance>
       </Appliances>
       <Fireplace>No</Fireplace>
       <UtilitiesIncluded>Internet | Heat | Water | Electricity included</UtilitiesIncluded>
     </RichDetails>
   </Listing>
   <Listing>
-    <ID>769578</ID>
+    <ID>782506</ID>
     <Location>
-      <StreetAddress>10 Brentwood Common NW</StreetAddress>
+      <StreetAddress>15 Galbraith Drive SW</StreetAddress>
       <City>Calgary</City>
       <State>AB</State>
       <Zip>T2S 0J1</Zip>
@@ -628,40 +491,37 @@
     </Location>
     <ListingDetails>
       <Status>Active</Status>
-      <Price>1750</Price>
-      <ListingUrl>https://www.rentfaster.ca/properties/10-brentwood-common-nw-calgary-769578</ListingUrl>
-      <ProviderListingId>769578</ProviderListingId>
-      <ApplicationUrl>https://app.tenantturner.com/qualify/select-time/10-brentwood-common-nw?p=TenantTurner</ApplicationUrl>
+      <Price>2150</Price>
+      <ListingUrl>https://www.rentfaster.ca/properties/15-galbraith-drive-sw-calgary-782506</ListingUrl>
+      <ProviderListingId>782506</ProviderListingId>
+      <ApplicationUrl>https://app.tenantturner.com/qualify/select-time/15-galbraith-drive-sw?p=TenantTurner</ApplicationUrl>
     </ListingDetails>
     <RentalDetails>
       <Availability>Immediate</Availability>
       <LeaseTerm>12 Months</LeaseTerm>
-      <DepositFees>1750</DepositFees>
+      <DepositFees>2150</DepositFees>
       <PetsAllowed>
-        <NoPets>No</NoPets>
-        <Cats>Yes</Cats>
-        <SmallDogs>Yes</SmallDogs>
+        <NoPets>Yes</NoPets>
+        <Cats>No</Cats>
+        <SmallDogs>No</SmallDogs>
         <LargeDogs>No</LargeDogs>
       </PetsAllowed>
     </RentalDetails>
     <BasicDetails>
-      <PropertyType>Condo</PropertyType>
-      <Title>4th Floor, 2 Bed, 1 Bath Condo with unparalleled access to University City in Brentwood! </Title>
+      <PropertyType>Apartment</PropertyType>
+      <Title>Fabulous 3 Bedroom Duplex - Upper Floor Suite - For Rent in Glamorgan</Title>
       <Description/>
-      <Bedrooms>2</Bedrooms>
+      <Bedrooms>3</Bedrooms>
       <Bathrooms>1</Bathrooms>
-      <LivingArea>550</LivingArea>
+      <LivingArea>1000</LivingArea>
     </BasicDetails>
     <Pictures>
       <Picture>
-        <PictureUrl>https://rf-images-prod-bcdn.rentfaster.ca/769578/slide_18169977.v.10a4fa39f5ba076dd51487ac49ca2675.jpg</PictureUrl>
-        <Caption>4th Floor, 2 Bed, 1 Bath Condo with unparalleled access to University City in Brentwood!  - Photo 1</Caption>
+        <PictureUrl>https://rf-images-prod-bcdn.rentfaster.ca/782506/slide_18658014.v.f95f5a234eb564f59c27572a07cfa970.jpg</PictureUrl>
+        <Caption>Fabulous 3 Bedroom Duplex - Upper Floor Suite - For Rent in Glamorgan - Photo 1</Caption>
       </Picture>
     </Pictures>
     <RichDetails>
-      <ParkingTypes>
-        <ParkingType>Underground</ParkingType>
-      </ParkingTypes>
       <Fireplace>No</Fireplace>
       <UtilitiesIncluded>Heat | Water included</UtilitiesIncluded>
     </RichDetails>
@@ -722,9 +582,9 @@
     </RichDetails>
   </Listing>
   <Listing>
-    <ID>656763</ID>
+    <ID>749569</ID>
     <Location>
-      <StreetAddress>1320 1st Street SE</StreetAddress>
+      <StreetAddress>227 26 Avenue NE</StreetAddress>
       <City>Calgary</City>
       <State>AB</State>
       <Zip>T2S 0J1</Zip>
@@ -732,15 +592,15 @@
     </Location>
     <ListingDetails>
       <Status>Active</Status>
-      <Price>3500</Price>
-      <ListingUrl>https://www.rentfaster.ca/properties/1320-1st-street-se-calgary-656763</ListingUrl>
-      <ProviderListingId>656763</ProviderListingId>
-      <ApplicationUrl>https://app.tenantturner.com/qualify/select-time/1320-1st-street-se?p=TenantTurner</ApplicationUrl>
+      <Price>1600</Price>
+      <ListingUrl>https://www.rentfaster.ca/properties/227-26-avenue-ne-calgary-749569</ListingUrl>
+      <ProviderListingId>749569</ProviderListingId>
+      <ApplicationUrl>https://app.tenantturner.com/qualify/select-time/227-26-avenue-ne-1?p=TenantTurner</ApplicationUrl>
     </ListingDetails>
     <RentalDetails>
-      <Availability>October 01</Availability>
+      <Availability>Immediate</Availability>
       <LeaseTerm>12 Months</LeaseTerm>
-      <DepositFees>3500</DepositFees>
+      <DepositFees>1600</DepositFees>
       <PetsAllowed>
         <NoPets>No</NoPets>
         <Cats>Yes</Cats>
@@ -749,37 +609,34 @@
       </PetsAllowed>
     </RentalDetails>
     <BasicDetails>
-      <PropertyType>Condo</PropertyType>
-      <Title>Monthly Furnished! 2 Bed 2 Bath Condo for Rent with huge private patio!</Title>
+      <PropertyType>Apartment</PropertyType>
+      <Title>Brand New 2-Bedroom Suite | Private Entrance | Prime Location | Tuxedo Park</Title>
       <Description/>
       <Bedrooms>2</Bedrooms>
-      <Bathrooms>2</Bathrooms>
-      <LivingArea>1000</LivingArea>
+      <Bathrooms>1</Bathrooms>
+      <LivingArea>600</LivingArea>
     </BasicDetails>
     <Pictures>
       <Picture>
-        <PictureUrl>https://rf-images-prod-bcdn.rentfaster.ca/656763/slide_14067088.v.e9a21e83fa571fca079c78671f6c4194.jpg</PictureUrl>
-        <Caption>Monthly Furnished! 2 Bed 2 Bath Condo for Rent with huge private patio! - Photo 1</Caption>
+        <PictureUrl>https://rf-images-prod-bcdn.rentfaster.ca/749569/slide_17475683.v.c1268cafd7aee12f6d83ecd00fe17fcf.jpg</PictureUrl>
+        <Caption>Brand New 2-Bedroom Suite | Private Entrance | Prime Location | Tuxedo Park - Photo 1</Caption>
       </Picture>
     </Pictures>
     <RichDetails>
-      <ParkingTypes>
-        <ParkingType>Underground</ParkingType>
-      </ParkingTypes>
       <Appliances>
-        <Appliance>Elevator</Appliance>
-        <Appliance>Air Conditioning</Appliance>
         <Appliance>Fridge</Appliance>
         <Appliance>Oven/Stove</Appliance>
+        <Appliance>Laundry - In Suite</Appliance>
+        <Appliance>Dishwasher</Appliance>
       </Appliances>
       <Fireplace>No</Fireplace>
-      <UtilitiesIncluded>Internet | Heat | Water | Electricity included</UtilitiesIncluded>
+      <UtilitiesIncluded>Heat | Water | Electricity included</UtilitiesIncluded>
     </RichDetails>
   </Listing>
   <Listing>
-    <ID>607620</ID>
+    <ID>782574</ID>
     <Location>
-      <StreetAddress>1107 Gladstone Road NW</StreetAddress>
+      <StreetAddress>3119b 45 Street SW</StreetAddress>
       <City>Calgary</City>
       <State>AB</State>
       <Zip>T2S 0J1</Zip>
@@ -787,15 +644,15 @@
     </Location>
     <ListingDetails>
       <Status>Active</Status>
-      <Price>3000</Price>
-      <ListingUrl>https://www.rentfaster.ca/properties/1107-gladstone-road-nw-calgary-607620</ListingUrl>
-      <ProviderListingId>607620</ProviderListingId>
-      <ApplicationUrl>https://app.tenantturner.com/qualify/select-time/1107-gladstone-road-nw?p=TenantTurner</ApplicationUrl>
+      <Price>1200</Price>
+      <ListingUrl>https://www.rentfaster.ca/properties/3119b-45-street-sw-calgary-782574</ListingUrl>
+      <ProviderListingId>782574</ProviderListingId>
+      <ApplicationUrl>https://app.tenantturner.com/qualify/select-time/3119b-45-street-sw?p=TenantTurner</ApplicationUrl>
     </ListingDetails>
     <RentalDetails>
-      <Availability>October 01</Availability>
+      <Availability>Immediate</Availability>
       <LeaseTerm>12 Months</LeaseTerm>
-      <DepositFees>3000</DepositFees>
+      <DepositFees>1200</DepositFees>
       <PetsAllowed>
         <NoPets>No</NoPets>
         <Cats>Yes</Cats>
@@ -804,31 +661,71 @@
       </PetsAllowed>
     </RentalDetails>
     <BasicDetails>
-      <PropertyType>Condo</PropertyType>
-      <Title>Stylish fully furnished two bedroom, two bathroom condo is located in the sought-after neighbourhood of Kensington. </Title>
+      <PropertyType>Apartment</PropertyType>
+      <Title>Brand New, Stylish 1 Bedroom Basement Suites for Rent! </Title>
       <Description/>
-      <Bedrooms>2</Bedrooms>
-      <Bathrooms>2</Bathrooms>
-      <LivingArea>700</LivingArea>
+      <Bedrooms>1</Bedrooms>
+      <Bathrooms>1</Bathrooms>
+      <LivingArea>600</LivingArea>
     </BasicDetails>
     <Pictures>
       <Picture>
-        <PictureUrl>https://rf-images-prod-bcdn.rentfaster.ca/607620/slide_12366441.v.6238c9c31f338c6d49b89da2e638f8b5.jpg</PictureUrl>
-        <Caption>Stylish fully furnished two bedroom, two bathroom condo is located in the sought-after neighbourhood of Kensington.  - Photo 1</Caption>
+        <PictureUrl>https://rf-images-prod-bcdn.rentfaster.ca/782574/slide_18673737.v.2a1b17405877286304e8a580620a6f14.jpg</PictureUrl>
+        <Caption>Brand New, Stylish 1 Bedroom Basement Suites for Rent!  - Photo 1</Caption>
+      </Picture>
+    </Pictures>
+    <RichDetails>
+      <Fireplace>No</Fireplace>
+      <UtilitiesIncluded>Not included</UtilitiesIncluded>
+    </RichDetails>
+  </Listing>
+  <Listing>
+    <ID>754051</ID>
+    <Location>
+      <StreetAddress>3119 45 Street SW</StreetAddress>
+      <City>Calgary</City>
+      <State>AB</State>
+      <Zip>T2S 0J1</Zip>
+      <DisplayAddress>Yes</DisplayAddress>
+    </Location>
+    <ListingDetails>
+      <Status>Active</Status>
+      <Price>2650</Price>
+      <ListingUrl>https://www.rentfaster.ca/properties/3119-45-street-sw-calgary-754051</ListingUrl>
+      <ProviderListingId>754051</ProviderListingId>
+      <ApplicationUrl>https://app.tenantturner.com/qualify/select-time/3119-45-street-sw?p=TenantTurner</ApplicationUrl>
+    </ListingDetails>
+    <RentalDetails>
+      <Availability>Immediate</Availability>
+      <LeaseTerm>12 Months</LeaseTerm>
+      <DepositFees>2650</DepositFees>
+      <PetsAllowed>
+        <NoPets>No</NoPets>
+        <Cats>Yes</Cats>
+        <SmallDogs>Yes</SmallDogs>
+        <LargeDogs>No</LargeDogs>
+      </PetsAllowed>
+    </RentalDetails>
+    <BasicDetails>
+      <PropertyType>Townhouse</PropertyType>
+      <Title>Brand New 2 Storey, 3 Bedroom Townhomes For Rent! </Title>
+      <Description/>
+      <Bedrooms>3</Bedrooms>
+      <Bathrooms>2.5</Bathrooms>
+      <LivingArea>1600</LivingArea>
+    </BasicDetails>
+    <Pictures>
+      <Picture>
+        <PictureUrl>https://rf-images-prod-bcdn.rentfaster.ca/754051/slide_18267503.v.36d8db9e7ca0081f9f7ae5d6e3678c92.jpg</PictureUrl>
+        <Caption>Brand New 2 Storey, 3 Bedroom Townhomes For Rent!  - Photo 1</Caption>
       </Picture>
     </Pictures>
     <RichDetails>
       <ParkingTypes>
-        <ParkingType>Underground</ParkingType>
+        <ParkingType>Garage</ParkingType>
       </ParkingTypes>
-      <Appliances>
-        <Appliance>Elevator</Appliance>
-        <Appliance>Air Conditioning</Appliance>
-        <Appliance>Fridge</Appliance>
-        <Appliance>Oven/Stove</Appliance>
-      </Appliances>
       <Fireplace>No</Fireplace>
-      <UtilitiesIncluded>Heat | Water | Electricity | Internet included</UtilitiesIncluded>
+      <UtilitiesIncluded>Not included</UtilitiesIncluded>
     </RichDetails>
   </Listing>
   <Listing>
@@ -936,6 +833,116 @@
       </Appliances>
       <Fireplace>No</Fireplace>
       <UtilitiesIncluded>Heat | Water included</UtilitiesIncluded>
+    </RichDetails>
+  </Listing>
+  <Listing>
+    <ID>607620</ID>
+    <Location>
+      <StreetAddress>1107 Gladstone Road NW</StreetAddress>
+      <City>Calgary</City>
+      <State>AB</State>
+      <Zip>T2S 0J1</Zip>
+      <DisplayAddress>Yes</DisplayAddress>
+    </Location>
+    <ListingDetails>
+      <Status>Active</Status>
+      <Price>3000</Price>
+      <ListingUrl>https://www.rentfaster.ca/properties/1107-gladstone-road-nw-calgary-607620</ListingUrl>
+      <ProviderListingId>607620</ProviderListingId>
+      <ApplicationUrl>https://app.tenantturner.com/qualify/select-time/1107-gladstone-road-nw?p=TenantTurner</ApplicationUrl>
+    </ListingDetails>
+    <RentalDetails>
+      <Availability>October 01</Availability>
+      <LeaseTerm>12 Months</LeaseTerm>
+      <DepositFees>3000</DepositFees>
+      <PetsAllowed>
+        <NoPets>No</NoPets>
+        <Cats>Yes</Cats>
+        <SmallDogs>Yes</SmallDogs>
+        <LargeDogs>No</LargeDogs>
+      </PetsAllowed>
+    </RentalDetails>
+    <BasicDetails>
+      <PropertyType>Condo</PropertyType>
+      <Title>Stylish fully furnished two bedroom, two bathroom condo is located in the sought-after neighbourhood of Kensington. </Title>
+      <Description/>
+      <Bedrooms>2</Bedrooms>
+      <Bathrooms>2</Bathrooms>
+      <LivingArea>700</LivingArea>
+    </BasicDetails>
+    <Pictures>
+      <Picture>
+        <PictureUrl>https://rf-images-prod-bcdn.rentfaster.ca/607620/slide_12366441.v.6238c9c31f338c6d49b89da2e638f8b5.jpg</PictureUrl>
+        <Caption>Stylish fully furnished two bedroom, two bathroom condo is located in the sought-after neighbourhood of Kensington.  - Photo 1</Caption>
+      </Picture>
+    </Pictures>
+    <RichDetails>
+      <ParkingTypes>
+        <ParkingType>Underground</ParkingType>
+      </ParkingTypes>
+      <Appliances>
+        <Appliance>Elevator</Appliance>
+        <Appliance>Air Conditioning</Appliance>
+        <Appliance>Fridge</Appliance>
+        <Appliance>Oven/Stove</Appliance>
+      </Appliances>
+      <Fireplace>No</Fireplace>
+      <UtilitiesIncluded>Heat | Water | Electricity | Internet included</UtilitiesIncluded>
+    </RichDetails>
+  </Listing>
+  <Listing>
+    <ID>656763</ID>
+    <Location>
+      <StreetAddress>1320 1st Street SE</StreetAddress>
+      <City>Calgary</City>
+      <State>AB</State>
+      <Zip>T2S 0J1</Zip>
+      <DisplayAddress>Yes</DisplayAddress>
+    </Location>
+    <ListingDetails>
+      <Status>Active</Status>
+      <Price>3500</Price>
+      <ListingUrl>https://www.rentfaster.ca/properties/1320-1st-street-se-calgary-656763</ListingUrl>
+      <ProviderListingId>656763</ProviderListingId>
+      <ApplicationUrl>https://app.tenantturner.com/qualify/select-time/1320-1st-street-se?p=TenantTurner</ApplicationUrl>
+    </ListingDetails>
+    <RentalDetails>
+      <Availability>October 01</Availability>
+      <LeaseTerm>12 Months</LeaseTerm>
+      <DepositFees>3500</DepositFees>
+      <PetsAllowed>
+        <NoPets>No</NoPets>
+        <Cats>Yes</Cats>
+        <SmallDogs>Yes</SmallDogs>
+        <LargeDogs>No</LargeDogs>
+      </PetsAllowed>
+    </RentalDetails>
+    <BasicDetails>
+      <PropertyType>Condo</PropertyType>
+      <Title>Monthly Furnished! 2 Bed 2 Bath Condo for Rent with huge private patio!</Title>
+      <Description/>
+      <Bedrooms>2</Bedrooms>
+      <Bathrooms>2</Bathrooms>
+      <LivingArea>1000</LivingArea>
+    </BasicDetails>
+    <Pictures>
+      <Picture>
+        <PictureUrl>https://rf-images-prod-bcdn.rentfaster.ca/656763/slide_14067088.v.e9a21e83fa571fca079c78671f6c4194.jpg</PictureUrl>
+        <Caption>Monthly Furnished! 2 Bed 2 Bath Condo for Rent with huge private patio! - Photo 1</Caption>
+      </Picture>
+    </Pictures>
+    <RichDetails>
+      <ParkingTypes>
+        <ParkingType>Underground</ParkingType>
+      </ParkingTypes>
+      <Appliances>
+        <Appliance>Elevator</Appliance>
+        <Appliance>Air Conditioning</Appliance>
+        <Appliance>Fridge</Appliance>
+        <Appliance>Oven/Stove</Appliance>
+      </Appliances>
+      <Fireplace>No</Fireplace>
+      <UtilitiesIncluded>Internet | Heat | Water | Electricity included</UtilitiesIncluded>
     </RichDetails>
   </Listing>
 </Listings>
