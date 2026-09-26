@@ -53,6 +53,211 @@
     </RichDetails>
   </Listing>
   <Listing>
+    <ID>782506</ID>
+    <Location>
+      <StreetAddress>15 Galbraith Drive SW</StreetAddress>
+      <City>Calgary</City>
+      <State>AB</State>
+      <Zip>T2S 0J1</Zip>
+      <DisplayAddress>Yes</DisplayAddress>
+    </Location>
+    <ListingDetails>
+      <Status>Active</Status>
+      <Price>2150</Price>
+      <ListingUrl>https://www.rentfaster.ca/properties/15-galbraith-drive-sw-calgary-782506</ListingUrl>
+      <ProviderListingId>782506</ProviderListingId>
+      <ApplicationUrl>https://app.tenantturner.com/qualify/select-time/15-galbraith-drive-sw?p=TenantTurner</ApplicationUrl>
+    </ListingDetails>
+    <RentalDetails>
+      <Availability>Immediate</Availability>
+      <LeaseTerm>12 Months</LeaseTerm>
+      <DepositFees>2150</DepositFees>
+      <PetsAllowed>
+        <NoPets>Yes</NoPets>
+        <Cats>No</Cats>
+        <SmallDogs>No</SmallDogs>
+        <LargeDogs>No</LargeDogs>
+      </PetsAllowed>
+    </RentalDetails>
+    <BasicDetails>
+      <PropertyType>Apartment</PropertyType>
+      <Title>Fabulous 3 Bedroom Duplex - Upper Floor Suite - For Rent in Glamorgan</Title>
+      <Description/>
+      <Bedrooms>3</Bedrooms>
+      <Bathrooms>1</Bathrooms>
+      <LivingArea>1000</LivingArea>
+    </BasicDetails>
+    <Pictures>
+      <Picture>
+        <PictureUrl>https://rf-images-prod-bcdn.rentfaster.ca/782506/slide_18658014.v.f95f5a234eb564f59c27572a07cfa970.jpg</PictureUrl>
+        <Caption>Fabulous 3 Bedroom Duplex - Upper Floor Suite - For Rent in Glamorgan - Photo 1</Caption>
+      </Picture>
+    </Pictures>
+    <RichDetails>
+      <Fireplace>No</Fireplace>
+      <UtilitiesIncluded>Heat | Water included</UtilitiesIncluded>
+    </RichDetails>
+  </Listing>
+  <Listing>
+    <ID>780775</ID>
+    <Location>
+      <StreetAddress>1900 25A Street SW</StreetAddress>
+      <City>Calgary</City>
+      <State>AB</State>
+      <Zip>T2S 0J1</Zip>
+      <DisplayAddress>Yes</DisplayAddress>
+    </Location>
+    <ListingDetails>
+      <Status>Active</Status>
+      <Price>1850</Price>
+      <ListingUrl>https://www.rentfaster.ca/properties/1900-25a-street-sw-calgary-780775</ListingUrl>
+      <ProviderListingId>780775</ProviderListingId>
+      <ApplicationUrl>https://app.tenantturner.com/qualify/select-time/1900-25a-street-sw?p=TenantTurner</ApplicationUrl>
+    </ListingDetails>
+    <RentalDetails>
+      <Availability>Immediate</Availability>
+      <LeaseTerm>12 Months</LeaseTerm>
+      <DepositFees>1850</DepositFees>
+      <PetsAllowed>
+        <NoPets>Yes</NoPets>
+        <Cats>No</Cats>
+        <SmallDogs>No</SmallDogs>
+        <LargeDogs>No</LargeDogs>
+      </PetsAllowed>
+    </RentalDetails>
+    <BasicDetails>
+      <PropertyType>Condo</PropertyType>
+      <Title>2 Bed 1 Bath Condo in All Concrete Building in Killarney with UG Parking!</Title>
+      <Description/>
+      <Bedrooms>2</Bedrooms>
+      <Bathrooms>1</Bathrooms>
+      <LivingArea>900</LivingArea>
+    </BasicDetails>
+    <Pictures>
+      <Picture>
+        <PictureUrl>https://rf-images-prod-bcdn.rentfaster.ca/780775/slide_18590705.v.c7efcac9c0d1fc21582a9015ba90b9ff.jpg</PictureUrl>
+        <Caption>2 Bed 1 Bath Condo in All Concrete Building in Killarney with UG Parking! - Photo 1</Caption>
+      </Picture>
+    </Pictures>
+    <RichDetails>
+      <ParkingTypes>
+        <ParkingType>Underground</ParkingType>
+      </ParkingTypes>
+      <Appliances>
+        <Appliance>Elevator</Appliance>
+        <Appliance>Fridge</Appliance>
+        <Appliance>Oven/Stove</Appliance>
+        <Appliance>Laundry - In Suite</Appliance>
+      </Appliances>
+      <Fireplace>No</Fireplace>
+      <UtilitiesIncluded>Heat | Water included</UtilitiesIncluded>
+    </RichDetails>
+  </Listing>
+  <Listing>
+    <ID>754051</ID>
+    <Location>
+      <StreetAddress>3119 45 Street SW</StreetAddress>
+      <City>Calgary</City>
+      <State>AB</State>
+      <Zip>T2S 0J1</Zip>
+      <DisplayAddress>Yes</DisplayAddress>
+    </Location>
+    <ListingDetails>
+      <Status>Active</Status>
+      <Price>2650</Price>
+      <ListingUrl>https://www.rentfaster.ca/properties/3119-45-street-sw-calgary-754051</ListingUrl>
+      <ProviderListingId>754051</ProviderListingId>
+      <ApplicationUrl>https://app.tenantturner.com/qualify/select-time/3119-45-street-sw?p=TenantTurner</ApplicationUrl>
+    </ListingDetails>
+    <RentalDetails>
+      <Availability>Immediate</Availability>
+      <LeaseTerm>12 Months</LeaseTerm>
+      <DepositFees>2650</DepositFees>
+      <PetsAllowed>
+        <NoPets>No</NoPets>
+        <Cats>Yes</Cats>
+        <SmallDogs>Yes</SmallDogs>
+        <LargeDogs>No</LargeDogs>
+      </PetsAllowed>
+    </RentalDetails>
+    <BasicDetails>
+      <PropertyType>Townhouse</PropertyType>
+      <Title>Brand New 2 Storey, 3 Bedroom Townhomes For Rent! </Title>
+      <Description/>
+      <Bedrooms>3</Bedrooms>
+      <Bathrooms>2.5</Bathrooms>
+      <LivingArea>1600</LivingArea>
+    </BasicDetails>
+    <Pictures>
+      <Picture>
+        <PictureUrl>https://rf-images-prod-bcdn.rentfaster.ca/754051/slide_18267503.v.36d8db9e7ca0081f9f7ae5d6e3678c92.jpg</PictureUrl>
+        <Caption>Brand New 2 Storey, 3 Bedroom Townhomes For Rent!  - Photo 1</Caption>
+      </Picture>
+    </Pictures>
+    <RichDetails>
+      <ParkingTypes>
+        <ParkingType>Garage</ParkingType>
+      </ParkingTypes>
+      <Fireplace>No</Fireplace>
+      <UtilitiesIncluded>Not included</UtilitiesIncluded>
+    </RichDetails>
+  </Listing>
+  <Listing>
+    <ID>732110</ID>
+    <Location>
+      <StreetAddress>227 26 Avenue NE</StreetAddress>
+      <City>Calgary</City>
+      <State>AB</State>
+      <Zip>T2S 0J1</Zip>
+      <DisplayAddress>Yes</DisplayAddress>
+    </Location>
+    <ListingDetails>
+      <Status>Active</Status>
+      <Price>2499</Price>
+      <ListingUrl>https://www.rentfaster.ca/properties/227-26-avenue-ne-calgary-732110</ListingUrl>
+      <ProviderListingId>732110</ProviderListingId>
+      <ApplicationUrl>https://app.tenantturner.com/qualify/select-time/227-26-avenue-ne?p=TenantTurner</ApplicationUrl>
+    </ListingDetails>
+    <RentalDetails>
+      <Availability>Immediate</Availability>
+      <LeaseTerm>12 Months</LeaseTerm>
+      <DepositFees>2499</DepositFees>
+      <PetsAllowed>
+        <NoPets>No</NoPets>
+        <Cats>Yes</Cats>
+        <SmallDogs>Yes</SmallDogs>
+        <LargeDogs>No</LargeDogs>
+      </PetsAllowed>
+    </RentalDetails>
+    <BasicDetails>
+      <PropertyType>Townhouse</PropertyType>
+      <Title>Move In Today!! Brand New, 3 Bedroom Townhomes w/ AC For Rent in Tuxedo Park! </Title>
+      <Description/>
+      <Bedrooms>3</Bedrooms>
+      <Bathrooms>2.5</Bathrooms>
+      <LivingArea>1600</LivingArea>
+    </BasicDetails>
+    <Pictures>
+      <Picture>
+        <PictureUrl>https://rf-images-prod-bcdn.rentfaster.ca/732110/slide_17742030.v.1142d43231e605cb95c3482a21d366ff.jpg</PictureUrl>
+        <Caption>Move In Today!! Brand New, 3 Bedroom Townhomes w/ AC For Rent in Tuxedo Park!  - Photo 1</Caption>
+      </Picture>
+    </Pictures>
+    <RichDetails>
+      <ParkingTypes>
+        <ParkingType>Garage</ParkingType>
+      </ParkingTypes>
+      <Appliances>
+        <Appliance>Air Conditioning</Appliance>
+        <Appliance>Fridge</Appliance>
+        <Appliance>Oven/Stove</Appliance>
+        <Appliance>Laundry - In Suite</Appliance>
+      </Appliances>
+      <Fireplace>No</Fireplace>
+      <UtilitiesIncluded>Not included</UtilitiesIncluded>
+    </RichDetails>
+  </Listing>
+  <Listing>
     <ID>783933</ID>
     <Location>
       <StreetAddress>18 Sage Hill Lane NW</StreetAddress>
@@ -102,9 +307,9 @@
     </RichDetails>
   </Listing>
   <Listing>
-    <ID>787166</ID>
+    <ID>782574</ID>
     <Location>
-      <StreetAddress>455 Sage Hill Road NW</StreetAddress>
+      <StreetAddress>3119b 45 Street SW</StreetAddress>
       <City>Calgary</City>
       <State>AB</State>
       <Zip>T2S 0J1</Zip>
@@ -112,15 +317,15 @@
     </Location>
     <ListingDetails>
       <Status>Active</Status>
-      <Price>1250</Price>
-      <ListingUrl>https://www.rentfaster.ca/properties/455-sage-hill-road-nw-calgary-787166</ListingUrl>
-      <ProviderListingId>787166</ProviderListingId>
-      <ApplicationUrl>https://app.tenantturner.com/qualify/select-time/455-sage-hill-road-nw?p=TenantTurner</ApplicationUrl>
+      <Price>1200</Price>
+      <ListingUrl>https://www.rentfaster.ca/properties/3119b-45-street-sw-calgary-782574</ListingUrl>
+      <ProviderListingId>782574</ProviderListingId>
+      <ApplicationUrl>https://app.tenantturner.com/qualify/select-time/3119b-45-street-sw?p=TenantTurner</ApplicationUrl>
     </ListingDetails>
     <RentalDetails>
       <Availability>Immediate</Availability>
       <LeaseTerm>12 Months</LeaseTerm>
-      <DepositFees>1250</DepositFees>
+      <DepositFees>1200</DepositFees>
       <PetsAllowed>
         <NoPets>No</NoPets>
         <Cats>Yes</Cats>
@@ -130,16 +335,16 @@
     </RentalDetails>
     <BasicDetails>
       <PropertyType>Apartment</PropertyType>
-      <Title>2 Bedroom Basement Suite for rent in Sage Hill! </Title>
+      <Title>Brand New, Stylish 1 Bedroom Basement Suites for Rent! </Title>
       <Description/>
-      <Bedrooms>2</Bedrooms>
+      <Bedrooms>1</Bedrooms>
       <Bathrooms>1</Bathrooms>
-      <LivingArea>700</LivingArea>
+      <LivingArea>600</LivingArea>
     </BasicDetails>
     <Pictures>
       <Picture>
-        <PictureUrl>https://rf-images-prod-bcdn.rentfaster.ca/787166/slide_18847012.v.dd791e0fd6dbe9882e945138589e980d.jpg</PictureUrl>
-        <Caption>2 Bedroom Basement Suite for rent in Sage Hill!  - Photo 1</Caption>
+        <PictureUrl>https://rf-images-prod-bcdn.rentfaster.ca/782574/slide_18673737.v.2a1b17405877286304e8a580620a6f14.jpg</PictureUrl>
+        <Caption>Brand New, Stylish 1 Bedroom Basement Suites for Rent!  - Photo 1</Caption>
       </Picture>
     </Pictures>
     <RichDetails>
@@ -148,9 +353,9 @@
     </RichDetails>
   </Listing>
   <Listing>
-    <ID>602032</ID>
+    <ID>749569</ID>
     <Location>
-      <StreetAddress>108 23 Avenue SW</StreetAddress>
+      <StreetAddress>227 26 Avenue NE</StreetAddress>
       <City>Calgary</City>
       <State>AB</State>
       <Zip>T2S 0J1</Zip>
@@ -158,15 +363,15 @@
     </Location>
     <ListingDetails>
       <Status>Active</Status>
-      <Price>2250</Price>
-      <ListingUrl>https://www.rentfaster.ca/properties/108-23-avenue-sw-calgary-602032</ListingUrl>
-      <ProviderListingId>602032</ProviderListingId>
-      <ApplicationUrl>https://app.tenantturner.com/qualify/select-time/108-23-avenue-sw?p=TenantTurner</ApplicationUrl>
+      <Price>1600</Price>
+      <ListingUrl>https://www.rentfaster.ca/properties/227-26-avenue-ne-calgary-749569</ListingUrl>
+      <ProviderListingId>749569</ProviderListingId>
+      <ApplicationUrl>https://app.tenantturner.com/qualify/select-time/227-26-avenue-ne-1?p=TenantTurner</ApplicationUrl>
     </ListingDetails>
     <RentalDetails>
       <Availability>Immediate</Availability>
       <LeaseTerm>12 Months</LeaseTerm>
-      <DepositFees>2250</DepositFees>
+      <DepositFees>1600</DepositFees>
       <PetsAllowed>
         <NoPets>No</NoPets>
         <Cats>Yes</Cats>
@@ -175,32 +380,28 @@
       </PetsAllowed>
     </RentalDetails>
     <BasicDetails>
-      <PropertyType>Condo</PropertyType>
-      <Title>Boutique All Concrete Building in Mission! 2nd Floor, South Facing Fully Furnished 1 Bedroom Suite For Rent!</Title>
+      <PropertyType>Apartment</PropertyType>
+      <Title>Brand New 2-Bedroom Suite | Private Entrance | Prime Location | Tuxedo Park</Title>
       <Description/>
-      <Bedrooms>1</Bedrooms>
+      <Bedrooms>2</Bedrooms>
       <Bathrooms>1</Bathrooms>
-      <LivingArea>650</LivingArea>
+      <LivingArea>600</LivingArea>
     </BasicDetails>
     <Pictures>
       <Picture>
-        <PictureUrl>https://rf-images-prod-bcdn.rentfaster.ca/602032/slide_18855025.v.a6a2a5a71f4c48fc5b81a02d1c10e0ea.jpg</PictureUrl>
-        <Caption>Boutique All Concrete Building in Mission! 2nd Floor, South Facing Fully Furnished 1 Bedroom Suite For Rent! - Photo 1</Caption>
+        <PictureUrl>https://rf-images-prod-bcdn.rentfaster.ca/749569/slide_17475683.v.c1268cafd7aee12f6d83ecd00fe17fcf.jpg</PictureUrl>
+        <Caption>Brand New 2-Bedroom Suite | Private Entrance | Prime Location | Tuxedo Park - Photo 1</Caption>
       </Picture>
     </Pictures>
     <RichDetails>
-      <ParkingTypes>
-        <ParkingType>Surface</ParkingType>
-        <ParkingType>Underground</ParkingType>
-      </ParkingTypes>
       <Appliances>
-        <Appliance>Elevator</Appliance>
-        <Appliance>Air Conditioning</Appliance>
         <Appliance>Fridge</Appliance>
         <Appliance>Oven/Stove</Appliance>
+        <Appliance>Laundry - In Suite</Appliance>
+        <Appliance>Dishwasher</Appliance>
       </Appliances>
       <Fireplace>No</Fireplace>
-      <UtilitiesIncluded>Heat | Water | Electricity | Internet included</UtilitiesIncluded>
+      <UtilitiesIncluded>Heat | Water | Electricity included</UtilitiesIncluded>
     </RichDetails>
   </Listing>
   <Listing>
@@ -314,9 +515,9 @@
     </RichDetails>
   </Listing>
   <Listing>
-    <ID>732110</ID>
+    <ID>602032</ID>
     <Location>
-      <StreetAddress>227 26 Avenue NE</StreetAddress>
+      <StreetAddress>108 23 Avenue SW</StreetAddress>
       <City>Calgary</City>
       <State>AB</State>
       <Zip>T2S 0J1</Zip>
@@ -324,15 +525,15 @@
     </Location>
     <ListingDetails>
       <Status>Active</Status>
-      <Price>2499</Price>
-      <ListingUrl>https://www.rentfaster.ca/properties/227-26-avenue-ne-calgary-732110</ListingUrl>
-      <ProviderListingId>732110</ProviderListingId>
-      <ApplicationUrl>https://app.tenantturner.com/qualify/select-time/227-26-avenue-ne?p=TenantTurner</ApplicationUrl>
+      <Price>2250</Price>
+      <ListingUrl>https://www.rentfaster.ca/properties/108-23-avenue-sw-calgary-602032</ListingUrl>
+      <ProviderListingId>602032</ProviderListingId>
+      <ApplicationUrl>https://app.tenantturner.com/qualify/select-time/108-23-avenue-sw?p=TenantTurner</ApplicationUrl>
     </ListingDetails>
     <RentalDetails>
       <Availability>Immediate</Availability>
       <LeaseTerm>12 Months</LeaseTerm>
-      <DepositFees>2499</DepositFees>
+      <DepositFees>2250</DepositFees>
       <PetsAllowed>
         <NoPets>No</NoPets>
         <Cats>Yes</Cats>
@@ -341,87 +542,32 @@
       </PetsAllowed>
     </RentalDetails>
     <BasicDetails>
-      <PropertyType>Townhouse</PropertyType>
-      <Title>Move In Today!! Brand New, 3 Bedroom Townhomes w/ AC For Rent in Tuxedo Park! </Title>
+      <PropertyType>Condo</PropertyType>
+      <Title>Boutique All Concrete Building in Mission! 2nd Floor, South Facing Fully Furnished 1 Bedroom Suite For Rent!</Title>
       <Description/>
-      <Bedrooms>3</Bedrooms>
-      <Bathrooms>2.5</Bathrooms>
-      <LivingArea>1600</LivingArea>
+      <Bedrooms>1</Bedrooms>
+      <Bathrooms>1</Bathrooms>
+      <LivingArea>650</LivingArea>
     </BasicDetails>
     <Pictures>
       <Picture>
-        <PictureUrl>https://rf-images-prod-bcdn.rentfaster.ca/732110/slide_17742030.v.1142d43231e605cb95c3482a21d366ff.jpg</PictureUrl>
-        <Caption>Move In Today!! Brand New, 3 Bedroom Townhomes w/ AC For Rent in Tuxedo Park!  - Photo 1</Caption>
+        <PictureUrl>https://rf-images-prod-bcdn.rentfaster.ca/602032/slide_18855025.v.a6a2a5a71f4c48fc5b81a02d1c10e0ea.jpg</PictureUrl>
+        <Caption>Boutique All Concrete Building in Mission! 2nd Floor, South Facing Fully Furnished 1 Bedroom Suite For Rent! - Photo 1</Caption>
       </Picture>
     </Pictures>
     <RichDetails>
       <ParkingTypes>
-        <ParkingType>Garage</ParkingType>
+        <ParkingType>Surface</ParkingType>
+        <ParkingType>Underground</ParkingType>
       </ParkingTypes>
       <Appliances>
+        <Appliance>Elevator</Appliance>
         <Appliance>Air Conditioning</Appliance>
         <Appliance>Fridge</Appliance>
         <Appliance>Oven/Stove</Appliance>
-        <Appliance>Laundry - In Suite</Appliance>
       </Appliances>
       <Fireplace>No</Fireplace>
-      <UtilitiesIncluded>Not included</UtilitiesIncluded>
-    </RichDetails>
-  </Listing>
-  <Listing>
-    <ID>738281</ID>
-    <Location>
-      <StreetAddress>815 17 Avenue NW</StreetAddress>
-      <City>Calgary</City>
-      <State>AB</State>
-      <Zip>T2M 0P1</Zip>
-      <DisplayAddress>Yes</DisplayAddress>
-    </Location>
-    <ListingDetails>
-      <Status>Active</Status>
-      <Price>2750</Price>
-      <ListingUrl>https://www.rentfaster.ca/properties/815-17-avenue-nw-calgary-738281</ListingUrl>
-      <ProviderListingId>738281</ProviderListingId>
-      <ApplicationUrl>https://app.tenantturner.com/qualify/select-time/815-17-avenue-nw?p=TenantTurner</ApplicationUrl>
-    </ListingDetails>
-    <RentalDetails>
-      <Availability>Immediate</Availability>
-      <LeaseTerm>12 Months</LeaseTerm>
-      <DepositFees>2750</DepositFees>
-      <PetsAllowed>
-        <NoPets>No</NoPets>
-        <Cats>Yes</Cats>
-        <SmallDogs>Yes</SmallDogs>
-        <LargeDogs>No</LargeDogs>
-      </PetsAllowed>
-    </RentalDetails>
-    <BasicDetails>
-      <PropertyType>Townhouse</PropertyType>
-      <Title>Brand New and Semi Furnished!! 3 Storey, 3 Bedroom, 2.5 Bathroom Mount Pleasant Townhomes for Rent!</Title>
-      <Description/>
-      <Bedrooms>3</Bedrooms>
-      <Bathrooms>2.5</Bathrooms>
-      <LivingArea>1500</LivingArea>
-    </BasicDetails>
-    <Pictures>
-      <Picture>
-        <PictureUrl>https://rf-images-prod-bcdn.rentfaster.ca/738281/slide_17574876.v.8959301b2e8e6712660f061bbd4e0816.jpg</PictureUrl>
-        <Caption>Brand New and Semi Furnished!! 3 Storey, 3 Bedroom, 2.5 Bathroom Mount Pleasant Townhomes for Rent! - Photo 1</Caption>
-      </Picture>
-    </Pictures>
-    <RichDetails>
-      <ParkingTypes>
-        <ParkingType>Street</ParkingType>
-        <ParkingType>Surface</ParkingType>
-      </ParkingTypes>
-      <Appliances>
-        <Appliance>Fridge</Appliance>
-        <Appliance>Oven/Stove</Appliance>
-        <Appliance>Laundry - In Suite</Appliance>
-        <Appliance>Dishwasher</Appliance>
-      </Appliances>
-      <Fireplace>No</Fireplace>
-      <UtilitiesIncluded>Internet included</UtilitiesIncluded>
+      <UtilitiesIncluded>Heat | Water | Electricity | Internet included</UtilitiesIncluded>
     </RichDetails>
   </Listing>
   <Listing>
@@ -481,224 +627,25 @@
     </RichDetails>
   </Listing>
   <Listing>
-    <ID>782506</ID>
+    <ID>738281</ID>
     <Location>
-      <StreetAddress>15 Galbraith Drive SW</StreetAddress>
+      <StreetAddress>815 17 Avenue NW</StreetAddress>
       <City>Calgary</City>
       <State>AB</State>
-      <Zip>T2S 0J1</Zip>
+      <Zip>T2M 0P1</Zip>
       <DisplayAddress>Yes</DisplayAddress>
     </Location>
     <ListingDetails>
       <Status>Active</Status>
-      <Price>2150</Price>
-      <ListingUrl>https://www.rentfaster.ca/properties/15-galbraith-drive-sw-calgary-782506</ListingUrl>
-      <ProviderListingId>782506</ProviderListingId>
-      <ApplicationUrl>https://app.tenantturner.com/qualify/select-time/15-galbraith-drive-sw?p=TenantTurner</ApplicationUrl>
+      <Price>2750</Price>
+      <ListingUrl>https://www.rentfaster.ca/properties/815-17-avenue-nw-calgary-738281</ListingUrl>
+      <ProviderListingId>738281</ProviderListingId>
+      <ApplicationUrl>https://app.tenantturner.com/qualify/select-time/815-17-avenue-nw?p=TenantTurner</ApplicationUrl>
     </ListingDetails>
     <RentalDetails>
       <Availability>Immediate</Availability>
       <LeaseTerm>12 Months</LeaseTerm>
-      <DepositFees>2150</DepositFees>
-      <PetsAllowed>
-        <NoPets>Yes</NoPets>
-        <Cats>No</Cats>
-        <SmallDogs>No</SmallDogs>
-        <LargeDogs>No</LargeDogs>
-      </PetsAllowed>
-    </RentalDetails>
-    <BasicDetails>
-      <PropertyType>Apartment</PropertyType>
-      <Title>Fabulous 3 Bedroom Duplex - Upper Floor Suite - For Rent in Glamorgan</Title>
-      <Description/>
-      <Bedrooms>3</Bedrooms>
-      <Bathrooms>1</Bathrooms>
-      <LivingArea>1000</LivingArea>
-    </BasicDetails>
-    <Pictures>
-      <Picture>
-        <PictureUrl>https://rf-images-prod-bcdn.rentfaster.ca/782506/slide_18658014.v.f95f5a234eb564f59c27572a07cfa970.jpg</PictureUrl>
-        <Caption>Fabulous 3 Bedroom Duplex - Upper Floor Suite - For Rent in Glamorgan - Photo 1</Caption>
-      </Picture>
-    </Pictures>
-    <RichDetails>
-      <Fireplace>No</Fireplace>
-      <UtilitiesIncluded>Heat | Water included</UtilitiesIncluded>
-    </RichDetails>
-  </Listing>
-  <Listing>
-    <ID>780775</ID>
-    <Location>
-      <StreetAddress>1900 25A Street SW</StreetAddress>
-      <City>Calgary</City>
-      <State>AB</State>
-      <Zip>T2S 0J1</Zip>
-      <DisplayAddress>Yes</DisplayAddress>
-    </Location>
-    <ListingDetails>
-      <Status>Active</Status>
-      <Price>1850</Price>
-      <ListingUrl>https://www.rentfaster.ca/properties/1900-25a-street-sw-calgary-780775</ListingUrl>
-      <ProviderListingId>780775</ProviderListingId>
-      <ApplicationUrl>https://app.tenantturner.com/qualify/select-time/1900-25a-street-sw?p=TenantTurner</ApplicationUrl>
-    </ListingDetails>
-    <RentalDetails>
-      <Availability>Immediate</Availability>
-      <LeaseTerm>12 Months</LeaseTerm>
-      <DepositFees>1850</DepositFees>
-      <PetsAllowed>
-        <NoPets>Yes</NoPets>
-        <Cats>No</Cats>
-        <SmallDogs>No</SmallDogs>
-        <LargeDogs>No</LargeDogs>
-      </PetsAllowed>
-    </RentalDetails>
-    <BasicDetails>
-      <PropertyType>Condo</PropertyType>
-      <Title>2 Bed 1 Bath Condo in All Concrete Building in Killarney with UG Parking!</Title>
-      <Description/>
-      <Bedrooms>2</Bedrooms>
-      <Bathrooms>1</Bathrooms>
-      <LivingArea>900</LivingArea>
-    </BasicDetails>
-    <Pictures>
-      <Picture>
-        <PictureUrl>https://rf-images-prod-bcdn.rentfaster.ca/780775/slide_18590705.v.c7efcac9c0d1fc21582a9015ba90b9ff.jpg</PictureUrl>
-        <Caption>2 Bed 1 Bath Condo in All Concrete Building in Killarney with UG Parking! - Photo 1</Caption>
-      </Picture>
-    </Pictures>
-    <RichDetails>
-      <ParkingTypes>
-        <ParkingType>Underground</ParkingType>
-      </ParkingTypes>
-      <Appliances>
-        <Appliance>Elevator</Appliance>
-        <Appliance>Fridge</Appliance>
-        <Appliance>Oven/Stove</Appliance>
-        <Appliance>Laundry - In Suite</Appliance>
-      </Appliances>
-      <Fireplace>No</Fireplace>
-      <UtilitiesIncluded>Heat | Water included</UtilitiesIncluded>
-    </RichDetails>
-  </Listing>
-  <Listing>
-    <ID>749569</ID>
-    <Location>
-      <StreetAddress>227 26 Avenue NE</StreetAddress>
-      <City>Calgary</City>
-      <State>AB</State>
-      <Zip>T2S 0J1</Zip>
-      <DisplayAddress>Yes</DisplayAddress>
-    </Location>
-    <ListingDetails>
-      <Status>Active</Status>
-      <Price>1600</Price>
-      <ListingUrl>https://www.rentfaster.ca/properties/227-26-avenue-ne-calgary-749569</ListingUrl>
-      <ProviderListingId>749569</ProviderListingId>
-      <ApplicationUrl>https://app.tenantturner.com/qualify/select-time/227-26-avenue-ne-1?p=TenantTurner</ApplicationUrl>
-    </ListingDetails>
-    <RentalDetails>
-      <Availability>Immediate</Availability>
-      <LeaseTerm>12 Months</LeaseTerm>
-      <DepositFees>1600</DepositFees>
-      <PetsAllowed>
-        <NoPets>No</NoPets>
-        <Cats>Yes</Cats>
-        <SmallDogs>Yes</SmallDogs>
-        <LargeDogs>No</LargeDogs>
-      </PetsAllowed>
-    </RentalDetails>
-    <BasicDetails>
-      <PropertyType>Apartment</PropertyType>
-      <Title>Brand New 2-Bedroom Suite | Private Entrance | Prime Location | Tuxedo Park</Title>
-      <Description/>
-      <Bedrooms>2</Bedrooms>
-      <Bathrooms>1</Bathrooms>
-      <LivingArea>600</LivingArea>
-    </BasicDetails>
-    <Pictures>
-      <Picture>
-        <PictureUrl>https://rf-images-prod-bcdn.rentfaster.ca/749569/slide_17475683.v.c1268cafd7aee12f6d83ecd00fe17fcf.jpg</PictureUrl>
-        <Caption>Brand New 2-Bedroom Suite | Private Entrance | Prime Location | Tuxedo Park - Photo 1</Caption>
-      </Picture>
-    </Pictures>
-    <RichDetails>
-      <Appliances>
-        <Appliance>Fridge</Appliance>
-        <Appliance>Oven/Stove</Appliance>
-        <Appliance>Laundry - In Suite</Appliance>
-        <Appliance>Dishwasher</Appliance>
-      </Appliances>
-      <Fireplace>No</Fireplace>
-      <UtilitiesIncluded>Heat | Water | Electricity included</UtilitiesIncluded>
-    </RichDetails>
-  </Listing>
-  <Listing>
-    <ID>782574</ID>
-    <Location>
-      <StreetAddress>3119b 45 Street SW</StreetAddress>
-      <City>Calgary</City>
-      <State>AB</State>
-      <Zip>T2S 0J1</Zip>
-      <DisplayAddress>Yes</DisplayAddress>
-    </Location>
-    <ListingDetails>
-      <Status>Active</Status>
-      <Price>1200</Price>
-      <ListingUrl>https://www.rentfaster.ca/properties/3119b-45-street-sw-calgary-782574</ListingUrl>
-      <ProviderListingId>782574</ProviderListingId>
-      <ApplicationUrl>https://app.tenantturner.com/qualify/select-time/3119b-45-street-sw?p=TenantTurner</ApplicationUrl>
-    </ListingDetails>
-    <RentalDetails>
-      <Availability>Immediate</Availability>
-      <LeaseTerm>12 Months</LeaseTerm>
-      <DepositFees>1200</DepositFees>
-      <PetsAllowed>
-        <NoPets>No</NoPets>
-        <Cats>Yes</Cats>
-        <SmallDogs>Yes</SmallDogs>
-        <LargeDogs>No</LargeDogs>
-      </PetsAllowed>
-    </RentalDetails>
-    <BasicDetails>
-      <PropertyType>Apartment</PropertyType>
-      <Title>Brand New, Stylish 1 Bedroom Basement Suites for Rent! </Title>
-      <Description/>
-      <Bedrooms>1</Bedrooms>
-      <Bathrooms>1</Bathrooms>
-      <LivingArea>600</LivingArea>
-    </BasicDetails>
-    <Pictures>
-      <Picture>
-        <PictureUrl>https://rf-images-prod-bcdn.rentfaster.ca/782574/slide_18673737.v.2a1b17405877286304e8a580620a6f14.jpg</PictureUrl>
-        <Caption>Brand New, Stylish 1 Bedroom Basement Suites for Rent!  - Photo 1</Caption>
-      </Picture>
-    </Pictures>
-    <RichDetails>
-      <Fireplace>No</Fireplace>
-      <UtilitiesIncluded>Not included</UtilitiesIncluded>
-    </RichDetails>
-  </Listing>
-  <Listing>
-    <ID>754051</ID>
-    <Location>
-      <StreetAddress>3119 45 Street SW</StreetAddress>
-      <City>Calgary</City>
-      <State>AB</State>
-      <Zip>T2S 0J1</Zip>
-      <DisplayAddress>Yes</DisplayAddress>
-    </Location>
-    <ListingDetails>
-      <Status>Active</Status>
-      <Price>2650</Price>
-      <ListingUrl>https://www.rentfaster.ca/properties/3119-45-street-sw-calgary-754051</ListingUrl>
-      <ProviderListingId>754051</ProviderListingId>
-      <ApplicationUrl>https://app.tenantturner.com/qualify/select-time/3119-45-street-sw?p=TenantTurner</ApplicationUrl>
-    </ListingDetails>
-    <RentalDetails>
-      <Availability>Immediate</Availability>
-      <LeaseTerm>12 Months</LeaseTerm>
-      <DepositFees>2650</DepositFees>
+      <DepositFees>2750</DepositFees>
       <PetsAllowed>
         <NoPets>No</NoPets>
         <Cats>Yes</Cats>
@@ -708,85 +655,37 @@
     </RentalDetails>
     <BasicDetails>
       <PropertyType>Townhouse</PropertyType>
-      <Title>Brand New 2 Storey, 3 Bedroom Townhomes For Rent! </Title>
+      <Title>Brand New and Semi Furnished!! 3 Storey, 3 Bedroom, 2.5 Bathroom Mount Pleasant Townhomes for Rent!</Title>
       <Description/>
       <Bedrooms>3</Bedrooms>
       <Bathrooms>2.5</Bathrooms>
-      <LivingArea>1600</LivingArea>
+      <LivingArea>1500</LivingArea>
     </BasicDetails>
     <Pictures>
       <Picture>
-        <PictureUrl>https://rf-images-prod-bcdn.rentfaster.ca/754051/slide_18267503.v.36d8db9e7ca0081f9f7ae5d6e3678c92.jpg</PictureUrl>
-        <Caption>Brand New 2 Storey, 3 Bedroom Townhomes For Rent!  - Photo 1</Caption>
+        <PictureUrl>https://rf-images-prod-bcdn.rentfaster.ca/738281/slide_17574876.v.8959301b2e8e6712660f061bbd4e0816.jpg</PictureUrl>
+        <Caption>Brand New and Semi Furnished!! 3 Storey, 3 Bedroom, 2.5 Bathroom Mount Pleasant Townhomes for Rent! - Photo 1</Caption>
       </Picture>
     </Pictures>
     <RichDetails>
       <ParkingTypes>
-        <ParkingType>Garage</ParkingType>
-      </ParkingTypes>
-      <Fireplace>No</Fireplace>
-      <UtilitiesIncluded>Not included</UtilitiesIncluded>
-    </RichDetails>
-  </Listing>
-  <Listing>
-    <ID>785827</ID>
-    <Location>
-      <StreetAddress>1010 6th St SW</StreetAddress>
-      <City>Calgary</City>
-      <State>AB</State>
-      <Zip>T2S 0J1</Zip>
-      <DisplayAddress>Yes</DisplayAddress>
-    </Location>
-    <ListingDetails>
-      <Status>Active</Status>
-      <Price>3150</Price>
-      <ListingUrl>https://www.rentfaster.ca/properties/1010-6th-st-sw-calgary-785827</ListingUrl>
-      <ProviderListingId>785827</ProviderListingId>
-      <ApplicationUrl>https://app.tenantturner.com/qualify/select-time/1010-6th-st-sw?p=TenantTurner</ApplicationUrl>
-    </ListingDetails>
-    <RentalDetails>
-      <Availability>October 01</Availability>
-      <LeaseTerm>12 Months</LeaseTerm>
-      <DepositFees>3150</DepositFees>
-      <PetsAllowed>
-        <NoPets>No</NoPets>
-        <Cats>Yes</Cats>
-        <SmallDogs>Yes</SmallDogs>
-        <LargeDogs>No</LargeDogs>
-      </PetsAllowed>
-    </RentalDetails>
-    <BasicDetails>
-      <PropertyType>Condo</PropertyType>
-      <Title>Gorgeous, 28th Floor, 2 Bed, 2 Full Bath, Sub-Penthouse for Rent with Endless Views</Title>
-      <Description/>
-      <Bedrooms>2</Bedrooms>
-      <Bathrooms>2</Bathrooms>
-      <LivingArea>1100</LivingArea>
-    </BasicDetails>
-    <Pictures>
-      <Picture>
-        <PictureUrl>https://rf-images-prod-bcdn.rentfaster.ca/785827/slide_18790529.v.648aa892b82bd0fdef5ede633d20ad73.jpg</PictureUrl>
-        <Caption>Gorgeous, 28th Floor, 2 Bed, 2 Full Bath, Sub-Penthouse for Rent with Endless Views - Photo 1</Caption>
-      </Picture>
-    </Pictures>
-    <RichDetails>
-      <ParkingTypes>
-        <ParkingType>Underground</ParkingType>
+        <ParkingType>Street</ParkingType>
+        <ParkingType>Surface</ParkingType>
       </ParkingTypes>
       <Appliances>
-        <Appliance>Elevator</Appliance>
-        <Appliance>Storage Lockers</Appliance>
-        <Appliance>Air Conditioning</Appliance>
         <Appliance>Fridge</Appliance>
+        <Appliance>Oven/Stove</Appliance>
+        <Appliance>Laundry - In Suite</Appliance>
+        <Appliance>Dishwasher</Appliance>
       </Appliances>
       <Fireplace>No</Fireplace>
-      <UtilitiesIncluded>Internet | Heat | Water included</UtilitiesIncluded>
+      <UtilitiesIncluded>Internet included</UtilitiesIncluded>
     </RichDetails>
   </Listing>
   <Listing>
-    <ID>638294</ID>
+    <ID>787166</ID>
     <Location>
-      <StreetAddress>450 8 Ave SE</StreetAddress>
+      <StreetAddress>455 Sage Hill Road NW</StreetAddress>
       <City>Calgary</City>
       <State>AB</State>
       <Zip>T2S 0J1</Zip>
@@ -794,15 +693,15 @@
     </Location>
     <ListingDetails>
       <Status>Active</Status>
-      <Price>1500</Price>
-      <ListingUrl>https://www.rentfaster.ca/properties/450-8-ave-se-calgary-638294</ListingUrl>
-      <ProviderListingId>638294</ProviderListingId>
-      <ApplicationUrl>https://app.tenantturner.com/qualify/select-time/450-8-ave-se?p=TenantTurner</ApplicationUrl>
+      <Price>1250</Price>
+      <ListingUrl>https://www.rentfaster.ca/properties/455-sage-hill-road-nw-calgary-787166</ListingUrl>
+      <ProviderListingId>787166</ProviderListingId>
+      <ApplicationUrl>https://app.tenantturner.com/qualify/select-time/455-sage-hill-road-nw?p=TenantTurner</ApplicationUrl>
     </ListingDetails>
     <RentalDetails>
-      <Availability>October 01</Availability>
+      <Availability>Immediate</Availability>
       <LeaseTerm>12 Months</LeaseTerm>
-      <DepositFees>1500</DepositFees>
+      <DepositFees>1250</DepositFees>
       <PetsAllowed>
         <NoPets>No</NoPets>
         <Cats>Yes</Cats>
@@ -811,28 +710,22 @@
       </PetsAllowed>
     </RentalDetails>
     <BasicDetails>
-      <PropertyType>Condo</PropertyType>
-      <Title>2 Bed 1 Bath East Village Condo for Rent in N3! 12th Floor, Calgary Towner Views!</Title>
+      <PropertyType>Apartment</PropertyType>
+      <Title>2 Bedroom Basement Suite for rent in Sage Hill! </Title>
       <Description/>
       <Bedrooms>2</Bedrooms>
       <Bathrooms>1</Bathrooms>
-      <LivingArea>550</LivingArea>
+      <LivingArea>700</LivingArea>
     </BasicDetails>
     <Pictures>
       <Picture>
-        <PictureUrl>https://rf-images-prod-bcdn.rentfaster.ca/638294/slide_18575080.v.f620f86b039bfd43a5be7c4a983d4322.jpg</PictureUrl>
-        <Caption>2 Bed 1 Bath East Village Condo for Rent in N3! 12th Floor, Calgary Towner Views! - Photo 1</Caption>
+        <PictureUrl>https://rf-images-prod-bcdn.rentfaster.ca/787166/slide_18847012.v.dd791e0fd6dbe9882e945138589e980d.jpg</PictureUrl>
+        <Caption>2 Bedroom Basement Suite for rent in Sage Hill!  - Photo 1</Caption>
       </Picture>
     </Pictures>
     <RichDetails>
-      <Appliances>
-        <Appliance>Elevator</Appliance>
-        <Appliance>Storage Lockers</Appliance>
-        <Appliance>Fridge</Appliance>
-        <Appliance>Oven/Stove</Appliance>
-      </Appliances>
       <Fireplace>No</Fireplace>
-      <UtilitiesIncluded>Heat | Water included</UtilitiesIncluded>
+      <UtilitiesIncluded>Not included</UtilitiesIncluded>
     </RichDetails>
   </Listing>
   <Listing>
@@ -891,6 +784,113 @@
     </RichDetails>
   </Listing>
   <Listing>
+    <ID>638294</ID>
+    <Location>
+      <StreetAddress>450 8 Ave SE</StreetAddress>
+      <City>Calgary</City>
+      <State>AB</State>
+      <Zip>T2S 0J1</Zip>
+      <DisplayAddress>Yes</DisplayAddress>
+    </Location>
+    <ListingDetails>
+      <Status>Active</Status>
+      <Price>1500</Price>
+      <ListingUrl>https://www.rentfaster.ca/properties/450-8-ave-se-calgary-638294</ListingUrl>
+      <ProviderListingId>638294</ProviderListingId>
+      <ApplicationUrl>https://app.tenantturner.com/qualify/select-time/450-8-ave-se?p=TenantTurner</ApplicationUrl>
+    </ListingDetails>
+    <RentalDetails>
+      <Availability>October 01</Availability>
+      <LeaseTerm>12 Months</LeaseTerm>
+      <DepositFees>1500</DepositFees>
+      <PetsAllowed>
+        <NoPets>No</NoPets>
+        <Cats>Yes</Cats>
+        <SmallDogs>Yes</SmallDogs>
+        <LargeDogs>No</LargeDogs>
+      </PetsAllowed>
+    </RentalDetails>
+    <BasicDetails>
+      <PropertyType>Condo</PropertyType>
+      <Title>2 Bed 1 Bath East Village Condo for Rent in N3! 12th Floor, Calgary Towner Views!</Title>
+      <Description/>
+      <Bedrooms>2</Bedrooms>
+      <Bathrooms>1</Bathrooms>
+      <LivingArea>550</LivingArea>
+    </BasicDetails>
+    <Pictures>
+      <Picture>
+        <PictureUrl>https://rf-images-prod-bcdn.rentfaster.ca/638294/slide_18575080.v.f620f86b039bfd43a5be7c4a983d4322.jpg</PictureUrl>
+        <Caption>2 Bed 1 Bath East Village Condo for Rent in N3! 12th Floor, Calgary Towner Views! - Photo 1</Caption>
+      </Picture>
+    </Pictures>
+    <RichDetails>
+      <Appliances>
+        <Appliance>Elevator</Appliance>
+        <Appliance>Storage Lockers</Appliance>
+        <Appliance>Fridge</Appliance>
+        <Appliance>Oven/Stove</Appliance>
+      </Appliances>
+      <Fireplace>No</Fireplace>
+      <UtilitiesIncluded>Heat | Water included</UtilitiesIncluded>
+    </RichDetails>
+  </Listing>
+  <Listing>
+    <ID>785827</ID>
+    <Location>
+      <StreetAddress>1010 6th St SW</StreetAddress>
+      <City>Calgary</City>
+      <State>AB</State>
+      <Zip>T2S 0J1</Zip>
+      <DisplayAddress>Yes</DisplayAddress>
+    </Location>
+    <ListingDetails>
+      <Status>Active</Status>
+      <Price>3150</Price>
+      <ListingUrl>https://www.rentfaster.ca/properties/1010-6th-st-sw-calgary-785827</ListingUrl>
+      <ProviderListingId>785827</ProviderListingId>
+      <ApplicationUrl>https://app.tenantturner.com/qualify/select-time/1010-6th-st-sw?p=TenantTurner</ApplicationUrl>
+    </ListingDetails>
+    <RentalDetails>
+      <Availability>October 01</Availability>
+      <LeaseTerm>12 Months</LeaseTerm>
+      <DepositFees>3150</DepositFees>
+      <PetsAllowed>
+        <NoPets>No</NoPets>
+        <Cats>Yes</Cats>
+        <SmallDogs>Yes</SmallDogs>
+        <LargeDogs>No</LargeDogs>
+      </PetsAllowed>
+    </RentalDetails>
+    <BasicDetails>
+      <PropertyType>Condo</PropertyType>
+      <Title>Gorgeous, 28th Floor, 2 Bed, 2 Full Bath, Sub-Penthouse for Rent with Endless Views</Title>
+      <Description/>
+      <Bedrooms>2</Bedrooms>
+      <Bathrooms>2</Bathrooms>
+      <LivingArea>1100</LivingArea>
+    </BasicDetails>
+    <Pictures>
+      <Picture>
+        <PictureUrl>https://rf-images-prod-bcdn.rentfaster.ca/785827/slide_18790529.v.648aa892b82bd0fdef5ede633d20ad73.jpg</PictureUrl>
+        <Caption>Gorgeous, 28th Floor, 2 Bed, 2 Full Bath, Sub-Penthouse for Rent with Endless Views - Photo 1</Caption>
+      </Picture>
+    </Pictures>
+    <RichDetails>
+      <ParkingTypes>
+        <ParkingType>Underground</ParkingType>
+      </ParkingTypes>
+      <Appliances>
+        <Appliance>Elevator</Appliance>
+        <Appliance>Storage Lockers</Appliance>
+        <Appliance>Air Conditioning</Appliance>
+        <Appliance>Fridge</Appliance>
+      </Appliances>
+      <Fireplace>No</Fireplace>
+      <UtilitiesIncluded>Internet | Heat | Water included</UtilitiesIncluded>
+    </RichDetails>
+  </Listing>
+  <Listing>
     <ID>656763</ID>
     <Location>
       <StreetAddress>1320 1st Street SE</StreetAddress>
@@ -943,6 +943,55 @@
       </Appliances>
       <Fireplace>No</Fireplace>
       <UtilitiesIncluded>Internet | Heat | Water | Electricity included</UtilitiesIncluded>
+    </RichDetails>
+  </Listing>
+  <Listing>
+    <ID>787822</ID>
+    <Location>
+      <StreetAddress>22 Wolf Hollow Way SE</StreetAddress>
+      <City>Calgary</City>
+      <State>AB</State>
+      <Zip>T2S 0J1</Zip>
+      <DisplayAddress>Yes</DisplayAddress>
+    </Location>
+    <ListingDetails>
+      <Status>Active</Status>
+      <Price>3000</Price>
+      <ListingUrl>https://www.rentfaster.ca/properties/22-wolf-hollow-way-se-calgary-787822</ListingUrl>
+      <ProviderListingId>787822</ProviderListingId>
+      <ApplicationUrl>https://app.tenantturner.com/qualify/select-time/22-wolf-hollow-way-se?p=TenantTurner</ApplicationUrl>
+    </ListingDetails>
+    <RentalDetails>
+      <Availability>November 01</Availability>
+      <LeaseTerm>12 Months</LeaseTerm>
+      <DepositFees>3000</DepositFees>
+      <PetsAllowed>
+        <NoPets>No</NoPets>
+        <Cats>Yes</Cats>
+        <SmallDogs>Yes</SmallDogs>
+        <LargeDogs>No</LargeDogs>
+      </PetsAllowed>
+    </RentalDetails>
+    <BasicDetails>
+      <PropertyType>House</PropertyType>
+      <Title>3 Bed 3.5 Bath - Former Show home - Award-winning Elliot Model - Ultra Specifications Level - Jayman BUILT Home for Rent</Title>
+      <Description/>
+      <Bedrooms>3</Bedrooms>
+      <Bathrooms>3.5</Bathrooms>
+      <LivingArea>3000</LivingArea>
+    </BasicDetails>
+    <Pictures>
+      <Picture>
+        <PictureUrl>https://rf-images-prod-bcdn.rentfaster.ca/787822/slide_18873761.v.e481eead8f7646a26c1c63e572367e4a.jpg</PictureUrl>
+        <Caption>3 Bed 3.5 Bath - Former Show home - Award-winning Elliot Model - Ultra Specifications Level - Jayman BUILT Home for Rent - Photo 1</Caption>
+      </Picture>
+    </Pictures>
+    <RichDetails>
+      <ParkingTypes>
+        <ParkingType>Garage</ParkingType>
+      </ParkingTypes>
+      <Fireplace>No</Fireplace>
+      <UtilitiesIncluded>Not included</UtilitiesIncluded>
     </RichDetails>
   </Listing>
 </Listings>
