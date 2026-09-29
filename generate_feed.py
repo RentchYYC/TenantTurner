@@ -562,9 +562,15 @@ def check_booking_link(url: str) -> tuple:
     final_path = r.url.split("?")[0].replace("https://app.tenantturner.com", "").rstrip("/").lower()
     if r.status_code >= 400:
         return False, f"error {r.status_code}"
-    if final_path != expected_path:
-        return False, f"redirected to {r.url}"
-    return True, f"OK ({r.status_code})"
+    if final_path == expected_path:
+        return True, f"OK ({r.status_code})"
+    # Tenant Turner sometimes skips the time picker and goes straight to its
+    # contact form for the SAME property (e.g. no showing times open). That's
+    # a working link, not a bad slug.
+    slug = expected_path.rsplit("/", 1)[-1]
+    if final_path.startswith("/qualify/") and final_path.rsplit("/", 1)[-1] == slug:
+        return True, "OK (goes to contact form - no showing times open?)"
+    return False, f"redirected to {r.url}"
 
 
 def write_report(report_rows: list, selected_count: int):
