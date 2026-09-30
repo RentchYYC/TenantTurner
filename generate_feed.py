@@ -34,6 +34,9 @@ TENANT_TURNER_CUSTOM_SLUGS = {
     "640415":                  "628-56-avenue-southwest-1",   # 628 56 Avenue SW - 56 Windsor
     "748399":                  "515-17-avenue-nw-1",          # 515 17 Avenue NW - Basement Suite
     "749569":                  "227-26-avenue-ne-1",          # 227 26 Avenue NE
+    "602032":                  "new-address-from-sheet",      # 108 23 Ave SW - Brookwood Manor
+                                                              # (Tenant Turner property still has a
+                                                              #  placeholder name; update here if renamed)
 }
 TENANT_TURNER_BASE = "https://app.tenantturner.com/qualify/select-time/"
 TENANT_TURNER_SUFFIX = "?p=TenantTurner"

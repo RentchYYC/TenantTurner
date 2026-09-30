@@ -109,7 +109,7 @@
       <Price>2250</Price>
       <ListingUrl>https://www.rentfaster.ca/properties/108-23-avenue-sw-calgary-602032</ListingUrl>
       <ProviderListingId>602032</ProviderListingId>
-      <ApplicationUrl>https://app.tenantturner.com/qualify/select-time/108-23-avenue-sw?p=TenantTurner</ApplicationUrl>
+      <ApplicationUrl>https://app.tenantturner.com/qualify/select-time/new-address-from-sheet?p=TenantTurner</ApplicationUrl>
     </ListingDetails>
     <RentalDetails>
       <Availability>Immediate</Availability>
