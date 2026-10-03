@@ -28,6 +28,19 @@ jobs:
       - name: Run feed generator
         run: python generate_feed.py
 
+      # TEMPORARY one-off diagnostic: snapshot rentch.ca/rentals so we can see how it loads listings
+      - name: Snapshot rentch.ca rentals page
+        continue-on-error: true
+        run: |
+          mkdir -p site_snapshot
+          curl -sSL -A "Mozilla/5.0" -D site_snapshot/rentals_headers.txt -o site_snapshot/rentals.html https://rentch.ca/rentals || true
+          grep -oiE '(src|href|data-[a-z-]+)="[^"]+"' site_snapshot/rentals.html | grep -iE 'tenantturner|rentfaster|github|\.xml|\.json|iframe|widget|appfolio|buildium|yardi|rentsync|api' | sort -u > site_snapshot/interesting_urls.txt || true
+          for u in $(grep -oE 'https?://[^"]+\.(js|xml|json)[^"]*' site_snapshot/rentals.html | grep -viE 'google|gstatic|facebook|jquery|cdn' | sort -u | head -15); do
+            n=$(echo "$u" | md5sum | cut -c1-8); echo "$n $u" >> site_snapshot/assets_index.txt
+            curl -sSL -A "Mozilla/5.0" -m 20 -o "site_snapshot/asset_$n" "$u" || true
+          done
+          git add -f site_snapshot
+
       - name: Commit updated XML if changed
         run: |
           git config user.name "github-actions[bot]"
