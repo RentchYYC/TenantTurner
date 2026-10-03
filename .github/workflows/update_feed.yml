@@ -39,6 +39,11 @@ jobs:
             n=$(echo "$u" | md5sum | cut -c1-8); echo "$n $u" >> site_snapshot/assets_index.txt
             curl -sSL -A "Mozilla/5.0" -m 20 -o "site_snapshot/asset_$n" "$u" || true
           done
+          # sample RentFaster data: search record fields + one public listing page
+          curl -sS -A "Mozilla/5.0" "https://www.rentfaster.ca/api/search.json?cur_page=0&user_ID=358564" -o site_snapshot/rf_search.json || true
+          curl -sSL -A "Mozilla/5.0" "https://www.rentfaster.ca/properties/108-23-avenue-sw-calgary-602032" -o site_snapshot/rf_page_602032.html || true
+          curl -sS -A "Mozilla/5.0" -o site_snapshot/rf_api_alt1.json -w "%{http_code}" "https://www.rentfaster.ca/api/listing.json?ref_id=602032" > site_snapshot/rf_api_alt1.code || true
+          curl -sS -A "Mozilla/5.0" -o site_snapshot/rf_api_alt2.json -w "%{http_code}" "https://www.rentfaster.ca/api/property.json?id=602032" > site_snapshot/rf_api_alt2.code || true
           git add -f site_snapshot
 
       - name: Commit updated XML if changed
