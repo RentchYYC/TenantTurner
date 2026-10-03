@@ -83,6 +83,12 @@
     "postal": "T3R 0S4",
     "source": "OpenStreetMap"
   },
+  "6425 35 avenue nw, calgary": {
+    "address": "6425 35 Avenue NW",
+    "looked_up": "2026-10-03",
+    "postal": "T3B 1S5",
+    "source": "geocoder.ca"
+  },
   "914 royal avenue sw, calgary": {
     "address": "914 Royal Avenue SW",
     "looked_up": "2026-09-29",

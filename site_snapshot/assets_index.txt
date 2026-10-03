@@ -1,0 +1,2 @@
+1ebfd67d https://raw.githubusercontent.com/RentchYYC/TenantTurner/refs/heads/main/rentch_tenant_turner_full_feed.xml
+6e56f1bd https://static1.squarespace.com/static/vta/5c5a519771c10ba3470d8101/scripts/site-bundle.9ad4428074df7afb73619ace1a54f3c9.js
