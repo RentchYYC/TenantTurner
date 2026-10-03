@@ -1,6 +1,6 @@
 # Rentch Feed Report
 
-_Last run: 2026-10-03 01:04 UTC_ — 18 listing(s) in full feed, 18 in selected feed.
+_Last run: 2026-10-03 01:06 UTC_ — 18 listing(s) in full feed, 18 in selected feed.
 
 ## Needs attention
 
@@ -30,7 +30,7 @@ _Last run: 2026-10-03 01:04 UTC_ — 18 listing(s) in full feed, 18 in selected 
 | 738281 | 815 17 Avenue NW | $2550 | T2M 0P1 | manual table | [book](https://app.tenantturner.com/qualify/select-time/815-17-avenue-nw?p=TenantTurner) | ✅ OK (200) | [listing](https://www.rentfaster.ca/properties/815-17-avenue-nw-calgary-738281) |
 | 607620 | 1107 Gladstone Road NW | $2750 | T2N 3T1 | auto lookup (geocoder.ca, cached) | [book](https://app.tenantturner.com/qualify/select-time/1107-gladstone-road-nw?p=TenantTurner) | ✅ OK (goes to contact form - no showing times open?) | [listing](https://www.rentfaster.ca/properties/1107-gladstone-road-nw-calgary-607620) |
 | 696741 | 313 20 Avenue SW | $1875 | T2S 0E6 | auto lookup (geocoder.ca, cached) | [book](https://app.tenantturner.com/qualify/select-time/313-20-avenue-sw?p=TenantTurner) | ✅ OK (200) | [listing](https://www.rentfaster.ca/properties/313-20-avenue-sw-calgary-696741) |
-| 598487 | 6425 35 Avenue NW | $1500 | T3B 1S5 | auto lookup (geocoder.ca) | [book](https://app.tenantturner.com/qualify/select-time/6425-35-avenue-nw?p=TenantTurner) | ✅ OK (goes to contact form - no showing times open?) | [listing](https://www.rentfaster.ca/properties/6425-35-avenue-nw-calgary-598487) |
+| 598487 | 6425 35 Avenue NW | $1500 | T3B 1S5 | auto lookup (geocoder.ca, cached) | [book](https://app.tenantturner.com/qualify/select-time/6425-35-avenue-nw?p=TenantTurner) | ✅ OK (goes to contact form - no showing times open?) | [listing](https://www.rentfaster.ca/properties/6425-35-avenue-nw-calgary-598487) |
 | 638294 | 450 8 Ave SE | $1500 | T2G 1T2 | auto lookup (geocoder.ca, cached) | [book](https://app.tenantturner.com/qualify/select-time/450-8-ave-se?p=TenantTurner) | ✅ OK (200) | [listing](https://www.rentfaster.ca/properties/450-8-ave-se-calgary-638294) |
 | 656763 | 1320 1st Street SE | $3200 | T2G 0G8 | auto lookup (geocoder.ca, cached) | [book](https://app.tenantturner.com/qualify/select-time/1320-1st-street-se?p=TenantTurner) | ✅ OK (200) | [listing](https://www.rentfaster.ca/properties/1320-1st-street-se-calgary-656763) |
 | 749569 | 227 26 Avenue NE | $1600 | T2E 1Z1 | manual table | [book](https://app.tenantturner.com/qualify/select-time/227-26-avenue-ne-1?p=TenantTurner) | ✅ OK (200) | [listing](https://www.rentfaster.ca/properties/227-26-avenue-ne-calgary-749569) |
