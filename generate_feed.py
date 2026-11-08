@@ -10,7 +10,8 @@ Usage:
 Output:
     rentch_tenant_turner_full_feed.xml
     photos/<RentFaster id>.jpg   web-size copy of each ad's first photo (Rentch OS uses these; Aaron, Nov 8 2026)
-    photos/index.json            which RentFaster photo each copy was made from
+    photos/index.json            the build time, and RentFaster id -> photo path (+ which RentFaster photo it was made from).
+                                 Rentch OS reads this; the feed file above stays exactly as Tenant Turner knows it.
 """
 
 import hashlib
@@ -301,11 +302,15 @@ def get_appliances(rf: dict) -> list:
 # ─── FIRST PHOTO (web-size copy for Rentch OS) ─────────────────────────────────
 
 def load_photo_index() -> dict:
+    """RentFaster id -> {path, source, ...} (the "photos" part of photos/index.json)."""
     try:
         with open(PHOTO_INDEX, encoding="utf-8") as f:
-            return json.load(f)
+            data = json.load(f)
     except (FileNotFoundError, ValueError):
         return {}
+    if isinstance(data.get("photos"), dict):
+        return data["photos"]
+    return {k: v for k, v in data.items() if re.fullmatch(r"\d+", k) and isinstance(v, dict)}   # the first layout (Nov 8)
 
 
 def web_size(data: bytes) -> tuple:
@@ -338,7 +343,7 @@ def sync_first_photo(listing_id: str, url: str, index: dict, headers: dict):
     os.makedirs(PHOTO_DIR, exist_ok=True)
     with open(path, "wb") as f:
         f.write(data)
-    index[listing_id] = {"source": url, "sha256": hashlib.sha256(data).hexdigest(), "width": w, "height": h,
+    index[listing_id] = {"path": path, "source": url, "sha256": hashlib.sha256(data).hexdigest(), "width": w, "height": h,
                          "copied": datetime.now(timezone.utc).strftime("%Y-%m-%dT%H:%MZ")}
     print(f"    First photo for {listing_id}: {'replaced' if have else 'copied'} ({w}x{h}, {len(data) // 1024} KB)")
     return path
@@ -434,11 +439,9 @@ def build_listing_element(rf_search: dict, rf_detail: dict, photo_index: dict = 
             sub(pic, "PictureUrl", url)
             sub(pic, "Caption", caption)
 
-    # ── Rentch OS: the web-size copy of the first photo, in this repo ──
+    # ── Rentch OS: the web-size copy of the first photo, listed in photos/index.json (never in this feed) ──
     if photo_index is not None:
-        rentch_photo = sync_first_photo(listing_id, photos[0][0] if photos else "", photo_index, headers or {})
-        if rentch_photo:
-            sub(listing, "RentchPhoto", rentch_photo)
+        sync_first_photo(listing_id, photos[0][0] if photos else "", photo_index, headers or {})
 
     # ── RichDetails ──
     rich = sub(listing, "RichDetails")
@@ -497,15 +500,18 @@ def build_xml(search_listings: list) -> str:
         prune_photos(ids, photo_index)
     else:
         print("  Fetch incomplete: no photo removed this time.")
-    if os.path.isdir(PHOTO_DIR):
-        with open(PHOTO_INDEX, "w", encoding="utf-8") as f:
-            json.dump(dict(sorted(photo_index.items())), f, indent=1)
-            f.write("\n")
+    # photos/index.json: the build time (so it changes on every run: Rentch OS judges freshness by when GitHub last updated it)
+    # and RentFaster id -> photo path. Only ids in this feed are listed.
+    for k, v in photo_index.items():
+        v.setdefault("path", f"{PHOTO_DIR}/{k}.jpg")
+    os.makedirs(PHOTO_DIR, exist_ok=True)
+    with open(PHOTO_INDEX, "w", encoding="utf-8") as f:
+        json.dump({"built": datetime.now(timezone.utc).strftime("%Y-%m-%dT%H:%M:%SZ"), "feed": OUTPUT_FILE,
+                   "photos": dict(sorted((k, v) for k, v in photo_index.items() if k in ids))}, f, indent=1)
+        f.write("\n")
 
     raw = ET.tostring(root, encoding="unicode")
     dom = minidom.parseString(raw)
-    # the build time, so the file changes on every run: Rentch OS judges the feed fresh by when GitHub last updated it
-    dom.insertBefore(dom.createComment(" built " + datetime.now(timezone.utc).strftime("%Y-%m-%dT%H:%MZ") + " by generate_feed.py "), dom.documentElement)
     return dom.toprettyxml(indent="  ", encoding="utf-8").decode("utf-8")
 
 
