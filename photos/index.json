@@ -1,184 +1,214 @@
 {
- "598485": {
-  "source": "https://rf-images-prod-bcdn.rentfaster.ca/598485/slide_11546673.v.197842668ce5f1eda7faed889fc673c6.jpg",
-  "sha256": "ae48db669c572dc8b9ebf1b7cc1802e30b57a52247d66b975c1acdff181178c8",
-  "width": 600,
-  "height": 400,
-  "copied": "2026-11-08T17:01Z"
- },
- "598487": {
-  "source": "https://rf-images-prod-bcdn.rentfaster.ca/598487/slide_18909938.v.a21610d263a4b7515044c1142dcd6aa1.jpg",
-  "sha256": "d8c458198028545e3feef94a038866524a2edd223670163c609db7e8f0aca946",
-  "width": 600,
-  "height": 450,
-  "copied": "2026-11-08T17:02Z"
- },
- "607636": {
-  "source": "https://rf-images-prod-bcdn.rentfaster.ca/607636/slide_12386763.v.36b95ed877125a43f03f606530cb1719.jpg",
-  "sha256": "5d4dbc97348464aca214d925eeb814a27e293127de7e66f281d8aa59107162dc",
-  "width": 600,
-  "height": 400,
-  "copied": "2026-11-08T17:01Z"
- },
- "631595": {
-  "source": "https://rf-images-prod-bcdn.rentfaster.ca/631595/slide_17475676.v.2e749846e9a63adc1e43ecf18739f7f9.jpg",
-  "sha256": "6bf43abebd53d4128ce1fab59c950ba6aa79c5d530266e665b973794b08d9724",
-  "width": 600,
-  "height": 400,
-  "copied": "2026-11-08T17:02Z"
- },
- "631598": {
-  "source": "https://rf-images-prod-bcdn.rentfaster.ca/631598/slide_19081195.v.38db1714e1d1cb8ff7f782657a05ab41.jpg",
-  "sha256": "a89afe4ee3a92f7a09e807e9331c9981023436deff7ab69084d70a0322d6b55f",
-  "width": 450,
-  "height": 600,
-  "copied": "2026-11-08T17:02Z"
- },
- "635858": {
-  "source": "https://rf-images-prod-bcdn.rentfaster.ca/635858/slide_17393031.v.70377f31f426abc6804c99ce00aa7875.jpg",
-  "sha256": "f04c8d0da06e0b1c0cbdcc920dedcf0274b8324a6949327dbd98e49153c3bde6",
-  "width": 600,
-  "height": 450,
-  "copied": "2026-11-08T17:01Z"
- },
- "635859": {
-  "source": "https://rf-images-prod-bcdn.rentfaster.ca/635859/slide_18794526.v.a09407abf02b58d80dc93851dee820a6.jpg",
-  "sha256": "a616fb665f942109b719b13a08170bb1a1cdcdd0c0ef61a46e3adf3f69b9ded8",
-  "width": 600,
-  "height": 450,
-  "copied": "2026-11-08T17:02Z"
- },
- "638294": {
-  "source": "https://rf-images-prod-bcdn.rentfaster.ca/638294/slide_18575080.v.f620f86b039bfd43a5be7c4a983d4322.jpg",
-  "sha256": "9533dcad503a5a0479f929041aab8877ba94fbacdab870ffd3b8cfb3da2da133",
-  "width": 600,
-  "height": 398,
-  "copied": "2026-11-08T17:02Z"
- },
- "668448": {
-  "source": "https://rf-images-prod-bcdn.rentfaster.ca/668448/slide_14686885.v.d0638e8590e639ba5c0e73dbc8a097d0.jpg",
-  "sha256": "823a069616f55ccad315f82957cded451f0d0e2d9753a7585b3dbdbd3b01d634",
-  "width": 600,
-  "height": 450,
-  "copied": "2026-11-08T17:02Z"
- },
- "693938": {
-  "source": "https://rf-images-prod-bcdn.rentfaster.ca/693938/slide_15739884.v.495138316f6812b0bfccff491723b9e0.jpg",
-  "sha256": "2704c3a0924ee75716d9a16120ffe23eef581b486dd53ed37671ee27d2bf5309",
-  "width": 600,
-  "height": 400,
-  "copied": "2026-11-08T17:02Z"
- },
- "698865": {
-  "source": "https://rf-images-prod-bcdn.rentfaster.ca/698865/slide_17909579.v.f7936c81fd5bfa34e79ca7f6a466521c.jpg",
-  "sha256": "6ceb5b51ab658a77d873d7c17153e8039cf2e91726017dc4039b235ef1ffb0be",
-  "width": 600,
-  "height": 400,
-  "copied": "2026-11-08T17:02Z"
- },
- "722646": {
-  "source": "https://rf-images-prod-bcdn.rentfaster.ca/722646/slide_17250215.v.d25dde25ba0ba6c9f2d6c5057c360bd0.jpg",
-  "sha256": "d939f2cada133be5af350cd6167202ad0388c860ed4d23b84b4716eccbd6c8b1",
-  "width": 600,
-  "height": 400,
-  "copied": "2026-11-08T17:02Z"
- },
- "738281": {
-  "source": "https://rf-images-prod-bcdn.rentfaster.ca/738281/slide_19363340.v.c769feb78d7d9259b1ac45f5ff485101.jpg",
-  "sha256": "6d27cc881177fe6501eef2ac5738b12674879e984c3602ee86f339a876798284",
-  "width": 600,
-  "height": 450,
-  "copied": "2026-11-08T17:02Z"
- },
- "754051": {
-  "source": "https://rf-images-prod-bcdn.rentfaster.ca/754051/slide_18267504.v.5772e93e4064947c69faf594601eddf7.jpg",
-  "sha256": "8c43fb058fb566f14a62be20ca4fa107527ba3f70fab5d80e6269f52263b2885",
-  "width": 600,
-  "height": 450,
-  "copied": "2026-11-08T17:01Z"
- },
- "765155": {
-  "source": "https://rf-images-prod-bcdn.rentfaster.ca/765155/slide_17943333.v.b81b7e3bc3b18a6a6bba8b9b94ba7a86.jpg",
-  "sha256": "ab9b1d3cc74ecc9e11a2c34f7559b783c7b1e6ee7768303de491588af204fb32",
-  "width": 600,
-  "height": 399,
-  "copied": "2026-11-08T17:02Z"
- },
- "780775": {
-  "source": "https://rf-images-prod-bcdn.rentfaster.ca/780775/slide_18590705.v.c7efcac9c0d1fc21582a9015ba90b9ff.jpg",
-  "sha256": "7ce0e4ddd2ceececf029b09b095f765c4137620d6bed77ba0f8ddeb7bd0a490a",
-  "width": 600,
-  "height": 399,
-  "copied": "2026-11-08T17:02Z"
- },
- "782574": {
-  "source": "https://rf-images-prod-bcdn.rentfaster.ca/782574/slide_18673737.v.2a1b17405877286304e8a580620a6f14.jpg",
-  "sha256": "59d25e4f064d5b81029ad97102da6ab817d89825436a3c73ebe30af5fbc1789a",
-  "width": 450,
-  "height": 600,
-  "copied": "2026-11-08T17:02Z"
- },
- "787166": {
-  "source": "https://rf-images-prod-bcdn.rentfaster.ca/787166/slide_18847016.v.6b10791f6bccfd1d09bc42d9d7f7e431.jpg",
-  "sha256": "287d9b4050ebe65caf578217471c235fbdee2d7ab06d97da91a4379d2e79cee2",
-  "width": 600,
-  "height": 450,
-  "copied": "2026-11-08T17:02Z"
- },
- "793734": {
-  "source": "https://rf-images-prod-bcdn.rentfaster.ca/793734/slide_19088989.v.ae79104a3e0579e91a6d4ae4e36913e5.jpg",
-  "sha256": "025f90e596a9b74b3ec76a10a99bc4cdd526060e32a35fb099794c4642393a1a",
-  "width": 600,
-  "height": 400,
-  "copied": "2026-11-08T17:01Z"
- },
- "793920": {
-  "source": "https://rf-images-prod-bcdn.rentfaster.ca/793920/slide_19089014.v.ad2c426ab04459539a5d5c21cf529b0c.jpg",
-  "sha256": "01a6b13f472ead82af511bb9655ad05348ec83625539377eea402c855e7dbf72",
-  "width": 600,
-  "height": 450,
-  "copied": "2026-11-08T17:01Z"
- },
- "793921": {
-  "source": "https://rf-images-prod-bcdn.rentfaster.ca/793921/slide_19089018.v.ad977814ead2fc2bb0e9bcd4d9e97ea7.jpg",
-  "sha256": "127ba8bc4378972ab00fd1de3495e5f68ea2e47c7cf091e55966f2b0a6a9840c",
-  "width": 600,
-  "height": 406,
-  "copied": "2026-11-08T17:02Z"
- },
- "797341": {
-  "source": "https://rf-images-prod-bcdn.rentfaster.ca/797341/slide_19218612.v.a1e8109d2ba88ffb3dd7f455fa731c38.jpg",
-  "sha256": "1b74007ca962bf20cbaa08a64ba639d42906c1bd906c9d1392c87f176dbfb9d9",
-  "width": 600,
-  "height": 450,
-  "copied": "2026-11-08T17:02Z"
- },
- "797342": {
-  "source": "https://rf-images-prod-bcdn.rentfaster.ca/797342/slide_19218634.v.6e236194a20d32b93e6cf62404b43e6f.jpg",
-  "sha256": "41e2220032235e8858ed214eb94ea3e3e25024ad1cf827b6b6e112cd16b7a170",
-  "width": 600,
-  "height": 450,
-  "copied": "2026-11-08T17:01Z"
- },
- "797884": {
-  "source": "https://rf-images-prod-bcdn.rentfaster.ca/797884/slide_19246369.v.595782e94527519ef12e92647faa59df.jpg",
-  "sha256": "b3273e27e6ecf360e32dcfdbed9cafde4e4a6c717d41cef12e21a4406ca139a5",
-  "width": 450,
-  "height": 600,
-  "copied": "2026-11-08T17:02Z"
- },
- "800331": {
-  "source": "https://rf-images-prod-bcdn.rentfaster.ca/800331/slide_19358889.v.a8534a3963bf05b771da96aafef3d4ec.jpg",
-  "sha256": "033910aead5688ee46d9104bd688d914c807f6ce973386b33afc1bfef0cefb3a",
-  "width": 600,
-  "height": 400,
-  "copied": "2026-11-08T17:02Z"
- },
- "800370": {
-  "source": "https://rf-images-prod-bcdn.rentfaster.ca/800370/slide_19358920.v.9187b519183c1141177bcc8fbe5e31a1.jpg",
-  "sha256": "d9ddd29231e042b9902e24b9ff63ba9bdaed1ffeee29ec4d92eb5aea1e6cbe37",
-  "width": 450,
-  "height": 600,
-  "copied": "2026-11-08T17:02Z"
+ "built": "2026-11-08T17:54:51Z",
+ "feed": "rentch_tenant_turner_full_feed.xml",
+ "photos": {
+  "598485": {
+   "source": "https://rf-images-prod-bcdn.rentfaster.ca/598485/slide_11546673.v.197842668ce5f1eda7faed889fc673c6.jpg",
+   "sha256": "ae48db669c572dc8b9ebf1b7cc1802e30b57a52247d66b975c1acdff181178c8",
+   "width": 600,
+   "height": 400,
+   "copied": "2026-11-08T17:01Z",
+   "path": "photos/598485.jpg"
+  },
+  "598487": {
+   "source": "https://rf-images-prod-bcdn.rentfaster.ca/598487/slide_18909938.v.a21610d263a4b7515044c1142dcd6aa1.jpg",
+   "sha256": "d8c458198028545e3feef94a038866524a2edd223670163c609db7e8f0aca946",
+   "width": 600,
+   "height": 450,
+   "copied": "2026-11-08T17:02Z",
+   "path": "photos/598487.jpg"
+  },
+  "607636": {
+   "source": "https://rf-images-prod-bcdn.rentfaster.ca/607636/slide_12386763.v.36b95ed877125a43f03f606530cb1719.jpg",
+   "sha256": "5d4dbc97348464aca214d925eeb814a27e293127de7e66f281d8aa59107162dc",
+   "width": 600,
+   "height": 400,
+   "copied": "2026-11-08T17:01Z",
+   "path": "photos/607636.jpg"
+  },
+  "631595": {
+   "source": "https://rf-images-prod-bcdn.rentfaster.ca/631595/slide_17475676.v.2e749846e9a63adc1e43ecf18739f7f9.jpg",
+   "sha256": "6bf43abebd53d4128ce1fab59c950ba6aa79c5d530266e665b973794b08d9724",
+   "width": 600,
+   "height": 400,
+   "copied": "2026-11-08T17:02Z",
+   "path": "photos/631595.jpg"
+  },
+  "631598": {
+   "source": "https://rf-images-prod-bcdn.rentfaster.ca/631598/slide_19081195.v.38db1714e1d1cb8ff7f782657a05ab41.jpg",
+   "sha256": "a89afe4ee3a92f7a09e807e9331c9981023436deff7ab69084d70a0322d6b55f",
+   "width": 450,
+   "height": 600,
+   "copied": "2026-11-08T17:02Z",
+   "path": "photos/631598.jpg"
+  },
+  "635858": {
+   "source": "https://rf-images-prod-bcdn.rentfaster.ca/635858/slide_17393031.v.70377f31f426abc6804c99ce00aa7875.jpg",
+   "sha256": "f04c8d0da06e0b1c0cbdcc920dedcf0274b8324a6949327dbd98e49153c3bde6",
+   "width": 600,
+   "height": 450,
+   "copied": "2026-11-08T17:01Z",
+   "path": "photos/635858.jpg"
+  },
+  "635859": {
+   "source": "https://rf-images-prod-bcdn.rentfaster.ca/635859/slide_18794526.v.a09407abf02b58d80dc93851dee820a6.jpg",
+   "sha256": "a616fb665f942109b719b13a08170bb1a1cdcdd0c0ef61a46e3adf3f69b9ded8",
+   "width": 600,
+   "height": 450,
+   "copied": "2026-11-08T17:02Z",
+   "path": "photos/635859.jpg"
+  },
+  "638294": {
+   "source": "https://rf-images-prod-bcdn.rentfaster.ca/638294/slide_18575080.v.f620f86b039bfd43a5be7c4a983d4322.jpg",
+   "sha256": "9533dcad503a5a0479f929041aab8877ba94fbacdab870ffd3b8cfb3da2da133",
+   "width": 600,
+   "height": 398,
+   "copied": "2026-11-08T17:02Z",
+   "path": "photos/638294.jpg"
+  },
+  "668448": {
+   "source": "https://rf-images-prod-bcdn.rentfaster.ca/668448/slide_14686885.v.d0638e8590e639ba5c0e73dbc8a097d0.jpg",
+   "sha256": "823a069616f55ccad315f82957cded451f0d0e2d9753a7585b3dbdbd3b01d634",
+   "width": 600,
+   "height": 450,
+   "copied": "2026-11-08T17:02Z",
+   "path": "photos/668448.jpg"
+  },
+  "693938": {
+   "source": "https://rf-images-prod-bcdn.rentfaster.ca/693938/slide_15739884.v.495138316f6812b0bfccff491723b9e0.jpg",
+   "sha256": "2704c3a0924ee75716d9a16120ffe23eef581b486dd53ed37671ee27d2bf5309",
+   "width": 600,
+   "height": 400,
+   "copied": "2026-11-08T17:02Z",
+   "path": "photos/693938.jpg"
+  },
+  "698865": {
+   "source": "https://rf-images-prod-bcdn.rentfaster.ca/698865/slide_17909579.v.f7936c81fd5bfa34e79ca7f6a466521c.jpg",
+   "sha256": "6ceb5b51ab658a77d873d7c17153e8039cf2e91726017dc4039b235ef1ffb0be",
+   "width": 600,
+   "height": 400,
+   "copied": "2026-11-08T17:02Z",
+   "path": "photos/698865.jpg"
+  },
+  "722646": {
+   "source": "https://rf-images-prod-bcdn.rentfaster.ca/722646/slide_17250215.v.d25dde25ba0ba6c9f2d6c5057c360bd0.jpg",
+   "sha256": "d939f2cada133be5af350cd6167202ad0388c860ed4d23b84b4716eccbd6c8b1",
+   "width": 600,
+   "height": 400,
+   "copied": "2026-11-08T17:02Z",
+   "path": "photos/722646.jpg"
+  },
+  "738281": {
+   "source": "https://rf-images-prod-bcdn.rentfaster.ca/738281/slide_19363340.v.c769feb78d7d9259b1ac45f5ff485101.jpg",
+   "sha256": "6d27cc881177fe6501eef2ac5738b12674879e984c3602ee86f339a876798284",
+   "width": 600,
+   "height": 450,
+   "copied": "2026-11-08T17:02Z",
+   "path": "photos/738281.jpg"
+  },
+  "754051": {
+   "source": "https://rf-images-prod-bcdn.rentfaster.ca/754051/slide_18267504.v.5772e93e4064947c69faf594601eddf7.jpg",
+   "sha256": "8c43fb058fb566f14a62be20ca4fa107527ba3f70fab5d80e6269f52263b2885",
+   "width": 600,
+   "height": 450,
+   "copied": "2026-11-08T17:01Z",
+   "path": "photos/754051.jpg"
+  },
+  "765155": {
+   "source": "https://rf-images-prod-bcdn.rentfaster.ca/765155/slide_17943333.v.b81b7e3bc3b18a6a6bba8b9b94ba7a86.jpg",
+   "sha256": "ab9b1d3cc74ecc9e11a2c34f7559b783c7b1e6ee7768303de491588af204fb32",
+   "width": 600,
+   "height": 399,
+   "copied": "2026-11-08T17:02Z",
+   "path": "photos/765155.jpg"
+  },
+  "780775": {
+   "source": "https://rf-images-prod-bcdn.rentfaster.ca/780775/slide_18590705.v.c7efcac9c0d1fc21582a9015ba90b9ff.jpg",
+   "sha256": "7ce0e4ddd2ceececf029b09b095f765c4137620d6bed77ba0f8ddeb7bd0a490a",
+   "width": 600,
+   "height": 399,
+   "copied": "2026-11-08T17:02Z",
+   "path": "photos/780775.jpg"
+  },
+  "782574": {
+   "source": "https://rf-images-prod-bcdn.rentfaster.ca/782574/slide_18673737.v.2a1b17405877286304e8a580620a6f14.jpg",
+   "sha256": "59d25e4f064d5b81029ad97102da6ab817d89825436a3c73ebe30af5fbc1789a",
+   "width": 450,
+   "height": 600,
+   "copied": "2026-11-08T17:02Z",
+   "path": "photos/782574.jpg"
+  },
+  "787166": {
+   "source": "https://rf-images-prod-bcdn.rentfaster.ca/787166/slide_18847016.v.6b10791f6bccfd1d09bc42d9d7f7e431.jpg",
+   "sha256": "287d9b4050ebe65caf578217471c235fbdee2d7ab06d97da91a4379d2e79cee2",
+   "width": 600,
+   "height": 450,
+   "copied": "2026-11-08T17:02Z",
+   "path": "photos/787166.jpg"
+  },
+  "793734": {
+   "source": "https://rf-images-prod-bcdn.rentfaster.ca/793734/slide_19088989.v.ae79104a3e0579e91a6d4ae4e36913e5.jpg",
+   "sha256": "025f90e596a9b74b3ec76a10a99bc4cdd526060e32a35fb099794c4642393a1a",
+   "width": 600,
+   "height": 400,
+   "copied": "2026-11-08T17:01Z",
+   "path": "photos/793734.jpg"
+  },
+  "793920": {
+   "source": "https://rf-images-prod-bcdn.rentfaster.ca/793920/slide_19089014.v.ad2c426ab04459539a5d5c21cf529b0c.jpg",
+   "sha256": "01a6b13f472ead82af511bb9655ad05348ec83625539377eea402c855e7dbf72",
+   "width": 600,
+   "height": 450,
+   "copied": "2026-11-08T17:01Z",
+   "path": "photos/793920.jpg"
+  },
+  "793921": {
+   "source": "https://rf-images-prod-bcdn.rentfaster.ca/793921/slide_19089018.v.ad977814ead2fc2bb0e9bcd4d9e97ea7.jpg",
+   "sha256": "127ba8bc4378972ab00fd1de3495e5f68ea2e47c7cf091e55966f2b0a6a9840c",
+   "width": 600,
+   "height": 406,
+   "copied": "2026-11-08T17:02Z",
+   "path": "photos/793921.jpg"
+  },
+  "797341": {
+   "source": "https://rf-images-prod-bcdn.rentfaster.ca/797341/slide_19218612.v.a1e8109d2ba88ffb3dd7f455fa731c38.jpg",
+   "sha256": "1b74007ca962bf20cbaa08a64ba639d42906c1bd906c9d1392c87f176dbfb9d9",
+   "width": 600,
+   "height": 450,
+   "copied": "2026-11-08T17:02Z",
+   "path": "photos/797341.jpg"
+  },
+  "797342": {
+   "source": "https://rf-images-prod-bcdn.rentfaster.ca/797342/slide_19218634.v.6e236194a20d32b93e6cf62404b43e6f.jpg",
+   "sha256": "41e2220032235e8858ed214eb94ea3e3e25024ad1cf827b6b6e112cd16b7a170",
+   "width": 600,
+   "height": 450,
+   "copied": "2026-11-08T17:01Z",
+   "path": "photos/797342.jpg"
+  },
+  "797884": {
+   "source": "https://rf-images-prod-bcdn.rentfaster.ca/797884/slide_19246369.v.595782e94527519ef12e92647faa59df.jpg",
+   "sha256": "b3273e27e6ecf360e32dcfdbed9cafde4e4a6c717d41cef12e21a4406ca139a5",
+   "width": 450,
+   "height": 600,
+   "copied": "2026-11-08T17:02Z",
+   "path": "photos/797884.jpg"
+  },
+  "800331": {
+   "source": "https://rf-images-prod-bcdn.rentfaster.ca/800331/slide_19358889.v.a8534a3963bf05b771da96aafef3d4ec.jpg",
+   "sha256": "033910aead5688ee46d9104bd688d914c807f6ce973386b33afc1bfef0cefb3a",
+   "width": 600,
+   "height": 400,
+   "copied": "2026-11-08T17:02Z",
+   "path": "photos/800331.jpg"
+  },
+  "800370": {
+   "source": "https://rf-images-prod-bcdn.rentfaster.ca/800370/slide_19358920.v.9187b519183c1141177bcc8fbe5e31a1.jpg",
+   "sha256": "d9ddd29231e042b9902e24b9ff63ba9bdaed1ffeee29ec4d92eb5aea1e6cbe37",
+   "width": 450,
+   "height": 600,
+   "copied": "2026-11-08T17:02Z",
+   "path": "photos/800370.jpg"
+  }
  }
 }
