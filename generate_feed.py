@@ -9,17 +9,35 @@ Usage:
 
 Output:
     rentch_tenant_turner_full_feed.xml
+    photos/<RentFaster id>.jpg   web-size copy of each ad's first photo (Rentch OS uses these; Aaron, Nov 8 2026)
+    photos/index.json            the build time, and RentFaster id -> photo path (+ which RentFaster photo it was made from).
+                                 Rentch OS reads this; the feed file above stays exactly as Tenant Turner knows it.
 """
 
+import hashlib
+import io
+import json
+import os
 import requests
 import time
 import re
+from datetime import datetime, timezone
+from PIL import Image, ImageOps
 import xml.etree.ElementTree as ET
 from xml.dom import minidom
 
 # ─── CONFIG ────────────────────────────────────────────────────────────────────
 RENTFASTER_USER_ID = "358564"
 OUTPUT_FILE = "rentch_tenant_turner_full_feed.xml"
+
+# First photo per ad (Aaron, Nov 8 2026): Rentch OS takes ad photos from these copies, never from RentFaster itself.
+# Web size only: max 2048 px on the long side, JPEG ~85%, camera data (EXIF/GPS) removed. Replaced only when the ad's first
+# photo changes; removed when the ad leaves the feed (only after a complete fetch, so a RentFaster hiccup never empties it).
+PHOTO_DIR = "photos"
+PHOTO_INDEX = os.path.join(PHOTO_DIR, "index.json")
+PHOTO_MAX_PX = 2048
+PHOTO_QUALITY = 85
+FETCH_COMPLETE = True   # set to False when a search page fails
 
 # Tenant Turner base URL — slugs are auto-generated from street address.
 # If a property uses a custom slug, add it here:
@@ -117,6 +135,8 @@ def fetch_rentfaster_listings(user_id: str) -> list:
             response.raise_for_status()
             data = response.json()
         except Exception as e:
+            global FETCH_COMPLETE
+            FETCH_COMPLETE = False
             print(f"  Error on page {page}: {e}")
             break
 
@@ -279,6 +299,70 @@ def get_appliances(rf: dict) -> list:
     return rf.get("features", [])
 
 
+# ─── FIRST PHOTO (web-size copy for Rentch OS) ─────────────────────────────────
+
+def load_photo_index() -> dict:
+    """RentFaster id -> {path, source, ...} (the "photos" part of photos/index.json)."""
+    try:
+        with open(PHOTO_INDEX, encoding="utf-8") as f:
+            data = json.load(f)
+    except (FileNotFoundError, ValueError):
+        return {}
+    if isinstance(data.get("photos"), dict):
+        return data["photos"]
+    return {k: v for k, v in data.items() if re.fullmatch(r"\d+", k) and isinstance(v, dict)}   # the first layout (Nov 8)
+
+
+def web_size(data: bytes) -> tuple:
+    """Original photo bytes -> (JPEG bytes, width, height): upright, max 2048 px, ~85%, no camera data."""
+    im = Image.open(io.BytesIO(data))
+    im = ImageOps.exif_transpose(im)
+    im = im.convert("RGB")
+    im.thumbnail((PHOTO_MAX_PX, PHOTO_MAX_PX))
+    out = io.BytesIO()
+    im.save(out, "JPEG", quality=PHOTO_QUALITY, optimize=True)   # no exif= -> camera data is not written
+    return out.getvalue(), im.width, im.height
+
+
+def sync_first_photo(listing_id: str, url: str, index: dict, headers: dict):
+    """photos/<id>.jpg for this ad's first photo: kept when the first photo is the same, made again when it changed.
+    Returns the path for the feed, or None when there is no copy."""
+    path = f"{PHOTO_DIR}/{listing_id}.jpg"
+    have = os.path.exists(path)
+    if not url:
+        return path if have else None
+    if have and index.get(listing_id, {}).get("source") == url:
+        return path
+    try:
+        r = requests.get(url, headers=headers, timeout=20)
+        r.raise_for_status()
+        data, w, h = web_size(r.content)
+    except Exception as e:
+        print(f"    First photo for {listing_id} not copied: {e}")
+        return path if have else None
+    os.makedirs(PHOTO_DIR, exist_ok=True)
+    with open(path, "wb") as f:
+        f.write(data)
+    index[listing_id] = {"path": path, "source": url, "sha256": hashlib.sha256(data).hexdigest(), "width": w, "height": h,
+                         "copied": datetime.now(timezone.utc).strftime("%Y-%m-%dT%H:%MZ")}
+    print(f"    First photo for {listing_id}: {'replaced' if have else 'copied'} ({w}x{h}, {len(data) // 1024} KB)")
+    return path
+
+
+def prune_photos(keep_ids: set, index: dict) -> None:
+    """Remove the copies of ads that left the feed."""
+    if not os.path.isdir(PHOTO_DIR):
+        return
+    for name in sorted(os.listdir(PHOTO_DIR)):
+        m = re.fullmatch(r"(\d+)\.jpg", name)
+        if m and m.group(1) not in keep_ids:
+            os.remove(os.path.join(PHOTO_DIR, name))
+            index.pop(m.group(1), None)
+            print(f"  Removed {PHOTO_DIR}/{name} (the ad left the feed)")
+    for k in [k for k in index if k not in keep_ids]:
+        index.pop(k, None)
+
+
 # ─── XML BUILDER ───────────────────────────────────────────────────────────────
 
 def sub(parent, tag, text=None):
@@ -288,7 +372,7 @@ def sub(parent, tag, text=None):
     return el
 
 
-def build_listing_element(rf_search: dict, rf_detail: dict) -> ET.Element:
+def build_listing_element(rf_search: dict, rf_detail: dict, photo_index: dict = None, headers: dict = None) -> ET.Element:
     """Build a <Listing> XML element from search + detail data."""
 
     listing = ET.Element("Listing")
@@ -355,6 +439,10 @@ def build_listing_element(rf_search: dict, rf_detail: dict) -> ET.Element:
             sub(pic, "PictureUrl", url)
             sub(pic, "Caption", caption)
 
+    # ── Rentch OS: the web-size copy of the first photo, listed in photos/index.json (never in this feed) ──
+    if photo_index is not None:
+        sync_first_photo(listing_id, photos[0][0] if photos else "", photo_index, headers or {})
+
     # ── RichDetails ──
     rich = sub(listing, "RichDetails")
 
@@ -381,6 +469,8 @@ def build_xml(search_listings: list) -> str:
     root = ET.Element("Listings")
     headers = {"User-Agent": "Mozilla/5.0 (compatible; RentchFeedGenerator/1.0)"}
     skipped = 0
+    photo_index = load_photo_index()
+    ids = set()
 
     for rf_search in search_listings:
         listing_id = str(rf_search.get("ref_id", rf_search.get("id", "")))
@@ -395,14 +485,30 @@ def build_xml(search_listings: list) -> str:
             print(f"    Applied manual overrides for listing {listing_id}")
 
         try:
-            listing_el = build_listing_element(rf_search, rf_detail)
+            listing_el = build_listing_element(rf_search, rf_detail, photo_index, headers)
             root.append(listing_el)
+            ids.add(listing_id)
         except Exception as e:
             print(f"  Skipping listing {listing_id}: {e}")
             skipped += 1
 
     if skipped:
         print(f"  ({skipped} listings skipped due to errors)")
+
+    # copies of ads that left the feed go — only after a complete fetch with nothing skipped
+    if FETCH_COMPLETE and not skipped:
+        prune_photos(ids, photo_index)
+    else:
+        print("  Fetch incomplete: no photo removed this time.")
+    # photos/index.json: the build time (so it changes on every run: Rentch OS judges freshness by when GitHub last updated it)
+    # and RentFaster id -> photo path. Only ids in this feed are listed.
+    for k, v in photo_index.items():
+        v.setdefault("path", f"{PHOTO_DIR}/{k}.jpg")
+    os.makedirs(PHOTO_DIR, exist_ok=True)
+    with open(PHOTO_INDEX, "w", encoding="utf-8") as f:
+        json.dump({"built": datetime.now(timezone.utc).strftime("%Y-%m-%dT%H:%M:%SZ"), "feed": OUTPUT_FILE,
+                   "photos": dict(sorted((k, v) for k, v in photo_index.items() if k in ids))}, f, indent=1)
+        f.write("\n")
 
     raw = ET.tostring(root, encoding="unicode")
     dom = minidom.parseString(raw)
