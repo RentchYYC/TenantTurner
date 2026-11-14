@@ -1,0 +1,25 @@
+name: Probe (Rentch OS) - description and first photo, field names only
+
+# Lives ONLY on the probe-description branch and runs only on a push to it. It never runs on main, never writes or commits
+# anything (read-only token), and never touches rentch_tenant_turner_full_feed.xml or photos/. TenantTurner reads nothing here.
+on:
+  push:
+    branches: [probe-description]
+
+permissions:
+  contents: read
+
+jobs:
+  probe:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout this branch
+        uses: actions/checkout@v4.2.2
+      - name: Set up Python
+        uses: actions/setup-python@v5.6.0
+        with:
+          python-version: "3.11"
+      - name: Install requests
+        run: pip install requests
+      - name: Probe (prints field names and HTTP status codes only)
+        run: python probe/probe_description.py
