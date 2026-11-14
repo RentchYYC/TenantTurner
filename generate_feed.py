@@ -418,7 +418,9 @@ def build_listing_element(rf_search: dict, rf_detail: dict, photo_index: dict = 
     sub(basic, "PropertyType", map_property_type(rf_search.get("type", "Apartment")))
 
     title = rf_detail.get("title") or rf_search.get("title", address)
-    description = rf_detail.get("intro") or rf_detail.get("desc") or ""
+    # Nov 14 2026 (Rentch OS probe): listing.json answers 404 for every listing, so the detail is empty; the search result
+    # carries the same "intro" text
+    description = rf_detail.get("intro") or rf_detail.get("desc") or rf_search.get("intro") or ""
     if description.strip() == address.strip():
         description = ""
 

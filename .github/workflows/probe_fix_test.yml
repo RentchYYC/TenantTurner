@@ -1,0 +1,34 @@
+name: Test (Rentch OS) - the description fix, into a TEST file only
+
+# Lives ONLY on the probe-description branch and runs only on a push to it that changes the fix or this test. Read-only token: it
+# commits nothing. It writes ONE file inside the runner, probe/test_feed_with_description.xml (TenantTurner never reads it), keeps
+# it as this run's downloadable attachment, and compares it with the real feed. It never writes rentch_tenant_turner_full_feed.xml
+# or photos/, and never calls the listing.json address that answers 404.
+on:
+  push:
+    branches: [probe-description]
+    paths: [generate_feed.py, probe/test_description_fix.py, .github/workflows/probe_fix_test.yml]
+
+permissions:
+  contents: read
+
+jobs:
+  test:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout this branch
+        uses: actions/checkout@v4.2.2
+      - name: Set up Python
+        uses: actions/setup-python@v5.6.0
+        with:
+          python-version: "3.11"
+      - name: Install dependencies (as the daily job)
+        run: pip install requests pillow==11.0.0
+      - name: Build the TEST feed with the fix and compare it with the real feed
+        run: python probe/test_description_fix.py
+      - name: Keep the TEST file as this run's attachment (not committed)
+        uses: actions/upload-artifact@v4.6.2
+        with:
+          name: test_feed_with_description
+          path: probe/test_feed_with_description.xml
+          retention-days: 7

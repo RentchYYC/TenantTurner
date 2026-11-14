@@ -5,6 +5,7 @@ name: Probe (Rentch OS) - description and first photo, field names only
 on:
   push:
     branches: [probe-description]
+    paths: [probe/probe_description.py, .github/workflows/probe_description.yml]
 
 permissions:
   contents: read
