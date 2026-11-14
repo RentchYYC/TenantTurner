@@ -17,6 +17,12 @@ TEST_FILE = "probe/test_feed_with_description.xml"
 assert TEST_FILE != g.OUTPUT_FILE
 
 listings = g.fetch_rentfaster_listings(g.RENTFASTER_USER_ID)
+# the search result's "intro", counted only (never printed): empty / the same as the address / real text
+k = {"empty": 0, "same as the address": 0, "other text": 0}
+for x in listings:
+    t, adr = str(x.get("intro") or "").strip(), str(x.get("address") or "").strip()
+    k["empty" if not t else "same as the address" if t == adr else "other text"] += 1
+print(f"search.json 'intro' per listing: {k}")
 root = ET.Element("Listings")
 for rf_search in listings:
     lid = str(rf_search.get("ref_id", rf_search.get("id", "")))
@@ -45,9 +51,20 @@ for tree, acc in ((test, t_tags), (real, r_tags)):
             acc[e.tag] = acc.get(e.tag, 0) + 1
 print("Tags whose count differs between the TEST file and the real feed:",
       {k: (r_tags.get(k, 0), t_tags.get(k, 0)) for k in sorted(set(t_tags) | set(r_tags)) if t_tags.get(k, 0) != r_tags.get(k, 0)} or "none")
+def by_listing(tree):
+    out = {}
+    for l in tree.getroot():
+        lid = next((e.text.strip() for e in l.iter() if e.tag == "ProviderListingId" and e.text), None)
+        if lid:
+            out[lid] = {(e.tag, i): (e.text or "").strip() for i, e in enumerate(l.iter())}
+    return out
+
+
+tb, rb = by_listing(test), by_listing(real)
+print(f"Listings in both: {len(set(tb) & set(rb))} (only in the TEST file: {len(set(tb) - set(rb))}, only in the real feed: {len(set(rb) - set(tb))})")
 changed = {}
-for tl, rl in zip(test.getroot(), real.getroot()):
-    for te, re_ in zip(tl.iter(), rl.iter()):
-        if te.tag == re_.tag and (te.text or "").strip() != (re_.text or "").strip():
-            changed[te.tag] = changed.get(te.tag, 0) + 1
-print("Tags whose TEXT differs (listing by listing, same order):", changed or "none")
+for lid in set(tb) & set(rb):
+    for key, v in tb[lid].items():
+        if rb[lid].get(key) is not None and rb[lid][key] != v:
+            changed[key[0]] = changed.get(key[0], 0) + 1
+print("Tags whose TEXT differs, same listing (counts only):", changed or "none")
