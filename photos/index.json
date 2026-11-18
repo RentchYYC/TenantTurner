@@ -1,5 +1,5 @@
 {
- "built": "2026-11-17T20:05:44Z",
+ "built": "2026-11-18T19:39:08Z",
  "feed": "rentch_tenant_turner_full_feed.xml",
  "photos": {
   "598485": {
@@ -18,6 +18,14 @@
    "copied": "2026-11-08T17:02Z",
    "path": "photos/598487.jpg"
   },
+  "603341": {
+   "path": "photos/603341.jpg",
+   "source": "https://rf-images-prod-bcdn.rentfaster.ca/603341/slide_15572963.v.1cd4a55e7e916e56075cebd3360fc98b.jpg",
+   "sha256": "9ce7f91d1c4c2a19fba32021474a568eb6f010aa81f1b9b1233be447cdb13350",
+   "width": 600,
+   "height": 400,
+   "copied": "2026-11-18T19:39Z"
+  },
   "607636": {
    "source": "https://rf-images-prod-bcdn.rentfaster.ca/607636/slide_12386763.v.36b95ed877125a43f03f606530cb1719.jpg",
    "sha256": "5d4dbc97348464aca214d925eeb814a27e293127de7e66f281d8aa59107162dc",
@@ -25,6 +33,14 @@
    "height": 400,
    "copied": "2026-11-08T17:01Z",
    "path": "photos/607636.jpg"
+  },
+  "629688": {
+   "path": "photos/629688.jpg",
+   "source": "https://rf-images-prod-bcdn.rentfaster.ca/629688/slide_19527284.v.2a56cf9755b82728fe70fa3ea8f9e6ec.jpg",
+   "sha256": "33131493b05f751c7411155bc3a7e86f45c9cde21bd2b74310f390f2408da988",
+   "width": 600,
+   "height": 400,
+   "copied": "2026-11-18T19:39Z"
   },
   "631598": {
    "source": "https://rf-images-prod-bcdn.rentfaster.ca/631598/slide_19081195.v.38db1714e1d1cb8ff7f782657a05ab41.jpg",
@@ -147,12 +163,12 @@
    "path": "photos/797341.jpg"
   },
   "797342": {
-   "source": "https://rf-images-prod-bcdn.rentfaster.ca/797342/slide_19218634.v.6e236194a20d32b93e6cf62404b43e6f.jpg",
-   "sha256": "41e2220032235e8858ed214eb94ea3e3e25024ad1cf827b6b6e112cd16b7a170",
+   "path": "photos/797342.jpg",
+   "source": "https://rf-images-prod-bcdn.rentfaster.ca/797342/slide_19218642.v.1b826d91399b8916aaafb9714c1d8e87.jpg",
+   "sha256": "781e1f3f06c5baf0a2162ac384f74d041a882edc0d1277864e13be2dc47f66a8",
    "width": 600,
-   "height": 450,
-   "copied": "2026-11-08T17:01Z",
-   "path": "photos/797342.jpg"
+   "height": 400,
+   "copied": "2026-11-18T19:38Z"
   },
   "800331": {
    "source": "https://rf-images-prod-bcdn.rentfaster.ca/800331/slide_19358889.v.a8534a3963bf05b771da96aafef3d4ec.jpg",
@@ -163,12 +179,28 @@
    "path": "photos/800331.jpg"
   },
   "800370": {
-   "source": "https://rf-images-prod-bcdn.rentfaster.ca/800370/slide_19358920.v.9187b519183c1141177bcc8fbe5e31a1.jpg",
-   "sha256": "d9ddd29231e042b9902e24b9ff63ba9bdaed1ffeee29ec4d92eb5aea1e6cbe37",
-   "width": 450,
-   "height": 600,
-   "copied": "2026-11-08T17:02Z",
-   "path": "photos/800370.jpg"
+   "path": "photos/800370.jpg",
+   "source": "https://rf-images-prod-bcdn.rentfaster.ca/800370/slide_19358922.v.c1f0553d771fc268fcdb832bd385d147.jpg",
+   "sha256": "97cf18d1987f4244126c421780b708823b5ccafa1a7a8d9a2db80adf479f6839",
+   "width": 600,
+   "height": 449,
+   "copied": "2026-11-18T19:39Z"
+  },
+  "804926": {
+   "path": "photos/804926.jpg",
+   "source": "https://rf-images-prod-bcdn.rentfaster.ca/804926/slide_19534614.v.51768603006e1039032347fa4a78e470.jpg",
+   "sha256": "078a91885aed1b82305050588d60bfceee36e0b9f85e8ff9f13a19c27525a3e6",
+   "width": 600,
+   "height": 450,
+   "copied": "2026-11-18T19:38Z"
+  },
+  "804950": {
+   "path": "photos/804950.jpg",
+   "source": "https://rf-images-prod-bcdn.rentfaster.ca/804950/slide_19534628.v.97b125c23fc3ec400e81ba01d2e25d84.jpg",
+   "sha256": "26e779de0cff0f9e85202a386d678dbf95cde09fd42a352a7c5df142a6044dae",
+   "width": 600,
+   "height": 450,
+   "copied": "2026-11-18T19:39Z"
   }
  }
 }
