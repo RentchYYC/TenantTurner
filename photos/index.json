@@ -1,5 +1,5 @@
 {
- "built": "2026-11-24T21:35:24Z",
+ "built": "2026-11-25T20:44:02Z",
  "feed": "rentch_tenant_turner_full_feed.xml",
  "photos": {
   "598485": {
@@ -97,6 +97,14 @@
    "width": 600,
    "height": 450,
    "copied": "2026-11-21T18:18Z"
+  },
+  "736774": {
+   "path": "photos/736774.jpg",
+   "source": "https://rf-images-prod-bcdn.rentfaster.ca/736774/slide_18955658.v.d6ce45efdc3f989cdf0b7c720ff2ac61.jpg",
+   "sha256": "5d9d9fb61ddc75f72bb7c89fd83647fabe80bbf5ad1063c979e6ee48091ba62e",
+   "width": 450,
+   "height": 600,
+   "copied": "2026-11-25T20:43Z"
   },
   "738281": {
    "source": "https://rf-images-prod-bcdn.rentfaster.ca/738281/slide_19363340.v.c769feb78d7d9259b1ac45f5ff485101.jpg",
